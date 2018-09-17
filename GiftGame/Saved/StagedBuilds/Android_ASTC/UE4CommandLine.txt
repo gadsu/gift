@@ -1,0 +1,1 @@
+../../../GiftGame/GiftGame.uproject  /Game/Levels/MainMenu/MainMenu -Messaging -SessionId=4285618D48F2ADFC0EE66C90E6089873 -SessionOwner="DSU" -SessionName="Launch On Device" -iterative
