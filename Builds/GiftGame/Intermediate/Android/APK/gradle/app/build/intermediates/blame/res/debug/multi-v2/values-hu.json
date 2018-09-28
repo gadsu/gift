@@ -4,24 +4,7 @@
             "outputFile": "Z:\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hu\\values-hu.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\User\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-11.8.0.aar\\c078cb28fbc53dfd97d57a2e357eea88\\res\\values-hu\\values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "283",
-                        "endColumns": "235",
-                        "endOffsets": "518"
-                    },
-                    "to": {
-                        "startLines": "10",
-                        "startColumns": "4",
-                        "startOffsets": "1343",
-                        "endColumns": "235",
-                        "endOffsets": "1574"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\User\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\f4fe6079cbf28dd7d8c15711929b8422\\res\\values-hu\\values.xml",
+                    "source": "C:\\Users\\Phenrear\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\819344bc5e7c071dd8386692ff34cd8d\\res\\values-hu\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -38,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\User\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-ads-11.8.0.aar\\a9c4aec2a322d633ec1ad0abace7be58\\res\\values-hu\\values.xml",
+                    "source": "C:\\Users\\Phenrear\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-ads-11.8.0.aar\\ec7424ac387f011fae22d5f1adddd39f\\res\\values-hu\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10",
                         "startColumns": "0,0,0,0,0,0,0",
@@ -55,7 +38,24 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\User\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-gcm-11.8.0.aar\\a434c90c6f958ce714d0bd7b9e0a5c3f\\res\\values-hu\\values.xml",
+                    "source": "C:\\Users\\Phenrear\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-11.8.0.aar\\608e695c79001d900b3036d02e05aef7\\res\\values-hu\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "283",
+                        "endColumns": "235",
+                        "endOffsets": "518"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "1343",
+                        "endColumns": "235",
+                        "endOffsets": "1574"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Phenrear\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-gcm-11.8.0.aar\\164de941af2a06ae579102f0794c22d4\\res\\values-hu\\values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",

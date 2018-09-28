@@ -35,7 +35,7 @@
         <action android:name="com.android.vending.INSTALL_REFERRER" />
       </intent-filter>
     </receiver>
-    <meta-data android:name="android.max_aspect" android:value="2.10" />
+    <meta-data android:name="android.max_aspect" android:value="4240701.00" />
   </application>
   <!-- Requirements -->
   <uses-sdk android:minSdkVersion="14" android:targetSdkVersion="14" />

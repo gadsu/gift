@@ -4,7 +4,7 @@
             "outputFile": "Z:\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\User\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-11.8.0.aar\\c078cb28fbc53dfd97d57a2e357eea88\\res\\values\\values.xml",
+                    "source": "C:\\Users\\Phenrear\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-11.8.0.aar\\608e695c79001d900b3036d02e05aef7\\res\\values\\values.xml",
                     "from": {
                         "startLines": "4,7",
                         "startColumns": "0,0",
@@ -21,24 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\User\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-ads-11.8.0.aar\\a9c4aec2a322d633ec1ad0abace7be58\\res\\values\\values.xml",
-                    "from": {
-                        "startLines": "4,5,6,7,8,9,10",
-                        "startColumns": "0,0,0,0,0,0,0",
-                        "startOffsets": "170,208,281,315,350,399,463",
-                        "endColumns": "37,72,33,34,48,63,34",
-                        "endOffsets": "207,280,314,349,398,462,497"
-                    },
-                    "to": {
-                        "startLines": "59,60,61,62,63,64,65",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "4445,4487,4564,4602,4641,4694,4762",
-                        "endColumns": "41,76,37,38,52,67,38",
-                        "endOffsets": "4482,4559,4597,4636,4689,4757,4796"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\User\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-gcm-11.8.0.aar\\a434c90c6f958ce714d0bd7b9e0a5c3f\\res\\values\\values.xml",
+                    "source": "C:\\Users\\Phenrear\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-gcm-11.8.0.aar\\164de941af2a06ae579102f0794c22d4\\res\\values\\values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -52,6 +35,23 @@
                         "startOffsets": "4148",
                         "endColumns": "81",
                         "endOffsets": "4225"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Phenrear\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\819344bc5e7c071dd8386692ff34cd8d\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30",
+                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
+                        "startOffsets": "215,301,377,463,549,625,702,778,951,1052,1233,1354,1457,1637,1756,1868,1967,2155,2256,2437,2558,2733,2877,2936,2994",
+                        "endColumns": "85,75,85,85,75,76,75,75,100,180,120,102,179,118,111,98,187,100,180,120,174,143,58,57,74",
+                        "endOffsets": "300,376,462,548,624,701,777,853,1051,1232,1353,1456,1636,1755,1867,1966,2154,2255,2436,2557,2732,2876,2935,2993,3068"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,37,38,39,40,41,42,43,44,46,47,48,49,50,51,52,53,54",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,195,275,365,455,535,616,696,1815,1920,2101,2226,2333,2513,2636,2752,3022,3210,3315,3496,3621,3796,3944,4007,4069",
+                        "endColumns": "89,79,89,89,79,80,79,79,104,180,124,106,179,122,115,102,187,104,180,124,174,147,62,61,78",
+                        "endOffsets": "190,270,360,450,530,611,691,771,1915,2096,2221,2328,2508,2631,2747,2850,3205,3310,3491,3616,3791,3939,4002,4064,4143"
                     }
                 },
                 {
@@ -72,22 +72,20 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\User\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-ads-lite-11.8.0.aar\\61ef836548513d0008379604cf1b033d\\res\\values\\values.xml",
+                    "source": "C:\\Users\\Phenrear\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-ads-11.8.0.aar\\ec7424ac387f011fae22d5f1adddd39f\\res\\values\\values.xml",
                     "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "167",
-                        "endLines": "11",
-                        "endColumns": "8",
-                        "endOffsets": "560"
+                        "startLines": "4,5,6,7,8,9,10",
+                        "startColumns": "0,0,0,0,0,0,0",
+                        "startOffsets": "170,208,281,315,350,399,463",
+                        "endColumns": "37,72,33,34,48,63,34",
+                        "endOffsets": "207,280,314,349,398,462,497"
                     },
                     "to": {
-                        "startLines": "114",
-                        "startColumns": "4",
-                        "startOffsets": "8285",
-                        "endLines": "121",
-                        "endColumns": "8",
-                        "endOffsets": "8678"
+                        "startLines": "59,60,61,62,63,64,65",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "4445,4487,4564,4602,4641,4694,4762",
+                        "endColumns": "41,76,37,38,52,67,38",
+                        "endOffsets": "4482,4559,4597,4636,4689,4757,4796"
                     }
                 },
                 {
@@ -110,20 +108,22 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\User\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\f4fe6079cbf28dd7d8c15711929b8422\\res\\values\\values.xml",
+                    "source": "C:\\Users\\Phenrear\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-ads-lite-11.8.0.aar\\16f96f38364879e472bb6e007505165e\\res\\values\\values.xml",
                     "from": {
-                        "startLines": "4,5,6,7,8,9,10,11,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30",
-                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
-                        "startOffsets": "215,301,377,463,549,625,702,778,951,1052,1233,1354,1457,1637,1756,1868,1967,2155,2256,2437,2558,2733,2877,2936,2994",
-                        "endColumns": "85,75,85,85,75,76,75,75,100,180,120,102,179,118,111,98,187,100,180,120,174,143,58,57,74",
-                        "endOffsets": "300,376,462,548,624,701,777,853,1051,1232,1353,1456,1636,1755,1867,1966,2154,2255,2436,2557,2732,2876,2935,2993,3068"
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "167",
+                        "endLines": "11",
+                        "endColumns": "8",
+                        "endOffsets": "560"
                     },
                     "to": {
-                        "startLines": "2,3,4,5,6,7,8,9,37,38,39,40,41,42,43,44,46,47,48,49,50,51,52,53,54",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,195,275,365,455,535,616,696,1815,1920,2101,2226,2333,2513,2636,2752,3022,3210,3315,3496,3621,3796,3944,4007,4069",
-                        "endColumns": "89,79,89,89,79,80,79,79,104,180,124,106,179,122,115,102,187,104,180,124,174,147,62,61,78",
-                        "endOffsets": "190,270,360,450,530,611,691,771,1915,2096,2221,2328,2508,2631,2747,2850,3205,3310,3491,3616,3791,3939,4002,4064,4143"
+                        "startLines": "114",
+                        "startColumns": "4",
+                        "startOffsets": "8285",
+                        "endLines": "121",
+                        "endColumns": "8",
+                        "endOffsets": "8678"
                     }
                 },
                 {

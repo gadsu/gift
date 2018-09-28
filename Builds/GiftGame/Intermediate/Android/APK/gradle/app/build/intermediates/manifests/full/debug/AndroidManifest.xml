@@ -127,7 +127,7 @@
 
         <meta-data
             android:name="android.max_aspect"
-            android:value="2.10" />
+            android:value="4240701.00" />
 
         <activity
             android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
