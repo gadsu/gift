@@ -1,156 +1,143 @@
---------- beginning of system
-09-28 09:10:46.831   926  1978 I ActivityManager: START u0 {flg=0x10000000 cmp=com.YourCompany.GiftGame/com.epicgames.ue4.SplashActivity} from uid 2000
 --------- beginning of main
-09-28 09:10:46.849   666   666 D QCOM PowerHAL: LAUNCH HINT: ON
-09-28 09:10:46.851   666   666 D QCOM PowerHAL: Activity launch hint handled
-09-28 09:10:46.860   926   926 V SettingsProvider: Notifying for 0: content://settings/system/screen_brightness
-09-28 09:10:46.891 10294 18998 I PBSessionCacheImpl: Deleted sessionId[45275028813702995] from persistence.
-09-28 09:10:46.892   926  1244 I ActivityManager: Config changes=20000480 {1.0 311mcc480mnc [en_US] ldltr sw411dp w683dp h387dp 420dpi nrml land night finger -keyb/v/h -nav/h winConfig={ mBounds=Rect(0, 0 - 0, 0) mAppBounds=Rect(0, 0 - 1794, 1080) mWindowingMode=fullscreen mActivityType=undefined} s.43}
-09-28 09:10:46.902   926  1244 I ActivityManager: Override config changes=20000480 {1.0 311mcc480mnc [en_US] ldltr sw411dp w683dp h387dp 420dpi nrml land night finger -keyb/v/h -nav/h winConfig={ mBounds=Rect(0, 0 - 1794, 1080) mAppBounds=Rect(0, 0 - 1794, 1080) mWindowingMode=fullscreen mActivityType=undefined} s.43} for displayId=0
-09-28 09:10:46.920   926  1294 I InputReader: Reconfiguring input devices.  changes=0x00000004
-09-28 09:10:46.920   926  1294 I InputReader: Device reconfigured: id=6, name='synaptics_dsxv26', size 1080x1920, orientation 1, mode 1, display id 0
-09-28 09:10:46.955 17598 17598 D GeckoApplication: onConfigurationChanged: en_US, background: false
-09-28 09:10:46.955 17598 17598 D GeckoLocales: No selected locale. No correction needed.
-09-28 09:10:46.970   926  1294 I InputReader: Reconfiguring input devices.  changes=0x00000004
-09-28 09:10:46.971 10294 10294 W SearchServiceCore: Abort, client detached.
-09-28 09:10:46.971   926  1294 I InputReader: Reconfiguring input devices.  changes=0x00000004
-09-28 09:10:46.973   926   987 I ActivityManager: Start proc 19060:com.YourCompany.GiftGame/u0a288 for activity com.YourCompany.GiftGame/com.epicgames.ue4.SplashActivity
-09-28 09:10:46.994   926  1294 I InputReader: Reconfiguring input devices.  changes=0x00000004
-09-28 09:10:47.001 19060 19060 I ompany.GiftGam: Late-enabling -Xcheck:jni
-09-28 09:10:47.016  1462  1462 D StatusBar: disable<e i a s b h r c s > disable2<q i n >
-09-28 09:10:47.141 19060 19060 I ompany.GiftGam: The ClassLoaderContext is a special shared library.
-09-28 09:10:47.148  1462  1462 D StatusBar: disable<e i a s b h r c s > disable2<q i n >
-09-28 09:10:47.169  2413 16631 E NetworkScheduler: Invalid component specified.
-09-28 09:10:47.173   492  1792 W SurfaceFlinger: Attempting to destroy on removed layer: 8904613 AssistPreviewPanel#0
-09-28 09:10:47.178   492  1792 W SurfaceFlinger: Attempting to destroy on removed layer: eb3a17c DockedStackDivider#0
-09-28 09:10:47.332   926  1747 I ActivityManager: START u0 {flg=0x10000 cmp=com.YourCompany.GiftGame/com.epicgames.ue4.GameActivity (has extras)} from uid 10288
-09-28 09:10:47.335   666   666 D QCOM PowerHAL: LAUNCH HINT: ON
-09-28 09:10:47.396   926  1747 I WindowManager: Screen frozen for +529ms due to AppWindowToken{ebe6bb5 token=Token{6444bec ActivityRecord{ca73e9f u0 com.YourCompany.GiftGame/com.epicgames.ue4.SplashActivity t52}}}
-09-28 09:10:47.401   492   492 D SurfaceFlinger: duplicate layer name: changing BlackSurface to BlackSurface#1
-09-28 09:10:47.407 19060 19060 W ActivityThread: handleWindowVisibility: no activity for token android.os.BinderProxy@39c3c03
-09-28 09:10:47.445 19060 19060 W linker  : Warning: "/data/app/com.YourCompany.GiftGame-cOHCOw1EznG9beJBxTSb-g==/lib/arm/libOVRPlugin.so" has no DT_SONAME (will use libOVRPlugin.so instead) and will not work when the app moves to API level 23 or later (https://android.googlesource.com/platform/bionic/+/master/missing-soname-enforced-for-api-level-23) (allowing for now because this app's target API level is still 14)
-09-28 09:10:47.447 19060 19060 D OVRPlugin: JNI_OnLoad
-09-28 09:10:47.447 19060 19060 E libsigchain: Warning: Unexpected sigaction action found 0xf36e0765
-09-28 09:10:47.482 19060 19060 D UE4     : Used memory before allocating anything was 72.71MB
-09-28 09:10:47.489  2413  2426 I .gms.persisten: Background concurrent copying GC freed 322680(14MB) AllocSpace objects, 18(1000KB) LOS objects, 50% free, 14MB/29MB, paused 64us total 217.998ms
-09-28 09:10:47.722 19060 19060 D UE4     : In the JNI_OnLoad function
-09-28 09:10:47.723 19060 19060 D UE4     : [JNI] - Failed to determine if app purchasing is enabled!
-09-28 09:10:47.724 19060 19060 D UE4     : Path found as '/storage/emulated/0'
-09-28 09:10:47.725 19060 19060 D UE4     : Font Path found as '/system/fonts/'
-09-28 09:10:47.725 19060 19060 D UE4     : In the JNI_OnLoad function 5
-09-28 09:10:47.739 19060 19060 V threaded_app: Creating: 0xefb1db60
-09-28 09:10:47.739 19060 19084 V threaded_app: Config: mcc=311 mnc=480 lang=en cnt=US orien=2 touch=3 dens=420 keys=1 nav=1 keysHid=3 navHid=0 sdk=28 size=2 long=1 modetype=1 modenight=2
-09-28 09:10:47.739 19060 19084 D UE4     : Entering native app glue main function
-09-28 09:10:47.739 19060 19084 D UE4     : Created event thread
-09-28 09:10:47.739 19060 19084 D UE4     : Entered AndroidMain()
-09-28 09:10:47.740 19060 19085 D UE4     : Entering event processing thread engine entry point
-09-28 09:10:47.740 19060 19085 D UE4     : Prepared looper for event thread
-09-28 09:10:47.740 19060 19085 D UE4     : Passed callback initialization
-09-28 09:10:47.740 19060 19085 D UE4     : Passed sensor initialization
-09-28 09:10:47.741 19060 19084 D UE4     : Controller interface supported
-09-28 09:10:47.750 19060 19060 D OpenGLRenderer: Skia GL Pipeline
-09-28 09:10:47.772 19060 19060 D PermissionFragment: Creating PlayGamesFragment
-09-28 09:10:47.775   926  1747 I ActivityManager: START u0 {act=android.content.pm.action.REQUEST_PERMISSIONS pkg=com.google.android.packageinstaller cmp=com.google.android.packageinstaller/com.android.packageinstaller.permission.ui.GrantPermissionsActivity (has extras)} from uid 10288
-09-28 09:10:47.779   666   666 D QCOM PowerHAL: LAUNCH HINT: ON
-09-28 09:10:47.787 19060 19060 D UE4     : Vulkan version: 1.1.0
-09-28 09:10:47.787 19060 19060 D UE4     : Vulkan level: 0
-09-28 09:10:47.789 19060 19060 D UE4     : Found DepthBufferPreference = 0
-09-28 09:10:47.789 19060 19060 D UE4     : Found bPackageDataInsideApk = 0
-09-28 09:10:47.789 19060 19060 D UE4     : Found ProjectName = GiftGame
-09-28 09:10:47.789 19060 19060 D UE4     : Found AppType = 
-09-28 09:10:47.789 19060 19060 D UE4     : Found bHasOBBFiles = 0
-09-28 09:10:47.789 19060 19060 D UE4     : Found bVerifyOBBOnStartUp = false
-09-28 09:10:47.789 19060 19060 D UE4     : UI hiding set to false
-09-28 09:10:47.789 19060 19060 D UE4     : BuildConfiguration set to Development
-09-28 09:10:47.789 19060 19060 D UE4     : UseExternalFilesDir set to false
-09-28 09:10:47.790 19060 19060 D UE4     : AllowIMU set to true
-09-28 09:10:47.790 19060 19060 D UE4     : No GearVR mode detected.
-09-28 09:10:47.790 19060 19060 D UE4     : APK path: /data/app/com.YourCompany.GiftGame-cOHCOw1EznG9beJBxTSb-g==/base.apk
-09-28 09:10:47.790 19060 19060 D UE4     : OBB in APK: false
-09-28 09:10:47.792 19060 19060 D UE4     : InternalFilePath found as '/data/user/0/com.YourCompany.GiftGame/files'
-09-28 09:10:47.792 19060 19060 D UE4     : ExternalFilePath found as '/storage/emulated/0/Android/data/com.YourCompany.GiftGame/files'
-09-28 09:10:47.792 19060 19060 D UE4     : App is running in Landscape
-09-28 09:10:47.792 19060 19060 D UE4     : Android version is 9
-09-28 09:10:47.792 19060 19060 D UE4     : Android manufacturer is Google
-09-28 09:10:47.792 19060 19060 D UE4     : Android model is Pixel
-09-28 09:10:47.792 19060 19060 D UE4     : OS language is set to en_US
-09-28 09:10:47.792 19060 19060 D UE4     : Debugger attached is false
-09-28 09:10:47.884 19060 19060 W PopupManager: You have not specified a View to use as content view for popups. Falling back to the Activity content view. Note that this may not work as expected in multi-screen environments
-09-28 09:10:47.904 19060 19060 D UE4     : ==============> GameActive.onCreate complete!
-09-28 09:10:47.909 19060 19060 V threaded_app: Start: 0xefb1db60
-09-28 09:10:47.909 19060 19085 V threaded_app: activityState=10
-09-28 09:10:47.909 19060 19085 D UE4     : LogAndroidEvents: EnqueueAppEvent : 9, 0, tid = 19085
-09-28 09:10:47.909 19060 19060 D UE4     : Creating console command broadcast listener
-09-28 09:10:47.911 19060 19060 D UE4     : ==================================> Inside onStart function in GameActivity
-09-28 09:10:47.912 19060 19060 V threaded_app: Resume: 0xefb1db60
-09-28 09:10:47.912 19060 19085 V threaded_app: activityState=11
-09-28 09:10:47.912 19060 19085 D UE4     : Case APP_CMD_RESUME
-09-28 09:10:47.912 19060 19085 D UE4     : LogAndroidEvents: EnqueueAppEvent : 7, 0, tid = 19085
-09-28 09:10:47.912 19060 19060 D UE4     : Registering sensor listeners
-09-28 09:10:47.922 19060 19060 D UE4     : App is running in Landscape
-09-28 09:10:47.923 19060 19060 D UE4     : ==============> Resuming main init
-09-28 09:10:47.925 19060 19084 D UE4     : APK Commandline: ../../../GiftGame/GiftGame.uproject  /Game/Levels/GiftGame/GiftGame -Messaging -SessionId=3882CF4B46B3C3111BDB989F94FA3B93 -SessionOwner="Phenrear" -SessionName="Launch On Device" -iterative
-09-28 09:10:47.925 19060 19084 D UE4     : Override Commandline: ../../../GiftGame/GiftGame.uproject  /Game/Levels/GiftGame/GiftGame -Messaging -SessionId=3882CF4B46B3C3111BDB989F94FA3B93 -SessionOwner="Phenrear" -SessionName="Launch On Device" -iterative
-09-28 09:10:47.925 19060 19084 D UE4     : Final commandline: ../../../GiftGame/GiftGame.uproject  /Game/Levels/GiftGame/GiftGame -Messaging -SessionId=3882CF4B46B3C3111BDB989F94FA3B93 -SessionOwner="Phenrear" -SessionName="Launch On Device" -iterative
-09-28 09:10:47.925 19060 19084 D UE4     : Created sync event
-09-28 09:10:47.933 19060 19060 D UE4     : ==============> GameActive.onResume complete!
-09-28 09:10:47.940 19060 19060 V threaded_app: InputQueueCreated: 0xefb1db60 -- 0xefb1df20
-09-28 09:10:47.940 19060 19085 V threaded_app: APP_CMD_INPUT_CHANGED
-09-28 09:10:47.940 19060 19085 V threaded_app: Attaching input queue to looper
-09-28 09:10:47.952 19060 19086 I Adreno  : QUALCOMM build                   : 984b9a6, Ibe1bf21abc
-09-28 09:10:47.952 19060 19086 I Adreno  : Build Date                       : 06/04/18
-09-28 09:10:47.952 19060 19086 I Adreno  : OpenGL ES Shader Compiler Version: EV031.24.00.00
-09-28 09:10:47.952 19060 19086 I Adreno  : Local Branch                     : googldrp
-09-28 09:10:47.952 19060 19086 I Adreno  : Remote Branch                    : 
-09-28 09:10:47.952 19060 19086 I Adreno  : Remote Branch                    : 
-09-28 09:10:47.952 19060 19086 I Adreno  : Reconstruct Branch               : 
-09-28 09:10:47.952 19060 19086 I Adreno  : Build Config                     : S L 4.0.10 AArch32
-09-28 09:10:47.957 19060 19086 I Adreno  : PFP: 0x005ff110, ME: 0x005ff066
-09-28 09:10:47.962 19060 19086 I ConfigStore: android::hardware::configstore::V1_0::ISurfaceFlingerConfigs::hasWideColorDisplay retrieved: 0
-09-28 09:10:47.962 19060 19086 I ConfigStore: android::hardware::configstore::V1_0::ISurfaceFlingerConfigs::hasHDRDisplay retrieved: 0
-09-28 09:10:47.963 19060 19086 I OpenGLRenderer: Initialized EGL, version 1.4
-09-28 09:10:47.963 19060 19086 D OpenGLRenderer: Swap behavior 1
-09-28 09:10:47.978   492   492 D SurfaceFlinger: duplicate layer name: changing com.YourCompany.GiftGame/com.epicgames.ue4.GameActivity to com.YourCompany.GiftGame/com.epicgames.ue4.GameActivity#1
-09-28 09:10:48.001 19060 19060 V threaded_app: NativeWindowCreated: 0xefb1db60 -- 0xd6f2a808
-09-28 09:10:48.001 19060 19085 V threaded_app: APP_CMD_INIT_WINDOW
-09-28 09:10:48.001 19060 19085 D UE4     : Case APP_CMD_INIT_WINDOW
-09-28 09:10:48.001 19060 19085 D UE4     : LogAndroidEvents: EnqueueAppEvent : 0, 3606226952, tid = 19085
-09-28 09:10:48.005 19060 19060 V threaded_app: Pause: 0xefb1db60
-09-28 09:10:48.005 19060 19085 V threaded_app: activityState=13
-09-28 09:10:48.005 19060 19085 D UE4     : Case APP_CMD_PAUSE
-09-28 09:10:48.005 19060 19085 D UE4     : LogAndroidEvents: EnqueueAppEvent : 6, 0, tid = 19085
-09-28 09:10:48.005 19060 19060 D UE4     : Unregistering sensor listeners
-09-28 09:10:48.014 19060 19060 D UE4     : ==============> GameActive.onPause complete!
-09-28 09:10:48.016 18535 18535 W ActivityThread: handleWindowVisibility: no activity for token android.os.BinderProxy@90e8075
-09-28 09:10:48.080 19060 19060 V threaded_app: WindowFocusChanged: 0xefb1db60 -- 1
-09-28 09:10:48.080 19060 19085 D UE4     : LogAndroidEvents: EnqueueAppEvent : 11, 0, tid = 19085
-09-28 09:10:48.094 19060 19060 V threaded_app: Resume: 0xefb1db60
-09-28 09:10:48.094 19060 19085 V threaded_app: activityState=11
-09-28 09:10:48.095 19060 19085 D UE4     : Case APP_CMD_RESUME
-09-28 09:10:48.095 19060 19085 D UE4     : LogAndroidEvents: EnqueueAppEvent : 7, 0, tid = 19085
-09-28 09:10:48.095 19060 19060 D UE4     : Registering sensor listeners
-09-28 09:10:48.109 19060 19060 D UE4     : App is running in Landscape
-09-28 09:10:48.109 19060 19060 D UE4     : ==============> Resuming main init
-09-28 09:10:48.109 19060 19060 D UE4     : ==============> GameActive.onResume complete!
-09-28 09:10:48.132   666   666 D QCOM PowerHAL: LAUNCH HINT: OFF
-09-28 09:10:48.141 19060 19084 D UE4     : LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
-09-28 09:10:48.141 19060 19084 D UE4     : 
-09-28 09:10:48.145 19060 19084 D UE4     : EGL Extensions: 
-09-28 09:10:48.145 19060 19084 D UE4     : EGL_KHR_get_all_proc_addresses EGL_ANDROID_presentation_time EGL_KHR_swap_buffers_with_damage EGL_ANDROID_get_native_client_buffer EGL_ANDROID_front_buffer_auto_refresh EGL_ANDROID_get_frame_timestamps EGL_EXT_surface_SMPTE2086_metadata EGL_EXT_surface_CTA861_3_metadata EGL_KHR_image EGL_KHR_image_base EGL_EXT_image_gl_colorspace EGL_KHR_lock_surface EGL_KHR_gl_colorspace EGL_KHR_gl_texture_2D_image EGL_KHR_gl_texture_3D_image EGL_KHR_gl_texture_cubemap_image EGL_KHR_gl_renderbuffer_image EGL_KHR_reusable_sync EGL_KHR_fence_sync EGL_KHR_create_context EGL_KHR_surfaceless_context EGL_EXT_create_context_robustness EGL_ANDROID_image_native_buffer EGL_KHR_wait_sync EGL_ANDROID_recordable EGL_KHR_partial_update EGL_EXT_pixel_format_float EGL_KHR_create_context_no_error EGL_KHR_mutable_render_buffer EGL_EXT_yuv_surface EGL_EXT_protected_content EGL_IMG_context_priority EGL_KHR_no_config_context 
-09-28 09:10:48.148 19060 19084 D UE4     : FAndroidGPUInfo
-09-28 09:10:48.148 19060 19084 D UE4     : AndroidEGL::InitSurface 1, 1
-09-28 09:10:48.148 19060 19084 D UE4     : AndroidEGL::CreateEGLSurface() 0xcc7e4280
-09-28 09:10:48.148 19060 19084 D UE4     : AndroidEGL::CreateEGLSurface(1), auxSurface = eglCreatePbufferSurface(), 8x8
-09-28 09:10:48.150 19060 19084 D UE4     : Vulkan library detected, checking for available driver
-09-28 09:10:48.155 19060 19084 D vulkan  : searching for layers in '/data/app/com.YourCompany.GiftGame-cOHCOw1EznG9beJBxTSb-g==/lib/arm'
-09-28 09:10:48.155 19060 19084 D vulkan  : searching for layers in '/system/fake-libs'
-09-28 09:10:48.155 19060 19084 D vulkan  : searching for layers in '/data/app/com.YourCompany.GiftGame-cOHCOw1EznG9beJBxTSb-g==/base.apk!/lib/armeabi-v7a'
-09-28 09:10:48.157 19060 19084 I Adreno  : QUALCOMM build          : 984b9a6, Ibe1bf21abc
-09-28 09:10:48.157 19060 19084 I Adreno  : Build Date              : 06/04/18
-09-28 09:10:48.157 19060 19084 I Adreno  : Shader Compiler Version : EV031.24.00.00
-09-28 09:10:48.157 19060 19084 I Adreno  : Local Branch            : googldrp
-09-28 09:10:48.157 19060 19084 I Adreno  : Remote Branch           : 
-09-28 09:10:48.157 19060 19084 I Adreno  : Remote Branch           : 
-09-28 09:10:48.157 19060 19084 I Adreno  : Reconstruct Branch      : 
-09-28 09:10:48.157 19060 19084 I Adreno  : Build Config                     : S L 4.0.10 AArch32
-09-28 09:10:48.159 19060 19084 D UE4     : VulkanRHI is available, Vulkan capable device detected.
+10-01 18:08:51.570 18458 18488 I earchbox:searc: Background concurrent copying GC freed 66455(3MB) AllocSpace objects, 15(636KB) LOS objects, 49% free, 10MB/20MB, paused 640us total 265.796ms
+10-01 18:08:51.586   492   526 W SurfaceFlinger: Attempting to destroy on removed layer: 52fb8eb DockedStackDivider#0
+--------- beginning of system
+10-01 18:08:51.659   926  6637 I ActivityManager: START u0 {flg=0x10000000 cmp=com.YourCompany.GiftGame/com.epicgames.ue4.SplashActivity} from uid 2000
+10-01 18:08:51.687   666   666 D QCOM PowerHAL: LAUNCH HINT: ON
+10-01 18:08:51.689   666   666 D QCOM PowerHAL: Activity launch hint handled
+10-01 18:08:51.730 18458 18458 I PBSessionCacheImpl: Deleted sessionId[81180680936657040] from persistence.
+10-01 18:08:51.732   926   987 I ActivityManager: Start proc 21848:com.YourCompany.GiftGame/u0a290 for activity com.YourCompany.GiftGame/com.epicgames.ue4.SplashActivity
+10-01 18:08:51.741 21848 21848 I ompany.GiftGam: Late-enabling -Xcheck:jni
+10-01 18:08:51.761 18458 18458 W SearchServiceCore: Abort, client detached.
+10-01 18:08:51.834   492   492 D SurfaceFlinger: duplicate layer name: changing ScreenshotSurface to ScreenshotSurface#1
+10-01 18:08:51.853   926  2728 I ActivityManager: Config changes=20000480 {1.0 311mcc480mnc [en_US] ldltr sw411dp w683dp h387dp 420dpi nrml land night finger -keyb/v/h -nav/h winConfig={ mBounds=Rect(0, 0 - 1794, 1080) mAppBounds=Rect(0, 0 - 1794, 1080) mWindowingMode=fullscreen mActivityType=undefined} s.111}
+10-01 18:08:51.924   926  2728 I ActivityManager: Override config changes=20000480 {1.0 311mcc480mnc [en_US] ldltr sw411dp w683dp h387dp 420dpi nrml land night finger -keyb/v/h -nav/h winConfig={ mBounds=Rect(0, 0 - 1794, 1080) mAppBounds=Rect(0, 0 - 1794, 1080) mWindowingMode=fullscreen mActivityType=undefined} s.111} for displayId=0
+10-01 18:08:51.962 21319 21319 D GeckoApplication: onConfigurationChanged: en_US, background: false
+10-01 18:08:51.962 21319 21319 D GeckoLocales: No selected locale. No correction needed.
+10-01 18:08:51.963   926  2728 W ActivityManager: Slow operation: 136ms so far, now at attachApplicationLocked: after mServices.attachApplicationLocked
+10-01 18:08:51.984 21848 21848 I ompany.GiftGam: The ClassLoaderContext is a special shared library.
+10-01 18:08:52.000   926  1294 I InputReader: Reconfiguring input devices.  changes=0x00000004
+10-01 18:08:52.001   926  1294 I InputReader: Device reconfigured: id=6, name='synaptics_dsxv26', size 1080x1920, orientation 1, mode 1, display id 0
+10-01 18:08:52.002   926  1294 I InputReader: Reconfiguring input devices.  changes=0x00000004
+10-01 18:08:52.003   926  1294 I InputReader: Reconfiguring input devices.  changes=0x00000004
+10-01 18:08:52.020  1462  1462 D StatusBar: disable<e i a s b h r c s > disable2<q i n >
+10-01 18:08:52.198   926  1747 I ActivityManager: START u0 {flg=0x10000 cmp=com.YourCompany.GiftGame/com.epicgames.ue4.GameActivity (has extras)} from uid 10290
+10-01 18:08:52.202   666   666 D QCOM PowerHAL: LAUNCH HINT: ON
+10-01 18:08:52.214  1462  1462 D StatusBar: disable<e i a s b h r c s > disable2<q i n >
+10-01 18:08:52.243   492   526 W SurfaceFlinger: Attempting to destroy on removed layer: 3f8bc71 AssistPreviewPanel#0
+10-01 18:08:52.271   926  2728 I WindowManager: Screen frozen for +440ms due to AppWindowToken{95ae35c token=Token{184cdcf ActivityRecord{b60de2e u0 com.YourCompany.GiftGame/com.epicgames.ue4.SplashActivity t157}}}
+10-01 18:08:52.288 21848 21848 W ActivityThread: handleWindowVisibility: no activity for token android.os.BinderProxy@39c3c03
+10-01 18:08:52.322 21848 21848 W linker  : Warning: "/data/app/com.YourCompany.GiftGame-5U56xa017hlQ86ipJJK9fQ==/lib/arm/libOVRPlugin.so" has no DT_SONAME (will use libOVRPlugin.so instead) and will not work when the app moves to API level 23 or later (https://android.googlesource.com/platform/bionic/+/master/missing-soname-enforced-for-api-level-23) (allowing for now because this app's target API level is still 14)
+10-01 18:08:52.324 21848 21848 D OVRPlugin: JNI_OnLoad
+10-01 18:08:52.325 21848 21848 E libsigchain: Warning: Unexpected sigaction action found 0xf36e0765
+10-01 18:08:52.364 21848 21848 D UE4     : Used memory before allocating anything was 72.22MB
+10-01 18:08:52.525   673   775 I ThermalEngine: ACTION: CLUSTER - Setting CLUSTER[1] to 1900800
+10-01 18:08:52.536   673   770 I ThermalEngine: vs_get_temperature: read[0] tsens_tz_sensor15 54000 mC, weight[0] 1
+10-01 18:08:52.536   673   770 I ThermalEngine: vs_get_temperature: read[1] tsens_tz_sensor0 59000 mC, weight[1] -1
+10-01 18:08:52.630 21848 21848 D UE4     : In the JNI_OnLoad function
+10-01 18:08:52.631 21848 21848 D UE4     : [JNI] - Failed to determine if app purchasing is enabled!
+10-01 18:08:52.633 21848 21848 D UE4     : Path found as '/storage/emulated/0'
+10-01 18:08:52.633 21848 21848 D UE4     : Font Path found as '/system/fonts/'
+10-01 18:08:52.633 21848 21848 D UE4     : In the JNI_OnLoad function 5
+10-01 18:08:52.652 21848 21848 V threaded_app: Creating: 0xefb1db60
+10-01 18:08:52.652 21848 21868 V threaded_app: Config: mcc=311 mnc=480 lang=en cnt=US orien=2 touch=3 dens=420 keys=1 nav=1 keysHid=3 navHid=0 sdk=28 size=2 long=1 modetype=1 modenight=2
+10-01 18:08:52.652 21848 21868 D UE4     : Entering native app glue main function
+10-01 18:08:52.652 21848 21868 D UE4     : Created event thread
+10-01 18:08:52.653 21848 21868 D UE4     : Entered AndroidMain()
+10-01 18:08:52.653 21848 21869 D UE4     : Entering event processing thread engine entry point
+10-01 18:08:52.653 21848 21869 D UE4     : Prepared looper for event thread
+10-01 18:08:52.653 21848 21869 D UE4     : Passed callback initialization
+10-01 18:08:52.653 21848 21869 D UE4     : Passed sensor initialization
+10-01 18:08:52.654 21848 21868 D UE4     : Controller interface supported
+10-01 18:08:52.665 21848 21848 D OpenGLRenderer: Skia GL Pipeline
+10-01 18:08:52.687 21848 21848 D PermissionFragment: Creating PlayGamesFragment
+10-01 18:08:52.692   926  1747 I ActivityManager: START u0 {act=android.content.pm.action.REQUEST_PERMISSIONS pkg=com.google.android.packageinstaller cmp=com.google.android.packageinstaller/com.android.packageinstaller.permission.ui.GrantPermissionsActivity (has extras)} from uid 10290
+10-01 18:08:52.694   666   666 D QCOM PowerHAL: LAUNCH HINT: ON
+10-01 18:08:52.703 21848 21848 D UE4     : Vulkan version: 1.1.0
+10-01 18:08:52.704 21848 21848 D UE4     : Vulkan level: 0
+10-01 18:08:52.706 21848 21848 D UE4     : Found DepthBufferPreference = 0
+10-01 18:08:52.706 21848 21848 D UE4     : Found bPackageDataInsideApk = 0
+10-01 18:08:52.706 21848 21848 D UE4     : Found ProjectName = GiftGame
+10-01 18:08:52.706 21848 21848 D UE4     : Found AppType = 
+10-01 18:08:52.706 21848 21848 D UE4     : Found bHasOBBFiles = 0
+10-01 18:08:52.707 21848 21848 D UE4     : Found bVerifyOBBOnStartUp = false
+10-01 18:08:52.707 21848 21848 D UE4     : UI hiding set to false
+10-01 18:08:52.707 21848 21848 D UE4     : BuildConfiguration set to Development
+10-01 18:08:52.707 21848 21848 D UE4     : UseExternalFilesDir set to false
+10-01 18:08:52.707 21848 21848 D UE4     : AllowIMU set to true
+10-01 18:08:52.707 21848 21848 D UE4     : No GearVR mode detected.
+10-01 18:08:52.707 21848 21848 D UE4     : APK path: /data/app/com.YourCompany.GiftGame-5U56xa017hlQ86ipJJK9fQ==/base.apk
+10-01 18:08:52.707 21848 21848 D UE4     : OBB in APK: false
+10-01 18:08:52.710 21848 21848 D UE4     : InternalFilePath found as '/data/user/0/com.YourCompany.GiftGame/files'
+10-01 18:08:52.710 21848 21848 D UE4     : ExternalFilePath found as '/storage/emulated/0/Android/data/com.YourCompany.GiftGame/files'
+10-01 18:08:52.710 21848 21848 D UE4     : App is running in Landscape
+10-01 18:08:52.711 21848 21848 D UE4     : Android version is 9
+10-01 18:08:52.711 21848 21848 D UE4     : Android manufacturer is Google
+10-01 18:08:52.711 21848 21848 D UE4     : Android model is Pixel
+10-01 18:08:52.711 21848 21848 D UE4     : OS language is set to en_US
+10-01 18:08:52.711 21848 21848 D UE4     : Debugger attached is false
+10-01 18:08:52.814 21848 21848 W PopupManager: You have not specified a View to use as content view for popups. Falling back to the Activity content view. Note that this may not work as expected in multi-screen environments
+10-01 18:08:52.837 21848 21848 D UE4     : ==============> GameActive.onCreate complete!
+10-01 18:08:52.843 21848 21848 V threaded_app: Start: 0xefb1db60
+10-01 18:08:52.844 21848 21869 V threaded_app: activityState=10
+10-01 18:08:52.844 21848 21869 D UE4     : LogAndroidEvents: EnqueueAppEvent : 9, 0, tid = 21869
+10-01 18:08:52.844 21848 21848 D UE4     : Creating console command broadcast listener
+10-01 18:08:52.846 21848 21848 D UE4     : ==================================> Inside onStart function in GameActivity
+10-01 18:08:52.848 21848 21848 V threaded_app: Resume: 0xefb1db60
+10-01 18:08:52.848 21848 21869 V threaded_app: activityState=11
+10-01 18:08:52.848 21848 21869 D UE4     : Case APP_CMD_RESUME
+10-01 18:08:52.848 21848 21869 D UE4     : LogAndroidEvents: EnqueueAppEvent : 7, 0, tid = 21869
+10-01 18:08:52.848 21848 21848 D UE4     : Registering sensor listeners
+10-01 18:08:52.863 21848 21848 D UE4     : App is running in Landscape
+10-01 18:08:52.863 21848 21848 D UE4     : ==============> Resuming main init
+10-01 18:08:52.867 21848 21868 D UE4     : APK Commandline: ../../../GiftGame/GiftGame.uproject  /Game/Levels/GiftGame/GiftGame -Messaging -SessionId=3882CF4B46B3C3111BDB989F94FA3B93 -SessionOwner="Phenrear" -SessionName="Launch On Device" -iterative
+10-01 18:08:52.867 21848 21868 D UE4     : Override Commandline: ../../../GiftGame/GiftGame.uproject  /Game/Levels/GiftGame/GiftGame -Messaging -SessionId=FFCF835541137BFA1BF566ADF8547B30 -SessionOwner="Phenrear" -SessionName="Launch On Device" -iterative
+10-01 18:08:52.867 21848 21868 D UE4     : Final commandline: ../../../GiftGame/GiftGame.uproject  /Game/Levels/GiftGame/GiftGame -Messaging -SessionId=FFCF835541137BFA1BF566ADF8547B30 -SessionOwner="Phenrear" -SessionName="Launch On Device" -iterative
+10-01 18:08:52.867 21848 21868 D UE4     : Created sync event
+10-01 18:08:52.874 21848 21848 D UE4     : ==============> GameActive.onResume complete!
+10-01 18:08:52.883 21848 21848 V threaded_app: InputQueueCreated: 0xefb1db60 -- 0xefb1e1a0
+10-01 18:08:52.883 21848 21869 V threaded_app: APP_CMD_INPUT_CHANGED
+10-01 18:08:52.883 21848 21869 V threaded_app: Attaching input queue to looper
+10-01 18:08:52.901 21848 21870 I Adreno  : QUALCOMM build                   : 984b9a6, Ibe1bf21abc
+10-01 18:08:52.901 21848 21870 I Adreno  : Build Date                       : 06/04/18
+10-01 18:08:52.901 21848 21870 I Adreno  : OpenGL ES Shader Compiler Version: EV031.24.00.00
+10-01 18:08:52.901 21848 21870 I Adreno  : Local Branch                     : googldrp
+10-01 18:08:52.901 21848 21870 I Adreno  : Remote Branch                    : 
+10-01 18:08:52.901 21848 21870 I Adreno  : Remote Branch                    : 
+10-01 18:08:52.901 21848 21870 I Adreno  : Reconstruct Branch               : 
+10-01 18:08:52.901 21848 21870 I Adreno  : Build Config                     : S L 4.0.10 AArch32
+10-01 18:08:52.907 21848 21870 I Adreno  : PFP: 0x005ff110, ME: 0x005ff066
+10-01 18:08:52.911 21848 21870 I ConfigStore: android::hardware::configstore::V1_0::ISurfaceFlingerConfigs::hasWideColorDisplay retrieved: 0
+10-01 18:08:52.911 21848 21870 I ConfigStore: android::hardware::configstore::V1_0::ISurfaceFlingerConfigs::hasHDRDisplay retrieved: 0
+10-01 18:08:52.912 21848 21870 I OpenGLRenderer: Initialized EGL, version 1.4
+10-01 18:08:52.912 21848 21870 D OpenGLRenderer: Swap behavior 1
+10-01 18:08:52.929   492   492 D SurfaceFlinger: duplicate layer name: changing com.YourCompany.GiftGame/com.epicgames.ue4.GameActivity to com.YourCompany.GiftGame/com.epicgames.ue4.GameActivity#1
+10-01 18:08:52.956 21848 21848 V threaded_app: NativeWindowCreated: 0xefb1db60 -- 0xd53a4808
+10-01 18:08:52.956 21848 21869 V threaded_app: APP_CMD_INIT_WINDOW
+10-01 18:08:52.956 21848 21869 D UE4     : Case APP_CMD_INIT_WINDOW
+10-01 18:08:52.957 21848 21869 D UE4     : LogAndroidEvents: EnqueueAppEvent : 0, 3577366536, tid = 21869
+10-01 18:08:52.966 21848 21848 V threaded_app: Pause: 0xefb1db60
+10-01 18:08:52.966 21848 21869 V threaded_app: activityState=13
+10-01 18:08:52.966 21848 21869 D UE4     : Case APP_CMD_PAUSE
+10-01 18:08:52.966 21848 21869 D UE4     : LogAndroidEvents: EnqueueAppEvent : 6, 0, tid = 21869
+10-01 18:08:52.966 21848 21848 D UE4     : Unregistering sensor listeners
+10-01 18:08:52.974 21848 21848 D UE4     : ==============> GameActive.onPause complete!
+10-01 18:08:52.977 20961 20961 W ActivityThread: handleWindowVisibility: no activity for token android.os.BinderProxy@9e3492d
+10-01 18:08:53.065 21848 21848 V threaded_app: WindowFocusChanged: 0xefb1db60 -- 1
+10-01 18:08:53.066 21848 21869 D UE4     : LogAndroidEvents: EnqueueAppEvent : 11, 0, tid = 21869
+10-01 18:08:53.084 21848 21848 V threaded_app: Resume: 0xefb1db60
+10-01 18:08:53.084 21848 21869 V threaded_app: activityState=11
+10-01 18:08:53.084 21848 21869 D UE4     : Case APP_CMD_RESUME
+10-01 18:08:53.084 21848 21869 D UE4     : LogAndroidEvents: EnqueueAppEvent : 7, 0, tid = 21869
+10-01 18:08:53.084 21848 21848 D UE4     : Registering sensor listeners
+10-01 18:08:53.101 21848 21848 D UE4     : App is running in Landscape
+10-01 18:08:53.101 21848 21848 D UE4     : ==============> Resuming main init
+10-01 18:08:53.101 21848 21848 D UE4     : ==============> GameActive.onResume complete!
+10-01 18:08:53.134   666   666 D QCOM PowerHAL: LAUNCH HINT: OFF
+10-01 18:08:53.152 21848 21868 D UE4     : LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+10-01 18:08:53.152 21848 21868 D UE4     : 
+10-01 18:08:53.156 21848 21868 D UE4     : EGL Extensions: 
+10-01 18:08:53.156 21848 21868 D UE4     : EGL_KHR_get_all_proc_addresses EGL_ANDROID_presentation_time EGL_KHR_swap_buffers_with_damage EGL_ANDROID_get_native_client_buffer EGL_ANDROID_front_buffer_auto_refresh EGL_ANDROID_get_frame_timestamps EGL_EXT_surface_SMPTE2086_metadata EGL_EXT_surface_CTA861_3_metadata EGL_KHR_image EGL_KHR_image_base EGL_EXT_image_gl_colorspace EGL_KHR_lock_surface EGL_KHR_gl_colorspace EGL_KHR_gl_texture_2D_image EGL_KHR_gl_texture_3D_image EGL_KHR_gl_texture_cubemap_image EGL_KHR_gl_renderbuffer_image EGL_KHR_reusable_sync EGL_KHR_fence_sync EGL_KHR_create_context EGL_KHR_surfaceless_context EGL_EXT_create_context_robustness EGL_ANDROID_image_native_buffer EGL_KHR_wait_sync EGL_ANDROID_recordable EGL_KHR_partial_update EGL_EXT_pixel_format_float EGL_KHR_create_context_no_error EGL_KHR_mutable_render_buffer EGL_EXT_yuv_surface EGL_EXT_protected_content EGL_IMG_context_priority EGL_KHR_no_config_context 
+10-01 18:08:53.160 21848 21868 D UE4     : FAndroidGPUInfo
+10-01 18:08:53.160 21848 21868 D UE4     : AndroidEGL::InitSurface 1, 1
+10-01 18:08:53.161 21848 21868 D UE4     : AndroidEGL::CreateEGLSurface() 0xcc8b54c0
