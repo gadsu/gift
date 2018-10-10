@@ -1,8 +1,6 @@
-﻿Log file open, 10/09/18 17:32:49
+﻿Log file open, 10/09/18 17:17:11
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
-LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
-LogWindows: File 'VSPerf140.dll' does not exist
 LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
 LogWindows: File 'VtuneApi.dll' does not exist
 LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
@@ -10,7 +8,7 @@ LogWindows: File 'VtuneApi32e.dll' does not exist
 LogInit: Display: Running engine for game: GiftGame
 LogPlatformFile: Not using cached read wrapper
 LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
-LogStats: Stats thread started at 0.279389
+LogStats: Stats thread started at 0.302520
 LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
 LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
 LogPluginManager: Mounting plugin Paper2D
@@ -93,7 +91,7 @@ LogPluginManager: Mounting plugin ProceduralMeshComponent
 LogPluginManager: Mounting plugin RuntimePhysXCooking
 LogPluginManager: Mounting plugin SteamVR
 LogPluginManager: Mounting plugin WindowsMoviePlayer
-LogStreaming: Display: Took  0.146s to configure plugins.
+LogStreaming: Display: Took  0.056s to configure plugins.
 LogInit: Using libcurl 7.55.1-DEV
 LogInit:  - built for x86_64-pc-win32
 LogInit:  - supports SSL with OpenSSL/1.0.2h
@@ -113,6 +111,7 @@ LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured
 LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
 LogInit:  - LocalHostAddr = Default
 LogInit:  - BufferSize = 65536
+LogModuleManager: Warning: ModuleManager: Unable to load module 'OnlineSubsystemLAN'  - 0 instances of that module name found.
 LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
 LogInit: Build: ++UE4+Release-4.20-CL-4302132
 LogInit: Engine Version: 4.20.2-4302132+++UE4+Release-4.20
@@ -123,8 +122,8 @@ LogInit: Compiled (64-bit): Aug 21 2018 02:06:06
 LogInit: Compiled with Visual C++: 19.13.26129.00
 LogInit: Build Configuration: Development
 LogInit: Branch Name: ++UE4+Release-4.20
-LogInit: Command Line: -EpicPortal 
-LogInit: Base Directory: D:/UnrealEngine/UE_4.20/Engine/Binaries/Win64/
+LogInit: Command Line:  /Game/Levels/GiftGame/GiftGame -game -PIEVIACONSOLE -ResX=1280 -ResY=720  -Multiprocess -messaging -SessionName="Play in Standalone Game" -windowed 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
 LogInit: Installed Engine Build: 1
 LogDevObjectVersion: Number of dev versions registered: 20
 LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
@@ -150,245 +149,49 @@ LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
 LogStreaming: Display: Took  0.001s to delete old logs.
 LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
 LogInit: Object subsystem initialized
-[2018.10.09-22.32.50:241][  0]LogInit: Selected Device Profile: [Windows]
-[2018.10.09-22.32.50:241][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
-[2018.10.09-22.32.50:255][  0]LogHAL: Display: Platform has ~ 16 GB [17059098624 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
-[2018.10.09-22.32.50:255][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
-[2018.10.09-22.32.50:255][  0]LogInit: Going up to parent DeviceProfile []
-[2018.10.09-22.32.50:255][  0]LogInit: Computer: LAPTOP-6Q0OAJ5F
-[2018.10.09-22.32.50:255][  0]LogInit: User: tstot
-[2018.10.09-22.32.50:255][  0]LogInit: CPU Page size=4096, Cores=4
-[2018.10.09-22.32.50:255][  0]LogInit: High frequency timer resolution =2.742184 MHz
-[2018.10.09-22.32.50:256][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
-[2018.10.09-22.32.50:256][  0]LogMemory: Platform Memory Stats for Windows
-[2018.10.09-22.32.50:256][  0]LogMemory: Process Physical Memory: 99.63 MB used, 99.63 MB peak
-[2018.10.09-22.32.50:256][  0]LogMemory: Process Virtual Memory: 91.01 MB used, 91.01 MB peak
-[2018.10.09-22.32.50:256][  0]LogMemory: Physical Memory: 7049.30 MB used,  9219.52 MB free, 16268.82 MB total
-[2018.10.09-22.32.50:256][  0]LogMemory: Virtual Memory: 4644.98 MB used,  9219.52 MB free, 134217728.00 MB total
-[2018.10.09-22.32.50:274][  0]LogInit: Using OS detected language (en-US).
-[2018.10.09-22.32.50:274][  0]LogInit: Using OS detected locale (en-US).
-[2018.10.09-22.32.50:274][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
-[2018.10.09-22.32.50:665][  0]LogStreaming: Display: Took  0.392s to InitEngineTextLocalization.
-[2018.10.09-22.32.50:665][  0]LogInit: Setting process to per monitor DPI aware
-[2018.10.09-22.32.50:689][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
-[2018.10.09-22.32.50:689][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
-[2018.10.09-22.32.50:996][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2018.10.09-22.32.50:996][  0]LogD3D11RHI: D3D11 adapters:
-[2018.10.09-22.32.51:053][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050 Ti' (Feature Level 11_0)
-[2018.10.09-22.32.51:053][  0]LogD3D11RHI:       4021/0/8134 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
-[2018.10.09-22.32.51:062][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
-[2018.10.09-22.32.51:062][  0]LogD3D11RHI:       128/0/8134 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
-[2018.10.09-22.32.51:064][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
-[2018.10.09-22.32.51:064][  0]LogD3D11RHI:       0/0/8134 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
-[2018.10.09-22.32.51:064][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
-[2018.10.09-22.32.51:085][  0]LogD3D11RHI: Creating new Direct3DDevice
-[2018.10.09-22.32.51:085][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8c (for the marketing name, search the web for "GPU Device Id")
-[2018.10.09-22.32.51:085][  0]LogWindows: EnumDisplayDevices:
-[2018.10.09-22.32.51:085][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
-[2018.10.09-22.32.51:085][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
-[2018.10.09-22.32.51:085][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
-[2018.10.09-22.32.51:086][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
-[2018.10.09-22.32.51:086][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050 Ti
-[2018.10.09-22.32.51:086][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
-[2018.10.09-22.32.51:086][  0]LogD3D11RHI:      Driver Date: Unknown
-[2018.10.09-22.32.51:086][  0]LogRHI: Texture pool is 2814 MB (70% of 4021 MB)
-[2018.10.09-22.32.51:124][  0]LogD3D11RHI: Async texture creation enabled
-[2018.10.09-22.32.51:142][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
-[2018.10.09-22.32.51:143][  0]LogShaderCompilers: Guid format shader working directory is -12 characters bigger than the processId version (C:/Users/tstot/OneDrive/Documents/Unreal Projects/GiftGame/Intermediate/Shaders/WorkingDirectory/3508/).
-[2018.10.09-22.32.51:143][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/tstot/AppData/Local/Temp/UnrealShaderWorkingDir/1585BB114EB769B3C68C428D371238DD/'.
-[2018.10.09-22.32.51:425][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
-[2018.10.09-22.32.51:439][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
-[2018.10.09-22.32.51:453][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
-[2018.10.09-22.32.51:467][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
-[2018.10.09-22.32.51:479][  0]LogTemp: Display: Loaded TP MacTargetPlatform
-[2018.10.09-22.32.51:492][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
-[2018.10.09-22.32.51:506][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
-[2018.10.09-22.32.51:519][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
-[2018.10.09-22.32.51:525][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
-[2018.10.09-22.32.51:602][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.10.09-22.32.51:602][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.10.09-22.32.51:602][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.10.09-22.32.51:602][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.10.09-22.32.51:602][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.10.09-22.32.51:602][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.10.09-22.32.51:602][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.10.09-22.32.51:602][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.10.09-22.32.51:602][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.10.09-22.32.51:602][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.10.09-22.32.51:602][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.10.09-22.32.51:602][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.10.09-22.32.51:602][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.10.09-22.32.51:602][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.10.09-22.32.51:602][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.10.09-22.32.51:602][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.10.09-22.32.51:602][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.10.09-22.32.51:602][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.10.09-22.32.51:603][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
-[2018.10.09-22.32.51:662][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
-[2018.10.09-22.32.51:662][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
-[2018.10.09-22.32.51:685][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
-[2018.10.09-22.32.51:685][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
-[2018.10.09-22.32.51:698][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
-[2018.10.09-22.32.51:710][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
-[2018.10.09-22.32.51:722][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
-[2018.10.09-22.32.51:735][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
-[2018.10.09-22.32.51:744][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
-[2018.10.09-22.32.51:744][  0]LogTargetPlatformManager: Display: Building Assets For Windows
-[2018.10.09-22.32.51:788][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
-[2018.10.09-22.32.51:789][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
-[2018.10.09-22.32.51:789][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
-[2018.10.09-22.32.52:488][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
-[2018.10.09-22.32.52:576][  0]LogDerivedDataCache: Loaded boot cache 0.09s 71MB C:/Users/tstot/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
-[2018.10.09-22.32.52:577][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/tstot/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
-[2018.10.09-22.32.52:577][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/tstot/OneDrive/Documents/Unreal Projects/GiftGame/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
-[2018.10.09-22.32.52:577][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
-[2018.10.09-22.32.52:577][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/tstot/OneDrive/Documents/Unreal Projects/GiftGame/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2018.10.09-22.32.52:577][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
-[2018.10.09-22.32.52:592][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
-[2018.10.09-22.32.52:604][  0]LogDerivedDataCache: Using Local data cache path C:/Users/tstot/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
-[2018.10.09-22.32.52:604][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
-[2018.10.09-22.32.52:604][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
-[2018.10.09-22.32.52:623][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
-[2018.10.09-22.32.52:624][  0]LogSlate: Using FreeType 2.6.0
-[2018.10.09-22.32.52:625][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2018.10.09-22.32.52:712][  0]LogAssetRegistry: FAssetRegistry took 0.0257 seconds to start up
-[2018.10.09-22.32.53:061][  0]LogInit: Selected Device Profile: [Windows]
-[2018.10.09-22.32.53:199][  0]LogSimplygon: Simplygon DLL not present - disabling.
-[2018.10.09-22.32.53:203][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
-[2018.10.09-22.32.53:203][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
-[2018.10.09-22.32.53:203][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
-[2018.10.09-22.32.53:203][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
-[2018.10.09-22.32.53:218][  0]LogNetVersion: GiftGame 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 3731779599)
-[2018.10.09-22.32.53:847][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.121415 seconds
-[2018.10.09-22.32.53:855][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
-[2018.10.09-22.32.53:855][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
-[2018.10.09-22.32.53:855][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
-[2018.10.09-22.32.54:879][  0]LogTcpMessaging: Initializing TcpMessaging bridge
-[2018.10.09-22.32.54:894][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
-[2018.10.09-22.32.55:044][  0]SourceControl: Source control is disabled
-[2018.10.09-22.32.55:044][  0]SourceControl: Source control is disabled
-[2018.10.09-22.32.55:046][  0]SourceControl: Source control is disabled
-[2018.10.09-22.32.55:047][  0]SourceControl: Source control is disabled
-[2018.10.09-22.32.55:214][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
-[2018.10.09-22.32.55:284][  0]LogOcInput: OculusInput pre-init called
-[2018.10.09-22.32.55:346][  0]LogEngine: Initializing Engine...
-[2018.10.09-22.32.55:347][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2018.10.09-22.32.55:348][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
-[2018.10.09-22.32.55:348][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
-[2018.10.09-22.32.55:348][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
-[2018.10.09-22.32.55:348][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
-[2018.10.09-22.32.55:595][  0]LogInit: Initializing FReadOnlyCVARCache
-[2018.10.09-22.32.55:604][  0]LogAIModule: Creating AISystem for world Untitled
-[2018.10.09-22.32.55:618][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2018.10.09-22.32.55:652][  0]LogInit: FAudioDevice initialized.
-[2018.10.09-22.32.55:652][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
-[2018.10.09-22.32.55:928][  0]LogDerivedDataCache: Saved boot cache 0.28s 71MB C:/Users/tstot/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
-[2018.10.09-22.32.55:933][  0]LogInit: Texture streaming: Enabled
-[2018.10.09-22.32.55:946][  0]LogEngineSessionManager: EngineSessionManager initialized
-[2018.10.09-22.32.55:956][  0]LogInit: Transaction tracking system initialized
-[2018.10.09-22.32.55:973][  0]BlueprintLog: New page: Editor Load
-[2018.10.09-22.32.56:030][  0]LocalizationService: Localization service is disabled
-[2018.10.09-22.32.56:315][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
-[2018.10.09-22.32.56:315][  0]LogCook: Display: Mobile HDR setting 1
-[2018.10.09-22.32.56:315][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
-[2018.10.09-22.32.56:315][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
-[2018.10.09-22.32.56:315][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
-[2018.10.09-22.32.56:315][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
-[2018.10.09-22.32.56:315][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
-[2018.10.09-22.32.56:431][  0]LogFileCache: Scanning file cache for directory 'C:/Users/tstot/OneDrive/Documents/Unreal Projects/GiftGame/Content/' took 0.01s
-[2018.10.09-22.32.56:431][  0]SourceControl: Source control is disabled
-[2018.10.09-22.32.56:431][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
-[2018.10.09-22.32.56:431][  0]LightingResults: New page: Lighting Build
-[2018.10.09-22.32.56:433][  0]MapCheck: New page: Map Check
-[2018.10.09-22.32.56:434][  0]LightingResults: New page: Lighting Build
-[2018.10.09-22.32.56:670][  0]LogAIModule: Creating AISystem for world Untitled_1
-[2018.10.09-22.32.56:679][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2018.10.09-22.32.56:705][  0]Cmd: MAP CHECKDEP NOCLEARLOG
-[2018.10.09-22.32.56:765][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 59.227ms to complete.
-[2018.10.09-22.32.56:765][  0]LogFileHelpers: Loading map 'Template_Default' took 0.333
-[2018.10.09-22.32.56:866][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.10.09-22.32.56:874][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.10.09-22.32.56:881][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.10.09-22.32.56:888][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.10.09-22.32.56:893][  0]LogCollectionManager: Loaded 0 collections in 0.001327 seconds
-[2018.10.09-22.32.56:933][  0]LogFileCache: Scanning file cache for directory 'C:/Users/tstot/OneDrive/Documents/Unreal Projects/GiftGame/Saved/Collections/' took 0.01s
-[2018.10.09-22.32.56:933][  0]LogFileCache: Scanning file cache for directory 'C:/Users/tstot/OneDrive/Documents/Unreal Projects/GiftGame/Content/Developers/tstot/Collections/' took 0.01s
-[2018.10.09-22.32.56:933][  0]LogFileCache: Scanning file cache for directory 'C:/Users/tstot/OneDrive/Documents/Unreal Projects/GiftGame/Content/Collections/' took 0.01s
-[2018.10.09-22.32.56:933][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
-[2018.10.09-22.32.56:943][  0]LogContentBrowser: Native class hierarchy populated in 0.0094 seconds. Added 2572 classes and 603 folders.
-[2018.10.09-22.32.56:947][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
-[2018.10.09-22.32.56:999][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
-[2018.10.09-22.32.57:003][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
-[2018.10.09-22.32.57:045][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
-[2018.10.09-22.32.57:045][  0]LogLoad: (Engine Initialization) Total time: 8.58 seconds
-[2018.10.09-22.32.57:045][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
-[2018.10.09-22.32.57:063][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
-[2018.10.09-22.32.57:083][  0]LogContentStreaming: Texture pool size now 1000 MB
-[2018.10.09-22.32.57:085][  0]LogSlate: Took 0.000234 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
-[2018.10.09-22.32.57:087][  0]LogSlate: Took 0.000144 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
-[2018.10.09-22.32.57:091][  0]LogSlate: Took 0.000282 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
-[2018.10.09-22.32.57:183][  0]LogSlate: Took 0.000194 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
-[2018.10.09-22.32.57:213][  1]LogRenderer: Reallocating scene render targets to support 804x360 Format 10 NumSamples 1 (Frame:1).
-[2018.10.09-22.32.57:213][  1]LogAssetRegistry: Asset discovery search completed in 4.5223 seconds
-[2018.10.09-22.32.57:215][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
-[2018.10.09-22.32.57:215][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000069 seconds (updated 0 objects)
-[2018.10.09-22.33.02:340][234]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.10.09-22.33.02:498][242]LogSlate: Took 0.000253 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
-[2018.10.09-22.33.02:661][242]LogAIModule: Creating AISystem for world MainMenu
-[2018.10.09-22.33.02:689][242]LogAssetEditorManager: Opening Asset editor for World /Game/Levels/MainMenu/MainMenu.MainMenu
-[2018.10.09-22.33.02:712][242]Cmd: MAP LOAD FILE="C:/Users/tstot/OneDrive/Documents/Unreal Projects/GiftGame/Content/Levels/MainMenu/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2018.10.09-22.33.02:712][242]LightingResults: New page: Lighting Build
-[2018.10.09-22.33.02:712][242]LoadErrors: New page: Loading map: MainMenu.umap
-[2018.10.09-22.33.02:713][242]MapCheck: New page: Map Check
-[2018.10.09-22.33.02:713][242]LightingResults: New page: Lighting Build
-[2018.10.09-22.33.02:748][242]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2018.10.09-22.33.02:796][242]Cmd: MAP CHECKDEP NOCLEARLOG
-[2018.10.09-22.33.02:849][242]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 52.943ms to complete.
-[2018.10.09-22.33.02:849][242]LogFileHelpers: Loading map 'MainMenu' took 0.138
-[2018.10.09-22.33.05:152][375]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:129).
-[2018.10.09-22.33.08:253][553]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Levels/MainMenu/MainMenuWidget.MainMenuWidget
-[2018.10.09-22.33.09:501][553]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 116 classes and 0 folders.
-[2018.10.09-22.33.11:009][553]LogSlate: Took 0.021941 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
-[2018.10.09-22.33.17:079][904]LogTemp: Repeating last play command: Selected Viewport
-[2018.10.09-22.33.17:115][904]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2018.10.09-22.33.17:159][904]PIE: New page: PIE session: MainMenu (Oct 9, 2018, 12:33:17 PM)
-[2018.10.09-22.33.17:159][904]LogPlayLevel: Creating play world package: /Game/Levels/MainMenu/UEDPIE_0_MainMenu
-[2018.10.09-22.33.17:162][904]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003073s)
-[2018.10.09-22.33.17:163][904]LogAIModule: Creating AISystem for world MainMenu
-[2018.10.09-22.33.17:163][904]LogPlayLevel: PIE: World Init took: (0.000918s)
-[2018.10.09-22.33.17:163][904]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenu/MainMenu.MainMenu to /Game/Levels/MainMenu/UEDPIE_0_MainMenu.MainMenu (0.004184s)
-[2018.10.09-22.33.17:196][904]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2018.10.09-22.33.17:223][904]LogInit: FAudioDevice initialized.
-[2018.10.09-22.33.17:281][904]LogLoad: Game class is 'MenuGameMode_C'
-[2018.10.09-22.33.17:283][904]LogWorld: Bringing World /Game/Levels/MainMenu/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2018.10.09-17.33.17
-[2018.10.09-22.33.17:283][904]LogWorld: Bringing up level for play took: 0.000372
-[2018.10.09-22.33.17:348][904]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 10 classes and 0 folders.
-[2018.10.09-22.33.17:372][904]PIE: Play in editor start time for /Game/Levels/MainMenu/UEDPIE_0_MainMenu 0.412
-[2018.10.09-22.33.19:490][ 27]LogNet: Browse: /Game/Levels/GiftGame/GiftGame
-[2018.10.09-22.33.19:490][ 27]LogLoad: LoadMap: /Game/Levels/GiftGame/GiftGame
-[2018.10.09-22.33.19:598][ 27]LogLinker: Warning: Can't find file '/Game/Levels/GiftGame/GiftGame_BuiltData'
-[2018.10.09-22.33.19:598][ 27]LogLinker: Warning: Can't find file for asset '/Game/Levels/GiftGame/GiftGame_BuiltData' while loading C:/Users/tstot/OneDrive/Documents/Unreal Projects/GiftGame/Content/Levels/GiftGame/GiftGame.umap.
-[2018.10.09-22.33.19:598][ 27]LoadErrors: Error: /Game/Levels/GiftGame/GiftGame : Can't find file for asset. /Game/Levels/GiftGame/GiftGame_BuiltData
-[2018.10.09-22.33.19:670][ 27]LogLinker: Warning: Can't find file '/Game/Levels/GiftGame/GiftGame_BuiltData'
-[2018.10.09-22.33.19:670][ 27]LogLinker: Warning: Can't find file for asset '/Game/Levels/GiftGame/GiftGame_BuiltData' while loading C:/Users/tstot/OneDrive/Documents/Unreal Projects/GiftGame/Content/Levels/GiftGame/GiftGame.umap.
-[2018.10.09-22.33.19:671][ 27]LogLinker: Warning: Can't find file '/Game/Levels/GiftGame/GiftGame_BuiltData'
-[2018.10.09-22.33.19:672][ 27]LogLinker: Warning: Can't find file for asset '/Game/Levels/GiftGame/GiftGame_BuiltData' while loading NULL.
-[2018.10.09-22.33.19:672][ 27]LogLinker: Warning: Can't find file '/Game/Levels/GiftGame/GiftGame_BuiltData'
-[2018.10.09-22.33.19:672][ 27]LogLinker: Warning: Can't find file for asset '/Game/Levels/GiftGame/GiftGame_BuiltData' while loading NULL.
-[2018.10.09-22.33.19:683][ 27]LogLinker: Warning: Can't find file '/Game/Levels/GiftGame/GiftGame_BuiltData'
-[2018.10.09-22.33.19:683][ 27]LoadErrors: Failed to load /Game/Levels/GiftGame/GiftGame_BuiltData.GiftGame_BuiltData Referenced by PersistentLevel
-[2018.10.09-22.33.19:683][ 27]LogLinker: Warning: Can't find file for asset '/Game/Levels/GiftGame/GiftGame_BuiltData' while loading NULL.
-[2018.10.09-22.33.20:373][ 27]LogAIModule: Creating AISystem for world GiftGame
-[2018.10.09-22.33.20:373][ 27]LogLoad: Game class is 'GameModeBase'
-[2018.10.09-22.33.20:375][ 27]LogWorld: Bringing World /Game/Levels/GiftGame/UEDPIE_0_GiftGame.GiftGame up for play (max tick rate 60) at 2018.10.09-17.33.20
-[2018.10.09-22.33.20:387][ 27]LogWorld: Bringing up level for play took: 0.012556
-[2018.10.09-22.33.20:387][ 27]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
-[2018.10.09-22.33.20:389][ 27]LogLoad: Took 0.899022 seconds to LoadMap(/Game/Levels/GiftGame/GiftGame)
-[2018.10.09-22.33.23:873][231]LogSlate: Window 'MainMenuWidget' being destroyed
-[2018.10.09-22.33.23:878][231]LogSlate: Window 'MainMenuWidget' being destroyed
-[2018.10.09-22.33.26:712][392]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.10.09-22.33.26:747][392]LogPlayLevel: Display: Shutting down PIE online subsystems
-[2018.10.09-22.33.26:775][392]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.10.09-22.33.26:821][395]LogPlayLevel: Display: Destroying online subsystem :Context_3
-[2018.10.09-22.34.14:466][368]LogSlate: Window 'Save Level As' being destroyed
-[2018.10.09-22.38.15:673][238]LogSlate: Window 'Save Level As' being destroyed
+[2018.10.09-22.17.11:575][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.09-22.17.11:575][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.10.09-22.17.11:580][  0]LogHAL: Display: Platform has ~ 16 GB [17065697280 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.10.09-22.17.11:580][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.10.09-22.17.11:580][  0]LogInit: Going up to parent DeviceProfile []
+[2018.10.09-22.17.11:580][  0]LogInit: Computer: RAZER-BLADE
+[2018.10.09-22.17.11:580][  0]LogInit: User: Phenrear
+[2018.10.09-22.17.11:580][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.10.09-22.17.11:580][  0]LogInit: High frequency timer resolution =2.742184 MHz
+[2018.10.09-22.17.11:580][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.10.09-22.17.11:580][  0]LogMemory: Platform Memory Stats for Windows
+[2018.10.09-22.17.11:581][  0]LogMemory: Process Physical Memory: 104.17 MB used, 104.17 MB peak
+[2018.10.09-22.17.11:581][  0]LogMemory: Process Virtual Memory: 89.59 MB used, 89.59 MB peak
+[2018.10.09-22.17.11:581][  0]LogMemory: Physical Memory: 4789.66 MB used,  11485.45 MB free, 16275.12 MB total
+[2018.10.09-22.17.11:581][  0]LogMemory: Virtual Memory: 4645.19 MB used,  11485.45 MB free, 134217728.00 MB total
+[2018.10.09-22.17.11:606][  0]LogInit: Using OS detected language (en-US).
+[2018.10.09-22.17.11:606][  0]LogInit: Using OS detected locale (en-US).
+[2018.10.09-22.17.11:607][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.10.09-22.17.12:030][  0]LogStreaming: Display: Took  0.424s to InitEngineTextLocalization.
+[2018.10.09-22.17.12:052][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.10.09-22.17.12:052][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.10.09-22.17.12:067][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.10.09-22.17.12:067][  0]LogD3D11RHI: D3D11 adapters:
+[2018.10.09-22.17.12:135][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2018.10.09-22.17.12:135][  0]LogD3D11RHI:       6052/0/8137 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.10.09-22.17.12:148][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2018.10.09-22.17.12:148][  0]LogD3D11RHI:       128/0/8137 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.10.09-22.17.12:152][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.10.09-22.17.12:152][  0]LogD3D11RHI:       0/0/8137 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.10.09-22.17.12:152][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.10.09-22.17.12:166][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.10.09-22.17.12:166][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2018.10.09-22.17.12:166][  0]LogWindows: EnumDisplayDevices:
+[2018.10.09-22.17.12:167][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2018.10.09-22.17.12:167][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.10.09-22.17.12:168][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.10.09-22.17.12:168][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:0 D:1)
+[2018.10.09-22.17.12:168][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2018.10.09-22.17.12:168][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2018.10.09-22.17.12:168][  0]LogD3D11RHI:   Driver Version: 416.16 (internal:25.21.14.1616, unified:416.16)
+[2018.10.09-22.17.12:168][  0]LogD3D11RHI:      Driver Date: 10-2-2018
+[2018.10.09-22.17.12:168][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2018.10.09-22.17.12:222][  0]LogD3D11RHI: Async texture creation enabled
+[2018.10.09-22.17.12:242][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.10.09-22.17.12:294][  0]LogShaderCompilers: Guid format shader working directory is -8 characters bigger than the processId version (../../../../../../Users/Phenrear/Desktop/Builds/GiftGame/Intermediate/Shaders/WorkingDirectory/10068/).
+[2018.10.09-22.17.12:294][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Phenrear/AppData/Local/Temp/UnrealShaderWorkingDir/5C17C6FA4A40BB2B14BE0CB92480F8B1/'.
