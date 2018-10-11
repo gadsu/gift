@@ -1,0 +1,1376 @@
+﻿Log file open, 10/10/18 17:44:07
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: GiftGame
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.304001
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.235s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogModuleManager: Warning: ModuleManager: Unable to load module 'OnlineSubsystemLAN'  - 0 instances of that module name found.
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4302132
+LogInit: Engine Version: 4.20.2-4302132+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Aug 21 2018 02:06:06
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.002s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.10.10-22.44.08:181][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.10-22.44.08:181][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.10.10-22.44.08:201][  0]LogHAL: Display: Platform has ~ 16 GB [17065697280 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.10.10-22.44.08:201][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.10.10-22.44.08:201][  0]LogInit: Going up to parent DeviceProfile []
+[2018.10.10-22.44.08:201][  0]LogInit: Computer: RAZER-BLADE
+[2018.10.10-22.44.08:201][  0]LogInit: User: Phenrear
+[2018.10.10-22.44.08:201][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.10.10-22.44.08:202][  0]LogInit: High frequency timer resolution =2.742184 MHz
+[2018.10.10-22.44.08:202][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.10.10-22.44.08:202][  0]LogMemory: Platform Memory Stats for Windows
+[2018.10.10-22.44.08:202][  0]LogMemory: Process Physical Memory: 103.30 MB used, 103.30 MB peak
+[2018.10.10-22.44.08:202][  0]LogMemory: Process Virtual Memory: 91.22 MB used, 91.22 MB peak
+[2018.10.10-22.44.08:202][  0]LogMemory: Physical Memory: 6938.51 MB used,  9336.61 MB free, 16275.12 MB total
+[2018.10.10-22.44.08:202][  0]LogMemory: Virtual Memory: 4645.75 MB used,  9336.61 MB free, 134217728.00 MB total
+[2018.10.10-22.44.08:224][  0]LogInit: Using OS detected language (en-US).
+[2018.10.10-22.44.08:224][  0]LogInit: Using OS detected locale (en-US).
+[2018.10.10-22.44.08:225][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.10.10-22.44.08:632][  0]LogStreaming: Display: Took  0.408s to InitEngineTextLocalization.
+[2018.10.10-22.44.08:632][  0]LogInit: Setting process to per monitor DPI aware
+[2018.10.10-22.44.08:679][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.10.10-22.44.08:679][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.10.10-22.44.08:936][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.10.10-22.44.08:936][  0]LogD3D11RHI: D3D11 adapters:
+[2018.10.10-22.44.09:024][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2018.10.10-22.44.09:024][  0]LogD3D11RHI:       6052/0/8137 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.10.10-22.44.09:033][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2018.10.10-22.44.09:033][  0]LogD3D11RHI:       128/0/8137 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.10.10-22.44.09:035][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.10.10-22.44.09:035][  0]LogD3D11RHI:       0/0/8137 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.10.10-22.44.09:035][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.10.10-22.44.09:050][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.10.10-22.44.09:050][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2018.10.10-22.44.09:050][  0]LogWindows: EnumDisplayDevices:
+[2018.10.10-22.44.09:050][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2018.10.10-22.44.09:050][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.10.10-22.44.09:051][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.10.10-22.44.09:051][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:0 D:1)
+[2018.10.10-22.44.09:051][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2018.10.10-22.44.09:051][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2018.10.10-22.44.09:051][  0]LogD3D11RHI:   Driver Version: 416.16 (internal:25.21.14.1616, unified:416.16)
+[2018.10.10-22.44.09:051][  0]LogD3D11RHI:      Driver Date: 10-2-2018
+[2018.10.10-22.44.09:051][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2018.10.10-22.44.09:093][  0]LogD3D11RHI: Async texture creation enabled
+[2018.10.10-22.44.09:111][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.10.10-22.44.09:164][  0]LogShaderCompilers: Guid format shader working directory is -22 characters bigger than the processId version (../../../../../../Users/Phenrear/Desktop/GiftGame/gift/Builds/GiftGame/Intermediate/Shaders/WorkingDirectory/21524/).
+[2018.10.10-22.44.09:164][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Phenrear/AppData/Local/Temp/UnrealShaderWorkingDir/29354B0A45F96DFDDEAAACA70BF359A5/'.
+[2018.10.10-22.44.09:436][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.10.10-22.44.09:457][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.10.10-22.44.09:475][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.10.10-22.44.09:489][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.10.10-22.44.09:509][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.10.10-22.44.09:524][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.10.10-22.44.09:540][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.10.10-22.44.09:556][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.10.10-22.44.09:566][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.10.10-22.44.09:654][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.10-22.44.09:654][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.10-22.44.09:654][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.10-22.44.09:654][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.10-22.44.09:654][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.10-22.44.09:654][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.10-22.44.09:654][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.10-22.44.09:654][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.10-22.44.09:654][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.10-22.44.09:654][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.10-22.44.09:654][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.10-22.44.09:654][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.10-22.44.09:654][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.10-22.44.09:654][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.10-22.44.09:654][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.10-22.44.09:654][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.10-22.44.09:654][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.10-22.44.09:654][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.10-22.44.09:656][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.10.10-22.44.09:721][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.10.10-22.44.09:721][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.10.10-22.44.09:744][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.10.10-22.44.09:744][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.10.10-22.44.09:757][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.10.10-22.44.09:770][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.10.10-22.44.09:781][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.10.10-22.44.09:795][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.10.10-22.44.09:806][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.10.10-22.44.09:806][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.10.10-22.44.09:867][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.10.10-22.44.09:867][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.10.10-22.44.09:867][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.10.10-22.44.10:623][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.10.10-22.44.10:674][  0]LogDerivedDataCache: Loaded boot cache 0.05s 71MB C:/Users/Phenrear/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.10.10-22.44.10:674][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Phenrear/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.10.10-22.44.10:674][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Phenrear/Desktop/GiftGame/gift/Builds/GiftGame/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.10.10-22.44.10:674][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.10.10-22.44.10:674][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Phenrear/Desktop/GiftGame/gift/Builds/GiftGame/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.10.10-22.44.10:674][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.10.10-22.44.10:687][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.10.10-22.44.10:704][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Phenrear/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.10.10-22.44.10:704][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.10.10-22.44.10:704][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.10.10-22.44.10:734][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.10.10-22.44.10:735][  0]LogSlate: Using FreeType 2.6.0
+[2018.10.10-22.44.10:736][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.10.10-22.44.10:813][  0]LogAssetRegistry: FAssetRegistry took 0.0259 seconds to start up
+[2018.10.10-22.44.11:138][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.10-22.44.11:272][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.10.10-22.44.11:275][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.10.10-22.44.11:275][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.10.10-22.44.11:275][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.10.10-22.44.11:275][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.10.10-22.44.11:295][  0]LogNetVersion: GiftGame 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 3731779599)
+[2018.10.10-22.44.12:026][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.302393 seconds
+[2018.10.10-22.44.12:032][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.10.10-22.44.12:032][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2018.10.10-22.44.12:032][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.10.10-22.44.12:947][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.10.10-22.44.12:959][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.10.10-22.44.13:115][  0]SourceControl: Source control is disabled
+[2018.10.10-22.44.13:115][  0]SourceControl: Source control is disabled
+[2018.10.10-22.44.13:116][  0]SourceControl: Source control is disabled
+[2018.10.10-22.44.13:117][  0]SourceControl: Source control is disabled
+[2018.10.10-22.44.13:286][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.10.10-22.44.13:404][  0]LogOcInput: OculusInput pre-init called
+[2018.10.10-22.44.13:467][  0]LogEngine: Initializing Engine...
+[2018.10.10-22.44.13:468][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.10.10-22.44.13:470][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.10.10-22.44.13:470][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.10-22.44.13:470][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.10.10-22.44.13:470][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.10-22.44.13:692][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.10.10-22.44.13:709][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.10.10-22.44.13:732][  0]LogInit: XAudio2 using 'Speakers (Razer Surround Audio Controller)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.10.10-22.44.13:747][  0]LogInit: FAudioDevice initialized.
+[2018.10.10-22.44.13:748][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.10.10-22.44.13:800][  0]LogDerivedDataCache: Saved boot cache 0.05s 71MB C:/Users/Phenrear/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.10.10-22.44.13:806][  0]LogInit: Texture streaming: Enabled
+[2018.10.10-22.44.13:826][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.10.10-22.44.13:843][  0]LogInit: Transaction tracking system initialized
+[2018.10.10-22.44.13:865][  0]BlueprintLog: New page: Editor Load
+[2018.10.10-22.44.13:947][  0]LocalizationService: Localization service is disabled
+[2018.10.10-22.44.14:485][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.10.10-22.44.14:485][  0]LogCook: Display: Mobile HDR setting 1
+[2018.10.10-22.44.14:485][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.10.10-22.44.14:485][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.10.10-22.44.14:485][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.10-22.44.14:485][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.10.10-22.44.14:485][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.10-22.44.14:631][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Phenrear/Desktop/GiftGame/gift/Builds/GiftGame/Content/' took 0.01s
+[2018.10.10-22.44.14:631][  0]SourceControl: Source control is disabled
+[2018.10.10-22.44.14:631][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.10.10-22.44.14:632][  0]LightingResults: New page: Lighting Build
+[2018.10.10-22.44.14:636][  0]MapCheck: New page: Map Check
+[2018.10.10-22.44.14:636][  0]LightingResults: New page: Lighting Build
+[2018.10.10-22.44.14:863][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2018.10.10-22.44.14:872][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.10.10-22.44.14:899][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.10.10-22.44.14:956][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 56.443ms to complete.
+[2018.10.10-22.44.14:956][  0]LogFileHelpers: Loading map 'Template_Default' took 0.324
+[2018.10.10-22.44.15:065][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.10-22.44.15:072][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.10-22.44.15:080][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.10-22.44.15:089][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.10-22.44.15:097][  0]LogCollectionManager: Loaded 0 collections in 0.002036 seconds
+[2018.10.10-22.44.15:139][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Phenrear/Desktop/GiftGame/gift/Builds/GiftGame/Saved/Collections/' took 0.01s
+[2018.10.10-22.44.15:139][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Phenrear/Desktop/GiftGame/gift/Builds/GiftGame/Content/Developers/Phenrear/Collections/' took 0.01s
+[2018.10.10-22.44.15:139][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Phenrear/Desktop/GiftGame/gift/Builds/GiftGame/Content/Collections/' took 0.01s
+[2018.10.10-22.44.15:139][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.10.10-22.44.15:150][  0]LogContentBrowser: Native class hierarchy populated in 0.0105 seconds. Added 2572 classes and 603 folders.
+[2018.10.10-22.44.15:157][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.10.10-22.44.15:231][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.10.10-22.44.15:237][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.10.10-22.44.15:261][  0]LogSlate: Took 0.000204 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.10.10-22.44.15:263][  0]LogSlate: Took 0.000248 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.10.10-22.44.15:270][  0]LogSlate: Took 0.000329 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.10.10-22.44.15:370][  0]LogRenderer: Reallocating scene render targets to support 1184x576 Format 10 NumSamples 1 (Frame:1).
+[2018.10.10-22.44.15:497][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.10.10-22.44.15:497][  0]LogLoad: (Engine Initialization) Total time: 9.30 seconds
+[2018.10.10-22.44.15:497][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.10.10-22.44.15:515][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.10-22.44.15:538][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.10.10-22.44.15:551][  0]LogSlate: Took 0.000206 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.10.10-22.44.15:568][  1]LogAssetRegistry: Asset discovery search completed in 4.7771 seconds
+[2018.10.10-22.44.15:570][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.10.10-22.44.15:570][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000060 seconds (updated 0 objects)
+[2018.10.10-22.44.26:939][676]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.10-22.44.33:597][ 75]LogSlate: Took 0.000180 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.10.10-22.44.33:612][ 75]LogLinker: Warning: Can't find file '/Game/Actors/Spectator'
+[2018.10.10-22.44.33:612][ 75]LogLinker: Warning: Can't find file for asset '/Game/Actors/Spectator' while loading ../../../../../../Users/Phenrear/Desktop/GiftGame/gift/Builds/GiftGame/Content/Levels/GiftGame/GiftGame.umap.
+[2018.10.10-22.44.33:612][ 75]LoadErrors: Error: /Game/Levels/GiftGame/GiftGame : Can't find file for asset. /Game/Actors/Spectator
+[2018.10.10-22.44.33:613][ 75]LogLinker: Warning: Can't find file '/Game/Actors/Spectator'
+[2018.10.10-22.44.33:613][ 75]LogLinker: Warning: Can't find file for asset '/Game/Actors/Spectator' while loading ../../../../../../Users/Phenrear/Desktop/GiftGame/gift/Builds/GiftGame/Content/Levels/GiftGame/GiftGame.umap.
+[2018.10.10-22.44.33:613][ 75]LogLinker: Warning: Can't find file '/Game/Actors/GiftBox'
+[2018.10.10-22.44.33:614][ 75]LogLinker: Warning: Can't find file for asset '/Game/Actors/GiftBox' while loading ../../../../../../Users/Phenrear/Desktop/GiftGame/gift/Builds/GiftGame/Content/Levels/GiftGame/GiftGame.umap.
+[2018.10.10-22.44.33:614][ 75]LoadErrors: Error: /Game/Levels/GiftGame/GiftGame : Can't find file for asset. /Game/Actors/GiftBox
+[2018.10.10-22.44.33:614][ 75]LogLinker: Warning: Can't find file '/Game/Actors/Spectator'
+[2018.10.10-22.44.33:614][ 75]LogLinker: Warning: Can't find file for asset '/Game/Actors/Spectator' while loading ../../../../../../Users/Phenrear/Desktop/GiftGame/gift/Builds/GiftGame/Content/Levels/GiftGame/GiftGame.umap.
+[2018.10.10-22.44.33:617][ 75]LogLinker: Warning: Can't find file '/Game/Actors/GiftBox'
+[2018.10.10-22.44.33:617][ 75]LogLinker: Warning: Can't find file for asset '/Game/Actors/GiftBox' while loading ../../../../../../Users/Phenrear/Desktop/GiftGame/gift/Builds/GiftGame/Content/Levels/GiftGame/GiftGame.umap.
+[2018.10.10-22.44.33:629][ 75]LogLinker: Warning: Can't find file '/Game/Actors/GiftBox'
+[2018.10.10-22.44.33:629][ 75]LogLinker: Warning: Can't find file for asset '/Game/Actors/GiftBox' while loading ../../../../../../Users/Phenrear/Desktop/GiftGame/gift/Builds/GiftGame/Content/Levels/GiftGame/GiftGame.umap.
+[2018.10.10-22.44.33:629][ 75]LogLinker: Warning: Can't find file '/Game/Actors/Spectator'
+[2018.10.10-22.44.33:629][ 75]LogLinker: Warning: Can't find file for asset '/Game/Actors/Spectator' while loading ../../../../../../Users/Phenrear/Desktop/GiftGame/gift/Builds/GiftGame/Content/Levels/GiftGame/GiftGame.umap.
+[2018.10.10-22.44.33:630][ 75]LogLinker: Warning: Can't find file '/Game/Actors/Spectator'
+[2018.10.10-22.44.33:630][ 75]LogLinker: Warning: Can't find file for asset '/Game/Actors/Spectator' while loading ../../../../../../Users/Phenrear/Desktop/GiftGame/gift/Builds/GiftGame/Content/Levels/GiftGame/GiftGame.umap.
+[2018.10.10-22.44.33:631][ 75]LogLinker: Warning: Can't find file '/Game/Actors/GiftBox'
+[2018.10.10-22.44.33:631][ 75]LogLinker: Warning: Can't find file for asset '/Game/Actors/GiftBox' while loading ../../../../../../Users/Phenrear/Desktop/GiftGame/gift/Builds/GiftGame/Content/Levels/GiftGame/GiftGame.umap.
+[2018.10.10-22.44.33:632][ 75]LogLinker: Warning: Can't find file '/Game/Actors/GiftBox'
+[2018.10.10-22.44.33:632][ 75]LogLinker: Warning: Can't find file for asset '/Game/Actors/GiftBox' while loading NULL.
+[2018.10.10-22.44.33:632][ 75]LogLinker: Warning: Can't find file '/Game/Actors/Spectator'
+[2018.10.10-22.44.33:632][ 75]LogLinker: Warning: Can't find file for asset '/Game/Actors/Spectator' while loading NULL.
+[2018.10.10-22.44.33:632][ 75]LogLinker: Warning: Can't find file '/Game/Actors/Spectator'
+[2018.10.10-22.44.33:632][ 75]LogLinker: Warning: Can't find file for asset '/Game/Actors/Spectator' while loading NULL.
+[2018.10.10-22.44.33:633][ 75]LogLinker: Warning: Can't find file '/Game/Actors/GiftBox'
+[2018.10.10-22.44.33:633][ 75]LogLinker: Warning: Can't find file for asset '/Game/Actors/GiftBox' while loading NULL.
+[2018.10.10-22.44.33:633][ 75]LogLinker: Warning: Can't find file '/Game/Actors/Spectator'
+[2018.10.10-22.44.33:633][ 75]LogLinker: Warning: Can't find file for asset '/Game/Actors/Spectator' while loading NULL.
+[2018.10.10-22.44.33:633][ 75]LogLinker: Warning: Can't find file '/Game/Actors/GiftBox'
+[2018.10.10-22.44.33:633][ 75]LogLinker: Warning: Can't find file for asset '/Game/Actors/GiftBox' while loading NULL.
+[2018.10.10-22.44.33:633][ 75]LogLinker: Warning: Can't find file '/Game/Actors/GiftBox'
+[2018.10.10-22.44.33:633][ 75]LogLinker: Warning: Can't find file for asset '/Game/Actors/GiftBox' while loading NULL.
+[2018.10.10-22.44.33:633][ 75]LogLinker: Warning: Can't find file '/Game/Actors/Spectator'
+[2018.10.10-22.44.33:634][ 75]LogLinker: Warning: Can't find file for asset '/Game/Actors/Spectator' while loading NULL.
+[2018.10.10-22.44.33:634][ 75]LogLinker: Warning: Can't find file '/Game/Actors/Spectator'
+[2018.10.10-22.44.33:634][ 75]LogLinker: Warning: Can't find file for asset '/Game/Actors/Spectator' while loading NULL.
+[2018.10.10-22.44.33:634][ 75]LogLinker: Warning: Can't find file '/Game/Actors/GiftBox'
+[2018.10.10-22.44.33:634][ 75]LogLinker: Warning: Can't find file for asset '/Game/Actors/GiftBox' while loading NULL.
+[2018.10.10-22.44.33:634][ 75]LogLinker: Warning: Can't find file '/Game/Actors/GiftBox'
+[2018.10.10-22.44.33:634][ 75]LogLinker: Warning: Can't find file for asset '/Game/Actors/GiftBox' while loading NULL.
+[2018.10.10-22.44.33:634][ 75]LogLinker: Warning: Can't find file '/Game/Actors/GiftBox'
+[2018.10.10-22.44.33:634][ 75]LoadErrors: Failed to load /Game/Actors/GiftBox.GiftBox_C Referenced by Default__GiftGame_C
+[2018.10.10-22.44.33:634][ 75]LogLinker: Warning: Can't find file for asset '/Game/Actors/GiftBox' while loading NULL.
+[2018.10.10-22.44.33:635][ 75]LogLinker: Warning: Can't find file '/Game/Actors/GiftBox'
+[2018.10.10-22.44.33:635][ 75]LogLinker: Warning: Can't find file for asset '/Game/Actors/GiftBox' while loading NULL.
+[2018.10.10-22.44.33:635][ 75]LogLinker: Warning: Can't find file '/Game/Actors/GiftBox'
+[2018.10.10-22.44.33:635][ 75]LogLinker: Warning: Can't find file for asset '/Game/Actors/GiftBox' while loading NULL.
+[2018.10.10-22.44.33:636][ 75]LogLinker: Warning: Can't find file '/Game/Actors/GiftBox'
+[2018.10.10-22.44.33:636][ 75]LoadErrors: Failed to load /Game/Actors/GiftBox.GiftBox_C Referenced by K2Node_Literal_7
+[2018.10.10-22.44.33:636][ 75]LogLinker: Warning: Can't find file for asset '/Game/Actors/GiftBox' while loading NULL.
+[2018.10.10-22.44.33:637][ 75]LogLinker: Warning: Can't find file '/Game/Actors/GiftBox'
+[2018.10.10-22.44.33:637][ 75]LoadErrors: Failed to load /Game/Actors/GiftBox.GiftBox_C Referenced by K2Node_Literal_0
+[2018.10.10-22.44.33:637][ 75]LogLinker: Warning: Can't find file for asset '/Game/Actors/GiftBox' while loading NULL.
+[2018.10.10-22.44.33:638][ 75]LogLinker: Warning: Can't find file '/Game/Actors/GiftBox'
+[2018.10.10-22.44.33:638][ 75]LoadErrors: Failed to load /Game/Actors/GiftBox.GiftBox_C Referenced by K2Node_Literal_5
+[2018.10.10-22.44.33:638][ 75]LogLinker: Warning: Can't find file for asset '/Game/Actors/GiftBox' while loading NULL.
+[2018.10.10-22.44.33:638][ 75]LogLinker: Warning: Can't find file '/Game/Actors/GiftBox'
+[2018.10.10-22.44.33:638][ 75]LoadErrors: Failed to load /Game/Actors/GiftBox.GiftBox_C Referenced by K2Node_Literal_6
+[2018.10.10-22.44.33:638][ 75]LogLinker: Warning: Can't find file for asset '/Game/Actors/GiftBox' while loading NULL.
+[2018.10.10-22.44.33:639][ 75]LogLinker: Warning: Can't find file '/Game/Actors/GiftBox'
+[2018.10.10-22.44.33:639][ 75]LoadErrors: Failed to load /Game/Actors/GiftBox.GiftBox_C Referenced by K2Node_CallFunction_2
+[2018.10.10-22.44.33:639][ 75]LogLinker: Warning: Can't find file for asset '/Game/Actors/GiftBox' while loading NULL.
+[2018.10.10-22.44.33:639][ 75]LogLinker: Warning: Can't find file '/Game/Actors/GiftBox'
+[2018.10.10-22.44.33:639][ 75]LogLinker: Warning: Can't find file for asset '/Game/Actors/GiftBox' while loading NULL.
+[2018.10.10-22.44.33:639][ 75]LogLinker: Warning: Can't find file '/Game/Actors/GiftBox'
+[2018.10.10-22.44.33:639][ 75]LoadErrors: Failed to load /Game/Actors/GiftBox.GiftBox_C Referenced by K2Node_CallArrayFunction_0
+[2018.10.10-22.44.33:639][ 75]LogLinker: Warning: Can't find file for asset '/Game/Actors/GiftBox' while loading NULL.
+[2018.10.10-22.44.33:640][ 75]LogLinker: Warning: Can't find file '/Game/Actors/GiftBox'
+[2018.10.10-22.44.33:640][ 75]LoadErrors: Failed to load /Game/Actors/GiftBox.GiftBox_C Referenced by K2Node_Literal_1
+[2018.10.10-22.44.33:640][ 75]LogLinker: Warning: Can't find file for asset '/Game/Actors/GiftBox' while loading NULL.
+[2018.10.10-22.44.33:640][ 75]LogLinker: Warning: Can't find file '/Game/Actors/GiftBox'
+[2018.10.10-22.44.33:640][ 75]LoadErrors: Failed to load /Game/Actors/GiftBox.GiftBox_C Referenced by K2Node_Literal_8
+[2018.10.10-22.44.33:640][ 75]LogLinker: Warning: Can't find file for asset '/Game/Actors/GiftBox' while loading NULL.
+[2018.10.10-22.44.33:645][ 75]LogBlueprint: Warning: [Compiler PersistentLevel.GiftGame] Node  Unknown  is not referencing a valid level actor
+[2018.10.10-22.44.33:645][ 75]LogBlueprint: Warning: [Compiler PersistentLevel.GiftGame] Node  Unknown  is not referencing a valid level actor
+[2018.10.10-22.44.33:645][ 75]LogBlueprint: Warning: [Compiler PersistentLevel.GiftGame] Node  Unknown  is not referencing a valid level actor
+[2018.10.10-22.44.33:645][ 75]LogBlueprint: Warning: [Compiler PersistentLevel.GiftGame] Node  Unknown  is not referencing a valid level actor
+[2018.10.10-22.44.33:645][ 75]LogBlueprint: Warning: [Compiler PersistentLevel.GiftGame] Node  Unknown  is not referencing a valid level actor
+[2018.10.10-22.44.33:645][ 75]LogBlueprint: Warning: [Compiler PersistentLevel.GiftGame] Node  Unknown  is not referencing a valid level actor
+[2018.10.10-22.44.33:646][ 75]LogBlueprint: Warning: [Compiler PersistentLevel.GiftGame] [0027.45] Compile of PersistentLevel.GiftGame successful, but with 6 Warning(s) [in 5 ms] (/Game/Levels/GiftGame/GiftGame.GiftGame:PersistentLevel.GiftGame)
+[2018.10.10-22.44.33:647][ 75]LogLinker: Warning: Can't find file '/Game/Actors/Spectator'
+[2018.10.10-22.44.33:647][ 75]LogLinker: Warning: Can't find file for asset '/Game/Actors/Spectator' while loading NULL.
+[2018.10.10-22.44.33:647][ 75]LogLinker: Warning: Can't find file '/Game/Actors/Spectator'
+[2018.10.10-22.44.33:647][ 75]LogLinker: Warning: Can't find file for asset '/Game/Actors/Spectator' while loading NULL.
+[2018.10.10-22.44.33:667][ 75]LogAIModule: Creating AISystem for world GiftGame
+[2018.10.10-22.44.33:674][ 75]LogAssetEditorManager: Opening Asset editor for World /Game/Levels/GiftGame/GiftGame.GiftGame
+[2018.10.10-22.44.33:697][ 75]Cmd: MAP LOAD FILE="../../../../../../Users/Phenrear/Desktop/GiftGame/gift/Builds/GiftGame/Content/Levels/GiftGame/GiftGame.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.10.10-22.44.33:697][ 75]LightingResults: New page: Lighting Build
+[2018.10.10-22.44.33:697][ 75]LoadErrors: New page: Loading map: GiftGame.umap
+[2018.10.10-22.44.33:698][ 75]MapCheck: New page: Map Check
+[2018.10.10-22.44.33:698][ 75]LightingResults: New page: Lighting Build
+[2018.10.10-22.44.33:722][ 75]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.10.10-22.44.33:781][ 75]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.10.10-22.44.33:840][ 75]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 59.375ms to complete.
+[2018.10.10-22.44.33:840][ 75]LogFileHelpers: Loading map 'GiftGame' took 0.146
+[2018.10.10-22.44.33:884][ 75]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Background': Spectator_C /Game/Levels/GiftGame/GiftGame.GiftGame:PersistentLevel.Spectator_2
+[2018.10.10-22.44.33:884][ 75]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Sound-What': Spectator_C /Game/Levels/GiftGame/GiftGame.GiftGame:PersistentLevel.Spectator_2
+[2018.10.10-22.44.33:884][ 75]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': Spectator_C /Game/Levels/GiftGame/GiftGame.GiftGame:PersistentLevel.Spectator_2
+[2018.10.10-22.44.33:884][ 75]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'StaticMeshComponent0': GiftBox_C /Game/Levels/GiftGame/GiftGame.GiftGame:PersistentLevel.Cube_Rainbow
+[2018.10.10-22.44.33:884][ 75]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'StaticMeshComponent0': GiftBox_C /Game/Levels/GiftGame/GiftGame.GiftGame:PersistentLevel.Cube_Red
+[2018.10.10-22.44.36:332][217]LogAIModule: Creating AISystem for world MainMenu
+[2018.10.10-22.44.36:334][217]LogAssetEditorManager: Opening Asset editor for World /Game/Levels/MainMenu/MainMenu.MainMenu
+[2018.10.10-22.44.36:359][217]Cmd: MAP LOAD FILE="../../../../../../Users/Phenrear/Desktop/GiftGame/gift/Builds/GiftGame/Content/Levels/MainMenu/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.10.10-22.44.36:359][217]LightingResults: New page: Lighting Build
+[2018.10.10-22.44.36:359][217]LoadErrors: New page: Loading map: MainMenu.umap
+[2018.10.10-22.44.36:360][217]MapCheck: New page: Map Check
+[2018.10.10-22.44.36:360][217]LightingResults: New page: Lighting Build
+[2018.10.10-22.44.36:383][217]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.10.10-22.44.36:442][217]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.10.10-22.44.36:500][217]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 58.443ms to complete.
+[2018.10.10-22.44.36:500][217]LogFileHelpers: Loading map 'MainMenu' took 0.142
+[2018.10.10-22.44.43:111][610]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.10-22.44.43:136][610]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.10-22.44.43:155][610]LogModuleManager: Warning: ModuleManager: Unable to load module 'OnlineSubsystemLAN'  - 0 instances of that module name found.
+[2018.10.10-22.44.43:169][610]PIE: New page: PIE session: MainMenu (Oct 10, 2018, 12:44:43 PM)
+[2018.10.10-22.44.43:169][610]LogPlayLevel: Creating play world package: /Game/Levels/MainMenu/UEDPIE_1_MainMenu
+[2018.10.10-22.44.43:170][610]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000766s)
+[2018.10.10-22.44.43:170][610]LogAIModule: Creating AISystem for world MainMenu
+[2018.10.10-22.44.43:170][610]LogPlayLevel: PIE: World Init took: (0.000605s)
+[2018.10.10-22.44.43:170][610]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenu/MainMenu.MainMenu to /Game/Levels/MainMenu/UEDPIE_1_MainMenu.MainMenu (0.001476s)
+[2018.10.10-22.44.43:204][610]LogInit: XAudio2 using 'Speakers (Razer Surround Audio Controller)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.10.10-22.44.43:211][610]LogInit: FAudioDevice initialized.
+[2018.10.10-22.44.43:260][610]LogLoad: Game class is 'MenuGameMode_C'
+[2018.10.10-22.44.43:262][610]LogWorld: Bringing World /Game/Levels/MainMenu/UEDPIE_1_MainMenu.MainMenu up for play (max tick rate 60) at 2018.10.10-17.44.43
+[2018.10.10-22.44.43:262][610]LogWorld: Bringing up level for play took: 0.000485
+[2018.10.10-22.44.43:280][610]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 10 classes and 0 folders.
+[2018.10.10-22.44.43:280][610]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.10.10-22.44.43:280][610]LogTemp: Display: ParseSettings for IpNetDriver_0
+[2018.10.10-22.44.43:280][610]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.10.10-22.44.43:281][610]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2018.10.10-22.44.43:281][610]LogInit: WinSock: Socket queue 131072 / 131072
+[2018.10.10-22.44.43:283][610]LogInit: WinSock: I am Razer-Blade (138.247.111.81:0)
+[2018.10.10-22.44.43:283][610]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.10.10-22.44.43:283][610]LogNet: GameNetDriver IpNetDriver_0 IpNetDriver listening on port 17777
+[2018.10.10-22.44.43:284][610]PIE: Play in editor start time for /Game/Levels/MainMenu/UEDPIE_1_MainMenu 0.017
+[2018.10.10-22.44.43:286][610]PIE: New page: PIE session: MainMenu (Oct 10, 2018, 12:44:43 PM)
+[2018.10.10-22.44.43:295][610]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.10-22.44.43:300][610]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.10-22.44.43:394][610]LogNet: Browse: 127.0.0.1:17777//Game/Levels/MainMenu/MainMenu
+[2018.10.10-22.44.43:394][610]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.10.10-22.44.43:395][610]LogTemp: Display: ParseSettings for IpNetDriver_1
+[2018.10.10-22.44.43:395][610]LogTemp: Display: ParseSettings for PendingNetDriver
+[2018.10.10-22.44.43:395][610]LogInit: WinSock: Socket queue 32768 / 32768
+[2018.10.10-22.44.43:395][610]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.10.10-22.44.43:395][610]LogNet: Game client on port 17777, rate 10000
+[2018.10.10-22.44.43:397][610]PIE: Play in editor start time for /Game/Levels/MainMenu/MainMenu 0.13
+[2018.10.10-22.44.43:400][610]PIE: New page: PIE session: MainMenu (Oct 10, 2018, 12:44:43 PM)
+[2018.10.10-22.44.43:411][610]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.10-22.44.43:417][610]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.10-22.44.43:502][610]LogNet: Browse: 127.0.0.1:17777//Game/Levels/MainMenu/MainMenu
+[2018.10.10-22.44.43:503][610]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.10.10-22.44.43:503][610]LogTemp: Display: ParseSettings for IpNetDriver_2
+[2018.10.10-22.44.43:503][610]LogTemp: Display: ParseSettings for PendingNetDriver
+[2018.10.10-22.44.43:503][610]LogInit: WinSock: Socket queue 32768 / 32768
+[2018.10.10-22.44.43:504][610]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.10.10-22.44.43:504][610]LogNet: Game client on port 17777, rate 10000
+[2018.10.10-22.44.43:506][610]PIE: Play in editor start time for /Game/Levels/MainMenu/MainMenu 0.239
+[2018.10.10-22.44.43:508][610]PIE: New page: PIE session: MainMenu (Oct 10, 2018, 12:44:43 PM)
+[2018.10.10-22.44.43:518][610]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.10-22.44.43:525][610]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.10-22.44.43:605][610]LogNet: Browse: 127.0.0.1:17777//Game/Levels/MainMenu/MainMenu
+[2018.10.10-22.44.43:606][610]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.10.10-22.44.43:606][610]LogTemp: Display: ParseSettings for IpNetDriver_3
+[2018.10.10-22.44.43:606][610]LogTemp: Display: ParseSettings for PendingNetDriver
+[2018.10.10-22.44.43:606][610]LogInit: WinSock: Socket queue 32768 / 32768
+[2018.10.10-22.44.43:606][610]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.10.10-22.44.43:606][610]LogNet: Game client on port 17777, rate 10000
+[2018.10.10-22.44.43:609][610]PIE: Play in editor start time for /Game/Levels/MainMenu/MainMenu 0.342
+[2018.10.10-22.44.43:611][610]PIE: New page: PIE session: MainMenu (Oct 10, 2018, 12:44:43 PM)
+[2018.10.10-22.44.43:622][610]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.10-22.44.43:628][610]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.10-22.44.43:711][610]LogNet: Browse: 127.0.0.1:17777//Game/Levels/MainMenu/MainMenu
+[2018.10.10-22.44.43:711][610]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.10.10-22.44.43:711][610]LogTemp: Display: ParseSettings for IpNetDriver_4
+[2018.10.10-22.44.43:711][610]LogTemp: Display: ParseSettings for PendingNetDriver
+[2018.10.10-22.44.43:711][610]LogInit: WinSock: Socket queue 32768 / 32768
+[2018.10.10-22.44.43:712][610]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.10.10-22.44.43:712][610]LogNet: Game client on port 17777, rate 10000
+[2018.10.10-22.44.43:715][610]PIE: Play in editor start time for /Game/Levels/MainMenu/MainMenu 0.447
+[2018.10.10-22.44.43:717][610]PIE: New page: PIE session: MainMenu (Oct 10, 2018, 12:44:43 PM)
+[2018.10.10-22.44.43:727][610]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.10-22.44.43:733][610]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.10-22.44.43:821][610]LogNet: Browse: 127.0.0.1:17777//Game/Levels/MainMenu/MainMenu
+[2018.10.10-22.44.43:821][610]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.10.10-22.44.43:821][610]LogTemp: Display: ParseSettings for IpNetDriver_5
+[2018.10.10-22.44.43:821][610]LogTemp: Display: ParseSettings for PendingNetDriver
+[2018.10.10-22.44.43:821][610]LogInit: WinSock: Socket queue 32768 / 32768
+[2018.10.10-22.44.43:822][610]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.10.10-22.44.43:822][610]LogNet: Game client on port 17777, rate 10000
+[2018.10.10-22.44.43:824][610]PIE: Play in editor start time for /Game/Levels/MainMenu/MainMenu 0.556
+[2018.10.10-22.44.43:826][610]PIE: New page: PIE session: MainMenu (Oct 10, 2018, 12:44:43 PM)
+[2018.10.10-22.44.43:835][610]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.10-22.44.43:842][610]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.10-22.44.43:925][610]LogNet: Browse: 127.0.0.1:17777//Game/Levels/MainMenu/MainMenu
+[2018.10.10-22.44.43:926][610]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.10.10-22.44.43:926][610]LogTemp: Display: ParseSettings for IpNetDriver_6
+[2018.10.10-22.44.43:926][610]LogTemp: Display: ParseSettings for PendingNetDriver
+[2018.10.10-22.44.43:926][610]LogInit: WinSock: Socket queue 32768 / 32768
+[2018.10.10-22.44.43:926][610]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.10.10-22.44.43:926][610]LogNet: Game client on port 17777, rate 10000
+[2018.10.10-22.44.43:929][610]PIE: Play in editor start time for /Game/Levels/MainMenu/MainMenu 0.661
+[2018.10.10-22.44.43:931][610]PIE: New page: PIE session: MainMenu (Oct 10, 2018, 12:44:43 PM)
+[2018.10.10-22.44.43:942][610]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.10-22.44.43:948][610]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.10-22.44.44:040][610]LogNet: Browse: 127.0.0.1:17777//Game/Levels/MainMenu/MainMenu
+[2018.10.10-22.44.44:041][610]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.10.10-22.44.44:041][610]LogTemp: Display: ParseSettings for IpNetDriver_7
+[2018.10.10-22.44.44:041][610]LogTemp: Display: ParseSettings for PendingNetDriver
+[2018.10.10-22.44.44:041][610]LogInit: WinSock: Socket queue 32768 / 32768
+[2018.10.10-22.44.44:041][610]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.10.10-22.44.44:041][610]LogNet: Game client on port 17777, rate 10000
+[2018.10.10-22.44.44:043][610]PIE: Play in editor start time for /Game/Levels/MainMenu/MainMenu 0.776
+[2018.10.10-22.44.44:055][610]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:59958
+[2018.10.10-22.44.44:055][610]LogHandshake: SendConnectChallenge. Timestamp: 0.016668, Cookie: 188037111071247167018219231228121083028212021098255037152220
+[2018.10.10-22.44.44:055][610]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:59959
+[2018.10.10-22.44.44:055][610]LogHandshake: SendConnectChallenge. Timestamp: 0.016668, Cookie: 208110004002209057165114071004080252109054124122150158012010
+[2018.10.10-22.44.44:056][610]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:59960
+[2018.10.10-22.44.44:056][610]LogHandshake: SendConnectChallenge. Timestamp: 0.016668, Cookie: 165077038232087121218056213072240077024033124219176040246070
+[2018.10.10-22.44.44:056][610]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:59961
+[2018.10.10-22.44.44:056][610]LogHandshake: SendConnectChallenge. Timestamp: 0.016668, Cookie: 171126242093130177087050193201108136067167224093045155153180
+[2018.10.10-22.44.44:056][610]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:59962
+[2018.10.10-22.44.44:056][610]LogHandshake: SendConnectChallenge. Timestamp: 0.016668, Cookie: 251136154101032016219120138187210005156013196170093120059011
+[2018.10.10-22.44.44:056][610]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:59963
+[2018.10.10-22.44.44:056][610]LogHandshake: SendConnectChallenge. Timestamp: 0.016668, Cookie: 065093254241227146205162155174159169223162033242225249166058
+[2018.10.10-22.44.44:056][610]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:59964
+[2018.10.10-22.44.44:056][610]LogHandshake: SendConnectChallenge. Timestamp: 0.016668, Cookie: 150253250084126098084108097003241250123195183200147170023084
+[2018.10.10-22.44.44:061][610]LogHandshake: SendChallengeResponse. Timestamp: 0.016668, Cookie: 188037111071247167018219231228121083028212021098255037152220
+[2018.10.10-22.44.44:062][610]LogHandshake: SendChallengeResponse. Timestamp: 0.016668, Cookie: 208110004002209057165114071004080252109054124122150158012010
+[2018.10.10-22.44.44:063][610]LogHandshake: SendChallengeResponse. Timestamp: 0.016668, Cookie: 165077038232087121218056213072240077024033124219176040246070
+[2018.10.10-22.44.44:063][610]LogHandshake: SendChallengeResponse. Timestamp: 0.016668, Cookie: 171126242093130177087050193201108136067167224093045155153180
+[2018.10.10-22.44.44:063][610]LogHandshake: SendChallengeResponse. Timestamp: 0.016668, Cookie: 251136154101032016219120138187210005156013196170093120059011
+[2018.10.10-22.44.44:064][610]LogHandshake: SendChallengeResponse. Timestamp: 0.016668, Cookie: 065093254241227146205162155174159169223162033242225249166058
+[2018.10.10-22.44.44:064][610]LogHandshake: SendChallengeResponse. Timestamp: 0.016668, Cookie: 150253250084126098084108097003241250123195183200147170023084
+[2018.10.10-22.44.44:297][611]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:59958
+[2018.10.10-22.44.44:297][611]LogHandshake: SendChallengeAck. InCookie: 188037111071247167018219231228121083028212021098255037152220
+[2018.10.10-22.44.44:297][611]LogNet: Server accepting post-challenge connection from: 127.0.0.1:59958
+[2018.10.10-22.44.44:297][611]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.10.10-22.44.44:297][611]LogNet: NotifyAcceptedConnection: Name: MainMenu, TimeStamp: 10/10/18 17:44:44, [UNetConnection] RemoteAddr: 127.0.0.1:59958, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2018.10.10-22.44.44:297][611]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:59958, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2018.10.10-22.44.44:297][611]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:59959
+[2018.10.10-22.44.44:297][611]LogHandshake: SendChallengeAck. InCookie: 208110004002209057165114071004080252109054124122150158012010
+[2018.10.10-22.44.44:297][611]LogNet: Server accepting post-challenge connection from: 127.0.0.1:59959
+[2018.10.10-22.44.44:298][611]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.10.10-22.44.44:298][611]LogNet: NotifyAcceptedConnection: Name: MainMenu, TimeStamp: 10/10/18 17:44:44, [UNetConnection] RemoteAddr: 127.0.0.1:59959, Name: IpConnection_8, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2018.10.10-22.44.44:298][611]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:59959, Name: IpConnection_8, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2018.10.10-22.44.44:298][611]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:59960
+[2018.10.10-22.44.44:298][611]LogHandshake: SendChallengeAck. InCookie: 165077038232087121218056213072240077024033124219176040246070
+[2018.10.10-22.44.44:298][611]LogNet: Server accepting post-challenge connection from: 127.0.0.1:59960
+[2018.10.10-22.44.44:298][611]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.10.10-22.44.44:298][611]LogNet: NotifyAcceptedConnection: Name: MainMenu, TimeStamp: 10/10/18 17:44:44, [UNetConnection] RemoteAddr: 127.0.0.1:59960, Name: IpConnection_9, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2018.10.10-22.44.44:298][611]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:59960, Name: IpConnection_9, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2018.10.10-22.44.44:298][611]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:59961
+[2018.10.10-22.44.44:298][611]LogHandshake: SendChallengeAck. InCookie: 171126242093130177087050193201108136067167224093045155153180
+[2018.10.10-22.44.44:299][611]LogNet: Server accepting post-challenge connection from: 127.0.0.1:59961
+[2018.10.10-22.44.44:299][611]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.10.10-22.44.44:299][611]LogNet: NotifyAcceptedConnection: Name: MainMenu, TimeStamp: 10/10/18 17:44:44, [UNetConnection] RemoteAddr: 127.0.0.1:59961, Name: IpConnection_10, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2018.10.10-22.44.44:299][611]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:59961, Name: IpConnection_10, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2018.10.10-22.44.44:299][611]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:59962
+[2018.10.10-22.44.44:299][611]LogHandshake: SendChallengeAck. InCookie: 251136154101032016219120138187210005156013196170093120059011
+[2018.10.10-22.44.44:299][611]LogNet: Server accepting post-challenge connection from: 127.0.0.1:59962
+[2018.10.10-22.44.44:299][611]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.10.10-22.44.44:300][611]LogNet: NotifyAcceptedConnection: Name: MainMenu, TimeStamp: 10/10/18 17:44:44, [UNetConnection] RemoteAddr: 127.0.0.1:59962, Name: IpConnection_11, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2018.10.10-22.44.44:300][611]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:59962, Name: IpConnection_11, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2018.10.10-22.44.44:300][611]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:59963
+[2018.10.10-22.44.44:300][611]LogHandshake: SendChallengeAck. InCookie: 065093254241227146205162155174159169223162033242225249166058
+[2018.10.10-22.44.44:300][611]LogNet: Server accepting post-challenge connection from: 127.0.0.1:59963
+[2018.10.10-22.44.44:300][611]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.10.10-22.44.44:300][611]LogNet: NotifyAcceptedConnection: Name: MainMenu, TimeStamp: 10/10/18 17:44:44, [UNetConnection] RemoteAddr: 127.0.0.1:59963, Name: IpConnection_12, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2018.10.10-22.44.44:300][611]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:59963, Name: IpConnection_12, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2018.10.10-22.44.44:300][611]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:59964
+[2018.10.10-22.44.44:300][611]LogHandshake: SendChallengeAck. InCookie: 150253250084126098084108097003241250123195183200147170023084
+[2018.10.10-22.44.44:300][611]LogNet: Server accepting post-challenge connection from: 127.0.0.1:59964
+[2018.10.10-22.44.44:301][611]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.10.10-22.44.44:301][611]LogNet: NotifyAcceptedConnection: Name: MainMenu, TimeStamp: 10/10/18 17:44:44, [UNetConnection] RemoteAddr: 127.0.0.1:59964, Name: IpConnection_13, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2018.10.10-22.44.44:301][611]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:59964, Name: IpConnection_13, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2018.10.10-22.44.44:302][611]LogNetVersion: GiftGame 1.0.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2647834952)
+[2018.10.10-22.44.44:302][611]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: PendingNetDriver IpNetDriver_1, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2018.10.10-22.44.44:303][611]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_1, Driver: PendingNetDriver IpNetDriver_2, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2018.10.10-22.44.44:303][611]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_2, Driver: PendingNetDriver IpNetDriver_3, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2018.10.10-22.44.44:303][611]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_3, Driver: PendingNetDriver IpNetDriver_4, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2018.10.10-22.44.44:304][611]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_4, Driver: PendingNetDriver IpNetDriver_5, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2018.10.10-22.44.44:304][611]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_5, Driver: PendingNetDriver IpNetDriver_6, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2018.10.10-22.44.44:304][611]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_6, Driver: PendingNetDriver IpNetDriver_7, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2018.10.10-22.44.44:313][612]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Levels/MainMenu/UEDPIE_1_MainMenu.MainMenu: Accepted
+[2018.10.10-22.44.44:314][612]LogNet: Remote platform little endian=1
+[2018.10.10-22.44.44:314][612]LogNet: This platform little endian=1
+[2018.10.10-22.44.44:314][612]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Levels/MainMenu/UEDPIE_1_MainMenu.MainMenu: Accepted
+[2018.10.10-22.44.44:314][612]LogNet: Remote platform little endian=1
+[2018.10.10-22.44.44:314][612]LogNet: This platform little endian=1
+[2018.10.10-22.44.44:314][612]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Levels/MainMenu/UEDPIE_1_MainMenu.MainMenu: Accepted
+[2018.10.10-22.44.44:314][612]LogNet: Remote platform little endian=1
+[2018.10.10-22.44.44:314][612]LogNet: This platform little endian=1
+[2018.10.10-22.44.44:314][612]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Levels/MainMenu/UEDPIE_1_MainMenu.MainMenu: Accepted
+[2018.10.10-22.44.44:314][612]LogNet: Remote platform little endian=1
+[2018.10.10-22.44.44:314][612]LogNet: This platform little endian=1
+[2018.10.10-22.44.44:314][612]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Levels/MainMenu/UEDPIE_1_MainMenu.MainMenu: Accepted
+[2018.10.10-22.44.44:314][612]LogNet: Remote platform little endian=1
+[2018.10.10-22.44.44:314][612]LogNet: This platform little endian=1
+[2018.10.10-22.44.44:314][612]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Levels/MainMenu/UEDPIE_1_MainMenu.MainMenu: Accepted
+[2018.10.10-22.44.44:314][612]LogNet: Remote platform little endian=1
+[2018.10.10-22.44.44:314][612]LogNet: This platform little endian=1
+[2018.10.10-22.44.44:314][612]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Levels/MainMenu/UEDPIE_1_MainMenu.MainMenu: Accepted
+[2018.10.10-22.44.44:314][612]LogNet: Remote platform little endian=1
+[2018.10.10-22.44.44:314][612]LogNet: This platform little endian=1
+[2018.10.10-22.44.44:408][613]LogNet: Login request: /Game/Levels/MainMenu/MainMenu?Name=Razer-Blade-3D5964564691227371048BBE4C95C391 userId: Razer-Blade-3D5964564691227371048BBE4C95C391
+[2018.10.10-22.44.44:409][613]LogNet: Login request: /Game/Levels/MainMenu/MainMenu?Name=Razer-Blade-7D46C3154BE2041340CD019C50571A7C userId: Razer-Blade-7D46C3154BE2041340CD019C50571A7C
+[2018.10.10-22.44.44:409][613]LogNet: Login request: /Game/Levels/MainMenu/MainMenu?Name=Razer-Blade-5ACC09FC4E96435A6C05AA86C0841D97 userId: Razer-Blade-5ACC09FC4E96435A6C05AA86C0841D97
+[2018.10.10-22.44.44:409][613]LogNet: Login request: /Game/Levels/MainMenu/MainMenu?Name=Razer-Blade-693D23EC408FBC9531245DB55C851BA2 userId: Razer-Blade-693D23EC408FBC9531245DB55C851BA2
+[2018.10.10-22.44.44:409][613]LogNet: Login request: /Game/Levels/MainMenu/MainMenu?Name=Razer-Blade-A6D3DE804ECE073411FA51BE30D4881A userId: Razer-Blade-A6D3DE804ECE073411FA51BE30D4881A
+[2018.10.10-22.44.44:409][613]LogNet: Login request: /Game/Levels/MainMenu/MainMenu?Name=Razer-Blade-0DB0901A425B78743628A087D1AC7ECE userId: Razer-Blade-0DB0901A425B78743628A087D1AC7ECE
+[2018.10.10-22.44.44:409][613]LogNet: Login request: /Game/Levels/MainMenu/MainMenu?Name=Razer-Blade-1DE756D544314C3F73ADF6A4BEE1FB09 userId: Razer-Blade-1DE756D544314C3F73ADF6A4BEE1FB09
+[2018.10.10-22.44.44:410][613]LogNet: Welcomed by server (Level: /Game/Levels/MainMenu/UEDPIE_1_MainMenu, Game: /Game/Levels/MainMenu/MenuGameMode.MenuGameMode_C)
+[2018.10.10-22.44.44:416][613]LogLoad: LoadMap: 127.0.0.1:17777//Game/Levels/MainMenu/UEDPIE_1_MainMenu?game=/Game/Levels/MainMenu/MenuGameMode.MenuGameMode_C
+[2018.10.10-22.44.44:441][613]LogAIModule: Creating AISystem for world MainMenu
+[2018.10.10-22.44.44:442][613]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.10.10-22.44.44:443][613]LogWorld: Bringing World /Game/Levels/MainMenu/UEDPIE_2_MainMenu.MainMenu up for play (max tick rate 60) at 2018.10.10-17.44.44
+[2018.10.10-22.44.44:443][613]LogWorld: Bringing up level for play took: 0.000454
+[2018.10.10-22.44.44:444][613]LogLoad: Took 0.027886 seconds to LoadMap(/Game/Levels/MainMenu/UEDPIE_1_MainMenu)
+[2018.10.10-22.44.44:444][613]LogNet: Welcomed by server (Level: /Game/Levels/MainMenu/UEDPIE_1_MainMenu, Game: /Game/Levels/MainMenu/MenuGameMode.MenuGameMode_C)
+[2018.10.10-22.44.44:444][613]LogLoad: LoadMap: 127.0.0.1:17777//Game/Levels/MainMenu/UEDPIE_1_MainMenu?game=/Game/Levels/MainMenu/MenuGameMode.MenuGameMode_C
+[2018.10.10-22.44.44:471][613]LogAIModule: Creating AISystem for world MainMenu
+[2018.10.10-22.44.44:471][613]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.10.10-22.44.44:472][613]LogWorld: Bringing World /Game/Levels/MainMenu/UEDPIE_3_MainMenu.MainMenu up for play (max tick rate 60) at 2018.10.10-17.44.44
+[2018.10.10-22.44.44:472][613]LogWorld: Bringing up level for play took: 0.000371
+[2018.10.10-22.44.44:473][613]LogLoad: Took 0.028825 seconds to LoadMap(/Game/Levels/MainMenu/UEDPIE_1_MainMenu)
+[2018.10.10-22.44.44:473][613]LogNet: Welcomed by server (Level: /Game/Levels/MainMenu/UEDPIE_1_MainMenu, Game: /Game/Levels/MainMenu/MenuGameMode.MenuGameMode_C)
+[2018.10.10-22.44.44:474][613]LogLoad: LoadMap: 127.0.0.1:17777//Game/Levels/MainMenu/UEDPIE_1_MainMenu?game=/Game/Levels/MainMenu/MenuGameMode.MenuGameMode_C
+[2018.10.10-22.44.44:499][613]LogAIModule: Creating AISystem for world MainMenu
+[2018.10.10-22.44.44:499][613]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.10.10-22.44.44:500][613]LogWorld: Bringing World /Game/Levels/MainMenu/UEDPIE_4_MainMenu.MainMenu up for play (max tick rate 60) at 2018.10.10-17.44.44
+[2018.10.10-22.44.44:500][613]LogWorld: Bringing up level for play took: 0.000320
+[2018.10.10-22.44.44:500][613]LogLoad: Took 0.026856 seconds to LoadMap(/Game/Levels/MainMenu/UEDPIE_1_MainMenu)
+[2018.10.10-22.44.44:501][613]LogNet: Welcomed by server (Level: /Game/Levels/MainMenu/UEDPIE_1_MainMenu, Game: /Game/Levels/MainMenu/MenuGameMode.MenuGameMode_C)
+[2018.10.10-22.44.44:501][613]LogLoad: LoadMap: 127.0.0.1:17777//Game/Levels/MainMenu/UEDPIE_1_MainMenu?game=/Game/Levels/MainMenu/MenuGameMode.MenuGameMode_C
+[2018.10.10-22.44.44:526][613]LogAIModule: Creating AISystem for world MainMenu
+[2018.10.10-22.44.44:526][613]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.10.10-22.44.44:527][613]LogWorld: Bringing World /Game/Levels/MainMenu/UEDPIE_5_MainMenu.MainMenu up for play (max tick rate 60) at 2018.10.10-17.44.44
+[2018.10.10-22.44.44:527][613]LogWorld: Bringing up level for play took: 0.000232
+[2018.10.10-22.44.44:527][613]LogLoad: Took 0.025512 seconds to LoadMap(/Game/Levels/MainMenu/UEDPIE_1_MainMenu)
+[2018.10.10-22.44.44:527][613]LogNet: Welcomed by server (Level: /Game/Levels/MainMenu/UEDPIE_1_MainMenu, Game: /Game/Levels/MainMenu/MenuGameMode.MenuGameMode_C)
+[2018.10.10-22.44.44:528][613]LogLoad: LoadMap: 127.0.0.1:17777//Game/Levels/MainMenu/UEDPIE_1_MainMenu?game=/Game/Levels/MainMenu/MenuGameMode.MenuGameMode_C
+[2018.10.10-22.44.44:554][613]LogAIModule: Creating AISystem for world MainMenu
+[2018.10.10-22.44.44:554][613]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.10.10-22.44.44:555][613]LogWorld: Bringing World /Game/Levels/MainMenu/UEDPIE_6_MainMenu.MainMenu up for play (max tick rate 60) at 2018.10.10-17.44.44
+[2018.10.10-22.44.44:556][613]LogWorld: Bringing up level for play took: 0.000478
+[2018.10.10-22.44.44:556][613]LogLoad: Took 0.027810 seconds to LoadMap(/Game/Levels/MainMenu/UEDPIE_1_MainMenu)
+[2018.10.10-22.44.44:556][613]LogNet: Welcomed by server (Level: /Game/Levels/MainMenu/UEDPIE_1_MainMenu, Game: /Game/Levels/MainMenu/MenuGameMode.MenuGameMode_C)
+[2018.10.10-22.44.44:557][613]LogLoad: LoadMap: 127.0.0.1:17777//Game/Levels/MainMenu/UEDPIE_1_MainMenu?game=/Game/Levels/MainMenu/MenuGameMode.MenuGameMode_C
+[2018.10.10-22.44.44:579][613]LogAIModule: Creating AISystem for world MainMenu
+[2018.10.10-22.44.44:580][613]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.10.10-22.44.44:580][613]LogWorld: Bringing World /Game/Levels/MainMenu/UEDPIE_7_MainMenu.MainMenu up for play (max tick rate 60) at 2018.10.10-17.44.44
+[2018.10.10-22.44.44:580][613]LogWorld: Bringing up level for play took: 0.000283
+[2018.10.10-22.44.44:581][613]LogLoad: Took 0.024689 seconds to LoadMap(/Game/Levels/MainMenu/UEDPIE_1_MainMenu)
+[2018.10.10-22.44.44:581][613]LogNet: Welcomed by server (Level: /Game/Levels/MainMenu/UEDPIE_1_MainMenu, Game: /Game/Levels/MainMenu/MenuGameMode.MenuGameMode_C)
+[2018.10.10-22.44.44:582][613]LogLoad: LoadMap: 127.0.0.1:17777//Game/Levels/MainMenu/UEDPIE_1_MainMenu?game=/Game/Levels/MainMenu/MenuGameMode.MenuGameMode_C
+[2018.10.10-22.44.44:607][613]LogAIModule: Creating AISystem for world MainMenu
+[2018.10.10-22.44.44:608][613]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.10.10-22.44.44:609][613]LogWorld: Bringing World /Game/Levels/MainMenu/UEDPIE_8_MainMenu.MainMenu up for play (max tick rate 60) at 2018.10.10-17.44.44
+[2018.10.10-22.44.44:609][613]LogWorld: Bringing up level for play took: 0.000453
+[2018.10.10-22.44.44:609][613]LogLoad: Took 0.026995 seconds to LoadMap(/Game/Levels/MainMenu/UEDPIE_1_MainMenu)
+[2018.10.10-22.44.44:620][614]LogNet: Client netspeed is 10000
+[2018.10.10-22.44.44:620][614]LogNet: Join request: /Game/Levels/MainMenu/MainMenu?Name=Razer-Blade-3D5964564691227371048BBE4C95C391?SplitscreenCount=1
+[2018.10.10-22.44.44:621][614]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.10.10-22.44.44:622][614]LogNet: Join succeeded: Razer-Blade-3D596456
+[2018.10.10-22.44.44:622][614]LogNet: Client netspeed is 10000
+[2018.10.10-22.44.44:622][614]LogNet: Join request: /Game/Levels/MainMenu/MainMenu?Name=Razer-Blade-7D46C3154BE2041340CD019C50571A7C?SplitscreenCount=1
+[2018.10.10-22.44.44:622][614]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.10.10-22.44.44:623][614]LogNet: Join succeeded: Razer-Blade-7D46C315
+[2018.10.10-22.44.44:623][614]LogNet: Client netspeed is 10000
+[2018.10.10-22.44.44:623][614]LogNet: Join request: /Game/Levels/MainMenu/MainMenu?Name=Razer-Blade-5ACC09FC4E96435A6C05AA86C0841D97?SplitscreenCount=1
+[2018.10.10-22.44.44:623][614]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.10.10-22.44.44:624][614]LogNet: Join succeeded: Razer-Blade-5ACC09FC
+[2018.10.10-22.44.44:624][614]LogNet: Client netspeed is 10000
+[2018.10.10-22.44.44:624][614]LogNet: Join request: /Game/Levels/MainMenu/MainMenu?Name=Razer-Blade-693D23EC408FBC9531245DB55C851BA2?SplitscreenCount=1
+[2018.10.10-22.44.44:624][614]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.10.10-22.44.44:625][614]LogNet: Join succeeded: Razer-Blade-693D23EC
+[2018.10.10-22.44.44:625][614]LogNet: Client netspeed is 10000
+[2018.10.10-22.44.44:625][614]LogNet: Join request: /Game/Levels/MainMenu/MainMenu?Name=Razer-Blade-A6D3DE804ECE073411FA51BE30D4881A?SplitscreenCount=1
+[2018.10.10-22.44.44:625][614]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.10.10-22.44.44:626][614]LogNet: Join succeeded: Razer-Blade-A6D3DE80
+[2018.10.10-22.44.44:626][614]LogNet: Client netspeed is 10000
+[2018.10.10-22.44.44:626][614]LogNet: Join request: /Game/Levels/MainMenu/MainMenu?Name=Razer-Blade-0DB0901A425B78743628A087D1AC7ECE?SplitscreenCount=1
+[2018.10.10-22.44.44:626][614]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.10.10-22.44.44:627][614]LogNet: Join succeeded: Razer-Blade-0DB0901A
+[2018.10.10-22.44.44:627][614]LogNet: Client netspeed is 10000
+[2018.10.10-22.44.44:627][614]LogNet: Join request: /Game/Levels/MainMenu/MainMenu?Name=Razer-Blade-1DE756D544314C3F73ADF6A4BEE1FB09?SplitscreenCount=1
+[2018.10.10-22.44.44:627][614]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.10.10-22.44.44:628][614]LogNet: Join succeeded: Razer-Blade-1DE756D5
+[2018.10.10-22.44.44:677][615]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.10.10-22.44.44:680][615]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.10.10-22.44.44:680][615]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.10.10-22.44.44:680][615]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.10.10-22.44.44:680][615]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.10.10-22.44.44:680][615]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.10.10-22.44.44:680][615]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.10.10-22.44.44:681][615]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.10.10-22.44.44:686][615]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.10.10-22.44.44:687][615]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.10.10-22.44.44:687][615]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.10.10-22.44.44:687][615]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.10.10-22.44.44:689][615]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.10.10-22.44.44:689][615]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.10.10-22.44.44:689][615]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.10.10-22.44.44:690][615]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.10.10-22.44.44:692][615]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.10.10-22.44.44:692][615]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.10.10-22.44.44:694][615]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.10.10-22.44.44:694][615]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.10.10-22.44.44:695][615]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.10.10-22.44.44:695][615]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.10.10-22.44.44:695][615]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.10.10-22.44.44:695][615]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.10.10-22.44.44:700][615]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.10.10-22.44.44:700][615]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.10.10-22.44.44:700][615]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.10.10-22.44.44:700][615]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.10.10-22.44.44:702][615]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.10.10-22.44.44:703][615]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.10.10-22.44.44:703][615]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.10.10-22.44.44:703][615]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.10.10-22.44.44:706][615]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.10.10-22.44.44:707][615]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.10.10-22.44.44:707][615]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.10.10-22.44.44:707][615]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.10.10-22.44.44:707][615]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.10.10-22.44.44:708][615]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.10.10-22.44.44:708][615]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.10.10-22.44.44:708][615]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.10.10-22.44.44:711][615]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.10.10-22.44.44:711][615]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.10.10-22.44.44:711][615]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.10.10-22.44.44:711][615]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.10.10-22.44.44:711][615]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.10.10-22.44.44:711][615]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.10.10-22.44.44:711][615]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.10.10-22.44.44:712][615]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.10.10-22.44.44:714][615]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.10.10-22.44.44:715][615]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.10.10-22.44.44:715][615]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.10.10-22.44.44:715][615]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.10.10-22.44.44:715][615]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.10.10-22.44.44:715][615]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.10.10-22.44.44:715][615]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.10.10-22.44.44:715][615]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.10.10-22.44.46:271][701]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.10-22.44.46:395][706]LogSlate: Window 'GiftGame Game Preview Client 7 (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.10-22.44.46:436][706]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.10-22.44.46:452][706]LogSlate: Window 'GiftGame Game Preview Client 6 (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.10-22.44.46:483][706]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.10-22.44.46:502][706]LogSlate: Window 'GiftGame Game Preview Client 5 (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.10-22.44.46:531][706]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.10-22.44.46:552][706]LogSlate: Window 'GiftGame Game Preview Client 4 (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.10-22.44.46:587][706]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.10-22.44.46:606][706]LogSlate: Window 'GiftGame Game Preview Client 3 (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.10-22.44.46:643][706]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.10-22.44.46:655][706]LogSlate: Window 'GiftGame Game Preview Client 2 (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.10-22.44.46:693][706]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.10-22.44.46:713][706]LogSlate: Window 'GiftGame Game Preview Client 1 (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.10-22.44.46:749][706]LogOnline: Warning: OSS: No game present to leave for session (GameSession)
+[2018.10.10-22.44.46:750][706]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.10-22.44.46:784][706]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.10-22.44.46:805][706]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:59964, Name: IpConnection_13, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: PlayerController_7, Owner: PlayerController_7, UniqueId: NULL:Razer-Blade-1DE756D544314C3F73ADF6A4BEE1FB09
+[2018.10.10-22.44.46:805][706]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:59964, Name: IpConnection_13, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: PlayerController_7, Owner: PlayerController_7, UniqueId: NULL:Razer-Blade-1DE756D544314C3F73ADF6A4BEE1FB09, Channels: 21, Time: 2018.10.10-22.44.46
+[2018.10.10-22.44.46:805][706]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:59964, Name: IpConnection_13, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: PlayerController_7, Owner: PlayerController_7, UniqueId: NULL:Razer-Blade-1DE756D544314C3F73ADF6A4BEE1FB09
+[2018.10.10-22.44.46:805][706]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:59963, Name: IpConnection_12, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: PlayerController_6, Owner: PlayerController_6, UniqueId: NULL:Razer-Blade-0DB0901A425B78743628A087D1AC7ECE
+[2018.10.10-22.44.46:805][706]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:59963, Name: IpConnection_12, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: PlayerController_6, Owner: PlayerController_6, UniqueId: NULL:Razer-Blade-0DB0901A425B78743628A087D1AC7ECE, Channels: 21, Time: 2018.10.10-22.44.46
+[2018.10.10-22.44.46:805][706]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:59963, Name: IpConnection_12, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: PlayerController_6, Owner: PlayerController_6, UniqueId: NULL:Razer-Blade-0DB0901A425B78743628A087D1AC7ECE
+[2018.10.10-22.44.46:805][706]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:59962, Name: IpConnection_11, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: PlayerController_5, Owner: PlayerController_5, UniqueId: NULL:Razer-Blade-A6D3DE804ECE073411FA51BE30D4881A
+[2018.10.10-22.44.46:806][706]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:59962, Name: IpConnection_11, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: PlayerController_5, Owner: PlayerController_5, UniqueId: NULL:Razer-Blade-A6D3DE804ECE073411FA51BE30D4881A, Channels: 21, Time: 2018.10.10-22.44.46
+[2018.10.10-22.44.46:806][706]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:59962, Name: IpConnection_11, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: PlayerController_5, Owner: PlayerController_5, UniqueId: NULL:Razer-Blade-A6D3DE804ECE073411FA51BE30D4881A
+[2018.10.10-22.44.46:806][706]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:59961, Name: IpConnection_10, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: PlayerController_4, Owner: PlayerController_4, UniqueId: NULL:Razer-Blade-693D23EC408FBC9531245DB55C851BA2
+[2018.10.10-22.44.46:806][706]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:59961, Name: IpConnection_10, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: PlayerController_4, Owner: PlayerController_4, UniqueId: NULL:Razer-Blade-693D23EC408FBC9531245DB55C851BA2, Channels: 21, Time: 2018.10.10-22.44.46
+[2018.10.10-22.44.46:806][706]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:59961, Name: IpConnection_10, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: PlayerController_4, Owner: PlayerController_4, UniqueId: NULL:Razer-Blade-693D23EC408FBC9531245DB55C851BA2
+[2018.10.10-22.44.46:806][706]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:59960, Name: IpConnection_9, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: PlayerController_3, Owner: PlayerController_3, UniqueId: NULL:Razer-Blade-5ACC09FC4E96435A6C05AA86C0841D97
+[2018.10.10-22.44.46:806][706]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:59960, Name: IpConnection_9, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: PlayerController_3, Owner: PlayerController_3, UniqueId: NULL:Razer-Blade-5ACC09FC4E96435A6C05AA86C0841D97, Channels: 21, Time: 2018.10.10-22.44.46
+[2018.10.10-22.44.46:806][706]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:59960, Name: IpConnection_9, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: PlayerController_3, Owner: PlayerController_3, UniqueId: NULL:Razer-Blade-5ACC09FC4E96435A6C05AA86C0841D97
+[2018.10.10-22.44.46:806][706]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:59959, Name: IpConnection_8, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: None, Owner: None, UniqueId: NULL:Razer-Blade-7D46C3154BE2041340CD019C50571A7C
+[2018.10.10-22.44.46:806][706]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:59959, Name: IpConnection_8, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: None, Owner: None, UniqueId: NULL:Razer-Blade-7D46C3154BE2041340CD019C50571A7C, Channels: 21, Time: 2018.10.10-22.44.46
+[2018.10.10-22.44.46:806][706]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:59959, Name: IpConnection_8, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: None, Owner: None, UniqueId: NULL:Razer-Blade-7D46C3154BE2041340CD019C50571A7C
+[2018.10.10-22.44.46:806][706]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:59958, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: None, Owner: None, UniqueId: NULL:Razer-Blade-3D5964564691227371048BBE4C95C391
+[2018.10.10-22.44.46:806][706]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:59958, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: None, Owner: None, UniqueId: NULL:Razer-Blade-3D5964564691227371048BBE4C95C391, Channels: 20, Time: 2018.10.10-22.44.46
+[2018.10.10-22.44.46:806][706]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:59958, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: None, Owner: None, UniqueId: NULL:Razer-Blade-3D5964564691227371048BBE4C95C391
+[2018.10.10-22.44.46:806][706]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_6, Driver: GameNetDriver IpNetDriver_7, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:Razer-Blade-1DE756D544314C3F73ADF6A4BEE1FB09
+[2018.10.10-22.44.46:806][706]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_6, Driver: GameNetDriver IpNetDriver_7, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:Razer-Blade-1DE756D544314C3F73ADF6A4BEE1FB09, Channels: 21, Time: 2018.10.10-22.44.46
+[2018.10.10-22.44.46:806][706]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_6, Driver: GameNetDriver IpNetDriver_7, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:Razer-Blade-1DE756D544314C3F73ADF6A4BEE1FB09
+[2018.10.10-22.44.46:806][706]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_6, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:Razer-Blade-0DB0901A425B78743628A087D1AC7ECE
+[2018.10.10-22.44.46:806][706]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_6, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:Razer-Blade-0DB0901A425B78743628A087D1AC7ECE, Channels: 21, Time: 2018.10.10-22.44.46
+[2018.10.10-22.44.46:806][706]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_6, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:Razer-Blade-0DB0901A425B78743628A087D1AC7ECE
+[2018.10.10-22.44.46:807][706]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_4, Driver: GameNetDriver IpNetDriver_5, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:Razer-Blade-A6D3DE804ECE073411FA51BE30D4881A
+[2018.10.10-22.44.46:807][706]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_4, Driver: GameNetDriver IpNetDriver_5, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:Razer-Blade-A6D3DE804ECE073411FA51BE30D4881A, Channels: 21, Time: 2018.10.10-22.44.46
+[2018.10.10-22.44.46:807][706]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_4, Driver: GameNetDriver IpNetDriver_5, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:Razer-Blade-A6D3DE804ECE073411FA51BE30D4881A
+[2018.10.10-22.44.46:807][706]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_4, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:Razer-Blade-693D23EC408FBC9531245DB55C851BA2
+[2018.10.10-22.44.46:807][706]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_4, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:Razer-Blade-693D23EC408FBC9531245DB55C851BA2, Channels: 21, Time: 2018.10.10-22.44.46
+[2018.10.10-22.44.46:807][706]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_4, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:Razer-Blade-693D23EC408FBC9531245DB55C851BA2
+[2018.10.10-22.44.46:807][706]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_3, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:Razer-Blade-5ACC09FC4E96435A6C05AA86C0841D97
+[2018.10.10-22.44.46:807][706]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_3, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:Razer-Blade-5ACC09FC4E96435A6C05AA86C0841D97, Channels: 21, Time: 2018.10.10-22.44.46
+[2018.10.10-22.44.46:807][706]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_3, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:Razer-Blade-5ACC09FC4E96435A6C05AA86C0841D97
+[2018.10.10-22.44.46:809][706]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.10-22.44.46:809][706]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_2, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:Razer-Blade-7D46C3154BE2041340CD019C50571A7C
+[2018.10.10-22.44.46:809][706]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_2, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:Razer-Blade-7D46C3154BE2041340CD019C50571A7C, Channels: 21, Time: 2018.10.10-22.44.46
+[2018.10.10-22.44.46:809][706]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_2, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:Razer-Blade-7D46C3154BE2041340CD019C50571A7C
+[2018.10.10-22.44.46:809][706]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:Razer-Blade-3D5964564691227371048BBE4C95C391
+[2018.10.10-22.44.46:809][706]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:Razer-Blade-3D5964564691227371048BBE4C95C391, Channels: 21, Time: 2018.10.10-22.44.46
+[2018.10.10-22.44.46:810][706]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:Razer-Blade-3D5964564691227371048BBE4C95C391
+[2018.10.10-22.44.46:812][706]LogExit: GameNetDriver None shut down
+[2018.10.10-22.44.46:812][706]LogExit: GameNetDriver None shut down
+[2018.10.10-22.44.46:812][706]LogExit: GameNetDriver None shut down
+[2018.10.10-22.44.46:813][706]LogExit: GameNetDriver None shut down
+[2018.10.10-22.44.46:813][706]LogExit: GameNetDriver None shut down
+[2018.10.10-22.44.46:814][706]LogExit: GameNetDriver None shut down
+[2018.10.10-22.44.46:815][706]LogExit: GameNetDriver None shut down
+[2018.10.10-22.44.46:816][706]LogExit: GameNetDriver None shut down
+[2018.10.10-22.44.46:830][707]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2018.10.10-22.44.46:830][707]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2018.10.10-22.44.46:831][707]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2018.10.10-22.44.46:831][707]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2018.10.10-22.44.46:831][707]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2018.10.10-22.44.46:831][707]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2018.10.10-22.44.46:831][707]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2018.10.10-22.44.46:831][707]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2018.10.10-22.44.48:446][803]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.10-22.45.34:342][517]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.10-22.45.34:364][517]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.10-22.45.34:364][517]PIE: New page: PIE session: MainMenu (Oct 10, 2018, 12:45:34 PM)
+[2018.10.10-22.45.34:364][517]LogPlayLevel: Creating play world package: /Game/Levels/MainMenu/UEDPIE_0_MainMenu
+[2018.10.10-22.45.34:365][517]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000725s)
+[2018.10.10-22.45.34:366][517]LogAIModule: Creating AISystem for world MainMenu
+[2018.10.10-22.45.34:366][517]LogPlayLevel: PIE: World Init took: (0.000645s)
+[2018.10.10-22.45.34:366][517]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenu/MainMenu.MainMenu to /Game/Levels/MainMenu/UEDPIE_0_MainMenu.MainMenu (0.001496s)
+[2018.10.10-22.45.34:401][517]LogInit: XAudio2 using 'Speakers (Razer Surround Audio Controller)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.10.10-22.45.34:406][517]LogInit: FAudioDevice initialized.
+[2018.10.10-22.45.34:437][517]LogLoad: Game class is 'MenuGameMode_C'
+[2018.10.10-22.45.34:438][517]LogWorld: Bringing World /Game/Levels/MainMenu/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2018.10.10-17.45.34
+[2018.10.10-22.45.34:438][517]LogWorld: Bringing up level for play took: 0.000388
+[2018.10.10-22.45.34:452][517]PIE: Play in editor start time for /Game/Levels/MainMenu/UEDPIE_0_MainMenu -0.815
+[2018.10.10-22.45.38:486][759]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.10-22.45.38:521][759]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.10-22.45.38:546][759]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.10-22.45.38:597][762]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2018.10.10-23.33.02:757][387]LogLinker: Warning: Can't find file '/Game/Actors/Spectator'
+[2018.10.10-23.33.02:758][387]LogLinker: Warning: Can't find file for asset '/Game/Actors/Spectator' while loading ../../../../../../Users/Phenrear/Desktop/GiftGame/gift/Builds/GiftGame/Content/Levels/GiftGame/GiftGame.umap.
+[2018.10.10-23.33.02:758][387]LoadErrors: Error: /Game/Levels/GiftGame/GiftGame : Can't find file for asset. /Game/Actors/Spectator
+[2018.10.10-23.33.02:758][387]LogLinker: Warning: Can't find file '/Game/Actors/Spectator'
+[2018.10.10-23.33.02:758][387]LogLinker: Warning: Can't find file for asset '/Game/Actors/Spectator' while loading ../../../../../../Users/Phenrear/Desktop/GiftGame/gift/Builds/GiftGame/Content/Levels/GiftGame/GiftGame.umap.
+[2018.10.10-23.33.02:758][387]LogLinker: Warning: Can't find file '/Game/Actors/GiftBox'
+[2018.10.10-23.33.02:758][387]LogLinker: Warning: Can't find file for asset '/Game/Actors/GiftBox' while loading ../../../../../../Users/Phenrear/Desktop/GiftGame/gift/Builds/GiftGame/Content/Levels/GiftGame/GiftGame.umap.
+[2018.10.10-23.33.02:758][387]LoadErrors: Error: /Game/Levels/GiftGame/GiftGame : Can't find file for asset. /Game/Actors/GiftBox
+[2018.10.10-23.33.02:758][387]LogLinker: Warning: Can't find file '/Game/Actors/Spectator'
+[2018.10.10-23.33.02:759][387]LogLinker: Warning: Can't find file for asset '/Game/Actors/Spectator' while loading ../../../../../../Users/Phenrear/Desktop/GiftGame/gift/Builds/GiftGame/Content/Levels/GiftGame/GiftGame.umap.
+[2018.10.10-23.33.02:760][387]LogLinker: Warning: Can't find file '/Game/Actors/GiftBox'
+[2018.10.10-23.33.02:760][387]LogLinker: Warning: Can't find file for asset '/Game/Actors/GiftBox' while loading ../../../../../../Users/Phenrear/Desktop/GiftGame/gift/Builds/GiftGame/Content/Levels/GiftGame/GiftGame.umap.
+[2018.10.10-23.33.02:763][387]LogLinker: Warning: Can't find file '/Game/Actors/GiftBox'
+[2018.10.10-23.33.02:763][387]LogLinker: Warning: Can't find file for asset '/Game/Actors/GiftBox' while loading ../../../../../../Users/Phenrear/Desktop/GiftGame/gift/Builds/GiftGame/Content/Levels/GiftGame/GiftGame.umap.
+[2018.10.10-23.33.02:763][387]LogLinker: Warning: Can't find file '/Game/Actors/Spectator'
+[2018.10.10-23.33.02:764][387]LogLinker: Warning: Can't find file for asset '/Game/Actors/Spectator' while loading ../../../../../../Users/Phenrear/Desktop/GiftGame/gift/Builds/GiftGame/Content/Levels/GiftGame/GiftGame.umap.
+[2018.10.10-23.33.02:764][387]LogLinker: Warning: Can't find file '/Game/Actors/Spectator'
+[2018.10.10-23.33.02:764][387]LogLinker: Warning: Can't find file for asset '/Game/Actors/Spectator' while loading ../../../../../../Users/Phenrear/Desktop/GiftGame/gift/Builds/GiftGame/Content/Levels/GiftGame/GiftGame.umap.
+[2018.10.10-23.33.02:765][387]LogLinker: Warning: Can't find file '/Game/Actors/GiftBox'
+[2018.10.10-23.33.02:765][387]LogLinker: Warning: Can't find file for asset '/Game/Actors/GiftBox' while loading ../../../../../../Users/Phenrear/Desktop/GiftGame/gift/Builds/GiftGame/Content/Levels/GiftGame/GiftGame.umap.
+[2018.10.10-23.33.02:766][387]LogLinker: Warning: Can't find file '/Game/Actors/GiftBox'
+[2018.10.10-23.33.02:766][387]LogLinker: Warning: Can't find file for asset '/Game/Actors/GiftBox' while loading NULL.
+[2018.10.10-23.33.02:766][387]LogLinker: Warning: Can't find file '/Game/Actors/Spectator'
+[2018.10.10-23.33.02:766][387]LogLinker: Warning: Can't find file for asset '/Game/Actors/Spectator' while loading NULL.
+[2018.10.10-23.33.02:766][387]LogLinker: Warning: Can't find file '/Game/Actors/Spectator'
+[2018.10.10-23.33.02:766][387]LogLinker: Warning: Can't find file for asset '/Game/Actors/Spectator' while loading NULL.
+[2018.10.10-23.33.02:766][387]LogLinker: Warning: Can't find file '/Game/Actors/GiftBox'
+[2018.10.10-23.33.02:767][387]LogLinker: Warning: Can't find file for asset '/Game/Actors/GiftBox' while loading NULL.
+[2018.10.10-23.33.02:767][387]LogLinker: Warning: Can't find file '/Game/Actors/Spectator'
+[2018.10.10-23.33.02:767][387]LogLinker: Warning: Can't find file for asset '/Game/Actors/Spectator' while loading NULL.
+[2018.10.10-23.33.02:767][387]LogLinker: Warning: Can't find file '/Game/Actors/GiftBox'
+[2018.10.10-23.33.02:767][387]LogLinker: Warning: Can't find file for asset '/Game/Actors/GiftBox' while loading NULL.
+[2018.10.10-23.33.02:767][387]LogLinker: Warning: Can't find file '/Game/Actors/GiftBox'
+[2018.10.10-23.33.02:767][387]LogLinker: Warning: Can't find file for asset '/Game/Actors/GiftBox' while loading NULL.
+[2018.10.10-23.33.02:767][387]LogLinker: Warning: Can't find file '/Game/Actors/Spectator'
+[2018.10.10-23.33.02:767][387]LogLinker: Warning: Can't find file for asset '/Game/Actors/Spectator' while loading NULL.
+[2018.10.10-23.33.02:767][387]LogLinker: Warning: Can't find file '/Game/Actors/Spectator'
+[2018.10.10-23.33.02:767][387]LogLinker: Warning: Can't find file for asset '/Game/Actors/Spectator' while loading NULL.
+[2018.10.10-23.33.02:768][387]LogLinker: Warning: Can't find file '/Game/Actors/GiftBox'
+[2018.10.10-23.33.02:768][387]LogLinker: Warning: Can't find file for asset '/Game/Actors/GiftBox' while loading NULL.
+[2018.10.10-23.33.02:768][387]LogLinker: Warning: Can't find file '/Game/Actors/GiftBox'
+[2018.10.10-23.33.02:768][387]LogLinker: Warning: Can't find file for asset '/Game/Actors/GiftBox' while loading NULL.
+[2018.10.10-23.33.02:768][387]LogLinker: Warning: Can't find file '/Game/Actors/GiftBox'
+[2018.10.10-23.33.02:768][387]LoadErrors: Failed to load /Game/Actors/GiftBox.GiftBox_C Referenced by Default__GiftGame_C
+[2018.10.10-23.33.02:768][387]LogLinker: Warning: Can't find file for asset '/Game/Actors/GiftBox' while loading NULL.
+[2018.10.10-23.33.02:769][387]LogLinker: Warning: Can't find file '/Game/Actors/GiftBox'
+[2018.10.10-23.33.02:769][387]LogLinker: Warning: Can't find file for asset '/Game/Actors/GiftBox' while loading NULL.
+[2018.10.10-23.33.02:769][387]LogLinker: Warning: Can't find file '/Game/Actors/GiftBox'
+[2018.10.10-23.33.02:769][387]LogLinker: Warning: Can't find file for asset '/Game/Actors/GiftBox' while loading NULL.
+[2018.10.10-23.33.02:771][387]LogLinker: Warning: Can't find file '/Game/Actors/GiftBox'
+[2018.10.10-23.33.02:771][387]LoadErrors: Failed to load /Game/Actors/GiftBox.GiftBox_C Referenced by K2Node_Literal_7
+[2018.10.10-23.33.02:771][387]LogLinker: Warning: Can't find file for asset '/Game/Actors/GiftBox' while loading NULL.
+[2018.10.10-23.33.02:771][387]LogLinker: Warning: Can't find file '/Game/Actors/GiftBox'
+[2018.10.10-23.33.02:771][387]LoadErrors: Failed to load /Game/Actors/GiftBox.GiftBox_C Referenced by K2Node_Literal_0
+[2018.10.10-23.33.02:771][387]LogLinker: Warning: Can't find file for asset '/Game/Actors/GiftBox' while loading NULL.
+[2018.10.10-23.33.02:773][387]LogLinker: Warning: Can't find file '/Game/Actors/GiftBox'
+[2018.10.10-23.33.02:773][387]LoadErrors: Failed to load /Game/Actors/GiftBox.GiftBox_C Referenced by K2Node_Literal_5
+[2018.10.10-23.33.02:773][387]LogLinker: Warning: Can't find file for asset '/Game/Actors/GiftBox' while loading NULL.
+[2018.10.10-23.33.02:774][387]LogLinker: Warning: Can't find file '/Game/Actors/GiftBox'
+[2018.10.10-23.33.02:774][387]LoadErrors: Failed to load /Game/Actors/GiftBox.GiftBox_C Referenced by K2Node_Literal_6
+[2018.10.10-23.33.02:774][387]LogLinker: Warning: Can't find file for asset '/Game/Actors/GiftBox' while loading NULL.
+[2018.10.10-23.33.02:774][387]LogLinker: Warning: Can't find file '/Game/Actors/GiftBox'
+[2018.10.10-23.33.02:774][387]LoadErrors: Failed to load /Game/Actors/GiftBox.GiftBox_C Referenced by K2Node_CallFunction_2
+[2018.10.10-23.33.02:774][387]LogLinker: Warning: Can't find file for asset '/Game/Actors/GiftBox' while loading NULL.
+[2018.10.10-23.33.02:774][387]LogLinker: Warning: Can't find file '/Game/Actors/GiftBox'
+[2018.10.10-23.33.02:775][387]LogLinker: Warning: Can't find file for asset '/Game/Actors/GiftBox' while loading NULL.
+[2018.10.10-23.33.02:775][387]LogLinker: Warning: Can't find file '/Game/Actors/GiftBox'
+[2018.10.10-23.33.02:775][387]LoadErrors: Failed to load /Game/Actors/GiftBox.GiftBox_C Referenced by K2Node_CallArrayFunction_0
+[2018.10.10-23.33.02:775][387]LogLinker: Warning: Can't find file for asset '/Game/Actors/GiftBox' while loading NULL.
+[2018.10.10-23.33.02:775][387]LogLinker: Warning: Can't find file '/Game/Actors/GiftBox'
+[2018.10.10-23.33.02:775][387]LoadErrors: Failed to load /Game/Actors/GiftBox.GiftBox_C Referenced by K2Node_Literal_1
+[2018.10.10-23.33.02:775][387]LogLinker: Warning: Can't find file for asset '/Game/Actors/GiftBox' while loading NULL.
+[2018.10.10-23.33.02:775][387]LogLinker: Warning: Can't find file '/Game/Actors/GiftBox'
+[2018.10.10-23.33.02:776][387]LoadErrors: Failed to load /Game/Actors/GiftBox.GiftBox_C Referenced by K2Node_Literal_8
+[2018.10.10-23.33.02:776][387]LogLinker: Warning: Can't find file for asset '/Game/Actors/GiftBox' while loading NULL.
+[2018.10.10-23.33.02:779][387]LogBlueprint: Warning: [Compiler PersistentLevel.GiftGame] Node  Unknown  is not referencing a valid level actor
+[2018.10.10-23.33.02:779][387]LogBlueprint: Warning: [Compiler PersistentLevel.GiftGame] Node  Unknown  is not referencing a valid level actor
+[2018.10.10-23.33.02:780][387]LogBlueprint: Warning: [Compiler PersistentLevel.GiftGame] Node  Unknown  is not referencing a valid level actor
+[2018.10.10-23.33.02:780][387]LogBlueprint: Warning: [Compiler PersistentLevel.GiftGame] Node  Unknown  is not referencing a valid level actor
+[2018.10.10-23.33.02:780][387]LogBlueprint: Warning: [Compiler PersistentLevel.GiftGame] Node  Unknown  is not referencing a valid level actor
+[2018.10.10-23.33.02:780][387]LogBlueprint: Warning: [Compiler PersistentLevel.GiftGame] Node  Unknown  is not referencing a valid level actor
+[2018.10.10-23.33.02:781][387]LogBlueprint: Warning: [Compiler PersistentLevel.GiftGame] [2936.59] Compile of PersistentLevel.GiftGame successful, but with 6 Warning(s) [in 4 ms] (/Game/Levels/GiftGame/GiftGame.GiftGame:PersistentLevel.GiftGame)
+[2018.10.10-23.33.02:781][387]LogLinker: Warning: Can't find file '/Game/Actors/Spectator'
+[2018.10.10-23.33.02:781][387]LogLinker: Warning: Can't find file for asset '/Game/Actors/Spectator' while loading NULL.
+[2018.10.10-23.33.02:781][387]LogLinker: Warning: Can't find file '/Game/Actors/Spectator'
+[2018.10.10-23.33.02:782][387]LogLinker: Warning: Can't find file for asset '/Game/Actors/Spectator' while loading NULL.
+[2018.10.10-23.33.02:793][387]LogAIModule: Creating AISystem for world GiftGame
+[2018.10.10-23.33.02:796][387]LogAssetEditorManager: Opening Asset editor for World /Game/Levels/GiftGame/GiftGame.GiftGame
+[2018.10.10-23.33.02:818][387]Cmd: MAP LOAD FILE="../../../../../../Users/Phenrear/Desktop/GiftGame/gift/Builds/GiftGame/Content/Levels/GiftGame/GiftGame.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.10.10-23.33.02:818][387]LightingResults: New page: Lighting Build
+[2018.10.10-23.33.02:819][387]LoadErrors: New page: Loading map: GiftGame.umap
+[2018.10.10-23.33.02:819][387]MapCheck: New page: Map Check
+[2018.10.10-23.33.02:819][387]LightingResults: New page: Lighting Build
+[2018.10.10-23.33.02:844][387]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.10.10-23.33.02:906][387]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.10.10-23.33.02:967][387]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 59.831ms to complete.
+[2018.10.10-23.33.02:967][387]LogFileHelpers: Loading map 'GiftGame' took 0.149
+[2018.10.10-23.33.03:002][387]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Background': Spectator_C /Game/Levels/GiftGame/GiftGame.GiftGame:PersistentLevel.Spectator_2
+[2018.10.10-23.33.03:002][387]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Sound-What': Spectator_C /Game/Levels/GiftGame/GiftGame.GiftGame:PersistentLevel.Spectator_2
+[2018.10.10-23.33.03:002][387]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': Spectator_C /Game/Levels/GiftGame/GiftGame.GiftGame:PersistentLevel.Spectator_2
+[2018.10.10-23.33.03:002][387]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'StaticMeshComponent0': GiftBox_C /Game/Levels/GiftGame/GiftGame.GiftGame:PersistentLevel.Cube_Rainbow
+[2018.10.10-23.33.03:002][387]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'StaticMeshComponent0': GiftBox_C /Game/Levels/GiftGame/GiftGame.GiftGame:PersistentLevel.Cube_Red
+[2018.10.10-23.33.49:244][161]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2018.10.10-23.34.18:024][880]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.10-23.37.27:890][679]LogActorFactory: Actor Factory created Plane
+[2018.10.10-23.37.28:278][701]LogActorFactory: Actor Factory created Plane
+[2018.10.10-23.37.34:093][ 45]Cmd: DELETE
+[2018.10.10-23.37.34:093][ 45]Cmd: ACTOR DELETE
+[2018.10.10-23.37.34:097][ 45]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.10-23.37.34:119][ 45]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2018.10.10-23.37.35:608][135]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.10-23.37.54:043][232]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2018.10.10-23.38.18:670][704]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.10-23.38.34:823][670]Cmd: TRANSACTION UNDO
+[2018.10.10-23.38.34:823][670]LogEditorTransaction: Undo Create Actors
+[2018.10.10-23.38.37:981][859]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.10.10-23.38.39:900][971]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2018.10.10-23.38.46:360][353]LogEditorViewport: Clicking on Actor (context menu): CameraActor (CameraActor)
+[2018.10.10-23.38.46:385][353]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.10-23.41.44:692][ 41]LogActorFactory: Actor Factory created Plane
+[2018.10.10-23.41.45:544][ 92]LogActorFactory: Actor Factory created Plane
+[2018.10.10-23.41.49:523][326]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.10-23.42.07:999][433]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.10-23.42.18:723][ 76]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.10-23.42.36:561][145]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.10-23.43.19:509][721]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.10-23.43.35:614][687]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.10-23.43.44:540][222]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.10-23.44.08:669][669]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.10-23.44.11:921][864]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2018.10.10-23.44.31:741][ 51]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.10-23.45.19:502][897]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.10-23.45.21:288][998]LogAssetEditorManager: Opening Asset editor for Material /Game/Art/MenuAssets/Background.Background
+[2018.10.10-23.45.21:291][998]LogMaterial: Display: Missing cached shader map for material Background, compiling. 
+[2018.10.10-23.45.21:694][998]LogMaterial: Display: Missing cached shader map for material Background, compiling. 
+[2018.10.10-23.45.21:709][998]LogMaterial: Display: Missing cached shader map for material Background, compiling. 
+[2018.10.10-23.45.21:726][998]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.10.10-23.45.21:726][998]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.10.10-23.45.21:726][998]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.10.10-23.45.21:726][998]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.10.10-23.45.21:795][998]LogSlate: Took 0.000287 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.10.10-23.45.22:647][ 39]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.10.10-23.45.22:694][ 42]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.10.10-23.45.22:711][ 43]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.10.10-23.45.22:730][ 44]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.10.10-23.45.22:885][ 53]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.10.10-23.45.22:935][ 56]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.10.10-23.45.22:951][ 57]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.10.10-23.45.22:951][ 57]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.10.10-23.45.23:152][ 69]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.10.10-23.45.23:319][ 79]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.10.10-23.45.23:656][ 99]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.10.10-23.45.23:672][100]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.10.10-23.45.23:755][105]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.10.10-23.45.23:906][114]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.10.10-23.45.23:937][116]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.10.10-23.45.24:189][131]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.10-23.45.24:189][131]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.10-23.45.24:628][157]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.10.10-23.45.24:628][157]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.10.10-23.45.24:628][157]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2018.10.10-23.45.24:628][157]MaterialEditorStats: Texture samplers: 3/16
+[2018.10.10-23.45.25:114][180]LogBlueprint: Warning: [Compiler PersistentLevel.GiftGame] Node  Unknown  is not referencing a valid level actor
+[2018.10.10-23.45.25:114][180]LogBlueprint: Warning: [Compiler PersistentLevel.GiftGame] Node  Unknown  is not referencing a valid level actor
+[2018.10.10-23.45.25:114][180]LogBlueprint: Warning: [Compiler PersistentLevel.GiftGame] Node  Unknown  is not referencing a valid level actor
+[2018.10.10-23.45.25:114][180]LogBlueprint: Warning: [Compiler PersistentLevel.GiftGame] Node  Unknown  is not referencing a valid level actor
+[2018.10.10-23.45.25:115][180]LogBlueprint: Warning: [Compiler PersistentLevel.GiftGame] Node  Unknown  is not referencing a valid level actor
+[2018.10.10-23.45.25:115][180]LogBlueprint: Warning: [Compiler PersistentLevel.GiftGame] Node  Unknown  is not referencing a valid level actor
+[2018.10.10-23.45.25:116][180]LogBlueprint: Warning: [Compiler PersistentLevel.GiftGame] [3678.92] Compile of PersistentLevel.GiftGame successful, but with 6 Warning(s) [in 11 ms] (/Game/Levels/GiftGame/GiftGame.GiftGame:PersistentLevel.GiftGame)
+[2018.10.10-23.45.25:222][180]LogSavePackage: Moving '../../../../../../Users/Phenrear/Desktop/GiftGame/gift/Builds/GiftGame/Saved/GiftGame_Auto1F60E069049C083FDA6E474A23E2F3A3D.tmp' to '../../../../../../Users/Phenrear/Desktop/GiftGame/gift/Builds/GiftGame/Saved/Autosaves/Game/Levels/GiftGame/GiftGame_Auto1.umap'
+[2018.10.10-23.45.25:241][180]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/GiftGame/GiftGame' took 0.199
+[2018.10.10-23.45.25:241][180]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.199
+[2018.10.10-23.45.25:247][180]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/MenuAssets/Background] ([1] browsable assets)...
+[2018.10.10-23.45.25:280][180]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Art/MenuAssets/Background.Background]
+[2018.10.10-23.45.25:280][180]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/MenuAssets/Background]
+[2018.10.10-23.45.25:308][180]LogSavePackage: Moving '../../../../../../Users/Phenrear/Desktop/GiftGame/gift/Builds/GiftGame/Saved/Background_Auto1713302484CDC383EABF2039D7D9352BB.tmp' to '../../../../../../Users/Phenrear/Desktop/GiftGame/gift/Builds/GiftGame/Saved/Autosaves/Game/Art/MenuAssets/Background_Auto1.uasset'
+[2018.10.10-23.45.25:314][180]LogFileHelpers: Auto-saving content packages took 0.072
+[2018.10.10-23.52.45:984][458]LogSlate: Window 'Background*' being destroyed
+[2018.10.10-23.55.58:588][929]LogSlate: Window 'Save Content' being destroyed
+[2018.10.10-23.55.58:704][929]LogSlate: Window 'GiftGame - Unreal Editor' being destroyed
+[2018.10.10-23.55.58:910][930]Cmd: QUIT_EDITOR
+[2018.10.10-23.55.59:637][930]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.10-23.55.59:652][930]LogExit: Preparing to exit.
+[2018.10.10-23.56.00:200][930]LogExit: Editor shut down
+[2018.10.10-23.56.00:201][930]LogExit: Transaction tracking system shut down
+[2018.10.10-23.56.00:604][930]LogExit: Object subsystem successfully closed.
+[2018.10.10-23.56.00:634][930]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.10.10-23.56.00:639][930]LogD3D11RHI: Shutdown
+[2018.10.10-23.56.00:639][930]LogD3D11RHI: CleanupD3DDevice
+[2018.10.10-23.56.00:643][930]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.10.10-23.56.00:665][930]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (617)
+[2018.10.10-23.56.00:665][930]LogModuleManager: Shutting down and abandoning module Voice (615)
+[2018.10.10-23.56.00:665][930]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (613)
+[2018.10.10-23.56.00:665][930]LogModuleManager: Shutting down and abandoning module SceneOutliner (611)
+[2018.10.10-23.56.00:665][930]LogModuleManager: Shutting down and abandoning module AddContentDialog (609)
+[2018.10.10-23.56.00:665][930]LogModuleManager: Shutting down and abandoning module WidgetCarousel (608)
+[2018.10.10-23.56.00:665][930]LogModuleManager: Shutting down and abandoning module EditorWidgets (605)
+[2018.10.10-23.56.00:665][930]LogModuleManager: Shutting down and abandoning module CollectionManager (603)
+[2018.10.10-23.56.00:666][930]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (601)
+[2018.10.10-23.56.00:666][930]LogModuleManager: Shutting down and abandoning module StatsViewer (599)
+[2018.10.10-23.56.00:666][930]LogModuleManager: Shutting down and abandoning module FoliageEdit (597)
+[2018.10.10-23.56.00:666][930]LogModuleManager: Shutting down and abandoning module LandscapeEditor (595)
+[2018.10.10-23.56.00:666][930]LogModuleManager: Shutting down and abandoning module MeshPaintMode (593)
+[2018.10.10-23.56.00:666][930]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (591)
+[2018.10.10-23.56.00:666][930]LogModuleManager: Shutting down and abandoning module ActorPickerMode (589)
+[2018.10.10-23.56.00:666][930]LogModuleManager: Shutting down and abandoning module GeometryMode (587)
+[2018.10.10-23.56.00:666][930]LogModuleManager: Shutting down and abandoning module TextureAlignMode (585)
+[2018.10.10-23.56.00:666][930]LogModuleManager: Shutting down and abandoning module BspMode (583)
+[2018.10.10-23.56.00:666][930]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (581)
+[2018.10.10-23.56.00:666][930]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (579)
+[2018.10.10-23.56.00:666][930]LogModuleManager: Shutting down and abandoning module AutomationWorker (577)
+[2018.10.10-23.56.00:666][930]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (575)
+[2018.10.10-23.56.00:666][930]LogModuleManager: Shutting down and abandoning module SequenceRecorder (574)
+[2018.10.10-23.56.00:666][930]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (571)
+[2018.10.10-23.56.00:666][930]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (569)
+[2018.10.10-23.56.00:666][930]LogModuleManager: Shutting down and abandoning module PlacementMode (568)
+[2018.10.10-23.56.00:667][930]LogModuleManager: Shutting down and abandoning module MaterialEditor (567)
+[2018.10.10-23.56.00:667][930]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (563)
+[2018.10.10-23.56.00:667][930]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (561)
+[2018.10.10-23.56.00:667][930]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (559)
+[2018.10.10-23.56.00:667][930]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (557)
+[2018.10.10-23.56.00:667][930]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (555)
+[2018.10.10-23.56.00:667][930]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (553)
+[2018.10.10-23.56.00:667][930]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (551)
+[2018.10.10-23.56.00:667][930]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (549)
+[2018.10.10-23.56.00:667][930]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (547)
+[2018.10.10-23.56.00:667][930]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (545)
+[2018.10.10-23.56.00:667][930]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (543)
+[2018.10.10-23.56.00:667][930]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (541)
+[2018.10.10-23.56.00:667][930]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (539)
+[2018.10.10-23.56.00:667][930]LogModuleManager: Shutting down and abandoning module CharacterAI (537)
+[2018.10.10-23.56.00:667][930]LogModuleManager: Shutting down and abandoning module SmartSnapping (535)
+[2018.10.10-23.56.00:667][930]LogModuleManager: Shutting down and abandoning module SessionServices (533)
+[2018.10.10-23.56.00:667][930]LogModuleManager: Shutting down and abandoning module ViewportSnapping (531)
+[2018.10.10-23.56.00:667][930]LogModuleManager: Shutting down and abandoning module ViewportInteraction (529)
+[2018.10.10-23.56.00:667][930]LogModuleManager: Shutting down and abandoning module ClothPainter (527)
+[2018.10.10-23.56.00:667][930]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (526)
+[2018.10.10-23.56.00:667][930]LogModuleManager: Shutting down and abandoning module LogVisualizer (523)
+[2018.10.10-23.56.00:667][930]LogModuleManager: Shutting down and abandoning module IntroTutorials (521)
+[2018.10.10-23.56.00:667][930]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (520)
+[2018.10.10-23.56.00:667][930]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (517)
+[2018.10.10-23.56.00:667][930]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (515)
+[2018.10.10-23.56.00:667][930]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (513)
+[2018.10.10-23.56.00:667][930]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (511)
+[2018.10.10-23.56.00:667][930]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (510)
+[2018.10.10-23.56.01:685][930]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (507)
+[2018.10.10-23.56.01:685][930]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (505)
+[2018.10.10-23.56.01:685][930]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (503)
+[2018.10.10-23.56.01:685][930]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (501)
+[2018.10.10-23.56.01:685][930]LogModuleManager: Shutting down and abandoning module InputBindingEditor (499)
+[2018.10.10-23.56.01:685][930]LogModuleManager: Shutting down and abandoning module MergeActors (497)
+[2018.10.10-23.56.01:685][930]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (495)
+[2018.10.10-23.56.01:686][930]LogModuleManager: Shutting down and abandoning module LocalizationService (494)
+[2018.10.10-23.56.01:686][930]LogModuleManager: Shutting down and abandoning module HardwareTargeting (491)
+[2018.10.10-23.56.01:686][930]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (489)
+[2018.10.10-23.56.01:686][930]LogModuleManager: Shutting down and abandoning module UndoHistory (487)
+[2018.10.10-23.56.01:686][930]LogModuleManager: Shutting down and abandoning module XmlParser (485)
+[2018.10.10-23.56.01:686][930]LogModuleManager: Shutting down and abandoning module Blutility (483)
+[2018.10.10-23.56.01:686][930]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (481)
+[2018.10.10-23.56.01:686][930]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (480)
+[2018.10.10-23.56.01:686][930]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (477)
+[2018.10.10-23.56.01:686][930]LogModuleManager: Shutting down and abandoning module SettingsEditor (475)
+[2018.10.10-23.56.01:686][930]LogModuleManager: Shutting down and abandoning module ProjectLauncher (473)
+[2018.10.10-23.56.01:686][930]LogModuleManager: Shutting down and abandoning module SessionFrontend (471)
+[2018.10.10-23.56.01:686][930]LogModuleManager: Shutting down and abandoning module ProfilerClient (469)
+[2018.10.10-23.56.01:686][930]LogModuleManager: Shutting down and abandoning module DeviceManager (467)
+[2018.10.10-23.56.01:686][930]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (466)
+[2018.10.10-23.56.01:752][930]LogModuleManager: Shutting down and abandoning module AutomationController (463)
+[2018.10.10-23.56.01:752][930]LogModuleManager: Shutting down and abandoning module AutomationWindow (461)
+[2018.10.10-23.56.01:752][930]LogModuleManager: Shutting down and abandoning module Layers (459)
+[2018.10.10-23.56.01:752][930]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (457)
+[2018.10.10-23.56.01:752][930]LogModuleManager: Shutting down and abandoning module DetailCustomizations (455)
+[2018.10.10-23.56.01:752][930]LogModuleManager: Shutting down and abandoning module PackagesDialog (453)
+[2018.10.10-23.56.01:752][930]LogModuleManager: Shutting down and abandoning module Persona (451)
+[2018.10.10-23.56.01:752][930]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (450)
+[2018.10.10-23.56.01:752][930]LogModuleManager: Shutting down and abandoning module AnimGraph (448)
+[2018.10.10-23.56.01:752][930]LogModuleManager: Shutting down and abandoning module Kismet (445)
+[2018.10.10-23.56.01:752][930]LogModuleManager: Shutting down and abandoning module GraphEditor (443)
+[2018.10.10-23.56.01:752][930]LogModuleManager: Shutting down and abandoning module ClassViewer (441)
+[2018.10.10-23.56.01:752][930]LogModuleManager: Shutting down and abandoning module Toolbox (439)
+[2018.10.10-23.56.01:752][930]LogModuleManager: Shutting down and abandoning module ModuleUI (437)
+[2018.10.10-23.56.01:752][930]LogModuleManager: Shutting down and abandoning module MovieSceneTools (435)
+[2018.10.10-23.56.01:752][930]LogModuleManager: Shutting down and abandoning module OutputLog (433)
+[2018.10.10-23.56.01:752][930]LogModuleManager: Shutting down and abandoning module GammaUI (431)
+[2018.10.10-23.56.01:752][930]LogModuleManager: Shutting down and abandoning module Documentation (429)
+[2018.10.10-23.56.01:752][930]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (427)
+[2018.10.10-23.56.01:752][930]LogModuleManager: Shutting down and abandoning module MovieScene (425)
+[2018.10.10-23.56.01:752][930]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (423)
+[2018.10.10-23.56.01:752][930]LogModuleManager: Shutting down and abandoning module LauncherPlatform (421)
+[2018.10.10-23.56.01:752][930]LogModuleManager: Shutting down and abandoning module AnalyticsET (419)
+[2018.10.10-23.56.01:752][930]LogModuleManager: Shutting down and abandoning module PortalServices (417)
+[2018.10.10-23.56.01:752][930]LogModuleManager: Shutting down and abandoning module PortalRpc (415)
+[2018.10.10-23.56.01:752][930]LogModuleManager: Shutting down and abandoning module MessagingRpc (413)
+[2018.10.10-23.56.01:752][930]LogModuleManager: Shutting down and abandoning module AIModule (411)
+[2018.10.10-23.56.01:752][930]LogModuleManager: Shutting down and abandoning module GameplayDebugger (410)
+[2018.10.10-23.56.01:752][930]LogModuleManager: Shutting down and abandoning module AITestSuite (408)
+[2018.10.10-23.56.01:752][930]LogModuleManager: Shutting down and abandoning module NavigationSystem (406)
+[2018.10.10-23.56.01:752][930]LogModuleManager: Shutting down and abandoning module DesktopPlatform (403)
+[2018.10.10-23.56.01:752][930]LogModuleManager: Shutting down and abandoning module ProfilerService (401)
+[2018.10.10-23.56.01:941][930]LogModuleManager: Shutting down and abandoning module TaskGraph (399)
+[2018.10.10-23.56.01:941][930]LogModuleManager: Shutting down and abandoning module SteamVRController (397)
+[2018.10.10-23.56.01:941][930]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (395)
+[2018.10.10-23.56.01:941][930]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (393)
+[2018.10.10-23.56.01:941][930]LogModuleManager: Shutting down and abandoning module OculusInput (391)
+[2018.10.10-23.56.01:942][930]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (389)
+[2018.10.10-23.56.01:942][930]LogModuleManager: Shutting down and abandoning module EditableMesh (387)
+[2018.10.10-23.56.01:942][930]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (385)
+[2018.10.10-23.56.01:942][930]LogModuleManager: Shutting down and abandoning module CableComponent (383)
+[2018.10.10-23.56.01:942][930]LogModuleManager: Shutting down and abandoning module AudioCapture (381)
+[2018.10.10-23.56.01:942][930]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (379)
+[2018.10.10-23.56.01:942][930]LogModuleManager: Shutting down and abandoning module AndroidPermission (377)
+[2018.10.10-23.56.01:942][930]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (375)
+[2018.10.10-23.56.01:942][930]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (373)
+[2018.10.10-23.56.01:942][930]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (371)
+[2018.10.10-23.56.01:942][930]LogModuleManager: Shutting down and abandoning module MediaCompositing (369)
+[2018.10.10-23.56.01:942][930]LogModuleManager: Shutting down and abandoning module LinearTimecode (367)
+[2018.10.10-23.56.01:942][930]LogModuleManager: Shutting down and abandoning module ImgMedia (365)
+[2018.10.10-23.56.01:946][930]LogModuleManager: Shutting down and abandoning module HTML5Networking (363)
+[2018.10.10-23.56.01:946][930]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (361)
+[2018.10.10-23.56.01:946][930]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (359)
+[2018.10.10-23.56.01:946][930]LogModuleManager: Shutting down and abandoning module BackChannel (357)
+[2018.10.10-23.56.01:947][930]LogModuleManager: Shutting down and abandoning module AppleVision (355)
+[2018.10.10-23.56.01:947][930]LogModuleManager: Shutting down and abandoning module AppleImageUtils (353)
+[2018.10.10-23.56.01:947][930]LogModuleManager: Shutting down and abandoning module AlembicImporter (351)
+[2018.10.10-23.56.01:947][930]LogModuleManager: Shutting down and abandoning module AlembicLibrary (350)
+[2018.10.10-23.56.01:947][930]LogModuleManager: Shutting down and abandoning module GeometryCache (349)
+[2018.10.10-23.56.01:947][930]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (348)
+[2018.10.10-23.56.01:947][930]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (343)
+[2018.10.10-23.56.01:947][930]LogModuleManager: Shutting down and abandoning module DatasmithContent (341)
+[2018.10.10-23.56.01:949][930]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (339)
+[2018.10.10-23.56.01:949][930]LogModuleManager: Shutting down and abandoning module PluginBrowser (337)
+[2018.10.10-23.56.01:949][930]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (335)
+[2018.10.10-23.56.01:949][930]LogModuleManager: Shutting down and abandoning module PolygonModeling (333)
+[2018.10.10-23.56.01:949][930]LogModuleManager: Shutting down and abandoning module MeshEditor (331)
+[2018.10.10-23.56.01:949][930]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (329)
+[2018.10.10-23.56.01:949][930]LogModuleManager: Shutting down and abandoning module CryptoKeys (327)
+[2018.10.10-23.56.01:949][930]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (325)
+[2018.10.10-23.56.01:949][930]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (323)
+[2018.10.10-23.56.01:949][930]LogModuleManager: Shutting down and abandoning module UObjectPlugin (321)
+[2018.10.10-23.56.01:949][930]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (319)
+[2018.10.10-23.56.01:949][930]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (317)
+[2018.10.10-23.56.01:949][930]LogModuleManager: Shutting down and abandoning module GitSourceControl (315)
+[2018.10.10-23.56.01:949][930]LogModuleManager: Shutting down and abandoning module SourceControl (314)
+[2018.10.10-23.56.01:949][930]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (311)
+[2018.10.10-23.56.01:949][930]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (309)
+[2018.10.10-23.56.01:949][930]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (307)
+[2018.10.10-23.56.01:949][930]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (305)
+[2018.10.10-23.56.01:949][930]LogModuleManager: Shutting down and abandoning module Paper2DEditor (303)
+[2018.10.10-23.56.01:949][930]LogModuleManager: Shutting down and abandoning module MeshPaint (302)
+[2018.10.10-23.56.01:949][930]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (299)
+[2018.10.10-23.56.01:949][930]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (297)
+[2018.10.10-23.56.01:949][930]LogModuleManager: Shutting down and abandoning module PhysXVehicles (295)
+[2018.10.10-23.56.01:949][930]LogModuleManager: Shutting down and abandoning module OculusEditor (293)
+[2018.10.10-23.56.01:949][930]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (291)
+[2018.10.10-23.56.01:949][930]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (289)
+[2018.10.10-23.56.01:949][930]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (287)
+[2018.10.10-23.56.01:949][930]LogModuleManager: Shutting down and abandoning module ActorSequence (285)
+[2018.10.10-23.56.01:949][930]LogModuleManager: Shutting down and abandoning module UdpMessaging (283)
+[2018.10.10-23.56.02:050][930]LogModuleManager: Shutting down and abandoning module TcpMessaging (281)
+[2018.10.10-23.56.02:150][930]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (279)
+[2018.10.10-23.56.02:150][930]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (277)
+[2018.10.10-23.56.02:150][930]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (275)
+[2018.10.10-23.56.02:150][930]LogModuleManager: Shutting down and abandoning module FacialAnimation (273)
+[2018.10.10-23.56.02:150][930]LogModuleManager: Shutting down and abandoning module DataValidation (271)
+[2018.10.10-23.56.02:150][930]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (269)
+[2018.10.10-23.56.02:150][930]LogModuleManager: Shutting down and abandoning module LevelEditor (268)
+[2018.10.10-23.56.02:151][930]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (267)
+[2018.10.10-23.56.02:151][930]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (265)
+[2018.10.10-23.56.02:151][930]LogModuleManager: Shutting down and abandoning module MainFrame (263)
+[2018.10.10-23.56.02:151][930]LogModuleManager: Shutting down and abandoning module HotReload (262)
+[2018.10.10-23.56.02:153][930]LogModuleManager: Shutting down and abandoning module ContentBrowser (258)
+[2018.10.10-23.56.02:154][930]LogModuleManager: Shutting down and abandoning module TreeMap (256)
+[2018.10.10-23.56.02:154][930]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (253)
+[2018.10.10-23.56.02:154][930]LogModuleManager: Shutting down and abandoning module AISupportModule (251)
+[2018.10.10-23.56.02:154][930]LogModuleManager: Shutting down and abandoning module Paper2D (249)
+[2018.10.10-23.56.02:154][930]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (247)
+[2018.10.10-23.56.02:154][930]LogModuleManager: Shutting down and abandoning module WmfMedia (245)
+[2018.10.10-23.56.02:157][930]LogModuleManager: Shutting down and abandoning module Media (244)
+[2018.10.10-23.56.02:163][930]LogModuleManager: Shutting down and abandoning module PacketHandler (241)
+[2018.10.10-23.56.02:163][930]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (239)
+[2018.10.10-23.56.02:163][930]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (237)
+[2018.10.10-23.56.02:163][930]LogModuleManager: Shutting down and abandoning module MediaAssets (235)
+[2018.10.10-23.56.02:163][930]LogModuleManager: Shutting down and abandoning module Overlay (233)
+[2018.10.10-23.56.02:163][930]LogModuleManager: Shutting down and abandoning module OverlayEditor (232)
+[2018.10.10-23.56.02:164][930]LogModuleManager: Shutting down and abandoning module VREditor (229)
+[2018.10.10-23.56.02:164][930]LogModuleManager: Shutting down and abandoning module StringTableEditor (227)
+[2018.10.10-23.56.02:164][930]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (225)
+[2018.10.10-23.56.02:164][930]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (223)
+[2018.10.10-23.56.02:164][930]LogModuleManager: Shutting down and abandoning module FunctionalTesting (221)
+[2018.10.10-23.56.02:164][930]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (219)
+[2018.10.10-23.56.02:164][930]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (218)
+[2018.10.10-23.56.02:164][930]LogModuleManager: Shutting down and abandoning module UMG (215)
+[2018.10.10-23.56.02:164][930]LogModuleManager: Shutting down and abandoning module UMGEditor (214)
+[2018.10.10-23.56.02:164][930]LogModuleManager: Shutting down and abandoning module Sequencer (213)
+[2018.10.10-23.56.02:164][930]LogModuleManager: Shutting down and abandoning module MessageLog (210)
+[2018.10.10-23.56.02:164][930]LogModuleManager: Shutting down and abandoning module SlateReflector (205)
+[2018.10.10-23.56.02:164][930]LogModuleManager: Shutting down and abandoning module Slate (203)
+[2018.10.10-23.56.02:164][930]LogModuleManager: Shutting down and abandoning module EditorStyle (201)
+[2018.10.10-23.56.02:166][930]LogModuleManager: Shutting down and abandoning module MRMesh (199)
+[2018.10.10-23.56.02:166][930]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (197)
+[2018.10.10-23.56.02:166][930]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (195)
+[2018.10.10-23.56.02:166][930]LogModuleManager: Shutting down and abandoning module XAudio2 (193)
+[2018.10.10-23.56.02:166][930]LogModuleManager: Shutting down and abandoning module Networking (191)
+[2018.10.10-23.56.02:166][930]LogModuleManager: Shutting down and abandoning module Core (189)
+[2018.10.10-23.56.02:166][930]LogModuleManager: Shutting down and abandoning module LevelSequence (187)
+[2018.10.10-23.56.02:166][930]LogModuleManager: Shutting down and abandoning module KismetCompiler (185)
+[2018.10.10-23.56.02:166][930]LogModuleManager: Shutting down and abandoning module MeshUtilities (183)
+[2018.10.10-23.56.02:166][930]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (182)
+[2018.10.10-23.56.02:166][930]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (181)
+[2018.10.10-23.56.02:166][930]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (180)
+[2018.10.10-23.56.02:166][930]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (178)
+[2018.10.10-23.56.02:166][930]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (176)
+[2018.10.10-23.56.02:166][930]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (174)
+[2018.10.10-23.56.02:166][930]LogModuleManager: Shutting down and abandoning module MaterialBaking (170)
+[2018.10.10-23.56.02:166][930]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2018.10.10-23.56.02:166][930]LogModuleManager: Shutting down and abandoning module DerivedDataCache (163)
+[2018.10.10-23.56.02:232][930]LogDerivedDataCache: Shutdown
+[2018.10.10-23.56.02:232][930]LogModuleManager: Shutting down and abandoning module XGEController (161)
+[2018.10.10-23.56.02:232][930]LogModuleManager: Shutting down and abandoning module TargetPlatform (159)
+[2018.10.10-23.56.02:232][930]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (158)
+[2018.10.10-23.56.02:232][930]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (156)
+[2018.10.10-23.56.02:233][930]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (154)
+[2018.10.10-23.56.02:233][930]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (152)
+[2018.10.10-23.56.02:233][930]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (150)
+[2018.10.10-23.56.02:233][930]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (148)
+[2018.10.10-23.56.02:233][930]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (146)
+[2018.10.10-23.56.02:233][930]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (144)
+[2018.10.10-23.56.02:233][930]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (142)
+[2018.10.10-23.56.02:233][930]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (140)
+[2018.10.10-23.56.02:233][930]LogModuleManager: Shutting down and abandoning module ImageWrapper (139)
+[2018.10.10-23.56.02:233][930]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (136)
+[2018.10.10-23.56.02:233][930]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (134)
+[2018.10.10-23.56.02:233][930]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (132)
+[2018.10.10-23.56.02:233][930]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (130)
+[2018.10.10-23.56.02:233][930]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (128)
+[2018.10.10-23.56.02:233][930]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (126)
+[2018.10.10-23.56.02:233][930]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (124)
+[2018.10.10-23.56.02:233][930]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (122)
+[2018.10.10-23.56.02:233][930]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (120)
+[2018.10.10-23.56.02:233][930]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (118)
+[2018.10.10-23.56.02:234][930]LogModuleManager: Shutting down and abandoning module Messaging (116)
+[2018.10.10-23.56.02:234][930]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (114)
+[2018.10.10-23.56.02:235][930]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (112)
+[2018.10.10-23.56.02:235][930]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (110)
+[2018.10.10-23.56.02:241][930]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (108)
+[2018.10.10-23.56.02:241][930]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (106)
+[2018.10.10-23.56.02:241][930]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (104)
+[2018.10.10-23.56.02:241][930]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (102)
+[2018.10.10-23.56.02:241][930]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (100)
+[2018.10.10-23.56.02:241][930]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (98)
+[2018.10.10-23.56.02:241][930]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (96)
+[2018.10.10-23.56.02:241][930]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (94)
+[2018.10.10-23.56.02:241][930]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (92)
+[2018.10.10-23.56.02:241][930]LogModuleManager: Shutting down and abandoning module InputCore (89)
+[2018.10.10-23.56.02:241][930]LogModuleManager: Shutting down and abandoning module Settings (87)
+[2018.10.10-23.56.02:241][930]LogModuleManager: Shutting down and abandoning module PhysXCooking (85)
+[2018.10.10-23.56.02:241][930]LogModuleManager: Shutting down and abandoning module SteamVR (83)
+[2018.10.10-23.56.02:241][930]LogModuleManager: Shutting down and abandoning module OculusHMD (81)
+[2018.10.10-23.56.02:241][930]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (79)
+[2018.10.10-23.56.02:241][930]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (77)
+[2018.10.10-23.56.02:241][930]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (75)
+[2018.10.10-23.56.02:241][930]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (71)
+[2018.10.10-23.56.02:242][930]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2018.10.10-23.56.02:242][930]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2018.10.10-23.56.02:253][930]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2018.10.10-23.56.02:253][930]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.10.10-23.56.02:253][930]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B17981BF8-492F-F4DA-A6C5-B9972C6BE758%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.2-4302132%2B%2B%2BUE4%2BRelease-4.20&UserID=08c271e8450f0ca0858cf78b87b5cf81%7C10e6303825bb42e187c400971c8e6d18%7C7c5d39e9-d832-4473-9f36-2cc74d9d5cf3&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.10.10-23.56.02:279][930]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2018.10.10-23.56.02:280][930]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2018.10.10-23.56.02:280][930]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2018.10.10-23.56.02:280][930]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2018.10.10-23.56.02:280][930]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2018.10.10-23.56.02:280][930]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2018.10.10-23.56.02:280][930]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2018.10.10-23.56.02:280][930]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2018.10.10-23.56.02:280][930]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2018.10.10-23.56.02:280][930]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2018.10.10-23.56.02:280][930]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.10.10-23.56.02:280][930]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2018.10.10-23.56.02:280][930]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.10.10-23.56.02:280][930]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.10.10-23.56.02:280][930]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.10.10-23.56.02:280][930]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.10.10-23.56.02:280][930]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.10.10-23.56.02:280][930]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.10.10-23.56.02:280][930]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.10.10-23.56.02:281][930]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.10.10-23.56.02:281][930]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.10.10-23.56.02:281][930]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.10.10-23.56.02:281][930]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.10.10-23.56.02:281][930]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.10.10-23.56.02:281][930]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.10.10-23.56.02:281][930]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.10.10-23.56.02:281][930]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.10.10-23.56.02:281][930]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.10.10-23.56.02:281][930]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.10.10-23.56.02:281][930]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.10.10-23.56.02:291][930]LogExit: Exiting.
+[2018.10.10-23.56.02:312][930]Log file closed, 10/10/18 18:56:02
