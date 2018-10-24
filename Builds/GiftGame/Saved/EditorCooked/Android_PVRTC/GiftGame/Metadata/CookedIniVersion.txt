@@ -1100,6 +1100,7 @@ Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:bSaveSymbol
 Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:bAllowControllers:0=True
 Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:bAllowIMU:0=True
 Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:MaxAspectRatio:0=4240701.000000
+Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:bFullScreen:0=True
 Windows.Engine:/Script/AndroidPlatformEditor.AndroidSDKSettings:SDKAPILevel:0=latest
 Windows.Engine:/Script/AndroidPlatformEditor.AndroidSDKSettings:NDKAPILevel:0=android-19
 Windows.Engine:/Script/AndroidPlatformEditor.AndroidSDKSettings:SDKPath:0=(Path="C/Program Files (x86)/NVIDIA CodeWorks for Android/NVPACK/android-sdk-windows")
