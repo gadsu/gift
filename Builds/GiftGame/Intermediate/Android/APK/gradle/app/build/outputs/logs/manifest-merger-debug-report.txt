@@ -218,9 +218,9 @@ ADDED from Z:\app\src\main\AndroidManifest.xml:17:5-106
 	android:name
 		ADDED from Z:\app\src\main\AndroidManifest.xml:17:16-81
 meta-data#com.epicgames.ue4.GameActivity.bShouldHideUI
-ADDED from Z:\app\src\main\AndroidManifest.xml:18:5-100
+ADDED from Z:\app\src\main\AndroidManifest.xml:18:5-99
 	android:value
-		ADDED from Z:\app\src\main\AndroidManifest.xml:18:76-97
+		ADDED from Z:\app\src\main\AndroidManifest.xml:18:76-96
 	android:name
 		ADDED from Z:\app\src\main\AndroidManifest.xml:18:16-75
 meta-data#com.epicgames.ue4.GameActivity.ProjectName
