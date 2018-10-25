@@ -54,6 +54,7 @@ bSaveSymbols=false
 bAllowControllers=True
 bAllowIMU=True
 MaxAspectRatio=4240701.000000
+bFullScreen=True
 SDKPath=(Path="C:/Program Files (x86)/NVIDIA CodeWorks for Android/NVPACK/android-sdk-windows")
 NDKPath=(Path="C:/Program Files (x86)/NVIDIA CodeWorks for Android/NVPACK/android-ndk-r12b")
 ANTPath=(Path="C:/Program Files (x86)/NVIDIA CodeWorks for Android/NVPACK/apache-ant-1.8.2")
