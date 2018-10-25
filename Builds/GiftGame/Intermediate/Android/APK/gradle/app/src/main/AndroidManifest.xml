@@ -15,7 +15,7 @@
     <meta-data android:name="com.epicgames.ue4.GameActivity.DepthBufferPreference" android:value="0" />
     <meta-data android:name="com.epicgames.ue4.GameActivity.bPackageDataInsideApk" android:value="false" />
     <meta-data android:name="com.epicgames.ue4.GameActivity.bVerifyOBBOnStartUp" android:value="false" />
-    <meta-data android:name="com.epicgames.ue4.GameActivity.bShouldHideUI" android:value="false" />
+    <meta-data android:name="com.epicgames.ue4.GameActivity.bShouldHideUI" android:value="true" />
     <meta-data android:name="com.epicgames.ue4.GameActivity.ProjectName" android:value="GiftGame" />
     <meta-data android:name="com.epicgames.ue4.GameActivity.AppType" android:value="" />
     <meta-data android:name="com.epicgames.ue4.GameActivity.bHasOBBFiles" android:value="false" />
