@@ -53,8 +53,6 @@ bBuildWithHiddenSymbolVisibility=false
 bSaveSymbols=false
 bAllowControllers=True
 bAllowIMU=True
-MaxAspectRatio=4240701.000000
-bFullScreen=True
 SDKPath=(Path="C:/Program Files (x86)/NVPACK/android-sdk-windows")
 NDKPath=(Path="C:/Program Files (x86)/NVPACK/android-ndk-r12b")
 ANTPath=(Path="C:/Program Files (x86)/NVPACK/apache-ant-1.8.2")

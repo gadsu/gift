@@ -11,11 +11,11 @@
       <meta-data android:name="android.app.lib_name" android:value="UE4" />
     </activity>
     <activity android:name=".DownloaderActivity" android:screenOrientation="landscape" android:configChanges="screenSize|orientation|keyboardHidden|keyboard" android:theme="@style/UE4SplashTheme" />
-    <meta-data android:name="com.epicgames.ue4.GameActivity.EngineVersion" android:value="4.20.2" />
+    <meta-data android:name="com.epicgames.ue4.GameActivity.EngineVersion" android:value="4.20.3" />
     <meta-data android:name="com.epicgames.ue4.GameActivity.DepthBufferPreference" android:value="0" />
     <meta-data android:name="com.epicgames.ue4.GameActivity.bPackageDataInsideApk" android:value="false" />
     <meta-data android:name="com.epicgames.ue4.GameActivity.bVerifyOBBOnStartUp" android:value="false" />
-    <meta-data android:name="com.epicgames.ue4.GameActivity.bShouldHideUI" android:value="true" />
+    <meta-data android:name="com.epicgames.ue4.GameActivity.bShouldHideUI" android:value="false" />
     <meta-data android:name="com.epicgames.ue4.GameActivity.ProjectName" android:value="GiftGame" />
     <meta-data android:name="com.epicgames.ue4.GameActivity.AppType" android:value="" />
     <meta-data android:name="com.epicgames.ue4.GameActivity.bHasOBBFiles" android:value="false" />
@@ -35,7 +35,7 @@
         <action android:name="com.android.vending.INSTALL_REFERRER" />
       </intent-filter>
     </receiver>
-    <meta-data android:name="android.max_aspect" android:value="4240701.00" />
+    <meta-data android:name="android.max_aspect" android:value="2.10" />
   </application>
   <!-- Requirements -->
   <uses-sdk android:minSdkVersion="14" android:targetSdkVersion="14" />

@@ -218,9 +218,9 @@ ADDED from Z:\app\src\main\AndroidManifest.xml:17:5-106
 	android:name
 		ADDED from Z:\app\src\main\AndroidManifest.xml:17:16-81
 meta-data#com.epicgames.ue4.GameActivity.bShouldHideUI
-ADDED from Z:\app\src\main\AndroidManifest.xml:18:5-99
+ADDED from Z:\app\src\main\AndroidManifest.xml:18:5-100
 	android:value
-		ADDED from Z:\app\src\main\AndroidManifest.xml:18:76-96
+		ADDED from Z:\app\src\main\AndroidManifest.xml:18:76-97
 	android:name
 		ADDED from Z:\app\src\main\AndroidManifest.xml:18:16-75
 meta-data#com.epicgames.ue4.GameActivity.ProjectName
@@ -322,9 +322,9 @@ ADDED from Z:\app\src\main\AndroidManifest.xml:35:9-71
 	android:name
 		ADDED from Z:\app\src\main\AndroidManifest.xml:35:17-68
 meta-data#android.max_aspect
-ADDED from Z:\app\src\main\AndroidManifest.xml:38:5-79
+ADDED from Z:\app\src\main\AndroidManifest.xml:38:5-73
 	android:value
-		ADDED from Z:\app\src\main\AndroidManifest.xml:38:50-76
+		ADDED from Z:\app\src\main\AndroidManifest.xml:38:50-70
 	android:name
 		ADDED from Z:\app\src\main\AndroidManifest.xml:38:16-49
 uses-sdk
