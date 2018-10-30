@@ -63,7 +63,7 @@
 
         <meta-data
             android:name="com.epicgames.ue4.GameActivity.EngineVersion"
-            android:value="4.20.2" />
+            android:value="4.20.3" />
         <meta-data
             android:name="com.epicgames.ue4.GameActivity.DepthBufferPreference"
             android:value="0" />
@@ -127,7 +127,7 @@
 
         <meta-data
             android:name="android.max_aspect"
-            android:value="4240701.00" />
+            android:value="2.10" />
 
         <activity
             android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
