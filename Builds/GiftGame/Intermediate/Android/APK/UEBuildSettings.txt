@@ -1,7 +1,7 @@
-NDKROOT=C:/Program Files (x86)/NVPACK/android-ndk-r12b
-ANDROID_HOME=C:/Program Files (x86)/NVPACK/android-sdk-windows
-ANT_HOME=C:/Program Files (x86)/NVPACK/apache-ant-1.8.2
-JAVA_HOME=C:/Program Files (x86)/NVPACK/jdk1.8.0_77
+NDKROOT=C:/Program Files (x86)/NVIDIA CodeWorks for Android/NVPACK/android-ndk-r12b
+ANDROID_HOME=C:/Program Files (x86)/NVIDIA CodeWorks for Android/NVPACK/android-sdk-windows
+ANT_HOME=C:/Program Files (x86)/NVIDIA CodeWorks for Android/NVPACK/apache-ant-1.8.2
+JAVA_HOME=C:/Program Files (x86)/NVIDIA CodeWorks for Android/NVPACK/jdk1.8.0_77
 NDKVersion=android-19
 SDKVersion=android-24
 bForDistribution=False
@@ -55,9 +55,9 @@ bAllowControllers=True
 bAllowIMU=True
 ApplicationDisplayName=Gift Game
 bFullScreen=True
-SDKPath=(Path="C:/Program Files (x86)/NVPACK/android-sdk-windows")
-NDKPath=(Path="C:/Program Files (x86)/NVPACK/android-ndk-r12b")
-ANTPath=(Path="C:/Program Files (x86)/NVPACK/apache-ant-1.8.2")
-JavaPath=(Path="C:/Program Files (x86)/NVPACK/jdk1.8.0_77")
+SDKPath=(Path="C:/Program Files (x86)/NVIDIA CodeWorks for Android/NVPACK/android-sdk-windows")
+NDKPath=(Path="C:/Program Files (x86)/NVIDIA CodeWorks for Android/NVPACK/android-ndk-r12b")
+ANTPath=(Path="C:/Program Files (x86)/NVIDIA CodeWorks for Android/NVPACK/apache-ant-1.8.2")
+JavaPath=(Path="C:/Program Files (x86)/NVIDIA CodeWorks for Android/NVPACK/jdk1.8.0_77")
 Arch=-armv7
 GPUArch=-es2
