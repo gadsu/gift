@@ -1,73 +1,104 @@
---------- beginning of main
-10-31 18:43:44.669  1653  4254 I Icing   : Usage reports ok 0, Failed Usage reports 0, indexed 0, rejected 0, imm upload false
 --------- beginning of system
-10-31 18:43:44.762   907  1372 I ActivityManager: START u0 {flg=0x10000000 cmp=com.TeamNA.GiftGame/com.epicgames.ue4.SplashActivity} from uid 2000
-10-31 18:43:44.776   665   665 D QCOM PowerHAL: LAUNCH HINT: ON
-10-31 18:43:44.778   665   665 D QCOM PowerHAL: Activity launch hint handled
-10-31 18:43:44.795  8216  8216 W Bugle   : ConversationFragment{id:15}: Not sending a typing indicator because the chat service is null
-10-31 18:43:44.798  8216  8216 I BugleUsageStatistics: Create or Open Conversation UNREAD false
-10-31 18:43:44.798  8216  8216 I BugleUsageStatistics: Create or Open Conversation IS XMS FALLBACK 2
-10-31 18:43:44.798  8216  8216 I BugleUsageStatistics: Create or Open Conversation Is RCS false
-10-31 18:43:44.798  8216  8216 I BugleUsageStatistics: Create or Open conversation CONVERSATION TYPE -1
-10-31 18:43:44.828   907   967 I ActivityManager: Start proc 8646:com.TeamNA.GiftGame/u0a335 for activity com.TeamNA.GiftGame/com.epicgames.ue4.SplashActivity
-10-31 18:43:44.840  8646  8646 I TeamNA.GiftGam: Late-enabling -Xcheck:jni
-10-31 18:43:44.953   907  2419 I ActivityManager: Config changes=20000480 {1.0 311mcc480mnc [en_US] ldltr sw411dp w683dp h387dp 420dpi nrml land night finger -keyb/v/h -nav/h winConfig={ mBounds=Rect(0, 0 - 0, 0) mAppBounds=Rect(0, 0 - 1794, 1080) mWindowingMode=fullscreen mActivityType=undefined} s.301}
-10-31 18:43:45.069  1432  1432 I LatinIme: com.google.android.apps.inputmethod.libs.latin5.LatinIme: onDeactivate()
-10-31 18:43:45.093   907  2419 I ActivityManager: Override config changes=20000480 {1.0 311mcc480mnc [en_US] ldltr sw411dp w683dp h387dp 420dpi nrml land night finger -keyb/v/h -nav/h winConfig={ mBounds=Rect(0, 0 - 1080, 1794) mAppBounds=Rect(0, 0 - 1794, 1080) mWindowingMode=fullscreen mActivityType=undefined} s.301} for displayId=0
-10-31 18:43:45.109  1432  1432 I EmojiSearchExtension: com.google.android.apps.inputmethod.libs.search.emoji.EmojiSearchExtension: onDeactivate()
-10-31 18:43:45.109  1432  1432 E EmojiSearchExtension: com.google.android.apps.inputmethod.libs.search.emoji.EmojiSearchExtension: Cannot deactivate emoji search JNI; null locale
-10-31 18:43:45.140  1432  8663 I DlamWrapper: chg: close(): Successfully wrote DLAM properties file.
-10-31 18:43:45.155   907  2419 W ActivityManager: Slow operation: 236ms so far, now at attachApplicationLocked: after mServices.attachApplicationLocked
-10-31 18:43:45.169  1432  1432 I LatinIme: com.google.android.apps.inputmethod.libs.latin5.LatinIme: initialize() : Language = en-US
-10-31 18:43:45.170  1432  1432 I Delight5Facilitator: ced: initializeForIme() : Locale = [en_US]
-10-31 18:43:45.171  1432  1432 W ExecutorUtils: ijm: createFixedSizeThreadPoolExecutor(): name[SpeechFacilitator] exceeds limit
-10-31 18:43:45.171  1432  1432 I LatinIme: com.google.android.apps.inputmethod.libs.latin5.LatinIme: onActivate() : EditorInfo = Package = com.google.android.apps.messaging : Type = Text : Learning = Enable : Suggestion = Show : AutoCorrection = Enable : Microphone = Show : NoPersonalizedLearning = Disable
-10-31 18:43:45.175   907  1287 I InputReader: Reconfiguring input devices.  changes=0x00000004
-10-31 18:43:45.175   907  1287 I InputReader: Device reconfigured: id=7, name='synaptics_dsxv26', size 1080x1920, orientation 1, mode 1, display id 0
-10-31 18:43:45.199  8646  8646 I TeamNA.GiftGam: The ClassLoaderContext is a special shared library.
-10-31 18:43:45.211   907   966 W ActivityManager: Showing SDK deprecation warning for package com.TeamNA.GiftGame
-10-31 18:43:45.240   907  9779 I OpenGLRenderer: Initialized EGL, version 1.4
-10-31 18:43:45.245   907  9779 D OpenGLRenderer: Swap behavior 1
-10-31 18:43:45.275  1441  1441 D StatusBar: disable<e i a s b h r c s > disable2<q i n >
-10-31 18:43:45.343  1653  4254 I Icing   : Indexing com.google.android.apps.messaging-participantsCorpus from com.google.android.apps.messaging
-10-31 18:43:45.380  1432  1432 I PopupSearchCandidate: com.google.android.apps.inputmethod.libs.search.sense.PopupSearchCandidateViewController: Cannot set candidate widths at this time: keyboardWidth is 0
-10-31 18:43:45.393  1432  1432 I Conv2QueryExtension: com.google.android.apps.inputmethod.libs.search.sense.ConversationToQueryExtension: Current locale: en_US, config allows these locales: de,en,fr,it,es,pt
-10-31 18:43:45.393  1432  1432 I Conv2QueryExtension: com.google.android.apps.inputmethod.libs.search.sense.ConversationToQueryExtension: onActivate(): No network connectivity
-10-31 18:43:45.400  1432  1432 I FirebaseJobDispatcher: com.google.android.apps.inputmethod.libs.framework.core.FirebaseJobDispatcherImpl: Cancel task: LstmDownloadManager_init. Success.
-10-31 18:43:45.411  1432  1432 I FirebaseJobDispatcher: com.google.android.apps.inputmethod.libs.framework.core.FirebaseJobDispatcherImpl: Cancel task: LstmDownloadManager. Success.
-10-31 18:43:45.412  1432  2619 I SP      : Registering manifest lstm.9 with URL https://www.gstatic.com/android/keyboard/modelpack/dvrnn/superpacks_manifest.json, constraints: *:* and flags: *. Version: 9
-10-31 18:43:45.412  1432  2619 I SP      : Manifest lstm is already the current sync version
-10-31 18:43:45.427  8216  8216 V BugleAction: Showing notification for processing message update.
-10-31 18:43:45.427  8216  8339 I BugleDataModel: Processing changed messages for 13138
-10-31 18:43:45.441  1653  1807 I Icing   : IndexChimeraService.getServiceInterface callingPackage=com.google.android.apps.messaging componentName=null serviceId=36
-10-31 18:43:45.529  8216  8216 V BugleAction: Showing notification for processing message update.
-10-31 18:43:45.545  1441  1441 D StatusBar: disable<e i a s b h r c s > disable2<q i n >
-10-31 18:43:45.577   495   545 W SurfaceFlinger: Attempting to destroy on removed layer: a8175d2 AssistPreviewPanel#0
-10-31 18:43:45.581   495   545 W SurfaceFlinger: Attempting to destroy on removed layer: 15d1d1e DockedStackDivider#0
-10-31 18:43:45.624  1432  2774 W native  : neural_spatial_model.cc:382 Output symbol table doesn't contain symbol: @
-10-31 18:43:45.624  1432  2774 W native  : neural_spatial_model.cc:382 Output symbol table doesn't contain symbol: &
-10-31 18:43:45.638   907   966 W Looper  : Slow dispatch took 372ms android.ui h=android.view.Choreographer$FrameHandler c=android.view.Choreographer$FrameDisplayEventReceiver@e30b1b4 m=0
-10-31 18:43:45.641   907   966 W Looper  : Slow delivery took 382ms android.ui h=com.android.server.policy.PhoneWindowManager$PolicyHandler c=com.android.server.policy.PhoneWindowManager$20@acea692 m=0
-10-31 18:43:45.692   907  5164 I ActivityManager: START u0 {flg=0x10000 cmp=com.TeamNA.GiftGame/com.epicgames.ue4.GameActivity (has extras)} from uid 10335
-10-31 18:43:45.694   665   665 D QCOM PowerHAL: LAUNCH HINT: ON
-10-31 18:43:45.701   907   966 W Looper  : Drained
-10-31 18:43:45.736  8646  8646 W ActivityThread: handleWindowVisibility: no activity for token android.os.BinderProxy@950abc4
-10-31 18:43:45.759  8216  8255 W BugleDataModel: Used 963ms for WriteDraftMessageAction:WriteDraftMessageAction:1541029410936032#executeAction
-10-31 18:43:45.775  8646  8646 W linker  : Warning: "/data/app/com.TeamNA.GiftGame-obmAK9QImPIR6AvQ-ea8fA==/lib/arm/libOVRPlugin.so" has no DT_SONAME (will use libOVRPlugin.so instead) and will not work when the app moves to API level 23 or later (https://android.googlesource.com/platform/bionic/+/master/missing-soname-enforced-for-api-level-23) (allowing for now because this app's target API level is still 14)
-10-31 18:43:45.781   495   495 D SurfaceFlinger: duplicate layer name: changing Surface(name=Dim Layer for - mAboveAppWindowsContainers)/@0x7a99863 - animation-leash to Surface(name=Dim Layer for - mAboveAppWindowsContainers)/@0x7a99863 - animation-leash#1
-10-31 18:43:45.783  8646  8646 D OVRPlugin: JNI_OnLoad
-10-31 18:43:45.784  8646  8646 E libsigchain: Warning: Unexpected sigaction action found 0xf349c765
-10-31 18:43:45.786   495   545 W SurfaceFlinger: Attempting to destroy on removed layer: d726c94 DeprecatedTargetSdkVersionDialog#0
-10-31 18:43:45.791   907  1286 I InputDispatcher: Dropping event because there is no touchable window at (1504, 59).
-10-31 18:43:45.791   907  1225 I WindowManager: Screen frozen for +868ms due to Window{d726c94 u0 DeprecatedTargetSdkVersionDialog}
-10-31 18:43:45.793   907  1286 I InputDispatcher: Dropping event because there is no touchable window at (1508, 71).
-10-31 18:43:45.810   907   966 W ActivityManager: Showing SDK deprecation warning for package com.TeamNA.GiftGame
-10-31 18:43:45.817  8216  8339 I BugleDataModel: Processing changed messages for 13138
-10-31 18:43:45.828  8646  8646 D UE4     : Used memory before allocating anything was 127.73MB
-10-31 18:43:45.855   907  9779 I OpenGLRenderer: Initialized EGL, version 1.4
-10-31 18:43:45.855   907  9779 D OpenGLRenderer: Swap behavior 1
-10-31 18:43:46.074  8646  8646 D UE4     : In the JNI_OnLoad function
-10-31 18:43:46.075  8646  8646 D UE4     : [JNI] - Failed to determine if app purchasing is enabled!
-10-31 18:43:46.077  8646  8646 D UE4     : Path found as '/storage/emulated/0'
-10-31 18:43:46.078  8646  8646 D UE4     : Font Path found as '/system/fonts/'
-10-31 18:43:46.078  8646  8646 D UE4     : In the JNI_OnLoad function 5
+11-01 18:07:24.061   898  2257 I ActivityManager: START u0 {flg=0x10000000 cmp=com.TeamNA.GiftGame/com.epicgames.ue4.SplashActivity} from uid 2000
+--------- beginning of main
+11-01 18:07:24.086   673   673 D QCOM PowerHAL: LAUNCH HINT: ON
+11-01 18:07:24.088   673   673 D QCOM PowerHAL: Activity launch hint handled
+11-01 18:07:24.125   898   969 I ActivityManager: Start proc 19760:com.TeamNA.GiftGame/u0a337 for activity com.TeamNA.GiftGame/com.epicgames.ue4.SplashActivity
+11-01 18:07:24.131   898  1162 I ActivityManager: Config changes=20000480 {1.0 311mcc480mnc [en_US] ldltr sw411dp w683dp h387dp 420dpi nrml land night finger -keyb/v/h -nav/h winConfig={ mBounds=Rect(0, 0 - 0, 0) mAppBounds=Rect(0, 0 - 1794, 1080) mWindowingMode=fullscreen mActivityType=undefined} s.49}
+11-01 18:07:24.132 19760 19760 I TeamNA.GiftGam: Late-enabling -Xcheck:jni
+11-01 18:07:24.147  2507  2507 I PBSessionCacheImpl: Deleted sessionId[11027443637736711] from persistence.
+11-01 18:07:24.160  2507  2507 W SearchServiceCore: Abort, client detached.
+11-01 18:07:24.184   898  1162 I ActivityManager: Override config changes=20000480 {1.0 311mcc480mnc [en_US] ldltr sw411dp w683dp h387dp 420dpi nrml land night finger -keyb/v/h -nav/h winConfig={ mBounds=Rect(0, 0 - 1080, 1794) mAppBounds=Rect(0, 0 - 1794, 1080) mWindowingMode=fullscreen mActivityType=undefined} s.49} for displayId=0
+11-01 18:07:24.322   898  1217 I InputReader: Reconfiguring input devices.  changes=0x00000004
+11-01 18:07:24.323   898  1217 I InputReader: Device reconfigured: id=8, name='synaptics_dsxv26', size 1080x1920, orientation 1, mode 1, display id 0
+11-01 18:07:24.323   898  1217 I InputReader: Reconfiguring input devices.  changes=0x00000004
+11-01 18:07:24.325   898  1217 I chatty  : uid=1000(system) InputReader identical 4 lines
+11-01 18:07:24.326   898  1217 I InputReader: Reconfiguring input devices.  changes=0x00000004
+11-01 18:07:24.439  1400  1400 D StatusBar: disable<e i a s b h r c s > disable2<q i n >
+11-01 18:07:24.445   898   968 W ActivityManager: Showing SDK deprecation warning for package com.TeamNA.GiftGame
+11-01 18:07:24.468 19760 19760 I TeamNA.GiftGam: The ClassLoaderContext is a special shared library.
+11-01 18:07:24.548  1392  1392 I EmojiSearchExtension: com.google.android.apps.inputmethod.libs.search.emoji.EmojiSearchExtension: onDeactivate()
+11-01 18:07:24.548  1392  1392 E EmojiSearchExtension: com.google.android.apps.inputmethod.libs.search.emoji.EmojiSearchExtension: Cannot deactivate emoji search JNI; null locale
+11-01 18:07:24.577  1400  1400 D StatusBar: disable<e i a s b h r c s > disable2<q i n >
+11-01 18:07:24.577  1392 19777 I DlamWrapper: chg: close(): Successfully wrote DLAM properties file.
+11-01 18:07:24.594   898  2445 D WificondControl: Scan result ready event
+11-01 18:07:24.598   898  1267 D WificondScannerImpl: Filtering out 5 scan results.
+11-01 18:07:24.599   493  2049 W SurfaceFlinger: Attempting to destroy on removed layer: 4ab3855 AssistPreviewPanel#0
+11-01 18:07:24.605   493  2049 W SurfaceFlinger: Attempting to destroy on removed layer: 6c3eb36 DockedStackDivider#0
+11-01 18:07:24.645   898   968 W Looper  : Slow dispatch took 172ms android.ui h=android.view.Choreographer$FrameHandler c=android.view.Choreographer$FrameDisplayEventReceiver@83f5ef m=0
+11-01 18:07:24.702  1924 17882 E NetworkScheduler: Invalid component specified.
+11-01 18:07:24.811 13234 13234 E adbd    : failed to connect to socket 'tcp:6666': Connection refused
+11-01 18:07:24.941   898  2253 I ActivityManager: START u0 {flg=0x10000 cmp=com.TeamNA.GiftGame/com.epicgames.ue4.GameActivity (has extras)} from uid 10337
+11-01 18:07:24.943   673   673 D QCOM PowerHAL: LAUNCH HINT: ON
+11-01 18:07:24.964   898  2253 I WindowManager: Screen frozen for +856ms due to AppWindowToken{fa6172e token=Token{48405a9 ActivityRecord{ae10530 u0 com.TeamNA.GiftGame/com.epicgames.ue4.SplashActivity t454}}}
+11-01 18:07:24.979 19760 19760 W ActivityThread: handleWindowVisibility: no activity for token android.os.BinderProxy@45f8d88
+11-01 18:07:25.003   898   968 W ActivityManager: Showing SDK deprecation warning for package com.TeamNA.GiftGame
+11-01 18:07:25.011 19760 19760 W linker  : Warning: "/data/app/com.TeamNA.GiftGame-7nF01eiBevl5SiVYsc6pAA==/lib/arm/libOVRPlugin.so" has no DT_SONAME (will use libOVRPlugin.so instead) and will not work when the app moves to API level 23 or later (https://android.googlesource.com/platform/bionic/+/master/missing-soname-enforced-for-api-level-23) (allowing for now because this app's target API level is still 14)
+11-01 18:07:25.013 19760 19760 D OVRPlugin: JNI_OnLoad
+11-01 18:07:25.013 19760 19760 E libsigchain: Warning: Unexpected sigaction action found 0xf0fb8765
+11-01 18:07:25.020   493   493 D SurfaceFlinger: duplicate layer name: changing DeprecatedTargetSdkVersionDialog to DeprecatedTargetSdkVersionDialog#1
+11-01 18:07:25.022   898  9076 I OpenGLRenderer: Initialized EGL, version 1.4
+11-01 18:07:25.022   898  9076 D OpenGLRenderer: Swap behavior 1
+11-01 18:07:25.051 19760 19760 D UE4     : Used memory before allocating anything was 129.52MB
+11-01 18:07:25.078   493   493 D SurfaceFlinger: duplicate layer name: changing Dim Layer for - mAboveAppWindowsContainers to Dim Layer for - mAboveAppWindowsContainers#1
+11-01 18:07:25.113   674   853 I nanohub : osLog: [AR_CHRE] still: 100
+11-01 18:07:25.144   493  2049 W SurfaceFlinger: Attempting to set client state on removed layer: Surface(name=4f0c48e DeprecatedTargetSdkVersionDialog)/@0x87383b4 - animation-leash#0
+11-01 18:07:25.144   493  2049 W SurfaceFlinger: Attempting to destroy on removed layer: Surface(name=4f0c48e DeprecatedTargetSdkVersionDialog)/@0x87383b4 - animation-leash#0
+11-01 18:07:25.148   493   524 W SurfaceFlinger: Attempting to destroy on removed layer: 4f0c48e DeprecatedTargetSdkVersionDialog#0
+11-01 18:07:25.291 19760 19760 D UE4     : In the JNI_OnLoad function
+11-01 18:07:25.291 19760 19760 D UE4     : [JNI] - Failed to determine if app purchasing is enabled!
+11-01 18:07:25.294 19760 19760 D UE4     : Path found as '/storage/emulated/0'
+11-01 18:07:25.294 19760 19760 D UE4     : Font Path found as '/system/fonts/'
+11-01 18:07:25.294 19760 19760 D UE4     : In the JNI_OnLoad function 5
+11-01 18:07:25.320 19760 19760 V threaded_app: Creating: 0xed39dc00
+11-01 18:07:25.320 19760 19782 V threaded_app: Config: mcc=311 mnc=480 lang=en cnt=US orien=2 touch=3 dens=420 keys=1 nav=1 keysHid=3 navHid=0 sdk=28 size=2 long=1 modetype=1 modenight=2
+11-01 18:07:25.320 19760 19782 D UE4     : Entering native app glue main function
+11-01 18:07:25.320 19760 19782 D UE4     : Created event thread
+11-01 18:07:25.321 19760 19782 D UE4     : Entered AndroidMain()
+11-01 18:07:25.321 19760 19783 D UE4     : Entering event processing thread engine entry point
+11-01 18:07:25.321 19760 19783 D UE4     : Prepared looper for event thread
+11-01 18:07:25.321 19760 19783 D UE4     : Passed callback initialization
+11-01 18:07:25.321 19760 19783 D UE4     : Passed sensor initialization
+11-01 18:07:25.324 19760 19782 D UE4     : Controller interface supported
+11-01 18:07:25.342 19760 19760 D OpenGLRenderer: Skia GL Pipeline
+11-01 18:07:25.362 19760 19760 D PermissionFragment: Creating PlayGamesFragment
+11-01 18:07:25.365   898  2253 I ActivityManager: START u0 {act=android.content.pm.action.REQUEST_PERMISSIONS pkg=com.google.android.packageinstaller cmp=com.google.android.packageinstaller/com.android.packageinstaller.permission.ui.GrantPermissionsActivity (has extras)} from uid 10337
+11-01 18:07:25.370   673   673 D QCOM PowerHAL: LAUNCH HINT: ON
+11-01 18:07:25.382 19760 19760 D UE4     : Vulkan version: 1.1.0
+11-01 18:07:25.382 19760 19760 D UE4     : Vulkan level: 0
+11-01 18:07:25.384 19760 19760 D UE4     : Found DepthBufferPreference = 0
+11-01 18:07:25.385 19760 19760 D UE4     : Found bPackageDataInsideApk = 0
+11-01 18:07:25.385 19760 19760 D UE4     : Found ProjectName = GiftGame
+11-01 18:07:25.385 19760 19760 D UE4     : Found AppType = 
+11-01 18:07:25.385 19760 19760 D UE4     : Found bHasOBBFiles = 0
+11-01 18:07:25.385 19760 19760 D UE4     : Found bVerifyOBBOnStartUp = false
+11-01 18:07:25.385 19760 19760 D UE4     : UI hiding set to true
+11-01 18:07:25.386 19760 19760 D UE4     : BuildConfiguration set to Development
+11-01 18:07:25.386 19760 19760 D UE4     : UseExternalFilesDir set to false
+11-01 18:07:25.386 19760 19760 D UE4     : AllowIMU set to true
+11-01 18:07:25.386 19760 19760 D UE4     : No GearVR mode detected.
+11-01 18:07:25.386 19760 19760 D UE4     : APK path: /data/app/com.TeamNA.GiftGame-7nF01eiBevl5SiVYsc6pAA==/base.apk
+11-01 18:07:25.386 19760 19760 D UE4     : OBB in APK: false
+11-01 18:07:25.389 19760 19760 D UE4     : InternalFilePath found as '/data/user/0/com.TeamNA.GiftGame/files'
+11-01 18:07:25.389 19760 19760 D UE4     : ExternalFilePath found as '/storage/emulated/0/Android/data/com.TeamNA.GiftGame/files'
+11-01 18:07:25.389 19760 19760 D UE4     : App is running in Landscape
+11-01 18:07:25.390 19760 19760 D UE4     : Android version is 9
+11-01 18:07:25.390 19760 19760 D UE4     : Android manufacturer is Google
+11-01 18:07:25.390 19760 19760 D UE4     : Android model is Pixel
+11-01 18:07:25.390 19760 19760 D UE4     : OS language is set to en_US
+11-01 18:07:25.390 19760 19760 D UE4     : Debugger attached is false
+11-01 18:07:25.484 19760 19760 W PopupManager: You have not specified a View to use as content view for popups. Falling back to the Activity content view. Note that this may not work as expected in multi-screen environments
+11-01 18:07:25.505 19760 19760 D UE4     : ==============> GameActive.onCreate complete!
+11-01 18:07:25.512 19760 19760 V threaded_app: Start: 0xed39dc00
+11-01 18:07:25.512 19760 19783 V threaded_app: activityState=10
+11-01 18:07:25.512 19760 19783 D UE4     : LogAndroidEvents: EnqueueAppEvent : 9, 0, tid = 19783
+11-01 18:07:25.512 19760 19760 D UE4     : Creating console command broadcast listener
+11-01 18:07:25.517 19760 19760 D UE4     : ==================================> Inside onStart function in GameActivity
+11-01 18:07:25.519 19760 19760 V threaded_app: Resume: 0xed39dc00
+11-01 18:07:25.519 19760 19783 V threaded_app: activityState=11
+11-01 18:07:25.519 19760 19783 D UE4     : Case APP_CMD_RESUME
+11-01 18:07:25.519 19760 19783 D UE4     : LogAndroidEvents: EnqueueAppEvent : 7, 0, tid = 19783
+11-01 18:07:25.519 19760 19760 D UE4     : Registering sensor listeners
+11-01 18:07:25.537 19760 19760 D UE4     : App is running in Landscape
+11-01 18:07:25.537 19760 19760 D UE4     : === Restoring Transparent Bars ===
+11-01 18:07:25.538 19760 19760 D UE4     : ==============> Resuming main init
