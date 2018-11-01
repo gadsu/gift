@@ -1,0 +1,962 @@
+﻿Log file open, 10/31/18 08:22:42
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: GiftGame
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.572908
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.137s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Xeon(R) Silver 4108 CPU @ 1.80GHz, GPU: NVIDIA Quadro P4000
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.003s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.10.31-13.22.43:292][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.31-13.22.43:292][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.10.31-13.22.43:324][  0]LogHAL: Display: Platform has ~ 32 GB [34044518400 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.10.31-13.22.43:324][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.10.31-13.22.43:324][  0]LogInit: Going up to parent DeviceProfile []
+[2018.10.31-13.22.43:324][  0]LogInit: Computer: BIT133-002
+[2018.10.31-13.22.43:324][  0]LogInit: User: dtconcha
+[2018.10.31-13.22.43:324][  0]LogInit: CPU Page size=4096, Cores=8
+[2018.10.31-13.22.43:324][  0]LogInit: High frequency timer resolution =1.753690 MHz
+[2018.10.31-13.22.43:325][  0]LogMemory: Memory total: Physical=31.7GB (32GB approx)
+[2018.10.31-13.22.43:325][  0]LogMemory: Platform Memory Stats for Windows
+[2018.10.31-13.22.43:325][  0]LogMemory: Process Physical Memory: 102.39 MB used, 102.39 MB peak
+[2018.10.31-13.22.43:325][  0]LogMemory: Process Virtual Memory: 92.15 MB used, 92.15 MB peak
+[2018.10.31-13.22.43:325][  0]LogMemory: Physical Memory: 8586.20 MB used,  23881.18 MB free, 32467.38 MB total
+[2018.10.31-13.22.43:325][  0]LogMemory: Virtual Memory: 4674.29 MB used,  23881.18 MB free, 134217728.00 MB total
+[2018.10.31-13.22.43:347][  0]LogInit: Using OS detected language (en-US).
+[2018.10.31-13.22.43:347][  0]LogInit: Using OS detected locale (en-US).
+[2018.10.31-13.22.43:348][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.10.31-13.22.43:883][  0]LogStreaming: Display: Took  0.537s to InitEngineTextLocalization.
+[2018.10.31-13.22.43:883][  0]LogInit: Setting process to per monitor DPI aware
+[2018.10.31-13.22.43:953][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.10.31-13.22.43:953][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.10.31-13.22.44:225][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.10.31-13.22.44:225][  0]LogD3D11RHI: D3D11 adapters:
+[2018.10.31-13.22.44:368][  0]LogD3D11RHI:    0. 'NVIDIA Quadro P4000' (Feature Level 11_0)
+[2018.10.31-13.22.44:368][  0]LogD3D11RHI:       8090/0/16233 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.10.31-13.22.44:372][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.10.31-13.22.44:373][  0]LogD3D11RHI:       0/0/16233 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.10.31-13.22.44:373][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.10.31-13.22.44:394][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.10.31-13.22.44:394][  0]LogD3D11RHI:     GPU DeviceId: 0x1bb1 (for the marketing name, search the web for "GPU Device Id")
+[2018.10.31-13.22.44:394][  0]LogWindows: EnumDisplayDevices:
+[2018.10.31-13.22.44:394][  0]LogWindows:    0. 'NVIDIA Quadro P4000' (P:1 D:1)
+[2018.10.31-13.22.44:395][  0]LogWindows:    1. 'NVIDIA Quadro P4000' (P:0 D:1)
+[2018.10.31-13.22.44:396][  0]LogWindows:    2. 'NVIDIA Quadro P4000' (P:0 D:0)
+[2018.10.31-13.22.44:396][  0]LogWindows:    3. 'NVIDIA Quadro P4000' (P:0 D:0)
+[2018.10.31-13.22.44:397][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.10.31-13.22.44:397][  0]LogD3D11RHI:     Adapter Name: NVIDIA Quadro P4000
+[2018.10.31-13.22.44:397][  0]LogD3D11RHI:   Driver Version: 391.74 (internal:23.21.13.9174, unified:391.74)
+[2018.10.31-13.22.44:397][  0]LogD3D11RHI:      Driver Date: 6-4-2018
+[2018.10.31-13.22.44:397][  0]LogRHI: Texture pool is 5663 MB (70% of 8090 MB)
+[2018.10.31-13.22.44:461][  0]LogD3D11RHI: Async texture creation enabled
+[2018.10.31-13.22.44:479][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.10.31-13.22.44:482][  0]LogShaderCompilers: Guid format shader working directory is -7 characters bigger than the processId version (F:/Users/dtconcha/Documents/GitHub/gift/Builds/GiftGame/Intermediate/Shaders/WorkingDirectory/18424/).
+[2018.10.31-13.22.44:483][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'F:/Users/dtconcha/AppData/Local/Temp/UnrealShaderWorkingDir/D2EC1E3B4194F1B0F608679FE8B50383/'.
+[2018.10.31-13.22.44:992][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.10.31-13.22.45:016][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.10.31-13.22.45:045][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.10.31-13.22.45:063][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.10.31-13.22.45:082][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.10.31-13.22.45:102][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.10.31-13.22.45:124][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.10.31-13.22.45:146][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.10.31-13.22.45:157][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.10.31-13.22.45:289][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.31-13.22.45:289][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.31-13.22.45:289][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.31-13.22.45:289][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.31-13.22.45:289][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.31-13.22.45:289][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.31-13.22.45:289][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.31-13.22.45:289][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.31-13.22.45:289][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.31-13.22.45:289][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.31-13.22.45:289][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.31-13.22.45:289][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.31-13.22.45:289][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.31-13.22.45:290][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.31-13.22.45:290][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.31-13.22.45:290][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.31-13.22.45:290][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.31-13.22.45:290][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.31-13.22.45:292][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.10.31-13.22.45:391][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.10.31-13.22.45:391][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.10.31-13.22.45:425][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.10.31-13.22.45:425][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.10.31-13.22.45:443][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.10.31-13.22.45:464][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.10.31-13.22.45:482][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.10.31-13.22.45:499][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.10.31-13.22.45:512][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.10.31-13.22.45:512][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.10.31-13.22.45:590][  0]LogXGEController: Cleaning working directory: F:/Users/dtconcha/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.10.31-13.22.45:591][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.10.31-13.22.45:591][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.10.31-13.22.45:591][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.10.31-13.22.46:735][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.10.31-13.22.46:828][  0]LogDerivedDataCache: Loaded boot cache 0.09s 71MB F:/Users/dtconcha/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.10.31-13.22.46:829][  0]LogDerivedDataCache: Display: Loaded Boot cache: F:/Users/dtconcha/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.10.31-13.22.46:829][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file F:/Users/dtconcha/Documents/GitHub/gift/Builds/GiftGame/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.10.31-13.22.46:829][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.10.31-13.22.46:829][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file F:/Users/dtconcha/Documents/GitHub/gift/Builds/GiftGame/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.10.31-13.22.46:829][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.10.31-13.22.46:846][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.10.31-13.22.46:859][  0]LogDerivedDataCache: Using Local data cache path F:/Users/dtconcha/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.10.31-13.22.46:859][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.10.31-13.22.46:859][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.10.31-13.22.46:904][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.10.31-13.22.46:906][  0]LogSlate: Using FreeType 2.6.0
+[2018.10.31-13.22.46:907][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.10.31-13.22.47:038][  0]LogAssetRegistry: FAssetRegistry took 0.0310 seconds to start up
+[2018.10.31-13.22.47:550][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.31-13.22.47:745][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.10.31-13.22.47:750][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.10.31-13.22.47:750][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.10.31-13.22.47:750][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.10.31-13.22.47:750][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.10.31-13.22.47:783][  0]LogNetVersion: GiftGame 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 3731779599)
+[2018.10.31-13.22.48:589][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.165310 seconds
+[2018.10.31-13.22.48:597][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.10.31-13.22.48:597][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2018.10.31-13.22.48:597][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.10.31-13.22.49:561][  0]LogMaterial: Display: Missing cached shader map for material DefaultSpriteMaterial, compiling. 
+[2018.10.31-13.22.49:562][  0]LogMaterial: Warning: C:\Program Files\Epic Games\UE_4.20\Engine\Plugins\2D\Paper2D\Content\DefaultSpriteMaterial.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.10.31-13.22.49:562][  0]LogMaterial: 	(Node SpriteTextureSampler) Paper2D Sprite> Requires Texture2D
+[2018.10.31-13.22.49:566][  0]LogMaterial: Display: Missing cached shader map for material DefaultSpriteMaterial, compiling. 
+[2018.10.31-13.22.49:567][  0]LogMaterial: Warning: C:\Program Files\Epic Games\UE_4.20\Engine\Plugins\2D\Paper2D\Content\OpaqueUnlitSpriteMaterial.uasset: Failed to compile Material Instance with Base DefaultSpriteMaterial for platform PCD3D_SM5, Default Material will be used in game.
+[2018.10.31-13.22.49:567][  0]LogMaterial: 	(Node SpriteTextureSampler) Paper2D Sprite> Requires Texture2D
+[2018.10.31-13.22.49:803][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.10.31-13.22.49:817][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.10.31-13.22.50:024][  0]SourceControl: Source control is disabled
+[2018.10.31-13.22.50:024][  0]SourceControl: Source control is disabled
+[2018.10.31-13.22.50:026][  0]SourceControl: Source control is disabled
+[2018.10.31-13.22.50:027][  0]SourceControl: Source control is disabled
+[2018.10.31-13.22.50:232][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.10.31-13.22.50:373][  0]LogOcInput: OculusInput pre-init called
+[2018.10.31-13.22.50:452][  0]LogEngine: Initializing Engine...
+[2018.10.31-13.22.50:453][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.10.31-13.22.50:455][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.10.31-13.22.50:455][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.31-13.22.50:455][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.10.31-13.22.50:455][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.31-13.22.50:779][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.10.31-13.22.50:800][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.10.31-13.22.50:816][  0]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.31-13.22.50:924][  0]LogInit: FAudioDevice initialized.
+[2018.10.31-13.22.50:924][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.10.31-13.22.51:046][  0]LogDerivedDataCache: Saved boot cache 0.12s 71MB F:/Users/dtconcha/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.10.31-13.22.51:094][  0]LogInit: Texture streaming: Enabled
+[2018.10.31-13.22.51:117][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.10.31-13.22.51:135][  0]LogInit: Transaction tracking system initialized
+[2018.10.31-13.22.51:165][  0]BlueprintLog: New page: Editor Load
+[2018.10.31-13.22.51:264][  0]LocalizationService: Localization service is disabled
+[2018.10.31-13.22.51:627][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.10.31-13.22.51:627][  0]LogCook: Display: Mobile HDR setting 0
+[2018.10.31-13.22.51:627][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.10.31-13.22.51:627][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.10.31-13.22.51:627][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.31-13.22.51:627][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.10.31-13.22.51:627][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.31-13.22.51:786][  0]LogFileCache: Scanning file cache for directory 'F:/Users/dtconcha/Documents/GitHub/gift/Builds/GiftGame/Content/' took 0.02s
+[2018.10.31-13.22.51:786][  0]SourceControl: Source control is disabled
+[2018.10.31-13.22.51:787][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.10.31-13.22.51:787][  0]LightingResults: New page: Lighting Build
+[2018.10.31-13.22.51:791][  0]MapCheck: New page: Map Check
+[2018.10.31-13.22.51:791][  0]LightingResults: New page: Lighting Build
+[2018.10.31-13.22.52:117][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2018.10.31-13.22.52:129][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.10.31-13.22.52:191][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.10.31-13.22.52:276][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 85.517ms to complete.
+[2018.10.31-13.22.52:276][  0]LogFileHelpers: Loading map 'Template_Default' took 0.491
+[2018.10.31-13.22.52:462][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.31-13.22.52:473][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.31-13.22.52:482][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.31-13.22.52:491][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.31-13.22.52:500][  0]LogCollectionManager: Loaded 0 collections in 0.002526 seconds
+[2018.10.31-13.22.52:557][  0]LogFileCache: Scanning file cache for directory 'F:/Users/dtconcha/Documents/GitHub/gift/Builds/GiftGame/Saved/Collections/' took 0.01s
+[2018.10.31-13.22.52:558][  0]LogFileCache: Scanning file cache for directory 'F:/Users/dtconcha/Documents/GitHub/gift/Builds/GiftGame/Content/Developers/dtconcha/Collections/' took 0.01s
+[2018.10.31-13.22.52:558][  0]LogFileCache: Scanning file cache for directory 'F:/Users/dtconcha/Documents/GitHub/gift/Builds/GiftGame/Content/Collections/' took 0.01s
+[2018.10.31-13.22.52:558][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.10.31-13.22.52:571][  0]LogContentBrowser: Native class hierarchy populated in 0.0132 seconds. Added 2572 classes and 603 folders.
+[2018.10.31-13.22.52:580][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.10.31-13.22.52:635][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.10.31-13.22.52:641][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.10.31-13.22.52:727][  0]LogSlate: Took 0.000757 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.10.31-13.22.52:736][  0]LogSlate: Took 0.000610 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.10.31-13.22.52:751][  0]LogSlate: Took 0.000763 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.10.31-13.22.52:883][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2018.10.31-13.22.53:076][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2018.10.31-13.22.53:077][  0]LogLoad: (Engine Initialization) Total time: 12.40 seconds
+[2018.10.31-13.22.53:077][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.10.31-13.22.53:090][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.31-13.22.53:118][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.10.31-13.22.53:184][  1]LogAssetRegistry: Asset discovery search completed in 6.1752 seconds
+[2018.10.31-13.22.53:186][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.10.31-13.22.53:186][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000070 seconds (updated 0 objects)
+[2018.10.31-13.22.57:168][441]LogSlate: Took 0.000368 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.10.31-13.23.00:064][748]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.31-13.23.00:236][767]LogSlate: Took 0.000233 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.10.31-13.23.00:536][767]LogMaterial: Display: Missing cached shader map for material RevielGift, compiling. 
+[2018.10.31-13.23.00:675][767]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.10.31-13.23.00:675][767]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.10.31-13.23.00:676][767]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.10.31-13.23.00:676][767]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.31-13.23.00:698][767]LogMaterial: Display: Missing cached shader map for material DefaultSpriteMaterial, compiling. 
+[2018.10.31-13.23.00:699][767]LogMaterial: Warning: C:\Program Files\Epic Games\UE_4.20\Engine\Plugins\2D\Paper2D\Content\TranslucentUnlitSpriteMaterial.uasset: Failed to compile Material Instance with Base DefaultSpriteMaterial for platform PCD3D_SM5, Default Material will be used in game.
+[2018.10.31-13.23.00:699][767]LogMaterial: 	(Node SpriteTextureSampler) Paper2D Sprite> Requires Texture2D
+[2018.10.31-13.23.00:705][767]LogAIModule: Creating AISystem for world MainGame
+[2018.10.31-13.23.00:728][767]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/MainGame.MainGame
+[2018.10.31-13.23.00:793][767]Cmd: MAP LOAD FILE="F:/Users/dtconcha/Documents/GitHub/gift/Builds/GiftGame/Content/Maps/MainGame.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.10.31-13.23.00:793][767]LightingResults: New page: Lighting Build
+[2018.10.31-13.23.00:794][767]LoadErrors: New page: Loading map: MainGame.umap
+[2018.10.31-13.23.00:794][767]MapCheck: New page: Map Check
+[2018.10.31-13.23.00:794][767]LightingResults: New page: Lighting Build
+[2018.10.31-13.23.00:945][767]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.10.31-13.23.01:038][767]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.10.31-13.23.01:149][767]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 111.614ms to complete.
+[2018.10.31-13.23.01:151][767]LogFileHelpers: Loading map 'MainGame' took 0.359
+[2018.10.31-13.23.04:932][174]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Maps/MainGame.MainGame:PersistentLevel.MainGame
+[2018.10.31-13.23.05:811][174]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0009 seconds. Added 116 classes and 0 folders.
+[2018.10.31-13.23.06:995][174]LogSlate: Took 0.000285 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.10.31-13.23.07:115][175]LogSlate: Took 0.000569 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.10.31-13.24.24:378][665]LogAIModule: Creating AISystem for world MainMenu
+[2018.10.31-13.24.24:384][665]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/MainMenu.MainMenu
+[2018.10.31-13.24.24:454][665]Cmd: MAP LOAD FILE="F:/Users/dtconcha/Documents/GitHub/gift/Builds/GiftGame/Content/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.10.31-13.24.24:454][665]LightingResults: New page: Lighting Build
+[2018.10.31-13.24.24:455][665]LoadErrors: New page: Loading map: MainMenu.umap
+[2018.10.31-13.24.24:457][665]LogSlate: Window 'MainGame - Level Blueprint Editor' being destroyed
+[2018.10.31-13.24.24:523][665]MapCheck: New page: Map Check
+[2018.10.31-13.24.24:523][665]LightingResults: New page: Lighting Build
+[2018.10.31-13.24.24:690][665]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.10.31-13.24.24:788][665]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.10.31-13.24.24:890][665]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 102.121ms to complete.
+[2018.10.31-13.24.24:892][665]LogFileHelpers: Loading map 'MainMenu' took 0.439
+[2018.10.31-13.24.26:217][800]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Maps/MenuGameMode.MenuGameMode
+[2018.10.31-13.25.01:186][102]LogRenderer: Reallocating scene render targets to support 1208x600 Format 10 NumSamples 1 (Frame:1).
+[2018.10.31-13.25.04:215][391]LogSlate: Window 'MenuGameMode' being destroyed
+[2018.10.31-13.25.06:398][617]LogAIModule: Creating AISystem for world MainGame
+[2018.10.31-13.25.06:402][617]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/MainGame.MainGame
+[2018.10.31-13.25.06:458][617]Cmd: MAP LOAD FILE="F:/Users/dtconcha/Documents/GitHub/gift/Builds/GiftGame/Content/Maps/MainGame.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.10.31-13.25.06:458][617]LightingResults: New page: Lighting Build
+[2018.10.31-13.25.06:459][617]LoadErrors: New page: Loading map: MainGame.umap
+[2018.10.31-13.25.06:459][617]MapCheck: New page: Map Check
+[2018.10.31-13.25.06:459][617]LightingResults: New page: Lighting Build
+[2018.10.31-13.25.06:626][617]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.10.31-13.25.06:729][617]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.10.31-13.25.06:875][617]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 145.898ms to complete.
+[2018.10.31-13.25.06:877][617]LogFileHelpers: Loading map 'MainGame' took 0.421
+[2018.10.31-13.25.09:282][860]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Maps/MainGame.MainGame:PersistentLevel.MainGame
+[2018.10.31-13.28.14:300][533]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'AActor::AddComponent' [Element not found.]
+[2018.10.31-13.28.25:995][312]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'AActor::AddComponent' [Element not found.]
+[2018.10.31-13.28.46:548][962]LogSlate: Window 'Save Content' being destroyed
+[2018.10.31-13.28.46:694][962]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainGame" FILE="F:/Users/dtconcha/Documents/GitHub/gift/Builds/GiftGame/Content/Maps/MainGame.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.10.31-13.28.47:101][962]LogSavePackage: Moving 'F:/Users/dtconcha/Documents/GitHub/gift/Builds/GiftGame/Saved/MainGame67E238374304A4869E4B8F89C5C06F6B.tmp' to 'F:/Users/dtconcha/Documents/GitHub/gift/Builds/GiftGame/Content/Maps/MainGame.umap'
+[2018.10.31-13.28.47:199][962]LogFileHelpers: Saving map 'MainGame' took 0.612
+[2018.10.31-13.29.30:397][900]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:/Users/dtconcha/Downloads/Bomb.png)
+[2018.10.31-13.29.30:470][900]LogTexture: Display: Building textures: Bomb (AutoDXT, 2100X1500)
+[2018.10.31-13.29.33:911][900]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:/Users/dtconcha/Downloads/crystal.png)
+[2018.10.31-13.29.33:977][900]LogTexture: Display: Building textures: crystal (AutoDXT, 2100X1500)
+[2018.10.31-13.29.34:538][900]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:/Users/dtconcha/Downloads/Dead Fish.png)
+[2018.10.31-13.29.34:543][900]LogTexture: Display: Building textures: Dead_Fish (BGRA8, 656X249)
+[2018.10.31-13.29.34:576][900]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:/Users/dtconcha/Downloads/Gift Card - Copy.png)
+[2018.10.31-13.29.34:581][900]LogTexture: Display: Building textures: Gift_Card_-_Copy (BGRA8, 357X228)
+[2018.10.31-13.29.34:594][900]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:/Users/dtconcha/Downloads/Joy Buzzer 2.png)
+[2018.10.31-13.29.34:598][900]LogTexture: Display: Building textures: Joy_Buzzer_2 (BGRA8, 294X262)
+[2018.10.31-13.29.34:613][900]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:/Users/dtconcha/Downloads/Penguin - Copy.png)
+[2018.10.31-13.29.34:622][900]LogTexture: Display: Building textures: Penguin_-_Copy (BGRA8, 413X295)
+[2018.10.31-13.29.34:643][900]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:/Users/dtconcha/Downloads/Socks - Copy.png)
+[2018.10.31-13.29.34:685][900]LogTexture: Display: Building textures: Socks_-_Copy (AutoDXT, 1544X1236)
+[2018.10.31-13.29.51:235][488]LogSlate: Window 'Save Content' being destroyed
+[2018.10.31-13.29.51:290][488]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Sprites/Bomb" FILE="F:/Users/dtconcha/Documents/GitHub/gift/Builds/GiftGame/Content/Art/Sprites/Bomb.uasset" SILENT=true
+[2018.10.31-13.29.51:551][488]LogSavePackage: Moving 'F:/Users/dtconcha/Documents/GitHub/gift/Builds/GiftGame/Saved/Bomb5BE5E0C440F4FC147290FEAEFA66070C.tmp' to 'F:/Users/dtconcha/Documents/GitHub/gift/Builds/GiftGame/Content/Art/Sprites/Bomb.uasset'
+[2018.10.31-13.29.51:592][488]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Sprites/Bomb_Sprite" FILE="F:/Users/dtconcha/Documents/GitHub/gift/Builds/GiftGame/Content/Art/Sprites/Bomb_Sprite.uasset" SILENT=true
+[2018.10.31-13.29.51:630][488]LogSavePackage: Moving 'F:/Users/dtconcha/Documents/GitHub/gift/Builds/GiftGame/Saved/Bomb_Sprite4C21A4954302048521EDC39CC9C3680E.tmp' to 'F:/Users/dtconcha/Documents/GitHub/gift/Builds/GiftGame/Content/Art/Sprites/Bomb_Sprite.uasset'
+[2018.10.31-13.29.51:654][488]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Sprites/crystal" FILE="F:/Users/dtconcha/Documents/GitHub/gift/Builds/GiftGame/Content/Art/Sprites/crystal.uasset" SILENT=true
+[2018.10.31-13.29.51:974][488]LogSavePackage: Moving 'F:/Users/dtconcha/Documents/GitHub/gift/Builds/GiftGame/Saved/crystal645F587D45B7A82FCB347D84A6575916.tmp' to 'F:/Users/dtconcha/Documents/GitHub/gift/Builds/GiftGame/Content/Art/Sprites/crystal.uasset'
+[2018.10.31-13.29.52:008][488]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Sprites/crystal_Sprite" FILE="F:/Users/dtconcha/Documents/GitHub/gift/Builds/GiftGame/Content/Art/Sprites/crystal_Sprite.uasset" SILENT=true
+[2018.10.31-13.29.52:032][488]LogSavePackage: Moving 'F:/Users/dtconcha/Documents/GitHub/gift/Builds/GiftGame/Saved/crystal_Sprite7A5559B9472DB4ECF6D6A0B4AB22C789.tmp' to 'F:/Users/dtconcha/Documents/GitHub/gift/Builds/GiftGame/Content/Art/Sprites/crystal_Sprite.uasset'
+[2018.10.31-13.29.52:055][488]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Sprites/Dead_Fish" FILE="F:/Users/dtconcha/Documents/GitHub/gift/Builds/GiftGame/Content/Art/Sprites/Dead_Fish.uasset" SILENT=true
+[2018.10.31-13.29.52:094][488]LogSavePackage: Moving 'F:/Users/dtconcha/Documents/GitHub/gift/Builds/GiftGame/Saved/Dead_Fish393F48314CCB06E160F49E82E7A96BA0.tmp' to 'F:/Users/dtconcha/Documents/GitHub/gift/Builds/GiftGame/Content/Art/Sprites/Dead_Fish.uasset'
+[2018.10.31-13.29.52:115][488]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Sprites/Dead_Fish_Sprite" FILE="F:/Users/dtconcha/Documents/GitHub/gift/Builds/GiftGame/Content/Art/Sprites/Dead_Fish_Sprite.uasset" SILENT=true
+[2018.10.31-13.29.52:137][488]LogSavePackage: Moving 'F:/Users/dtconcha/Documents/GitHub/gift/Builds/GiftGame/Saved/Dead_Fish_SpriteCA8CBBD94F0FE191686213A3AAEF6BBD.tmp' to 'F:/Users/dtconcha/Documents/GitHub/gift/Builds/GiftGame/Content/Art/Sprites/Dead_Fish_Sprite.uasset'
+[2018.10.31-13.29.52:169][488]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Sprites/Gift_Card_-_Copy" FILE="F:/Users/dtconcha/Documents/GitHub/gift/Builds/GiftGame/Content/Art/Sprites/Gift_Card_-_Copy.uasset" SILENT=true
+[2018.10.31-13.29.52:198][488]LogSavePackage: Moving 'F:/Users/dtconcha/Documents/GitHub/gift/Builds/GiftGame/Saved/Gift_Card_-_Copy8DB8EB494B929A3FA8780E9D2F00780B.tmp' to 'F:/Users/dtconcha/Documents/GitHub/gift/Builds/GiftGame/Content/Art/Sprites/Gift_Card_-_Copy.uasset'
+[2018.10.31-13.29.52:224][488]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Sprites/Gift_Card_-_Copy_Sprite" FILE="F:/Users/dtconcha/Documents/GitHub/gift/Builds/GiftGame/Content/Art/Sprites/Gift_Card_-_Copy_Sprite.uasset" SILENT=true
+[2018.10.31-13.29.52:247][488]LogSavePackage: Moving 'F:/Users/dtconcha/Documents/GitHub/gift/Builds/GiftGame/Saved/Gift_Card_-_Copy_SpriteC3A5EC1347CA03A246AE3F80E632ED7C.tmp' to 'F:/Users/dtconcha/Documents/GitHub/gift/Builds/GiftGame/Content/Art/Sprites/Gift_Card_-_Copy_Sprite.uasset'
+[2018.10.31-13.29.52:280][488]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Sprites/Joy_Buzzer_2" FILE="F:/Users/dtconcha/Documents/GitHub/gift/Builds/GiftGame/Content/Art/Sprites/Joy_Buzzer_2.uasset" SILENT=true
+[2018.10.31-13.29.52:326][488]LogSavePackage: Moving 'F:/Users/dtconcha/Documents/GitHub/gift/Builds/GiftGame/Saved/Joy_Buzzer_2A077D296459DA44A3DEAAEA57DC52E9E.tmp' to 'F:/Users/dtconcha/Documents/GitHub/gift/Builds/GiftGame/Content/Art/Sprites/Joy_Buzzer_2.uasset'
+[2018.10.31-13.29.52:361][488]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Sprites/Joy_Buzzer_2_Sprite" FILE="F:/Users/dtconcha/Documents/GitHub/gift/Builds/GiftGame/Content/Art/Sprites/Joy_Buzzer_2_Sprite.uasset" SILENT=true
+[2018.10.31-13.29.52:400][488]LogSavePackage: Moving 'F:/Users/dtconcha/Documents/GitHub/gift/Builds/GiftGame/Saved/Joy_Buzzer_2_Sprite693770CC42CEC73E73DB0285893C83C0.tmp' to 'F:/Users/dtconcha/Documents/GitHub/gift/Builds/GiftGame/Content/Art/Sprites/Joy_Buzzer_2_Sprite.uasset'
+[2018.10.31-13.29.52:428][488]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Sprites/Penguin_-_Copy" FILE="F:/Users/dtconcha/Documents/GitHub/gift/Builds/GiftGame/Content/Art/Sprites/Penguin_-_Copy.uasset" SILENT=true
+[2018.10.31-13.29.52:469][488]LogSavePackage: Moving 'F:/Users/dtconcha/Documents/GitHub/gift/Builds/GiftGame/Saved/Penguin_-_CopyF607FF284D9DE4F7F1E26ABCD7E4ABDF.tmp' to 'F:/Users/dtconcha/Documents/GitHub/gift/Builds/GiftGame/Content/Art/Sprites/Penguin_-_Copy.uasset'
+[2018.10.31-13.29.52:492][488]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Sprites/Penguin_-_Copy_Sprite" FILE="F:/Users/dtconcha/Documents/GitHub/gift/Builds/GiftGame/Content/Art/Sprites/Penguin_-_Copy_Sprite.uasset" SILENT=true
+[2018.10.31-13.29.52:512][488]LogSavePackage: Moving 'F:/Users/dtconcha/Documents/GitHub/gift/Builds/GiftGame/Saved/Penguin_-_Copy_Sprite2C579ED241CC303CD471769405B5C044.tmp' to 'F:/Users/dtconcha/Documents/GitHub/gift/Builds/GiftGame/Content/Art/Sprites/Penguin_-_Copy_Sprite.uasset'
+[2018.10.31-13.29.52:538][488]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Sprites/Socks_-_Copy" FILE="F:/Users/dtconcha/Documents/GitHub/gift/Builds/GiftGame/Content/Art/Sprites/Socks_-_Copy.uasset" SILENT=true
+[2018.10.31-13.29.52:756][488]LogSavePackage: Moving 'F:/Users/dtconcha/Documents/GitHub/gift/Builds/GiftGame/Saved/Socks_-_CopyDCF6BF374F56501AD4904E80FCC3230E.tmp' to 'F:/Users/dtconcha/Documents/GitHub/gift/Builds/GiftGame/Content/Art/Sprites/Socks_-_Copy.uasset'
+[2018.10.31-13.29.52:798][488]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Sprites/Socks_-_Copy_Sprite" FILE="F:/Users/dtconcha/Documents/GitHub/gift/Builds/GiftGame/Content/Art/Sprites/Socks_-_Copy_Sprite.uasset" SILENT=true
+[2018.10.31-13.29.52:834][488]LogSavePackage: Moving 'F:/Users/dtconcha/Documents/GitHub/gift/Builds/GiftGame/Saved/Socks_-_Copy_SpriteEA5B5068425BCED4A6CB0193A2D217ED.tmp' to 'F:/Users/dtconcha/Documents/GitHub/gift/Builds/GiftGame/Content/Art/Sprites/Socks_-_Copy_Sprite.uasset'
+[2018.10.31-13.31.46:434][117]BlueprintLog: New page: Compile MainGame
+[2018.10.31-13.31.47:357][155]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainGame" FILE="F:/Users/dtconcha/Documents/GitHub/gift/Builds/GiftGame/Content/Maps/MainGame.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.10.31-13.31.47:791][155]LogSavePackage: Moving 'F:/Users/dtconcha/Documents/GitHub/gift/Builds/GiftGame/Saved/MainGameC229D1BD43F2B430EB11479A9961CC1E.tmp' to 'F:/Users/dtconcha/Documents/GitHub/gift/Builds/GiftGame/Content/Maps/MainGame.umap'
+[2018.10.31-13.31.47:868][155]LogFileHelpers: Saving map 'MainGame' took 0.616
+[2018.10.31-13.32.43:312][677]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'USceneComponent::SetVisibility' [Element not found.]
+[2018.10.31-13.33.18:571][643]BlueprintLog: New page: Compile MainGame
+[2018.10.31-13.33.19:539][692]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainGame" FILE="F:/Users/dtconcha/Documents/GitHub/gift/Builds/GiftGame/Content/Maps/MainGame.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.10.31-13.33.20:004][692]LogSavePackage: Moving 'F:/Users/dtconcha/Documents/GitHub/gift/Builds/GiftGame/Saved/MainGame8DF1CF7F499A54FB188F5781DCF7C350.tmp' to 'F:/Users/dtconcha/Documents/GitHub/gift/Builds/GiftGame/Content/Maps/MainGame.umap'
+[2018.10.31-13.33.20:101][692]LogFileHelpers: Saving map 'MainGame' took 0.688
+[2018.10.31-13.33.25:907][169]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.31-13.33.25:948][169]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.10.31-13.33.25:948][169]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.31-13.33.25:963][169]PIE: New page: PIE session: MainGame (Oct 31, 2018, 3:33:25 AM)
+[2018.10.31-13.33.25:963][169]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainGame
+[2018.10.31-13.33.25:974][169]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010744s)
+[2018.10.31-13.33.25:976][169]LogAIModule: Creating AISystem for world MainGame
+[2018.10.31-13.33.25:977][169]LogPlayLevel: PIE: World Init took: (0.002378s)
+[2018.10.31-13.33.25:977][169]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainGame.MainGame to /Game/Maps/UEDPIE_0_MainGame.MainGame (0.013522s)
+[2018.10.31-13.33.26:070][169]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.31-13.33.26:094][169]LogInit: FAudioDevice initialized.
+[2018.10.31-13.33.26:154][169]LogLoad: Game class is 'MenuGameMode_C'
+[2018.10.31-13.33.26:160][169]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainGame.MainGame up for play (max tick rate 0) at 2018.10.31-08.33.26
+[2018.10.31-13.33.26:162][169]LogWorld: Bringing up level for play took: 0.002309
+[2018.10.31-13.33.26:201][169]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 10 classes and 0 folders.
+[2018.10.31-13.33.26:206][169]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainGame -0.527
+[2018.10.31-13.33.26:206][169]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.10.31-13.33.32:739][916]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.31-13.33.40:831][870]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.10.31-13.33.40:832][870]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.31-13.33.40:883][870]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.31-13.33.40:883][870]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.10.31-13.33.40:966][870]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.31-13.33.40:990][871]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2018.10.31-13.33.42:101][992]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.31-13.33.42:129][992]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.10.31-13.33.42:129][992]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.31-13.33.42:129][992]PIE: New page: PIE session: MainGame (Oct 31, 2018, 3:33:42 AM)
+[2018.10.31-13.33.42:129][992]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainGame
+[2018.10.31-13.33.42:134][992]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004492s)
+[2018.10.31-13.33.42:135][992]LogAIModule: Creating AISystem for world MainGame
+[2018.10.31-13.33.42:135][992]LogPlayLevel: PIE: World Init took: (0.000902s)
+[2018.10.31-13.33.42:135][992]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainGame.MainGame to /Game/Maps/UEDPIE_0_MainGame.MainGame (0.005547s)
+[2018.10.31-13.33.42:204][992]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.31-13.33.42:224][992]LogInit: FAudioDevice initialized.
+[2018.10.31-13.33.42:261][992]LogLoad: Game class is 'MenuGameMode_C'
+[2018.10.31-13.33.42:264][992]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainGame.MainGame up for play (max tick rate 0) at 2018.10.31-08.33.42
+[2018.10.31-13.33.42:265][992]LogWorld: Bringing up level for play took: 0.001870
+[2018.10.31-13.33.42:288][992]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainGame -0.442
+[2018.10.31-13.33.42:288][992]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.10.31-13.33.47:150][550]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.10.31-13.33.47:150][550]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.31-13.33.47:191][550]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.31-13.33.47:191][550]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.10.31-13.33.47:259][550]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.31-13.33.47:278][551]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2018.10.31-13.33.48:686][709]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.31-13.33.48:714][709]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.10.31-13.33.48:715][709]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.31-13.33.48:715][709]PIE: New page: PIE session: MainGame (Oct 31, 2018, 3:33:48 AM)
+[2018.10.31-13.33.48:715][709]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainGame
+[2018.10.31-13.33.48:720][709]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005302s)
+[2018.10.31-13.33.48:721][709]LogAIModule: Creating AISystem for world MainGame
+[2018.10.31-13.33.48:721][709]LogPlayLevel: PIE: World Init took: (0.001017s)
+[2018.10.31-13.33.48:721][709]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainGame.MainGame to /Game/Maps/UEDPIE_0_MainGame.MainGame (0.006489s)
+[2018.10.31-13.33.48:799][709]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.31-13.33.48:824][709]LogInit: FAudioDevice initialized.
+[2018.10.31-13.33.48:861][709]LogLoad: Game class is 'MenuGameMode_C'
+[2018.10.31-13.33.48:863][709]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainGame.MainGame up for play (max tick rate 0) at 2018.10.31-08.33.48
+[2018.10.31-13.33.48:863][709]LogWorld: Bringing up level for play took: 0.000967
+[2018.10.31-13.33.48:885][709]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainGame 0.156
+[2018.10.31-13.33.48:885][709]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.10.31-13.33.52:977][181]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.10.31-13.33.52:977][181]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.31-13.33.53:018][181]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.31-13.33.53:019][181]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.10.31-13.33.53:085][181]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.31-13.33.53:109][182]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2018.10.31-13.33.53:754][252]LogEditorViewport: Clicking on Actor (LMB): GiftBox_C (GiftBox)
+[2018.10.31-13.33.55:014][361]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.31-13.33.55:098][371]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.31-13.33.55:126][371]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.10.31-13.33.55:126][371]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.31-13.33.55:126][371]PIE: New page: PIE session: MainGame (Oct 31, 2018, 3:33:55 AM)
+[2018.10.31-13.33.55:126][371]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainGame
+[2018.10.31-13.33.55:130][371]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004324s)
+[2018.10.31-13.33.55:131][371]LogAIModule: Creating AISystem for world MainGame
+[2018.10.31-13.33.55:131][371]LogPlayLevel: PIE: World Init took: (0.000929s)
+[2018.10.31-13.33.55:131][371]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainGame.MainGame to /Game/Maps/UEDPIE_0_MainGame.MainGame (0.005396s)
+[2018.10.31-13.33.55:196][371]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.31-13.33.55:216][371]LogInit: FAudioDevice initialized.
+[2018.10.31-13.33.55:253][371]LogLoad: Game class is 'MenuGameMode_C'
+[2018.10.31-13.33.55:256][371]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainGame.MainGame up for play (max tick rate 0) at 2018.10.31-08.33.55
+[2018.10.31-13.33.55:257][371]LogWorld: Bringing up level for play took: 0.001891
+[2018.10.31-13.33.55:280][371]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainGame 0.552
+[2018.10.31-13.33.55:280][371]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.10.31-13.33.58:036][688]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.10.31-13.33.58:036][688]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.31-13.33.58:079][688]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.31-13.33.58:080][688]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.10.31-13.33.58:147][688]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.31-13.33.58:165][689]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2018.10.31-13.33.59:394][823]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.31-13.33.59:419][823]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.10.31-13.33.59:420][823]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.31-13.33.59:420][823]PIE: New page: PIE session: MainGame (Oct 31, 2018, 3:33:59 AM)
+[2018.10.31-13.33.59:420][823]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainGame
+[2018.10.31-13.33.59:425][823]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005309s)
+[2018.10.31-13.33.59:426][823]LogAIModule: Creating AISystem for world MainGame
+[2018.10.31-13.33.59:426][823]LogPlayLevel: PIE: World Init took: (0.000977s)
+[2018.10.31-13.33.59:426][823]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainGame.MainGame to /Game/Maps/UEDPIE_0_MainGame.MainGame (0.006457s)
+[2018.10.31-13.33.59:496][823]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.31-13.33.59:516][823]LogInit: FAudioDevice initialized.
+[2018.10.31-13.33.59:554][823]LogLoad: Game class is 'MenuGameMode_C'
+[2018.10.31-13.33.59:557][823]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainGame.MainGame up for play (max tick rate 0) at 2018.10.31-08.33.59
+[2018.10.31-13.33.59:558][823]LogWorld: Bringing up level for play took: 0.001690
+[2018.10.31-13.33.59:579][823]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainGame 0.853
+[2018.10.31-13.33.59:580][823]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.10.31-13.34.01:725][ 70]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.10.31-13.34.01:726][ 70]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.31-13.34.01:771][ 70]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.31-13.34.01:771][ 70]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.10.31-13.34.01:845][ 70]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.31-13.34.01:866][ 71]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2018.10.31-13.34.02:334][124]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.31-13.34.02:356][124]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.10.31-13.34.02:357][124]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.31-13.34.02:357][124]PIE: New page: PIE session: MainGame (Oct 31, 2018, 3:34:02 AM)
+[2018.10.31-13.34.02:357][124]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainGame
+[2018.10.31-13.34.02:362][124]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005217s)
+[2018.10.31-13.34.02:363][124]LogAIModule: Creating AISystem for world MainGame
+[2018.10.31-13.34.02:363][124]LogPlayLevel: PIE: World Init took: (0.000977s)
+[2018.10.31-13.34.02:363][124]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainGame.MainGame to /Game/Maps/UEDPIE_0_MainGame.MainGame (0.006364s)
+[2018.10.31-13.34.02:440][124]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.31-13.34.02:460][124]LogInit: FAudioDevice initialized.
+[2018.10.31-13.34.02:503][124]LogLoad: Game class is 'MenuGameMode_C'
+[2018.10.31-13.34.02:506][124]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainGame.MainGame up for play (max tick rate 0) at 2018.10.31-08.34.02
+[2018.10.31-13.34.02:507][124]LogWorld: Bringing up level for play took: 0.001726
+[2018.10.31-13.34.02:530][124]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainGame -0.196
+[2018.10.31-13.34.02:530][124]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.10.31-13.34.04:630][367]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.10.31-13.34.04:630][367]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.31-13.34.04:674][367]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.31-13.34.04:675][367]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.10.31-13.34.04:748][367]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.31-13.34.04:767][368]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2018.10.31-13.34.13:862][262]LogSlate: Window 'MainGame - Level Blueprint Editor' being destroyed
+[2018.10.31-13.34.13:867][262]LogSlate: Window 'MainGame - Level Blueprint Editor' being destroyed
+[2018.10.31-13.34.20:762][ 28]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Maps/MenuGameMode.MenuGameMode
+[2018.10.31-13.34.40:300][810]BlueprintLog: New page: Compile MenuGameMode
+[2018.10.31-13.34.43:358][ 63]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MenuGameMode" FILE="F:/Users/dtconcha/Documents/GitHub/gift/Builds/GiftGame/Content/Maps/MenuGameMode.uasset" SILENT=true
+[2018.10.31-13.34.43:410][ 63]LogSavePackage: Moving 'F:/Users/dtconcha/Documents/GitHub/gift/Builds/GiftGame/Saved/MenuGameMode7B50A2A04879DA01046B47BF7115D3FC.tmp' to 'F:/Users/dtconcha/Documents/GitHub/gift/Builds/GiftGame/Content/Maps/MenuGameMode.uasset'
+[2018.10.31-13.34.45:668][288]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.31-13.34.45:698][288]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.10.31-13.34.45:698][288]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.31-13.34.45:699][288]PIE: New page: PIE session: MainGame (Oct 31, 2018, 3:34:45 AM)
+[2018.10.31-13.34.45:699][288]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainGame
+[2018.10.31-13.34.45:703][288]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004402s)
+[2018.10.31-13.34.45:704][288]LogAIModule: Creating AISystem for world MainGame
+[2018.10.31-13.34.45:704][288]LogPlayLevel: PIE: World Init took: (0.000896s)
+[2018.10.31-13.34.45:704][288]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainGame.MainGame to /Game/Maps/UEDPIE_0_MainGame.MainGame (0.005449s)
+[2018.10.31-13.34.45:774][288]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.31-13.34.45:794][288]LogInit: FAudioDevice initialized.
+[2018.10.31-13.34.45:836][288]LogLoad: Game class is 'MenuGameMode_C'
+[2018.10.31-13.34.45:839][288]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainGame.MainGame up for play (max tick rate 0) at 2018.10.31-08.34.45
+[2018.10.31-13.34.45:840][288]LogWorld: Bringing up level for play took: 0.001710
+[2018.10.31-13.34.45:863][288]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainGame 1.146
+[2018.10.31-13.34.45:863][288]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.10.31-13.34.49:617][730]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.10.31-13.34.49:617][730]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.31-13.34.49:657][730]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.31-13.34.49:658][730]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.10.31-13.34.49:727][730]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.31-13.34.49:747][731]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2018.10.31-13.34.50:916][859]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.31-13.34.50:948][859]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.10.31-13.34.50:948][859]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.31-13.34.50:948][859]PIE: New page: PIE session: MainGame (Oct 31, 2018, 3:34:50 AM)
+[2018.10.31-13.34.50:948][859]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainGame
+[2018.10.31-13.34.50:954][859]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005304s)
+[2018.10.31-13.34.50:954][859]LogAIModule: Creating AISystem for world MainGame
+[2018.10.31-13.34.50:955][859]LogPlayLevel: PIE: World Init took: (0.000986s)
+[2018.10.31-13.34.50:955][859]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainGame.MainGame to /Game/Maps/UEDPIE_0_MainGame.MainGame (0.006464s)
+[2018.10.31-13.34.51:031][859]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.31-13.34.51:053][859]LogInit: FAudioDevice initialized.
+[2018.10.31-13.34.51:089][859]LogLoad: Game class is 'MenuGameMode_C'
+[2018.10.31-13.34.51:091][859]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainGame.MainGame up for play (max tick rate 0) at 2018.10.31-08.34.51
+[2018.10.31-13.34.51:092][859]LogWorld: Bringing up level for play took: 0.001350
+[2018.10.31-13.34.51:115][859]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainGame 0.399
+[2018.10.31-13.34.51:115][859]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.10.31-13.34.55:136][328]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.10.31-13.34.55:137][328]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.31-13.34.55:171][328]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.31-13.34.55:171][328]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.10.31-13.34.55:232][328]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.31-13.34.55:249][329]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2018.10.31-13.34.55:939][410]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.31-13.34.55:973][410]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.10.31-13.34.55:974][410]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.31-13.34.55:974][410]PIE: New page: PIE session: MainGame (Oct 31, 2018, 3:34:55 AM)
+[2018.10.31-13.34.55:974][410]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainGame
+[2018.10.31-13.34.55:982][410]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007411s)
+[2018.10.31-13.34.55:983][410]LogAIModule: Creating AISystem for world MainGame
+[2018.10.31-13.34.55:983][410]LogPlayLevel: PIE: World Init took: (0.001462s)
+[2018.10.31-13.34.55:983][410]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainGame.MainGame to /Game/Maps/UEDPIE_0_MainGame.MainGame (0.009121s)
+[2018.10.31-13.34.56:070][410]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.31-13.34.56:092][410]LogInit: FAudioDevice initialized.
+[2018.10.31-13.34.56:134][410]LogLoad: Game class is 'MenuGameMode_C'
+[2018.10.31-13.34.56:137][410]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainGame.MainGame up for play (max tick rate 0) at 2018.10.31-08.34.56
+[2018.10.31-13.34.56:138][410]LogWorld: Bringing up level for play took: 0.001836
+[2018.10.31-13.34.56:161][410]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainGame -0.554
+[2018.10.31-13.34.56:161][410]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.10.31-13.34.59:525][802]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.10.31-13.34.59:525][802]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.31-13.34.59:564][802]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.31-13.34.59:564][802]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.10.31-13.34.59:630][802]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.31-13.34.59:649][803]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2018.10.31-13.35.00:284][875]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.31-13.35.00:316][875]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.10.31-13.35.00:316][875]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.31-13.35.00:316][875]PIE: New page: PIE session: MainGame (Oct 31, 2018, 3:35:00 AM)
+[2018.10.31-13.35.00:316][875]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainGame
+[2018.10.31-13.35.00:322][875]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005572s)
+[2018.10.31-13.35.00:323][875]LogAIModule: Creating AISystem for world MainGame
+[2018.10.31-13.35.00:323][875]LogPlayLevel: PIE: World Init took: (0.001269s)
+[2018.10.31-13.35.00:323][875]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainGame.MainGame to /Game/Maps/UEDPIE_0_MainGame.MainGame (0.007042s)
+[2018.10.31-13.35.00:405][875]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.31-13.35.00:428][875]LogInit: FAudioDevice initialized.
+[2018.10.31-13.35.00:471][875]LogLoad: Game class is 'MenuGameMode_C'
+[2018.10.31-13.35.00:474][875]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainGame.MainGame up for play (max tick rate 0) at 2018.10.31-08.35.00
+[2018.10.31-13.35.00:475][875]LogWorld: Bringing up level for play took: 0.001712
+[2018.10.31-13.35.00:498][875]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainGame -0.216
+[2018.10.31-13.35.00:498][875]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.10.31-13.35.03:362][208]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.10.31-13.35.03:363][208]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.31-13.35.03:403][208]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.31-13.35.03:403][208]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.10.31-13.35.03:473][208]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.31-13.35.03:492][209]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2018.10.31-13.35.04:153][285]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.31-13.35.04:181][285]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.10.31-13.35.04:181][285]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.31-13.35.04:181][285]PIE: New page: PIE session: MainGame (Oct 31, 2018, 3:35:04 AM)
+[2018.10.31-13.35.04:181][285]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainGame
+[2018.10.31-13.35.04:187][285]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005168s)
+[2018.10.31-13.35.04:187][285]LogAIModule: Creating AISystem for world MainGame
+[2018.10.31-13.35.04:188][285]LogPlayLevel: PIE: World Init took: (0.000908s)
+[2018.10.31-13.35.04:188][285]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainGame.MainGame to /Game/Maps/UEDPIE_0_MainGame.MainGame (0.006242s)
+[2018.10.31-13.35.04:262][285]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.31-13.35.04:281][285]LogInit: FAudioDevice initialized.
+[2018.10.31-13.35.04:323][285]LogLoad: Game class is 'MenuGameMode_C'
+[2018.10.31-13.35.04:326][285]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainGame.MainGame up for play (max tick rate 0) at 2018.10.31-08.35.04
+[2018.10.31-13.35.04:327][285]LogWorld: Bringing up level for play took: 0.001740
+[2018.10.31-13.35.04:350][285]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainGame -0.364
+[2018.10.31-13.35.04:350][285]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.10.31-13.35.07:247][623]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.10.31-13.35.07:248][623]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.31-13.35.07:283][623]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.31-13.35.07:283][623]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.10.31-13.35.07:352][623]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.31-13.35.07:371][624]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2018.10.31-13.35.07:808][674]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.31-13.35.07:839][674]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.10.31-13.35.07:840][674]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.31-13.35.07:840][674]PIE: New page: PIE session: MainGame (Oct 31, 2018, 3:35:07 AM)
+[2018.10.31-13.35.07:840][674]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainGame
+[2018.10.31-13.35.07:845][674]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005219s)
+[2018.10.31-13.35.07:846][674]LogAIModule: Creating AISystem for world MainGame
+[2018.10.31-13.35.07:846][674]LogPlayLevel: PIE: World Init took: (0.001006s)
+[2018.10.31-13.35.07:846][674]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainGame.MainGame to /Game/Maps/UEDPIE_0_MainGame.MainGame (0.006406s)
+[2018.10.31-13.35.07:922][674]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.31-13.35.07:943][674]LogInit: FAudioDevice initialized.
+[2018.10.31-13.35.07:981][674]LogLoad: Game class is 'MenuGameMode_C'
+[2018.10.31-13.35.07:984][674]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainGame.MainGame up for play (max tick rate 0) at 2018.10.31-08.35.07
+[2018.10.31-13.35.07:985][674]LogWorld: Bringing up level for play took: 0.001725
+[2018.10.31-13.35.08:008][674]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainGame -0.704
+[2018.10.31-13.35.08:008][674]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.10.31-13.35.08:619][740]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.10.31-13.35.08:620][740]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.31-13.35.08:659][740]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.31-13.35.08:659][740]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.10.31-13.35.08:728][740]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.31-13.35.08:747][741]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2018.10.31-13.35.09:732][854]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.31-13.35.09:762][854]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.10.31-13.35.09:762][854]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.31-13.35.09:763][854]PIE: New page: PIE session: MainGame (Oct 31, 2018, 3:35:09 AM)
+[2018.10.31-13.35.09:763][854]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainGame
+[2018.10.31-13.35.09:768][854]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004960s)
+[2018.10.31-13.35.09:769][854]LogAIModule: Creating AISystem for world MainGame
+[2018.10.31-13.35.09:769][854]LogPlayLevel: PIE: World Init took: (0.000948s)
+[2018.10.31-13.35.09:769][854]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainGame.MainGame to /Game/Maps/UEDPIE_0_MainGame.MainGame (0.006061s)
+[2018.10.31-13.35.09:846][854]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.31-13.35.09:870][854]LogInit: FAudioDevice initialized.
+[2018.10.31-13.35.09:907][854]LogLoad: Game class is 'MenuGameMode_C'
+[2018.10.31-13.35.09:910][854]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainGame.MainGame up for play (max tick rate 0) at 2018.10.31-08.35.09
+[2018.10.31-13.35.09:911][854]LogWorld: Bringing up level for play took: 0.001686
+[2018.10.31-13.35.09:934][854]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainGame -0.778
+[2018.10.31-13.35.09:934][854]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.10.31-13.35.13:518][272]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.10.31-13.35.13:519][272]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.31-13.35.13:558][272]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.31-13.35.13:559][272]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.10.31-13.35.13:635][272]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.31-13.35.13:655][273]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2018.10.31-13.35.14:121][327]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.31-13.35.14:153][327]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.10.31-13.35.14:153][327]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.31-13.35.14:153][327]PIE: New page: PIE session: MainGame (Oct 31, 2018, 3:35:14 AM)
+[2018.10.31-13.35.14:153][327]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainGame
+[2018.10.31-13.35.14:160][327]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006604s)
+[2018.10.31-13.35.14:161][327]LogAIModule: Creating AISystem for world MainGame
+[2018.10.31-13.35.14:161][327]LogPlayLevel: PIE: World Init took: (0.001197s)
+[2018.10.31-13.35.14:162][327]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainGame.MainGame to /Game/Maps/UEDPIE_0_MainGame.MainGame (0.008028s)
+[2018.10.31-13.35.14:240][327]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.31-13.35.14:261][327]LogInit: FAudioDevice initialized.
+[2018.10.31-13.35.14:298][327]LogLoad: Game class is 'MenuGameMode_C'
+[2018.10.31-13.35.14:301][327]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainGame.MainGame up for play (max tick rate 0) at 2018.10.31-08.35.14
+[2018.10.31-13.35.14:302][327]LogWorld: Bringing up level for play took: 0.001765
+[2018.10.31-13.35.14:325][327]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainGame -0.387
+[2018.10.31-13.35.14:325][327]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.10.31-13.35.17:323][676]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.10.31-13.35.17:323][676]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.31-13.35.17:362][676]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.31-13.35.17:363][676]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.10.31-13.35.17:441][676]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.31-13.35.17:460][677]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2018.10.31-13.35.18:137][756]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.31-13.35.18:166][756]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.10.31-13.35.18:166][756]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.31-13.35.18:166][756]PIE: New page: PIE session: MainGame (Oct 31, 2018, 3:35:18 AM)
+[2018.10.31-13.35.18:166][756]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainGame
+[2018.10.31-13.35.18:170][756]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004147s)
+[2018.10.31-13.35.18:171][756]LogAIModule: Creating AISystem for world MainGame
+[2018.10.31-13.35.18:171][756]LogPlayLevel: PIE: World Init took: (0.000832s)
+[2018.10.31-13.35.18:171][756]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainGame.MainGame to /Game/Maps/UEDPIE_0_MainGame.MainGame (0.005125s)
+[2018.10.31-13.35.18:252][756]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.31-13.35.18:273][756]LogInit: FAudioDevice initialized.
+[2018.10.31-13.35.18:309][756]LogLoad: Game class is 'MenuGameMode_C'
+[2018.10.31-13.35.18:312][756]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainGame.MainGame up for play (max tick rate 0) at 2018.10.31-08.35.18
+[2018.10.31-13.35.18:313][756]LogWorld: Bringing up level for play took: 0.001752
+[2018.10.31-13.35.18:335][756]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainGame -0.375
+[2018.10.31-13.35.18:335][756]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.10.31-13.35.20:879][ 50]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.10.31-13.35.20:879][ 50]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.31-13.35.20:914][ 50]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.31-13.35.20:914][ 50]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.10.31-13.35.20:978][ 50]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.31-13.35.20:996][ 51]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2018.10.31-13.35.21:462][106]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.31-13.35.21:490][106]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.10.31-13.35.21:491][106]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.31-13.35.21:491][106]PIE: New page: PIE session: MainGame (Oct 31, 2018, 3:35:21 AM)
+[2018.10.31-13.35.21:491][106]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainGame
+[2018.10.31-13.35.21:496][106]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005488s)
+[2018.10.31-13.35.21:498][106]LogAIModule: Creating AISystem for world MainGame
+[2018.10.31-13.35.21:498][106]LogPlayLevel: PIE: World Init took: (0.001862s)
+[2018.10.31-13.35.21:498][106]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainGame.MainGame to /Game/Maps/UEDPIE_0_MainGame.MainGame (0.007580s)
+[2018.10.31-13.35.21:573][106]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.31-13.35.21:593][106]LogInit: FAudioDevice initialized.
+[2018.10.31-13.35.21:633][106]LogLoad: Game class is 'MenuGameMode_C'
+[2018.10.31-13.35.21:636][106]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainGame.MainGame up for play (max tick rate 0) at 2018.10.31-08.35.21
+[2018.10.31-13.35.21:637][106]LogWorld: Bringing up level for play took: 0.001719
+[2018.10.31-13.35.21:659][106]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainGame 0.95
+[2018.10.31-13.35.21:659][106]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.10.31-13.35.23:748][341]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.10.31-13.35.23:748][341]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.31-13.35.23:788][341]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.31-13.35.23:789][341]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.10.31-13.35.23:854][341]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.31-13.35.23:876][342]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2018.10.31-13.35.25:995][578]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/MainGame.MainGame
+[2018.10.31-13.35.26:057][578]Cmd: MAP LOAD FILE="F:/Users/dtconcha/Documents/GitHub/gift/Builds/GiftGame/Content/Maps/MainGame.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.10.31-13.35.26:057][578]LightingResults: New page: Lighting Build
+[2018.10.31-13.35.26:058][578]LoadErrors: New page: Loading map: MainGame.umap
+[2018.10.31-13.35.26:059][578]MapCheck: New page: Map Check
+[2018.10.31-13.35.26:059][578]LightingResults: New page: Lighting Build
+[2018.10.31-13.35.26:204][578]LogAIModule: Creating AISystem for world MainGame
+[2018.10.31-13.35.26:301][578]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.10.31-13.35.26:409][578]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.10.31-13.35.26:540][578]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 130.1ms to complete.
+[2018.10.31-13.35.26:542][578]LogFileHelpers: Loading map 'MainGame' took 0.487
+[2018.10.31-13.35.29:494][887]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Maps/MainGame.MainGame:PersistentLevel.MainGame
+[2018.10.31-13.35.40:882][677]BlueprintLog: New page: Compile MainGame
+[2018.10.31-13.35.41:698][699]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainGame" FILE="F:/Users/dtconcha/Documents/GitHub/gift/Builds/GiftGame/Content/Maps/MainGame.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.10.31-13.35.42:096][699]LogSavePackage: Moving 'F:/Users/dtconcha/Documents/GitHub/gift/Builds/GiftGame/Saved/MainGame00077E9644281D3D271A84BA54EED14C.tmp' to 'F:/Users/dtconcha/Documents/GitHub/gift/Builds/GiftGame/Content/Maps/MainGame.umap'
+[2018.10.31-13.35.42:149][699]LogFileHelpers: Saving map 'MainGame' took 0.592
+[2018.10.31-13.35.43:596][846]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.31-13.35.43:625][846]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.10.31-13.35.43:625][846]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.31-13.35.43:625][846]PIE: New page: PIE session: MainGame (Oct 31, 2018, 3:35:43 AM)
+[2018.10.31-13.35.43:625][846]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainGame
+[2018.10.31-13.35.43:629][846]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003586s)
+[2018.10.31-13.35.43:630][846]LogAIModule: Creating AISystem for world MainGame
+[2018.10.31-13.35.43:630][846]LogPlayLevel: PIE: World Init took: (0.000856s)
+[2018.10.31-13.35.43:630][846]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainGame.MainGame to /Game/Maps/UEDPIE_0_MainGame.MainGame (0.004575s)
+[2018.10.31-13.35.43:709][846]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.31-13.35.43:728][846]LogInit: FAudioDevice initialized.
+[2018.10.31-13.35.43:771][846]LogLoad: Game class is 'MenuGameMode_C'
+[2018.10.31-13.35.43:774][846]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainGame.MainGame up for play (max tick rate 0) at 2018.10.31-08.35.43
+[2018.10.31-13.35.43:775][846]LogWorld: Bringing up level for play took: 0.001814
+[2018.10.31-13.35.43:799][846]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainGame 1.094
+[2018.10.31-13.35.43:800][846]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.10.31-13.35.46:315][136]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.10.31-13.35.46:315][136]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.31-13.35.46:359][136]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.31-13.35.46:360][136]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.10.31-13.35.46:432][136]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.31-13.35.46:451][137]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2018.10.31-13.35.47:182][219]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.31-13.35.47:214][219]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.10.31-13.35.47:214][219]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.31-13.35.47:214][219]PIE: New page: PIE session: MainGame (Oct 31, 2018, 3:35:47 AM)
+[2018.10.31-13.35.47:214][219]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainGame
+[2018.10.31-13.35.47:219][219]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004309s)
+[2018.10.31-13.35.47:219][219]LogAIModule: Creating AISystem for world MainGame
+[2018.10.31-13.35.47:220][219]LogPlayLevel: PIE: World Init took: (0.000859s)
+[2018.10.31-13.35.47:220][219]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainGame.MainGame to /Game/Maps/UEDPIE_0_MainGame.MainGame (0.005318s)
+[2018.10.31-13.35.47:295][219]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.31-13.35.47:319][219]LogInit: FAudioDevice initialized.
+[2018.10.31-13.35.47:363][219]LogLoad: Game class is 'MenuGameMode_C'
+[2018.10.31-13.35.47:366][219]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainGame.MainGame up for play (max tick rate 0) at 2018.10.31-08.35.47
+[2018.10.31-13.35.47:367][219]LogWorld: Bringing up level for play took: 0.001692
+[2018.10.31-13.35.47:390][219]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainGame 0.686
+[2018.10.31-13.35.47:390][219]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.10.31-13.35.49:655][480]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.10.31-13.35.49:655][480]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.31-13.35.49:695][480]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.31-13.35.49:696][480]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.10.31-13.35.49:769][480]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.31-13.35.49:788][481]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2018.10.31-13.35.50:301][540]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.31-13.35.50:331][540]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.10.31-13.35.50:331][540]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.31-13.35.50:331][540]PIE: New page: PIE session: MainGame (Oct 31, 2018, 3:35:50 AM)
+[2018.10.31-13.35.50:331][540]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainGame
+[2018.10.31-13.35.50:336][540]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005200s)
+[2018.10.31-13.35.50:337][540]LogAIModule: Creating AISystem for world MainGame
+[2018.10.31-13.35.50:337][540]LogPlayLevel: PIE: World Init took: (0.000994s)
+[2018.10.31-13.35.50:337][540]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainGame.MainGame to /Game/Maps/UEDPIE_0_MainGame.MainGame (0.006368s)
+[2018.10.31-13.35.50:411][540]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.31-13.35.50:431][540]LogInit: FAudioDevice initialized.
+[2018.10.31-13.35.50:467][540]LogLoad: Game class is 'MenuGameMode_C'
+[2018.10.31-13.35.50:470][540]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainGame.MainGame up for play (max tick rate 0) at 2018.10.31-08.35.50
+[2018.10.31-13.35.50:471][540]LogWorld: Bringing up level for play took: 0.001771
+[2018.10.31-13.35.50:493][540]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainGame -0.211
+[2018.10.31-13.35.50:493][540]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.10.31-13.35.52:497][772]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.10.31-13.35.52:498][772]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.31-13.35.52:540][772]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.31-13.35.52:540][772]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.10.31-13.35.52:618][772]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.31-13.35.52:637][773]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2018.10.31-13.35.53:252][845]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.31-13.35.53:279][845]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.10.31-13.35.53:279][845]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.31-13.35.53:279][845]PIE: New page: PIE session: MainGame (Oct 31, 2018, 3:35:53 AM)
+[2018.10.31-13.35.53:279][845]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainGame
+[2018.10.31-13.35.53:283][845]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004036s)
+[2018.10.31-13.35.53:284][845]LogAIModule: Creating AISystem for world MainGame
+[2018.10.31-13.35.53:284][845]LogPlayLevel: PIE: World Init took: (0.000835s)
+[2018.10.31-13.35.53:284][845]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainGame.MainGame to /Game/Maps/UEDPIE_0_MainGame.MainGame (0.005007s)
+[2018.10.31-13.35.53:354][845]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.31-13.35.53:374][845]LogInit: FAudioDevice initialized.
+[2018.10.31-13.35.53:412][845]LogLoad: Game class is 'MenuGameMode_C'
+[2018.10.31-13.35.53:415][845]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainGame.MainGame up for play (max tick rate 0) at 2018.10.31-08.35.53
+[2018.10.31-13.35.53:416][845]LogWorld: Bringing up level for play took: 0.001751
+[2018.10.31-13.35.53:439][845]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainGame 0.736
+[2018.10.31-13.35.53:439][845]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.10.31-13.35.55:571][ 90]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.10.31-13.35.55:572][ 90]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.31-13.35.55:610][ 90]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.31-13.35.55:610][ 90]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.10.31-13.35.55:683][ 90]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.31-13.35.55:702][ 91]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2018.10.31-13.35.56:232][153]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.31-13.35.56:263][153]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.10.31-13.35.56:263][153]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.31-13.35.56:263][153]PIE: New page: PIE session: MainGame (Oct 31, 2018, 3:35:56 AM)
+[2018.10.31-13.35.56:264][153]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainGame
+[2018.10.31-13.35.56:268][153]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004241s)
+[2018.10.31-13.35.56:269][153]LogAIModule: Creating AISystem for world MainGame
+[2018.10.31-13.35.56:269][153]LogPlayLevel: PIE: World Init took: (0.000867s)
+[2018.10.31-13.35.56:269][153]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainGame.MainGame to /Game/Maps/UEDPIE_0_MainGame.MainGame (0.005263s)
+[2018.10.31-13.35.56:350][153]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.31-13.35.56:370][153]LogInit: FAudioDevice initialized.
+[2018.10.31-13.35.56:414][153]LogLoad: Game class is 'MenuGameMode_C'
+[2018.10.31-13.35.56:417][153]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainGame.MainGame up for play (max tick rate 0) at 2018.10.31-08.35.56
+[2018.10.31-13.35.56:418][153]LogWorld: Bringing up level for play took: 0.001695
+[2018.10.31-13.35.56:441][153]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainGame -0.262
+[2018.10.31-13.35.56:441][153]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.10.31-13.35.58:568][399]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.10.31-13.35.58:568][399]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.31-13.35.58:610][399]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.31-13.35.58:611][399]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.10.31-13.35.58:682][399]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.31-13.35.58:700][400]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2018.10.31-13.35.59:054][439]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.31-13.35.59:086][439]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.10.31-13.35.59:086][439]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.31-13.35.59:086][439]PIE: New page: PIE session: MainGame (Oct 31, 2018, 3:35:59 AM)
+[2018.10.31-13.35.59:086][439]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainGame
+[2018.10.31-13.35.59:091][439]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004150s)
+[2018.10.31-13.35.59:091][439]LogAIModule: Creating AISystem for world MainGame
+[2018.10.31-13.35.59:091][439]LogPlayLevel: PIE: World Init took: (0.000841s)
+[2018.10.31-13.35.59:091][439]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainGame.MainGame to /Game/Maps/UEDPIE_0_MainGame.MainGame (0.005137s)
+[2018.10.31-13.35.59:175][439]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.31-13.35.59:195][439]LogInit: FAudioDevice initialized.
+[2018.10.31-13.35.59:231][439]LogLoad: Game class is 'MenuGameMode_C'
+[2018.10.31-13.35.59:234][439]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainGame.MainGame up for play (max tick rate 0) at 2018.10.31-08.35.59
+[2018.10.31-13.35.59:235][439]LogWorld: Bringing up level for play took: 0.001787
+[2018.10.31-13.35.59:258][439]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainGame 0.556
+[2018.10.31-13.35.59:258][439]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.10.31-13.36.02:502][818]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.10.31-13.36.02:503][818]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.31-13.36.02:550][818]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.31-13.36.02:551][818]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.10.31-13.36.02:621][818]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.31-13.36.02:644][819]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2018.10.31-13.36.05:416][129]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainGame" FILE="F:/Users/dtconcha/Documents/GitHub/gift/Builds/GiftGame/Content/Maps/MainGame.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.10.31-13.36.05:912][129]LogSavePackage: Moving 'F:/Users/dtconcha/Documents/GitHub/gift/Builds/GiftGame/Saved/MainGame1A219B7742D952866A599596B78BD7B4.tmp' to 'F:/Users/dtconcha/Documents/GitHub/gift/Builds/GiftGame/Content/Maps/MainGame.umap'

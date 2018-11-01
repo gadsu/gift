@@ -25,7 +25,7 @@ bCreateAllPlatformsInstall=false
 Orientation=Landscape
 InstallLocation=InternalOnly
 DepthBufferPreference=Default
-PackageName=com.YourCompany.[PROJECT]
+PackageName=com.TeamNA.GiftGame
 StoreVersion=1
 VersionDisplayName=1.0
 MinSDKVersion=9
@@ -53,7 +53,7 @@ bBuildWithHiddenSymbolVisibility=false
 bSaveSymbols=false
 bAllowControllers=True
 bAllowIMU=True
-MaxAspectRatio=4240701.000000
+ApplicationDisplayName=Gift Game
 bFullScreen=True
 SDKPath=(Path="C:/Program Files (x86)/NVIDIA CodeWorks for Android/NVPACK/android-sdk-windows")
 NDKPath=(Path="C:/Program Files (x86)/NVIDIA CodeWorks for Android/NVPACK/android-ndk-r12b")
