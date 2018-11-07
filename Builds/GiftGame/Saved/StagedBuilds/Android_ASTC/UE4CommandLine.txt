@@ -1,1 +1,1 @@
-../../../GiftGame/GiftGame.uproject  /Game/Maps/MainGame -Messaging -SessionId=73C22E06481B1573A4B90A9457140BCB -SessionOwner="Phenrear" -SessionName="Launch On Device" -iterative
+../../../GiftGame/GiftGame.uproject  /Game/Maps/MainGame -Messaging -SessionId=C06460F04C4FA9F1A9BC99B69536DDDB -SessionOwner="Phenrear" -SessionName="Launch On Device" -iterative
