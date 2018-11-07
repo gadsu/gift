@@ -1,51 +1,91 @@
---------- beginning of main
-11-06 18:22:23.316  8826  8826 E adbd    : failed to connect to socket 'tcp:6666': Connection refused
 --------- beginning of system
-11-06 18:22:23.397   898  2136 I ActivityManager: START u0 {flg=0x10000000 cmp=com.TeamNA.GiftGame/com.epicgames.ue4.SplashActivity} from uid 2000
-11-06 18:22:23.420   673   673 D QCOM PowerHAL: LAUNCH HINT: ON
-11-06 18:22:23.421   673   673 D QCOM PowerHAL: Activity launch hint handled
-11-06 18:22:23.481   898   990 I ActivityManager: Config changes=20000480 {1.0 311mcc480mnc [en_US] ldltr sw411dp w683dp h387dp 420dpi nrml land night finger -keyb/v/h -nav/h winConfig={ mBounds=Rect(0, 0 - 1080, 1794) mAppBounds=Rect(0, 0 - 1794, 1080) mWindowingMode=fullscreen mActivityType=undefined} s.167}
-11-06 18:22:23.496 17096 17096 I TeamNA.GiftGam: Late-enabling -Xcheck:jni
-11-06 18:22:23.502  2507  2507 I PBSessionCacheImpl: Deleted sessionId[11027443637737543] from persistence.
-11-06 18:22:23.519  2507  2507 W SearchServiceCore: Abort, client detached.
-11-06 18:22:23.540 14215 14231 I Finsky  : [2047] com.google.android.finsky.bn.an.run(6): Stats for Executor: BlockingExecutor com.google.android.finsky.bn.ao@dffe211[Running, pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 6]
-11-06 18:22:23.540 14215 14231 I Finsky  : [2047] com.google.android.finsky.bn.an.run(6): Stats for Executor: LightweightExecutor com.google.android.finsky.bn.ao@6fa9f76[Running, pool size = 3, active threads = 0, queued tasks = 0, completed tasks = 42]
-11-06 18:22:23.624 14215 14231 I Finsky  : [2047] com.google.android.finsky.bn.an.run(6): Stats for Executor: bgExecutor com.google.android.finsky.bn.ao@900977[Running, pool size = 4, active threads = 0, queued tasks = 0, completed tasks = 6]
-11-06 18:22:23.720   898   990 I ActivityManager: Override config changes=20000480 {1.0 311mcc480mnc [en_US] ldltr sw411dp w683dp h387dp 420dpi nrml land night finger -keyb/v/h -nav/h winConfig={ mBounds=Rect(0, 0 - 1080, 1794) mAppBounds=Rect(0, 0 - 1794, 1080) mWindowingMode=fullscreen mActivityType=undefined} s.167} for displayId=0
-11-06 18:22:23.764   898  1217 I InputReader: Reconfiguring input devices.  changes=0x00000004
-11-06 18:22:23.771   898  1217 I InputReader: Device reconfigured: id=8, name='synaptics_dsxv26', size 1080x1920, orientation 1, mode 1, display id 0
-11-06 18:22:23.775   898  2136 I ActivityManager: Start proc 17096:com.TeamNA.GiftGame/u0a340 for activity com.TeamNA.GiftGame/com.epicgames.ue4.SplashActivity
-11-06 18:22:23.979 14215 14231 I Finsky  : [2047] com.google.android.finsky.bn.an.run(6): Stats for Executor: StorageAwareDownloadServiceManagerSpaceChecker com.google.android.finsky.bn.ao@94079e4[Running, pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 0]
-11-06 18:22:23.992   898  2136 W ActivityManager: Slow operation: 217ms so far, now at attachApplicationLocked: after mServices.attachApplicationLocked
-11-06 18:22:23.993   898  1217 I InputReader: Reconfiguring input devices.  changes=0x00000004
-11-06 18:22:23.994   898  1217 I chatty  : uid=1000(system) InputReader identical 1 line
-11-06 18:22:23.994   898  1217 I InputReader: Reconfiguring input devices.  changes=0x00000004
-11-06 18:22:24.069 17096 17096 I TeamNA.GiftGam: The ClassLoaderContext is a special shared library.
-11-06 18:22:24.072   898   968 W ActivityManager: Showing SDK deprecation warning for package com.TeamNA.GiftGame
-11-06 18:22:24.121   898   968 W Looper  : Slow dispatch took 124ms android.ui h=com.android.server.am.AppWarnings$UiHandler c=null m=5
-11-06 18:22:24.148  1400  1400 D StatusBar: disable<e i a s b h r c s > disable2<q i n >
-11-06 18:22:24.341  1392  1392 I EmojiSearchExtension: com.google.android.apps.inputmethod.libs.search.emoji.EmojiSearchExtension: onDeactivate()
-11-06 18:22:24.341  1392  1392 E EmojiSearchExtension: com.google.android.apps.inputmethod.libs.search.emoji.EmojiSearchExtension: Cannot deactivate emoji search JNI; null locale
-11-06 18:22:24.381   898   968 W Looper  : Slow dispatch took 257ms android.ui h=android.view.Choreographer$FrameHandler c=android.view.Choreographer$FrameDisplayEventReceiver@83f5ef m=0
-11-06 18:22:24.381   898   968 W Looper  : Slow delivery took 267ms android.ui h=com.android.server.policy.PhoneWindowManager$PolicyHandler c=com.android.server.policy.PhoneWindowManager$20@79cc8e8 m=0
-11-06 18:22:24.388  1392 17115 I DlamWrapper: chg: close(): Successfully wrote DLAM properties file.
-11-06 18:22:24.548   898   968 W Looper  : Slow dispatch took 167ms android.ui h=android.view.Choreographer$FrameHandler c=android.view.Choreographer$FrameDisplayEventReceiver@83f5ef m=0
-11-06 18:22:24.557  1400  1400 D StatusBar: disable<e i a s b h r c s > disable2<q i n >
-11-06 18:22:24.563   898   968 W Looper  : Drained
-11-06 18:22:24.590   493   523 W SurfaceFlinger: Attempting to destroy on removed layer: e8f7ce4 AssistPreviewPanel#0
-11-06 18:22:24.657   898  2715 I ActivityManager: START u0 {flg=0x10000 cmp=com.TeamNA.GiftGame/com.epicgames.ue4.GameActivity (has extras)} from uid 10340
-11-06 18:22:24.660   673   673 D QCOM PowerHAL: LAUNCH HINT: ON
-11-06 18:22:24.690   898  2136 I WindowManager: Screen frozen for +1s231ms due to AppWindowToken{f9c2b79 token=Token{96de040 ActivityRecord{febdfc3 u0 com.TeamNA.GiftGame/com.epicgames.ue4.SplashActivity t620}}}
-11-06 18:22:24.705 17096 17096 W ActivityThread: handleWindowVisibility: no activity for token android.os.BinderProxy@45f8d88
-11-06 18:22:24.719   493   493 D SurfaceFlinger: duplicate layer name: changing Surface(name=Dim Layer for - mAboveAppWindowsContainers)/@0xe686b01 - animation-leash to Surface(name=Dim Layer for - mAboveAppWindowsContainers)/@0xe686b01 - animation-leash#1
-11-06 18:22:24.737 17096 17096 W linker  : Warning: "/data/app/com.TeamNA.GiftGame-KwYxdtCkvHjK_C3aL1jSnQ==/lib/arm/libOVRPlugin.so" has no DT_SONAME (will use libOVRPlugin.so instead) and will not work when the app moves to API level 23 or later (https://android.googlesource.com/platform/bionic/+/master/missing-soname-enforced-for-api-level-23) (allowing for now because this app's target API level is still 14)
-11-06 18:22:24.740   898   968 W ActivityManager: Showing SDK deprecation warning for package com.TeamNA.GiftGame
-11-06 18:22:24.746 17096 17096 D OVRPlugin: JNI_OnLoad
-11-06 18:22:24.752 17096 17096 E libsigchain: Warning: Unexpected sigaction action found 0xf0fb8765
-11-06 18:22:24.776   493   493 D SurfaceFlinger: duplicate layer name: changing DeprecatedTargetSdkVersionDialog to DeprecatedTargetSdkVersionDialog#1
-11-06 18:22:24.780   898  9076 I OpenGLRenderer: Initialized EGL, version 1.4
-11-06 18:22:24.780   898  9076 D OpenGLRenderer: Swap behavior 1
-11-06 18:22:24.801 17096 17096 D UE4     : Used memory before allocating anything was 128.55MB
-11-06 18:22:24.883   493   575 W SurfaceFlinger: Attempting to set client state on removed layer: Dim Layer for - mAboveAppWindowsContainers#0
-11-06 18:22:24.883   493   575 W SurfaceFlinger: Attempting to destroy on removed layer: Dim Layer for - mAboveAppWindowsContainers#0
-11-06 18:22:24.887   493   575 W SurfaceFlinger: Attempting to destroy on removed layer: 900455d DeprecatedTargetSdkVersionDialog#0
+11-06 18:39:21.967   898   898 V SettingsProvider: Notifying for 0: content://settings/system/screen_brightness
+11-06 18:39:23.984   898  2449 I ActivityManager: START u0 {flg=0x10000000 cmp=com.TeamNA.GiftGame/com.epicgames.ue4.SplashActivity} from uid 2000
+--------- beginning of main
+11-06 18:39:23.998 14215 14231 I Finsky  : [2047] com.google.android.finsky.bn.an.run(6): Stats for Executor: StorageAwareDownloadServiceManagerSpaceChecker com.google.android.finsky.bn.ao@94079e4[Running, pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 0]
+11-06 18:39:23.999   673   673 D QCOM PowerHAL: LAUNCH HINT: ON
+11-06 18:39:24.004   673   673 D QCOM PowerHAL: Activity launch hint handled
+11-06 18:39:24.053   898  1162 I ActivityManager: Config changes=20000480 {1.0 311mcc480mnc [en_US] ldltr sw411dp w683dp h387dp 420dpi nrml land night finger -keyb/v/h -nav/h winConfig={ mBounds=Rect(0, 0 - 1080, 1794) mAppBounds=Rect(0, 0 - 1794, 1080) mWindowingMode=fullscreen mActivityType=undefined} s.169}
+11-06 18:39:24.068 18085 18085 I TeamNA.GiftGam: Late-enabling -Xcheck:jni
+11-06 18:39:24.093   898  1162 I ActivityManager: Override config changes=20000480 {1.0 311mcc480mnc [en_US] ldltr sw411dp w683dp h387dp 420dpi nrml land night finger -keyb/v/h -nav/h winConfig={ mBounds=Rect(0, 0 - 1080, 1794) mAppBounds=Rect(0, 0 - 1794, 1080) mWindowingMode=fullscreen mActivityType=undefined} s.169} for displayId=0
+11-06 18:39:24.106   898  1217 I InputReader: Reconfiguring input devices.  changes=0x00000004
+11-06 18:39:24.106   898  1217 I InputReader: Device reconfigured: id=8, name='synaptics_dsxv26', size 1080x1920, orientation 1, mode 1, display id 0
+11-06 18:39:24.120   898   969 I ActivityManager: Start proc 18085:com.TeamNA.GiftGame/u0a341 for activity com.TeamNA.GiftGame/com.epicgames.ue4.SplashActivity
+11-06 18:39:24.120   898  1217 I InputReader: Reconfiguring input devices.  changes=0x00000004
+11-06 18:39:24.160   898  1217 I InputReader: Reconfiguring input devices.  changes=0x00000004
+11-06 18:39:24.235  5849  5866 I .qcrilmsgtunne: Background concurrent copying GC freed 25538(1451KB) AllocSpace objects, 0(0B) LOS objects, 59% free, 1026KB/2MB, paused 229us total 116.980ms
+11-06 18:39:24.243  2507  2507 I PBSessionCacheImpl: Deleted sessionId[11027443637737543] from persistence.
+11-06 18:39:24.256  2507  2507 W SearchServiceCore: Abort, client detached.
+11-06 18:39:24.295  1400  1400 D StatusBar: disable<e i a s b h r c s > disable2<q i n >
+11-06 18:39:24.389   898   968 W ActivityManager: Showing SDK deprecation warning for package com.TeamNA.GiftGame
+11-06 18:39:24.407 18085 18085 I TeamNA.GiftGam: The ClassLoaderContext is a special shared library.
+11-06 18:39:24.416   898  9076 I OpenGLRenderer: Initialized EGL, version 1.4
+11-06 18:39:24.417   898  9076 D OpenGLRenderer: Swap behavior 1
+11-06 18:39:24.469  8826  8826 E adbd    : failed to connect to socket 'tcp:6666': Connection refused
+11-06 18:39:24.479  1400  1400 D StatusBar: disable<e i a s b h r c s > disable2<q i n >
+11-06 18:39:24.510   493   575 W SurfaceFlinger: Attempting to destroy on removed layer: c0de344 AssistPreviewPanel#0
+11-06 18:39:24.537  1400  1414 I ndroid.systemu: Background concurrent copying GC freed 194986(6MB) AllocSpace objects, 0(0B) LOS objects, 49% free, 8MB/17MB, paused 66us total 152.515ms
+11-06 18:39:24.873   898  2715 I ActivityManager: START u0 {flg=0x10000 cmp=com.TeamNA.GiftGame/com.epicgames.ue4.GameActivity (has extras)} from uid 10341
+11-06 18:39:24.876   673   673 D QCOM PowerHAL: LAUNCH HINT: ON
+11-06 18:39:24.903   898  1285 I WindowManager: Screen frozen for +883ms due to AppWindowToken{f5cb6e5 token=Token{96d05dc ActivityRecord{cd7ea4f u0 com.TeamNA.GiftGame/com.epicgames.ue4.SplashActivity t621}}}
+11-06 18:39:24.916 18085 18085 W ActivityThread: handleWindowVisibility: no activity for token android.os.BinderProxy@45f8d88
+11-06 18:39:24.943   898   968 W ActivityManager: Showing SDK deprecation warning for package com.TeamNA.GiftGame
+11-06 18:39:24.955 18085 18085 W linker  : Warning: "/data/app/com.TeamNA.GiftGame-y9KgfeRQ0zdX6wxZELSW2g==/lib/arm/libOVRPlugin.so" has no DT_SONAME (will use libOVRPlugin.so instead) and will not work when the app moves to API level 23 or later (https://android.googlesource.com/platform/bionic/+/master/missing-soname-enforced-for-api-level-23) (allowing for now because this app's target API level is still 14)
+11-06 18:39:24.957 18085 18085 D OVRPlugin: JNI_OnLoad
+11-06 18:39:24.957 18085 18085 E libsigchain: Warning: Unexpected sigaction action found 0xf0fb8765
+11-06 18:39:24.958   493   493 D SurfaceFlinger: duplicate layer name: changing DeprecatedTargetSdkVersionDialog to DeprecatedTargetSdkVersionDialog#1
+11-06 18:39:24.960   898  9076 I OpenGLRenderer: Initialized EGL, version 1.4
+11-06 18:39:24.960   898  9076 D OpenGLRenderer: Swap behavior 1
+11-06 18:39:24.996 18085 18085 D UE4     : Used memory before allocating anything was 128.20MB
+11-06 18:39:25.011   493   493 D SurfaceFlinger: duplicate layer name: changing Dim Layer for - mAboveAppWindowsContainers to Dim Layer for - mAboveAppWindowsContainers#1
+11-06 18:39:25.091   493  1014 W SurfaceFlinger: Attempting to set client state on removed layer: Dim Layer for - mAboveAppWindowsContainers#0
+11-06 18:39:25.092   493  1014 W SurfaceFlinger: Attempting to destroy on removed layer: Dim Layer for - mAboveAppWindowsContainers#0
+11-06 18:39:25.233 18085 18085 D UE4     : In the JNI_OnLoad function
+11-06 18:39:25.234 18085 18085 D UE4     : [JNI] - Failed to determine if app purchasing is enabled!
+11-06 18:39:25.237 18085 18085 D UE4     : Path found as '/storage/emulated/0'
+11-06 18:39:25.237 18085 18085 D UE4     : Font Path found as '/system/fonts/'
+11-06 18:39:25.237 18085 18085 D UE4     : In the JNI_OnLoad function 5
+11-06 18:39:25.262 18085 18085 V threaded_app: Creating: 0xed39dc00
+11-06 18:39:25.262 18085 18108 V threaded_app: Config: mcc=311 mnc=480 lang=en cnt=US orien=2 touch=3 dens=420 keys=1 nav=1 keysHid=3 navHid=0 sdk=28 size=2 long=1 modetype=1 modenight=2
+11-06 18:39:25.262 18085 18108 D UE4     : Entering native app glue main function
+11-06 18:39:25.262 18085 18108 D UE4     : Created event thread
+11-06 18:39:25.262 18085 18108 D UE4     : Entered AndroidMain()
+11-06 18:39:25.262 18085 18109 D UE4     : Entering event processing thread engine entry point
+11-06 18:39:25.262 18085 18109 D UE4     : Prepared looper for event thread
+11-06 18:39:25.262 18085 18109 D UE4     : Passed callback initialization
+11-06 18:39:25.262 18085 18109 D UE4     : Passed sensor initialization
+11-06 18:39:25.263 18085 18108 D UE4     : Controller interface supported
+11-06 18:39:25.280 18085 18085 D OpenGLRenderer: Skia GL Pipeline
+11-06 18:39:25.303 18085 18085 D PermissionFragment: Creating PlayGamesFragment
+11-06 18:39:25.307   898  1285 I ActivityManager: START u0 {act=android.content.pm.action.REQUEST_PERMISSIONS pkg=com.google.android.packageinstaller cmp=com.google.android.packageinstaller/com.android.packageinstaller.permission.ui.GrantPermissionsActivity (has extras)} from uid 10341
+11-06 18:39:25.312   673   673 D QCOM PowerHAL: LAUNCH HINT: ON
+11-06 18:39:25.327 18085 18085 D UE4     : Vulkan version: 1.1.0
+11-06 18:39:25.328 18085 18085 D UE4     : Vulkan level: 0
+11-06 18:39:25.330 18085 18085 D UE4     : Found DepthBufferPreference = 0
+11-06 18:39:25.331 18085 18085 D UE4     : Found bPackageDataInsideApk = 0
+11-06 18:39:25.331 18085 18085 D UE4     : Found ProjectName = GiftGame
+11-06 18:39:25.331 18085 18085 D UE4     : Found AppType = 
+11-06 18:39:25.331 18085 18085 D UE4     : Found bHasOBBFiles = 0
+11-06 18:39:25.331 18085 18085 D UE4     : Found bVerifyOBBOnStartUp = false
+11-06 18:39:25.331 18085 18085 D UE4     : UI hiding set to true
+11-06 18:39:25.331 18085 18085 D UE4     : BuildConfiguration set to Development
+11-06 18:39:25.331 18085 18085 D UE4     : UseExternalFilesDir set to false
+11-06 18:39:25.332 18085 18085 D UE4     : AllowIMU set to true
+11-06 18:39:25.332 18085 18085 D UE4     : No GearVR mode detected.
+11-06 18:39:25.332 18085 18085 D UE4     : APK path: /data/app/com.TeamNA.GiftGame-y9KgfeRQ0zdX6wxZELSW2g==/base.apk
+11-06 18:39:25.332 18085 18085 D UE4     : OBB in APK: false
+11-06 18:39:25.334 18085 18085 D UE4     : InternalFilePath found as '/data/user/0/com.TeamNA.GiftGame/files'
+11-06 18:39:25.334 18085 18085 D UE4     : ExternalFilePath found as '/storage/emulated/0/Android/data/com.TeamNA.GiftGame/files'
+11-06 18:39:25.334 18085 18085 D UE4     : App is running in Landscape
+11-06 18:39:25.335 18085 18085 D UE4     : Android version is 9
+11-06 18:39:25.335 18085 18085 D UE4     : Android manufacturer is Google
+11-06 18:39:25.335 18085 18085 D UE4     : Android model is Pixel
+11-06 18:39:25.335 18085 18085 D UE4     : OS language is set to en_US
+11-06 18:39:25.335 18085 18085 D UE4     : Debugger attached is false
+11-06 18:39:25.431 18085 18085 W PopupManager: You have not specified a View to use as content view for popups. Falling back to the Activity content view. Note that this may not work as expected in multi-screen environments
+11-06 18:39:25.453 18085 18085 D UE4     : ==============> GameActive.onCreate complete!
+11-06 18:39:25.458 18085 18085 V threaded_app: Start: 0xed39dc00
+11-06 18:39:25.458 18085 18109 V threaded_app: activityState=10
+11-06 18:39:25.458 18085 18085 D UE4     : Creating console command broadcast listener
+11-06 18:39:25.458 18085 18109 D UE4     : LogAndroidEvents: EnqueueAppEvent : 9, 0, tid = 18109
+11-06 18:39:25.460 18085 18085 D UE4     : ==================================> Inside onStart function in GameActivity
