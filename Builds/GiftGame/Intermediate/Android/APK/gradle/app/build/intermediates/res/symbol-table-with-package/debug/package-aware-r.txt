@@ -1,4 +1,4 @@
-com.TeamNA.GiftGame
+com.YourCompany.GiftGame
 int anim noaction 0x7f010000
 int attr adSize 0x7f020000
 int attr adSizes 0x7f020001

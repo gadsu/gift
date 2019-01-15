@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.TeamNA.GiftGame"
+    package="com.YourCompany.GiftGame"
     android:installLocation="internalOnly"
     android:versionCode="1"
     android:versionName="1.0" > <!-- Requirements -->
@@ -56,14 +56,14 @@
                 android:value="UE4" />
         </activity>
         <activity
-            android:name="com.TeamNA.GiftGame.DownloaderActivity"
+            android:name="com.YourCompany.GiftGame.DownloaderActivity"
             android:configChanges="screenSize|orientation|keyboardHidden|keyboard"
             android:screenOrientation="landscape"
             android:theme="@style/UE4SplashTheme" />
 
         <meta-data
             android:name="com.epicgames.ue4.GameActivity.EngineVersion"
-            android:value="4.20.3" />
+            android:value="4.20.2" />
         <meta-data
             android:name="com.epicgames.ue4.GameActivity.DepthBufferPreference"
             android:value="0" />
@@ -113,9 +113,9 @@
             android:exported="false"
             android:theme="@android:style/Theme.Translucent" />
 
-        <service android:name="com.TeamNA.GiftGame.OBBDownloaderService" />
+        <service android:name="com.YourCompany.GiftGame.OBBDownloaderService" />
 
-        <receiver android:name="com.TeamNA.GiftGame.AlarmReceiver" />
+        <receiver android:name="com.YourCompany.GiftGame.AlarmReceiver" />
         <receiver android:name="com.epicgames.ue4.LocalNotificationReceiver" />
         <receiver
             android:name="com.epicgames.ue4.MulticastBroadcastReceiver"
@@ -127,7 +127,7 @@
 
         <meta-data
             android:name="android.max_aspect"
-            android:value="2.10" />
+            android:value="4240701.00" />
 
         <activity
             android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"

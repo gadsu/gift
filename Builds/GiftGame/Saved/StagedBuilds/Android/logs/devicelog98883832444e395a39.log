@@ -1,0 +1,516 @@
+--------- beginning of main
+10-10 17:31:25.075 18865 18865 E propClient: PropClient failed to load
+10-10 17:31:25.214  2184  2184 E adbd    : recv: OPEN 00000e9d 00000000 004f:73 68 65 6C 6C 2C 76 32 3A 61 6D 20 73 74 61 72 74 20 2D 6E 20 63 6F 6D 2E 59 6F 75 72 43 6F 6D 70 61 6E 79 2E 47 69 66 74 47 61 6D 65 2F 63 6F 6D 2E 65 70 69 63 67 61 6D 65 73 2E 75 65 34 2E 53 70 6C 61 73 68 41 63 74 69 76 69 74 79 00 
+10-10 17:31:25.214  2184  2184 E adbd    : service_to_fd: shell,v2:am start -n com.YourCompany.GiftGame/com.epicgames.ue4.SplashActivity
+10-10 17:31:25.231 18867 18867 E propClient: PropClient failed to load
+10-10 17:31:25.246 18867 18867 E propClient: PropClient failed to load
+10-10 17:31:25.287 18869 18869 E propClient: PropClient failed to load
+--------- beginning of system
+10-10 17:31:25.318  1515  3446 I ActivityManager: START u0 {act=null typ=null flg=0x10000000 cmp=ComponentInfo{com.YourCompany.GiftGame/com.epicgames.ue4.SplashActivity}} from uid 2000
+10-10 17:31:25.337  1515  3446 D CustomFrequencyManagerService: acquireDVFSLockLocked : type : DVFS_MIN_LIMIT  frequency : 2361600  uid : 1000  pid : 1515  pkgName : AMS_APP_SWITCH@CPU_MIN@74
+10-10 17:31:25.339  1515  1920 I WifiTrafficPoller: mCpuCoreBooster Lock
+10-10 17:31:25.340  1515  3446 D ActivityManagerPerformance: AMP_acquire() APP_SWITCH
+10-10 17:31:25.340  1515  3255 D ActivityManagerPerformance: Received MSG_CFMS_HINT_AMS_SWITCH pkgName: com.YourCompany.GiftGame
+10-10 17:31:25.340  1515  3446 E ANDR-PERF-JNI: com_qualcomm_qtiperformance_native_perf_io_prefetch_start
+10-10 17:31:25.340  1515  3446 E ANDR-PERF-JNI: gIOPHAl initialized
+10-10 17:31:25.343   549   549 W /system/bin/hwservicemanager: getTransportFromManifest: Cannot find entry vendor.qti.hardware.iop@1.0::IIop in either framework or device manifest, using default transport.
+10-10 17:31:25.345  1515  3446 E ANDR-PERF-JNI: gIOPHAl calling iopstart from default
+10-10 17:31:25.346   638   638 E ANDR-IOP: IOP HAL: Received pkg_name = com.YourCompany.GiftGame pid = -1
+10-10 17:31:25.354  1515  1515 D CodecSolution: MultiWindowEventListener::onMultiWindowFocusChanged(1)
+10-10 17:31:25.361  3586  3586 V Launcher: Launcher.onPause()
+10-10 17:31:25.365  1515  1515 D MdnieScenarioControlService: Listener Real Multi Window State : false
+10-10 17:31:25.378  3586  3586 I WallpaperScroller: WallpaperScroller pause
+10-10 17:31:25.379  1515  1528 D SensorService: Calling activate off 20
+10-10 17:31:25.380   633   633 I qti_sensors_hal: enable: Disabling sensor handle=77
+10-10 17:31:25.383   633   844 I qti_sensors_hal: processResp: handle=77, msg_hdr->msg_id=0
+10-10 17:31:25.384  3586  3586 D SensorManager: unregisterListener ::   
+10-10 17:31:25.384  1515  1543 W SparseMappingTable: Time val negative: -3492
+10-10 17:31:25.384  1515  1543 I chatty  : uid=1000(system) ActivityManager identical 1 line
+10-10 17:31:25.384  1515  1543 W SparseMappingTable: Time val negative: -3492
+10-10 17:31:25.387  1515  1515 D MdnieScenarioControlService: Listener Real Multi Window State : false
+10-10 17:31:25.387  1515  1515 D CS_HdrController: MultiWindowEventListener::onFocusStackChanged(1)
+10-10 17:31:25.388  1515  3446 D ActivityManager: isScaleDownAnimationEnabled() : false
+10-10 17:31:25.388  1515  3446 D StorageManagerService: getExternalStorageMountMode : 3
+10-10 17:31:25.389  1515  3446 D StorageManagerService: getExternalStorageMountMode : 3
+10-10 17:31:25.389  1515  3446 D StorageManagerService: getExternalStorageMountMode : final mountMode=3, uid : 10200, packageName : com.YourCompany.GiftGame
+10-10 17:31:25.392  1515  3446 I ApplicationPolicy: isApplicationExternalStorageWhitelisted:com.YourCompany.GiftGame user:0
+10-10 17:31:25.393  1515  3446 D ApplicationPolicy: isApplicationExternalStorageWhitelisted: DO is not enabled on user 0. Allowed.
+10-10 17:31:25.393  1515  3446 D ActivityManager: package  com.YourCompany.GiftGame, user - 0 is SDcard whitelisted
+10-10 17:31:25.393  1515  3446 I ApplicationPolicy: isApplicationExternalStorageBlacklisted:com.YourCompany.GiftGame user:0
+10-10 17:31:25.393  1515  3446 D ApplicationPolicy: isApplicationExternalStorageBlacklisted: DO is not enabled on user 0. Allowed.
+10-10 17:31:25.393  1515  1805 D ViewRootImpl@624514d[GiftGame]: setView = DecorView@e63c113[GiftGame] TM=true MM=false
+10-10 17:31:25.401  1515  1805 D ViewRootImpl@624514d[GiftGame]: dispatchAttachedToWindow
+10-10 17:31:25.402  1515  1805 V WindowManager: Relayout Window{cca4402 u0 Splash Screen com.YourCompany.GiftGame}: viewVisibility=0 req=1080x2004 WM.LayoutParams{(0,0)(fillxfill) sim=#20 ty=3 fl=#1830518 pfl=0x1000011 wanim=0x1030001 vsysui=0x10 needsMenuKey=2 colorMode=0 naviIconColor=0}
+10-10 17:31:25.404  1515  3446 I ActivityManager: Start proc 18875:com.YourCompany.GiftGame/u0a200 for activity com.YourCompany.GiftGame/com.epicgames.ue4.SplashActivity
+10-10 17:31:25.407   658   658 I SurfaceFlinger: id=5452 createSurf (1080x2220),1 flag=404, Splash Screen com.YourCompany.GiftGame#0
+10-10 17:31:25.407 18875 18875 E Zygote  : isWhitelistProcess - Process is Whitelisted
+10-10 17:31:25.408  1515  1805 V Surface : sf_framedrop debug : 0x4f4c, game : false, logging : 0
+10-10 17:31:25.409 18875 18875 W SELinux : SELinux selinux_android_compute_policy_index : Policy Index[2],  Con:u:r:zygote:s0 RAM:SEPF_SM-G950U1_8.0.0_0011, [-1 -1 -1 -1 0 1]
+10-10 17:31:25.410 18875 18875 I SELinux : SELinux: seapp_context_lookup: seinfo=untrusted, level=s0:c512,c768, pkgname=com.YourCompany.GiftGame 
+10-10 17:31:25.412  1515  1805 D ViewRootImpl@624514d[GiftGame]: Relayout returned: old=[0,0][0,0] new=[0,0][1080,2220] result=0x7 surface={valid=true 486974693376} changed=true
+10-10 17:31:25.417  1515  1515 D CS_HdrController: updateMultiWindowState : 0
+10-10 17:31:25.417  2184  2184 E adbd    : recv: OPEN 00000ea1 00000000 000c:73 68 65 6C 6C 2C 76 32 3A 70 73 00 
+10-10 17:31:25.417  2184  2184 E adbd    : service_to_fd: shell,v2:ps
+10-10 17:31:25.417  3586  3586 I WallpaperScroller: WallpaperScroller shutdown
+10-10 17:31:25.418  3586  3586 D Launcher: resetWallpaperOffsets
+10-10 17:31:25.419 18875 18875 I zygote  : Late-enabling -Xcheck:jni
+10-10 17:31:25.432 18880 18880 E propClient: PropClient failed to load
+10-10 17:31:25.438  1515  1805 V WindowManager: finishDrawingLocked: mDrawState=COMMIT_DRAW_PENDING Window{cca4402 u0 Splash Screen com.YourCompany.GiftGame} in Surface(name=Splash Screen com.YourCompany.GiftGame)
+10-10 17:31:25.443  2254  2254 D WallpaperService: updateSurface forceRelayout=true redrawNeeded=false myWidth=1188 myHeight=2442 fixedSize=true x = 0 y = 0 mWidth=1188 mHeight=2442 mIsSleepMode=false
+10-10 17:31:25.444  1515  3446 V WindowManager: Relayout Window{973b890 u0 com.android.systemui.ImageWallpaper}: viewVisibility=0 req=1188x2442 WM.LayoutParams{(0,0)(1188x2442) gr=#800033 ty=2013 fl=#10318 fmt=2 wanim=0x103030e colorMode=0 naviIconColor=0 sfl=0x8}
+10-10 17:31:25.446  1515  3446 V WindowManager: rotationForOrientationLw(orient=0, last=0); user=0  sensorRotation=-1 mLidState=-1 mDockMode=0 mHdmiPlugged=false
+10-10 17:31:25.446  1515  3446 D SamsungPhoneWindowManager: setRotationLw() : rotation=1
+10-10 17:31:25.447  1515  3446 D SamsungPhoneWindowManager: semDvfsWakeupBooster.acquire()
+10-10 17:31:25.447 18875 18875 W zygote  : Using default instruction set features for ARM CPU variant (cortex-a9) using conservative defaults
+10-10 17:31:25.448  1515 18882 D TspStateManagerInternal: update cmd=set_grip_data,2,1,60,10
+10-10 17:31:25.448 18880 18880 E propClient: PropClient failed to load
+10-10 17:31:25.465  1515  3446 D InputDispatcher: setInputDispatchMode: enabled=1, frozen=1
+10-10 17:31:25.468   658   658 I SurfaceFlinger: id=5453 createSurf (1080x2220),2 flag=4, ScreenshotSurface#0
+10-10 17:31:25.469  1515  3446 V Surface : sf_framedrop debug : 0x4f4c, game : false, logging : 0
+10-10 17:31:25.470   658   658 V Surface : sf_framedrop debug : 0x4f4c, game : false, logging : 0
+10-10 17:31:25.483   658   658 D DisplayDevice: [MultiResolution] Input Value : o = 1, v = (2220x1080), f = (2960x1440), pre-mScaledDisplay = (1080x2220), mDisplay = (1440x2960)
+10-10 17:31:25.483   658   658 I SurfaceFlinger: Disp[0] Orientation 0=>1
+10-10 17:31:25.484  1515  1515 D GameManagerService: onDisplayChanged. displyId: 0, state: 2
+10-10 17:31:25.484  1515  1515 D GameManagerService: dpi: 480, longPixel: 2076, shortPixel: 1080
+10-10 17:31:25.484  1515 13621 I ClientCertificateManager Service: fixContextInfoForMP() returning Caller uid: 10200 ,Container id: 0
+10-10 17:31:25.484  1515 13621 I ClientCertificateManager Service: fixContextInfoForMP() returning Caller uid: 10200 ,Container id: 0
+10-10 17:31:25.484  1515 13621 I ClientCertificateManager Service: ClientCertificateManager.isPremiumContainer() : false for user : 0
+10-10 17:31:25.489  2538  2538 D NfcService: PROXIMITY SCREEN ON
+10-10 17:31:25.490  1515  1515 I CAE     : handleMessage(CaPowerManager.java:173) - AP_WAKEUP_Already_Delivered
+10-10 17:31:25.493  2254  2928 D WallpaperService: dispatchAppVisibility onVisibilityChanged(): false
+10-10 17:31:25.494  1515  3446 I ActivityManager: Config changes=480 {0 1.0 themeSeq = 0 showBtnBg = 0 311mcc480mnc [en_US] ldltr sw360dp w692dp h336dp 480dpi nrml long hdr land night finger -keyb/v/h -nav/h appBounds=Rect(0, 0 - 2076, 1080) s.32 mkbd/h desktop/d ?dc}
+10-10 17:31:25.501  2538 18898 D NfcService: call the applyRouting
+10-10 17:31:25.504 16257 16324 I PBSessionCacheImpl: Deleted sessionId[71500581341521186] from persistence.
+10-10 17:31:25.504  1515 13621 I ClientCertificateManager Service: fixContextInfoForMP() returning Caller uid: 10200 ,Container id: 0
+10-10 17:31:25.504  1515 13621 I ClientCertificateManager Service: fixContextInfoForMP() returning Caller uid: 10200 ,Container id: 0
+10-10 17:31:25.505  1515 13621 I ClientCertificateManager Service: ClientCertificateManager.isPremiumContainer() : false for user : 0
+10-10 17:31:25.505  1515  1553 D PointerController: mLocked.displayWidth 1080, mLocked.displayHeight 2220
+10-10 17:31:25.511 18875 18875 D ActivityThread: Added TimaKeyStore provider
+10-10 17:31:25.514   658   658 I SurfaceFlinger: Display 0 HWC layers:
+10-10 17:31:25.514   658   658 I SurfaceFlinger:     type    |    handle    | flag |  format   |   source crop (l,t,r,b)    |         frame       | name 
+10-10 17:31:25.514   658   658 I SurfaceFlinger: ------------+--------------+------+-----------+----------------------------+---------------------+------
+10-10 17:31:25.514   658   658 I SurfaceFlinger:      Device | 0x7979ffb380 | 0003 | RGBx_8888 |  54.0  111.0 1134.0 2331.0 |    0    0 1080 2220 | com.android.systemui.ImageWallpaper#0
+10-10 17:31:25.514   658   658 I SurfaceFlinger:      Device | 0x7979f84600 | 0001 | RGBA_8888 |   0.0    0.0 1080.0 1080.0 |    0    0 1080 1080 | com.sec.android.app.launcher/com.sec[...]uncher.activities.LauncherActivity#0
+10-10 17:31:25.514   658   658 I SurfaceFlinger:      Device | 0x797c43a280 | 0000 | RGBA_8888 |   0.0    0.0 1080.0   72.0 | 1008    0 1080 1080 | StatusBar#0
+10-10 17:31:25.514   658   658 I SurfaceFlinger:      Device | 0x797c43a200 | 0000 | RGBA_8888 |   0.0    0.0   67.0  445.0 |  157 1013  602 1080 | com.samsung.android.app.cocktailbars[...]ktailbarservice.CocktailBarService#0
+10-10 17:31:25.514   658   658 I SurfaceFlinger:      Device | 0x7979f84200 | 0000 | RGBA_8888 |   0.0    0.0 1080.0 2220.0 |    0    0 1080 2220 | ScreenshotSurface#0
+10-10 17:31:25.514   658   658 I SurfaceFlinger: 
+10-10 17:31:25.524 16257 16257 W SearchServiceCore: Abort, client detached.
+10-10 17:31:25.526  1515  1879 I InputReader: Reconfiguring input devices.  changes=0x00000004
+10-10 17:31:25.527   658   658 I SurfaceFlinger: Display 0 HWC layers:
+10-10 17:31:25.527   658   658 I SurfaceFlinger:     type    |    handle    | flag |  format   |   source crop (l,t,r,b)    |         frame       | name 
+10-10 17:31:25.527   658   658 I SurfaceFlinger: ------------+--------------+------+-----------+----------------------------+---------------------+------
+10-10 17:31:25.527   658   658 I SurfaceFlinger:      Device | 0x797c43a280 | 0000 | RGBA_8888 |   0.0    0.0 1080.0   72.0 | 1008    0 1080 1080 | StatusBar#0
+10-10 17:31:25.527   658   658 I SurfaceFlinger:      Device | 0x797c43a200 | 0000 | RGBA_8888 |   0.0    0.0   67.0  445.0 |  157 1013  602 1080 | com.samsung.android.app.cocktailbars[...]ktailbarservice.CocktailBarService#0
+10-10 17:31:25.527   658   658 I SurfaceFlinger:      Device | 0x7979f84200 | 0000 | RGBA_8888 |   0.0    0.0 1080.0 2220.0 |    0    0 1080 2220 | ScreenshotSurface#0
+10-10 17:31:25.527   658   658 I SurfaceFlinger: 
+10-10 17:31:25.527  1515  1879 I InputReader: Device reconfigured: id=9, name='sec_touchpad', size 1080x2220, orientation 1, mode 4, display id 0
+10-10 17:31:25.543  3632  3632 V Configuration:  needToUpdateOverlays
+10-10 17:31:25.544  3632  3632 I chatty  : uid=10188(u0_a188) com.samsung.android.gearoplugin identical 1 line
+10-10 17:31:25.546  3632  3632 V Configuration:  needToUpdateOverlays
+10-10 17:31:25.549  1515  3446 I ActivityManager: Override config changes=480 {0 1.0 themeSeq = 0 showBtnBg = 0 311mcc480mnc [en_US] ldltr sw360dp w692dp h336dp 480dpi nrml long hdr land night finger -keyb/v/h -nav/h appBounds=Rect(0, 0 - 2076, 1080) s.32 mkbd/h desktop/d ?dc} for displayId=0
+10-10 17:31:25.557  5439  5439 V Configuration:  needToUpdateOverlays
+10-10 17:31:25.557  5439  5439 I chatty  : uid=10015(u0_a15) com.samsung.android.app.cocktailbarservice identical 1 line
+10-10 17:31:25.557  5439  5439 V Configuration:  needToUpdateOverlays
+10-10 17:31:25.560  1515  1879 I InputReader: Device reconfigured: id=10, name='sec_touchscreen', size 1080x2220, orientation 1, mode 1, display id 0
+10-10 17:31:25.569  1515  1515 D TelecomService: onConfigurationChanged {0 1.0 themeSeq = 0 showBtnBg = 0 311mcc480mnc [en_US] ldltr sw360dp w692dp h336dp 480dpi nrml long hdr land night finger -keyb/v/h -nav/h appBounds=Rect(0, 0 - 2076, 1080) s.32 mkbd/h desktop/d ?dc}
+10-10 17:31:25.570  1515  1879 I InputReader: Reconfiguring input devices.  changes=0x00000004
+10-10 17:31:25.577  5439  5439 V Configuration:  needToUpdateOverlays
+10-10 17:31:25.579  3606  3606 V Configuration:  needToUpdateOverlays
+10-10 17:31:25.580  3606  3606 I chatty  : uid=10046(u0_a46) com.samsung.android.service.peoplestripe identical 3 lines
+10-10 17:31:25.580  3606  3606 V Configuration:  needToUpdateOverlays
+10-10 17:31:25.581  3679  3679 V Configuration:  needToUpdateOverlays
+10-10 17:31:25.592  3632  3632 V Configuration:  needToUpdateOverlays
+10-10 17:31:25.594  3632  3632 V Configuration:  needToUpdateOverlays
+10-10 17:31:25.594  3690  3690 V Configuration:  needToUpdateOverlays
+10-10 17:31:25.596  3392  3392 D SecUISvc: onConfigurationChanged, old dpi=480, new dpi=480
+10-10 17:31:25.621  4459  4459 V Configuration:  needToUpdateOverlays
+10-10 17:31:25.622  4459  4459 I chatty  : uid=10006(u0_a6) com.sec.android.easyonehand identical 7 lines
+10-10 17:31:25.622  4459  4459 V Configuration:  needToUpdateOverlays
+10-10 17:31:25.626  1515  3446 I SamsungPhoneWindowManager: setInitialDisplaySize() width=1080, height=2220, density=480, initWidth=1440, initHeight=2960, initDensity=640
+10-10 17:31:25.628  5439  5439 V Configuration:  needToUpdateOverlays
+10-10 17:31:25.628  5439  5439 I chatty  : uid=10015(u0_a15) com.samsung.android.app.cocktailbarservice identical 1 line
+10-10 17:31:25.628  5439  5439 V Configuration:  needToUpdateOverlays
+10-10 17:31:25.632  2538  2538 V Configuration:  needToUpdateOverlays
+10-10 17:31:25.635 16043 16043 V Configuration:  needToUpdateOverlays
+10-10 17:31:25.642 16043 16043 I chatty  : uid=10133(u0_a133) com.google.android.gm identical 1 line
+10-10 17:31:25.642 16043 16043 V Configuration:  needToUpdateOverlays
+10-10 17:31:25.642 16142 16142 V Configuration:  needToUpdateOverlays
+10-10 17:31:25.646  4459  4459 D EOHController: returnFullScreen() showAnimation=false, mScale=1.0, mAnimationRunning=false
+10-10 17:31:25.652 16142 16142 V Configuration:  needToUpdateOverlays
+10-10 17:31:25.653 16142 16142 I chatty  : uid=10263(u0_a263) com.snapchat.android identical 45 lines
+10-10 17:31:25.653 16142 16142 V Configuration:  needToUpdateOverlays
+10-10 17:31:25.656  4459  4630 D OpenGLRenderer: eglDestroySurface = 0x7166b97cd0
+10-10 17:31:25.679 11351 11351 I oneconnect[1.7.16-25_03]: QcService.onConfigurationChanged - {0 1.0 themeSeq = 0 showBtnBg = 0 311mcc480mnc [en_US] ldltr sw360dp w692dp h336dp 480dpi nrml long hdr land night finger -keyb/v/h -nav/h appBounds=Rect(0, 0 - 2076, 1080) s.32 mkbd/h desktop/d ?dc}
+10-10 17:31:25.686  5147  5147 V Configuration:  needToUpdateOverlays
+10-10 17:31:25.687  5147  5147 I chatty  : uid=10281(u0_a281) com.google.android.inputmethod.latin identical 15 lines
+10-10 17:31:25.687  5147  5147 V Configuration:  needToUpdateOverlays
+10-10 17:31:25.725  5439  5439 V Configuration:  needToUpdateOverlays
+10-10 17:31:25.725  1515  3446 D TspStateManagerInternal: updateDefaultValue customSetting=null
+10-10 17:31:25.801  5439  5439 I chatty  : uid=10015(u0_a15) com.samsung.android.app.cocktailbarservice identical 82 lines
+10-10 17:31:25.801  5439  5439 V Configuration:  needToUpdateOverlays
+10-10 17:31:25.850  1087  2102 D bauth_FPBAuthService: pcf : 0x1012
+10-10 17:31:25.850  1087  2102 D bauth_FPBAuthService: thread id : 2, preenroll_flag : 0, nd cnt : 1, cso : 0, et : 0
+10-10 17:31:25.850  1087  2102 D bauth_FPBAuthService: FPBAuthService, 7757
+10-10 17:31:25.852  1515  3446 I SamsungPhoneWindowManager: setInitialDisplaySize() width=1080, height=2220, density=480, initWidth=1440, initHeight=2960, initDensity=640
+10-10 17:31:25.853  1515  3446 D TspStateManagerInternal: updateDefaultValue customSetting=null
+10-10 17:31:25.869 16576 16576 V Configuration:  needToUpdateOverlays
+10-10 17:31:25.870  1515  3501 V WindowManager: Relayout Window{d7b091f u0 OneHandTouch}: viewVisibility=8 req=1080x210 WM.LayoutParams{(0,2010)(fillx210) gr=#33 sim=#122 ty=2254 fl=#1000528 pfl=0x50 fmt=-3 alpha=0.0 colorMode=0 dimDuration=150 naviIconColor=0 sfl=0x20000}
+10-10 17:31:25.871  1515  3501 I WindowManager: Destroying surface Surface(name=OneHandTouch) called by com.android.server.wm.WindowStateAnimator.destroySurface:2465 com.android.server.wm.WindowStateAnimator.destroySurfaceLocked:967 com.android.server.wm.WindowState.destroyOrSaveSurfaceUnchecked:3661 com.android.server.wm.WindowState.destroySurface:3609 com.android.server.wm.WindowManagerService.tryStartExitingAnimation:2676 com.android.server.wm.WindowManagerService.relayoutWindow:2460 com.android.server.wm.Session.relayout:249 android.view.IWindowSession$Stub.onTransact:288 
+10-10 17:31:25.872   658  1562 I SurfaceFlinger: id=4555 Removed OneHandTouch#0 (10/11)
+10-10 17:31:25.872   658  1562 I SurfaceFlinger: id=4555 Removed OneHandTouch#0 (-2/11)
+10-10 17:31:25.873  1515  1544 D WindowManager: set systemUiVisibility : systemUiFlags= 0x8708 fullscreenStackSysUiFlags= 0x0
+10-10 17:31:25.880  5439  5439 V Configuration:  needToUpdateOverlays
+10-10 17:31:25.880  5439  5439 I chatty  : uid=10015(u0_a15) com.samsung.android.app.cocktailbarservice identical 16 lines
+10-10 17:31:25.881  5439  5439 V Configuration:  needToUpdateOverlays
+10-10 17:31:25.881  1515  3501 D InputDispatcher: Focus left window: 3586
+10-10 17:31:25.881  5439  5439 V Configuration:  needToUpdateOverlays
+10-10 17:31:25.882  5439  5439 I chatty  : uid=10015(u0_a15) com.samsung.android.app.cocktailbarservice identical 14 lines
+10-10 17:31:25.882  5439  5439 V Configuration:  needToUpdateOverlays
+10-10 17:31:25.883  1515  1805 D ViewRootImpl@624514d[GiftGame]: MSG_RESIZED_REPORT: frame=Rect(0, 0 - 2220, 1080) ci=Rect(0, 0 - 144, 0) vi=Rect(0, 72 - 144, 0) or=2
+10-10 17:31:25.883  5439  5439 V Configuration:  needToUpdateOverlays
+10-10 17:31:25.883  5439  5439 I chatty  : uid=10015(u0_a15) com.samsung.android.app.cocktailbarservice identical 1 line
+10-10 17:31:25.883  5439  5439 V Configuration:  needToUpdateOverlays
+10-10 17:31:25.885   658   658 I Layer   : id=4555 onRemoved OneHandTouch#0 
+10-10 17:31:25.888  2538  2538 I NfcP2pEventManager: changeConfiguration() in NfcService
+10-10 17:31:25.892   658   658 I SurfaceFlinger: Display 0 HWC layers:
+10-10 17:31:25.892   658   658 I SurfaceFlinger:     type    |    handle    | flag |  format   |   source crop (l,t,r,b)    |         frame       | name 
+10-10 17:31:25.892   658   658 I SurfaceFlinger: ------------+--------------+------+-----------+----------------------------+---------------------+------
+10-10 17:31:25.892   658   658 I SurfaceFlinger:      Device | 0x797c43a280 | 0000 | RGBA_8888 |   0.0    0.0 1080.0   72.0 | 1008    0 1080 1080 | StatusBar#0
+10-10 17:31:25.892   658   658 I SurfaceFlinger:      Device | 0x797c43a200 | 0000 | RGBA_8888 |   0.0    0.0   67.0  445.0 |  157 2153  602 2220 | com.samsung.android.app.cocktailbars[...]ktailbarservice.CocktailBarService#0
+10-10 17:31:25.892   658   658 I SurfaceFlinger:      Device | 0x797c43a300 | 0000 | RGBA_8888 |   0.0    0.0  144.0  144.0 |  936 2076 1080 2220 | NavigationBar#0
+10-10 17:31:25.892   658   658 I SurfaceFlinger:      Device | 0x7979f84200 | 0000 | RGBA_8888 |   0.0    0.0 1080.0 2220.0 |    0    0 1080 2220 | ScreenshotSurface#0
+10-10 17:31:25.892   658   658 I SurfaceFlinger: 
+10-10 17:31:25.893  4459  4459 D ViewRootImpl@8d60ec1[OneHandTouch]: Relayout returned: old=[0,2010][1080,2220] new=[0,2010][1080,2220] result=0x5 surface={valid=false 0} changed=true
+10-10 17:31:25.893  5439  5439 I CocktailBarPositionManager: onOrientationChanged position not dirty
+10-10 17:31:25.894  4459  4459 D EOHTouchWindow: onComputeInternalInsets() scale=1.0, isLeft=false
+10-10 17:31:25.899  2254  2660 D vol.VolumeDialogControl: onReceive ACTION_CONFIGURATION_CHANGED
+10-10 17:31:25.899  2254  2254 D ImageWallpaper: onOffsetsChanged: xOffset=0.0, yOffset=0.0, xOffsetStep=0.0, yOffsetStep=0.0, xPixels=0, yPixels=0
+10-10 17:31:25.900  2254  2254 D ImageWallpaper: newRotation : 1,mLastRotation : 0
+10-10 17:31:25.900  2254  2254 D ImageWallpaper: redraw is not needed, because rotation
+10-10 17:31:25.902  1515  1552 D TetheringConfiguration: NAP is enabled by CSCfeature
+10-10 17:31:25.903  1515  1805 V WindowManager: Relayout Window{cca4402 u0 Splash Screen com.YourCompany.GiftGame}: viewVisibility=0 req=2220x1080 WM.LayoutParams{(0,0)(fillxfill) sim=#20 ty=3 fl=#1830518 pfl=0x1000011 wanim=0x1030001 vsysui=0x10 needsMenuKey=2 colorMode=0 naviIconColor=0}
+10-10 17:31:25.904  1515  1882 D MdnieScenarioControlService:  packageName : com.YourCompany.GiftGame    className : com.epicgames.ue4.SplashActivity
+10-10 17:31:25.905  1515  1882 V MdnieScenarioControlService: setUIMode from UI function(3)
+10-10 17:31:25.905  1515  2597 I ActivityManager: DSS on for com.YourCompany.GiftGame and scale is 1.0
+10-10 17:31:25.906  2254   670 D vol.VolumeDialogControl.VC: setLayoutDirection
+10-10 17:31:25.912  5316  5316 D Mms/MmsApp: [start]    onConfigurationChanged(), newConfig = {0 1.0 themeSeq = 0 showBtnBg = 0 311mcc480mnc [en_US] ldltr sw360dp w692dp h336dp 480dpi nrml long hdr land night finger -keyb/v/h -nav/h appBounds=Rect(0, 0 - 2076, 1080) s.32 mkbd/h desktop/d ?dc} consume time = 2.045659223926E7
+10-10 17:31:25.920  5439  5439 D PanelDescriptionView: updateHelpView: Apps edge2130968577 --> 2130968577 helpview reapplied0
+10-10 17:31:25.921  5316  5316 D Mms/MmsApp: [end]    onConfigurationChanged(), newConfig = {0 1.0 themeSeq = 0 showBtnBg = 0 311mcc480mnc [en_US] ldltr sw360dp w692dp h336dp 480dpi nrml long hdr land night finger -keyb/v/h -nav/h appBounds=Rect(0, 0 - 2076, 1080) s.32 mkbd/h desktop/d ?dc} consume time = 9.187292
+10-10 17:31:25.922  5439  5439 D AbstractCocktailPanelView: setPanelVisible: CocktailPortraitRemotePanelView2 will be hidden: 6
+10-10 17:31:25.922  5439  5439 D CocktailBarPanelVisibilityManager: updateActivePanelView:  vis=false screenOn=true onTransit=false -hide: 6 current Active: 6
+10-10 17:31:25.922  5439  5439 E CocktailBarContainerView: updateContainerVisibility: 0
+10-10 17:31:25.923  1515  1805 D ViewRootImpl@624514d[GiftGame]: Relayout returned: old=[0,0][2220,1080] new=[0,0][2220,1080] result=0x23 surface={valid=true 486974693376} changed=false
+10-10 17:31:25.929 16257 16257 V Configuration:  needToUpdateOverlays
+10-10 17:31:25.930 16257 16257 I chatty  : uid=10090(u0_a90) com.google.android.googlequicksearchbox:search identical 8 lines
+10-10 17:31:25.930 16257 16257 V Configuration:  needToUpdateOverlays
+10-10 17:31:25.932  3586  3586 V Configuration:  needToUpdateOverlays
+10-10 17:31:25.932   993  1230 E IptablesRestoreController: [iptables debug]iptables-restore execute *filter
+10-10 17:31:25.932   993  1230 E IptablesRestoreController: -D fw_standby -m owner --uid-owner 10200 -j DROP
+10-10 17:31:25.932   993  1230 E IptablesRestoreController: COMMIT
+10-10 17:31:25.936  1515  2597 D PersonaManagerService: Current focused persona service handled id set to : 0
+10-10 17:31:25.936  1515  2597 D InputDispatcher: Focused application set to: xxxx
+10-10 17:31:25.937  3586  3586 V Configuration:  needToUpdateOverlays
+10-10 17:31:25.938  3586  3586 I chatty  : uid=10083(u0_a83) com.sec.android.app.launcher identical 6 lines
+10-10 17:31:25.939  1515  2014 D GameManagerService: handleForegroundChange(). pkgName: com.YourCompany.GiftGame, clsName: com.epicgames.ue4.SplashActivity,FgActivityName:com.YourCompany.GiftGame/com.epicgames.ue4.SplashActivity
+10-10 17:31:25.940  1515  2014 D GameManagerService: sem_perfomance_mode: 0
+10-10 17:31:25.940  1515  2014 D GameManagerService: notifyResumePause(). pkg: com.YourCompany.GiftGame, type: 4, isMinimized: false, isTunableApp: false
+10-10 17:31:25.940  1515  2014 D GameManagerService:   notifyResumePause(). do nothing. mKillNotiCount: 3
+10-10 17:31:25.940  1515  2597 D MARsPolicyManager: onPackageResumedFG pkgName = com.YourCompany.GiftGame, userId = 0
+10-10 17:31:25.942  3586  3586 V Configuration:  needToUpdateOverlays
+10-10 17:31:25.947  1515  1805 V WindowManager: finishDrawingLocked: mDrawState=COMMIT_DRAW_PENDING Window{cca4402 u0 Splash Screen com.YourCompany.GiftGame} in Surface(name=Splash Screen com.YourCompany.GiftGame)
+10-10 17:31:25.948 11351 11351 I oneconnect[1.7.16-25_03]: FeatureUtil.isQcSupportedMode - user: 0
+10-10 17:31:25.949  1515  1805 D ViewRootImpl@624514d[GiftGame]: MSG_RESIZED_REPORT: frame=Rect(0, 0 - 2220, 1080) ci=Rect(0, 0 - 144, 0) vi=Rect(0, 72 - 144, 0) or=1
+10-10 17:31:25.954  3586  3586 V Configuration:  needToUpdateOverlays
+10-10 17:31:25.954  3586  3586 V Configuration:  needToUpdateOverlays
+10-10 17:31:25.956  3586  3586 D ViewRootImpl@d03d166[LauncherActivity]: MSG_WINDOW_FOCUS_CHANGED 0
+10-10 17:31:25.958  2572  2828 D TelephonyProvider: query: match = 1
+10-10 17:31:25.959  2254  2254 D SecNavigationBarView: setNavigationIconHints showImeButton : false
+10-10 17:31:25.960  2572  2828 D TelephonyProvider: URL_TELEPHONY uid = 1000, pid= 1515
+10-10 17:31:25.960   993  1230 E IptablesRestoreController: [iptables debug]iptables-restore execute done *filter
+10-10 17:31:25.960   993  1230 E IptablesRestoreController: -D fw_standby -m owner --uid-owner 10200 -j DROP
+10-10 17:31:25.960   993  1230 E IptablesRestoreController: COMMIT
+10-10 17:31:25.960   993  1230 E IptablesRestoreController: , res : 0
+10-10 17:31:25.961  2254  2254 D SecNavigationBarView: updateImmersivePinIcon() isImmersiveMode=true
+10-10 17:31:25.961  2747  2747 I SemPersonaManager: SecureFolder personaId = 150
+10-10 17:31:25.963  2254  2254 D NavBarHideController: adjustConsumeWindowLp() enabled=true, mWindowAdded=true, rot=1
+10-10 17:31:25.964  1515  2597 D ConnectivityService: filterNetworkStateForUid() uid: 10159 networkInfo: [type: WIFI[] - WIFI, state: CONNECTED/CONNECTED, reason: (unspecified), extra: "GoTrojans", failover: false, available: true, roaming: false, metered: false]
+10-10 17:31:25.965  1515  2597 D ConnectivityService: Returning unblocked NetworkInfo to uid=10159
+10-10 17:31:25.965 16257 16257 I WorkerManager: dispose()
+10-10 17:31:25.965 16257 16257 I WorkerManager: Disposing handler for worker [legacyui] (manager: ec043af, handler: ea23aa6)
+10-10 17:31:25.965  5439  5439 D CocktailBarUiController: onConfigurationChanged : orientation = true densityDpi = false
+10-10 17:31:25.966 16257 16257 I WorkerManager: Disposing handler for worker [networkmonitor] (manager: ec043af, handler: cb1e8a)
+10-10 17:31:25.966 16257 16257 I WorkerManager: Disposing handler for worker [logo_header] (manager: ec043af, handler: ba8b6c4)
+10-10 17:31:25.966 16257 16257 I WorkerManager: Disposing handler for worker [screensearch] (manager: ec043af, handler: f2ed641)
+10-10 17:31:25.966 16257 16257 I WorkerManager: Disposing handler for worker [optin] (manager: ec043af, handler: 6eb96d1)
+10-10 17:31:25.966 16257 16257 I WorkerManager: Disposing handler for worker [sharebear] (manager: ec043af, handler: d050b4b)
+10-10 17:31:25.966 16257 16257 I WorkerManager: Disposing handler for worker [searchplate] (manager: ec043af, handler: 91f88dc)
+10-10 17:31:25.966 16257 16257 I WorkerManager: Disposing handler for worker [sharedmicrodetection] (manager: ec043af, handler: b5cce2c)
+10-10 17:31:25.966 16257 16257 I WorkerManager: Disposing handler for worker [corpus] (manager: ec043af, handler: b449956)
+10-10 17:31:25.966 16257 16257 I WorkerManager: Disposing handler for worker [message] (manager: ec043af, handler: e275b32)
+10-10 17:31:25.966 16257 16257 I WorkerManager: Disposing handler for worker [searchwidget] (manager: ec043af, handler: d5790ba)
+10-10 17:31:25.966 16257 16257 I WorkerManager: Disposing handler for worker [service] (manager: ec043af, handler: 4d653bc)
+10-10 17:31:25.966 16257 16257 I WorkerManager: Disposing handler for worker [context] (manager: ec043af, handler: 8809200)
+10-10 17:31:25.966 16257 16257 I WorkerManager: Disposing handler for worker [progress] (manager: ec043af, handler: caed2c5)
+10-10 17:31:25.966 16257 16257 I WorkerManager: Disposing handler for worker [searchboxroot] (manager: ec043af, handler: a5a4ada)
+10-10 17:31:25.967 16257 16257 I WorkerManager: Disposing handler for worker [audio] (manager: ec043af, handler: edea118)
+10-10 17:31:25.967 16257 16257 I WorkerManager: Disposing handler for worker [actions] (manager: ec043af, handler: 5dfede8)
+10-10 17:31:25.967 16257 16257 I WorkerManager: Disposing handler for worker [conversation] (manager: ec043af, handler: 4ba0094)
+10-10 17:31:25.967 16257 16257 I WorkerManager: Disposing handler for worker [actionvelogging] (manager: ec043af, handler: c6bf87e)
+10-10 17:31:25.967  2538  2913 D ForegroundUtils: could not check pending caller
+10-10 17:31:25.968  1515  1550 D MARsDBManager: onChange - mSmartManagerObserver! Uri = content://com.samsung.android.sm/AppFreezer?MARs-self=true&MARs=true
+10-10 17:31:25.968  1515  6746 D GamePkgDataHelper: getGamePkgDataIncServer(). com.YourCompany.GiftGame
+10-10 17:31:25.971 11351 11351 I oneconnect[1.7.16-25_03]: SepBoardManager.drawTab - actionSize[0], MdeItemSize[0], AudioTab[true], AudioChangeable[true], AudioTabVisible [true], CloudSub [false], ModeTab[false], ModeTabVisible [true]
+10-10 17:31:25.971 11351 11351 I oneconnect[1.7.16-25_03]: SepBoardManager.drawTab - [1]connectDevices : [[Name]Crusher Wireless[DeviceType]ACCESSORY_OUTPUT[Discover]_BT_DB[Services]_Connect_DeviceSettings[Connected]true[Battery]4[ConType]_BT[size()]2[OCFDiscovery]NONE[OCFOwned]-1]
+10-10 17:31:25.972 11351 11351 I oneconnect[1.7.16-25_03]: SepBoardManager.drawTab - [1]visibleDevices : [[Name]Crusher Wireless[DeviceType]ACCESSORY_OUTPUT[Discover]_BT_DB[Services]_Connect_DeviceSettings[Connected]true[Battery]4[ConType]_BT[size()]2[OCFDiscovery]NONE[OCFOwned]-1]
+10-10 17:31:25.975  5147 18907 I DlamWrapper: chg: close(): Successfully wrote DLAM properties file.
+10-10 17:31:25.976  5147  5147 I EmojiSearchExtension: com.google.android.apps.inputmethod.libs.search.emoji.EmojiSearchExtension: onDeactivate()
+10-10 17:31:25.976  5439  5439 D CocktailBarTriggerContainerView: setContainerGravityState: 1 --> 1
+10-10 17:31:25.979  1515  6746 D GamePkgDataHelper: getSosPolicy(). com.YourCompany.GiftGame
+10-10 17:31:25.981  1515  1544 D WindowManager: set systemUiVisibility : systemUiFlags= 0x1212 fullscreenStackSysUiFlags= 0x0
+10-10 17:31:25.983  1515  6746 D GameManagerService: identifyGamePackage. com.YourCompany.GiftGame
+10-10 17:31:25.983  1515  6746 D GamePkgDataHelper: getGamePkgData(). com.YourCompany.GiftGame
+10-10 17:31:25.993   658   658 I SurfaceFlinger: Display 0 HWC layers:
+10-10 17:31:25.993   658   658 I SurfaceFlinger:     type    |    handle    | flag |  format   |   source crop (l,t,r,b)    |         frame       | name 
+10-10 17:31:25.993   658   658 I SurfaceFlinger: ------------+--------------+------+-----------+----------------------------+---------------------+------
+10-10 17:31:25.993   658   658 I SurfaceFlinger:      Device | 0x797c43a700 | 0002 | RGBA_8888 |   0.0    0.0 2220.0 1080.0 |    0    0 1080 2220 | Splash Screen com.YourCompany.GiftGame#0
+10-10 17:31:25.993   658   658 I SurfaceFlinger:      Device | 0x797c43a280 | 0001 | RGBA_8888 |   0.0    0.0 1080.0   72.0 | 1008    0 1080 1080 | StatusBar#0
+10-10 17:31:25.993   658   658 I SurfaceFlinger:      Device | 0x797c43a200 | 0000 | RGBA_8888 |   0.0    0.0   67.0  445.0 |  157 2153  602 2220 | com.samsung.android.app.cocktailbars[...]ktailbarservice.CocktailBarService#0
+10-10 17:31:25.993   658   658 I SurfaceFlinger:      Device | 0x797c43a300 | 0001 | RGBA_8888 |   0.0    0.0  144.0  144.0 |  936 2076 1080 2220 | NavigationBar#0
+10-10 17:31:25.993   658   658 I SurfaceFlinger:      Device | 0x7979f84200 | 0000 | RGBA_8888 |   0.0    0.0 1080.0 2220.0 |    0    0 1080 2220 | ScreenshotSurface#0
+10-10 17:31:25.993   658   658 I SurfaceFlinger: 
+10-10 17:31:25.995  1515  1552 W Settings: Setting tether_dun_required has moved from android.provider.Settings.Secure to android.provider.Settings.Global
+10-10 17:31:25.996  3586  3586 I Launcher: onWindowVisibilityChanged : false
+10-10 17:31:25.998  1515  6746 D GameManagerService: identifyGamePackage. com.YourCompany.GiftGame
+10-10 17:31:25.998  1515  6746 D GamePkgDataHelper: getGamePkgData(). com.YourCompany.GiftGame
+10-10 17:31:25.999  7062  7089 I Rubin   : [35346] LoggingEventHelper.notifyUpdatedWithValue(LoggingEventHelper.java:58) : Notify AppUsageLogger's database is updated.
+10-10 17:31:26.000  1515  6746 D GameManagerService: identifyGamePackage. com.YourCompany.GiftGame
+10-10 17:31:26.000  1515  6746 D GamePkgDataHelper: getGamePkgData(). com.YourCompany.GiftGame
+10-10 17:31:26.001  5439  5439 D TrayStateController: putInputRect mDynamicInputRegion=263362540@LastEvent=t=1539210680268Rect(25, 0 - 67, 445),Rect=Rect(0, 0 - 0, 0)
+10-10 17:31:26.004  1515  3446 I AudioService: Quick sound path is available with bit mask ==> 0x6fffffff
+10-10 17:31:26.005  1515  6746 D GameManagerService: identifyGamePackage. com.YourCompany.GiftGame
+10-10 17:31:26.005  1515  6746 D GamePkgDataHelper: getGamePkgData(). com.YourCompany.GiftGame
+10-10 17:31:26.010 11351 11351 I oneconnect[1.7.16-25_03]: SepBoardManager.sendDrawnRemoteView - update RemoteView : type: COLLAPSED  android.widget.RemoteViews@ad59dc5
+10-10 17:31:26.012   658   658 I SurfaceFlinger: Display 0 HWC layers:
+10-10 17:31:26.012   658   658 I SurfaceFlinger:     type    |    handle    | flag |  format   |   source crop (l,t,r,b)    |         frame       | name 
+10-10 17:31:26.012   658   658 I SurfaceFlinger: ------------+--------------+------+-----------+----------------------------+---------------------+------
+10-10 17:31:26.012   658   658 I SurfaceFlinger:      Device | 0x797c43a700 | 0002 | RGBA_8888 |   0.0    0.0 2220.0 1080.0 |    0    0 1080 2220 | Splash Screen com.YourCompany.GiftGame#0
+10-10 17:31:26.012   658   658 I SurfaceFlinger:      Device | 0x797c43a200 | 0000 | RGBA_8888 |   0.0    0.0   67.0  445.0 |  157 2153  602 2220 | com.samsung.android.app.cocktailbars[...]ktailbarservice.CocktailBarService#0
+10-10 17:31:26.012   658   658 I SurfaceFlinger:      Device | 0x7979f84200 | 0000 | RGBA_8888 |   0.0    0.0 1080.0 2220.0 |    0    0 1080 2220 | ScreenshotSurface#0
+10-10 17:31:26.012   658   658 I SurfaceFlinger: 
+10-10 17:31:26.016  5439  5439 D TrayStateController: putInputRect mDynamicInputRegion=263362540@LastEvent=t=1539210680268Rect(25, 0 - 67, 445),Rect=Rect(25, 0 - 67, 445)
+10-10 17:31:26.018  5439  5439 D TrayStateTrigger: getTriggerMarginOnTop retY=478 halfHandleSize=223 getTriggerPosition=26.07527
+10-10 17:31:26.022  2254  2254 D ImageWallpaper: onVisibilityChanged: mVisible, visible=true, false
+10-10 17:31:26.022  2254  2254 D ImageWallpaper: Visibility changed to visible=false
+10-10 17:31:26.022  2254  2254 D WallpaperService: reportVisibility onVisibilityChanged visible: false
+10-10 17:31:26.022  5439  5439 D PanelDescriptionView: updateHelpView: Apps edge2130968577 --> 2130968577 helpview reapplied0
+10-10 17:31:26.023  3586  3910 D OpenGLRenderer: eglDestroySurface = 0x715547b640
+10-10 17:31:26.023  5439  5439 D AbstractCocktailPanelView: setPanelVisible: CocktailPortraitRemotePanelView2 will be hidden: 6
+10-10 17:31:26.023  5439  5439 D CocktailBarPanelVisibilityManager: updateActivePanelView:  vis=false screenOn=true onTransit=false -hide: 6 current Active: 6
+10-10 17:31:26.023  5439  5439 E CocktailBarContainerView: updateContainerVisibility: 0
+10-10 17:31:26.023  5439  5439 D AbstractCocktailPanelView: setPanelVisible: CocktailPortraitRemotePanelView2 will be hidden: 6
+10-10 17:31:26.023  5439  5439 D CocktailBarPanelVisibilityManager: updateActivePanelView:  vis=false screenOn=true onTransit=false -hide: 6 current Active: 6
+10-10 17:31:26.023  1515  6746 D GameManagerService: identifyGamePackage. com.YourCompany.GiftGame
+10-10 17:31:26.023  5439  5439 E CocktailBarContainerView: updateContainerVisibility: 0
+10-10 17:31:26.023  1515  6746 D GamePkgDataHelper: getGamePkgData(). com.YourCompany.GiftGame
+10-10 17:31:26.023  5439  5439 I Utils   : isCurrentUser current = 0, ownerId = 0
+10-10 17:31:26.023  5439  5439 I TrayVisibilityController: updateTrayVisible: State=257 visible=2 mCurrentVisible=1 specificMode=0
+10-10 17:31:26.024  1515  3446 V WindowManager: Relayout Window{ab7c882 u0 com.sec.android.app.launcher/com.sec.android.app.launcher.activities.LauncherActivity}: viewVisibility=8 req=1080x2220 WM.LayoutParams{(0,0)(fillxfill) sim=#130 ty=1 fl=#81910d00 pfl=0x20000 fmt=-2 wanim=0x10302ea vsysui=0x700 needsMenuKey=2 colorMode=0 dimDuration=100 naviIconColor=0}
+10-10 17:31:26.024  5439  5439 D TrayStateController: putInputRect mDynamicInputRegion=263362540@LastEvent=t=1539210680268Rect(25, 0 - 67, 445),Rect=Rect(0, 0 - 0, 0)
+10-10 17:31:26.025  1515  2597 W CocktailBarStatePolicyController: updateWindowType: current window type is requested window type(1)
+10-10 17:31:26.029  5439  5439 D TrayStateController: setUiState 2 : -isHideByOrientationPolicy 0 --> 2
+10-10 17:31:26.032  3586  3586 D ViewRootImpl@d03d166[LauncherActivity]: Relayout returned: old=[0,0][1080,2220] new=[0,0][1080,2220] result=0x5 surface={valid=false 0} changed=true
+10-10 17:31:26.038  5439  5439 D PanelDescriptionView: updateHelpView: Apps edge-1 --> 2130968577 helpview applied:4, help scroll view applied.
+10-10 17:31:26.039  5439  5439 D TrayStateController: setUiState 2 : -isHideByOrientationPolicy  already 2
+10-10 17:31:26.041  5439  5439 D ViewRootImpl@35f884[CocktailBarService]: MSG_RESIZED_REPORT: frame=Rect(2153, 478 - 2220, 923) ci=Rect(0, 0 - 144, 0) vi=Rect(0, 0 - 144, 0) or=2
+10-10 17:31:26.045  5439  5648 D OpenGLRenderer: eglDestroySurface = 0x7177fc9e00
+10-10 17:31:26.046 18875 18914 I vndksupport: sphal namespace is not configured for this process. Loading /vendor/lib/egl/libEGL_adreno.so from the current namespace instead.
+10-10 17:31:26.047  5439  5439 D CocktailBarTriggerContainerView: onApplyWindowInsets bottom =0
+10-10 17:31:26.049  1515  3446 V WindowManager: Relayout Window{616c709 u0 com.samsung.android.app.cocktailbarservice/com.samsung.android.app.cocktailbarservice.CocktailBarService}: viewVisibility=8 req=67x445 WM.LayoutParams{(0,478)(67x445) gr=#35 sim=#20 ty=2226 fl=#1800148 pfl=0x50 fmt=-2 vsysui=0x2000 colorMode=0 naviIconColor=0}
+10-10 17:31:26.049  1515  3446 I WindowManager: Destroying surface Surface(name=com.samsung.android.app.cocktailbarservice/com.samsung.android.app.cocktailbarservice.CocktailBarService) called by com.android.server.wm.WindowStateAnimator.destroySurface:2465 com.android.server.wm.WindowStateAnimator.destroySurfaceLocked:967 com.android.server.wm.WindowState.destroyOrSaveSurfaceUnchecked:3661 com.android.server.wm.WindowState.destroySurface:3609 com.android.server.wm.WindowManagerService.tryStartExitingAnimation:2676 com.android.server.wm.WindowManagerService.relayoutWindow:2460 com.android.server.wm.Session.relayout:249 android.view.IWindowSession$Stub.onTransact:288 
+10-10 17:31:26.050   658  1562 I SurfaceFlinger: id=5451 Removed com.samsung.android.app.cocktailbarservice/com.samsung.android.app.cocktailbarservice.CocktailBarService#0 (8/10)
+10-10 17:31:26.050   658  1562 I SurfaceFlinger: id=5451 Removed com.samsung.android.app.cocktailbarservice/com.samsung.android.app.cocktailbarservice.CocktailBarService#0 (-2/10)
+10-10 17:31:26.050 18875 18914 D libEGL  : loaded /vendor/lib/egl/libEGL_adreno.so
+10-10 17:31:26.052   658   658 I Layer   : id=5451 onRemoved com.samsung.android.app.cocktailbarservice/com.samsung.android.app.cocktailbarservice.CocktailBarService#0 
+10-10 17:31:26.054  5439  5439 D ViewRootImpl@35f884[CocktailBarService]: Relayout returned: old=[2153,478][2220,923] new=[2153,478][2220,923] result=0x5 surface={valid=false 0} changed=true
+10-10 17:31:26.054  5439  5439 D CocktailBarTriggerContainerView: onApplyWindowInsets bottom =0
+10-10 17:31:26.056   658   658 I SurfaceFlinger: Display 0 HWC layers:
+10-10 17:31:26.056   658   658 I SurfaceFlinger:     type    |    handle    | flag |  format   |   source crop (l,t,r,b)    |         frame       | name 
+10-10 17:31:26.056   658   658 I SurfaceFlinger: ------------+--------------+------+-----------+----------------------------+---------------------+------
+10-10 17:31:26.056   658   658 I SurfaceFlinger:      Device | 0x797c43a700 | 0002 | RGBA_8888 |   0.0    0.0 2220.0 1080.0 |    0    0 1080 2220 | Splash Screen com.YourCompany.GiftGame#0
+10-10 17:31:26.056   658   658 I SurfaceFlinger:      Device | 0x7979f84200 | 0000 | RGBA_8888 |   0.0    0.0 1080.0 2220.0 |    0    0 1080 2220 | ScreenshotSurface#0
+10-10 17:31:26.056   658   658 I SurfaceFlinger: 
+10-10 17:31:26.061  5439  5439 D ViewRootImpl@35f884[CocktailBarService]: MSG_RESIZED_REPORT: frame=Rect(2153, 478 - 2220, 923) ci=Rect(0, 0 - 0, 0) vi=Rect(0, 0 - 0, 0) or=2
+10-10 17:31:26.062  5439  5439 I AbstractCocktailPanelView: notifyPanelVisibilityChanged: visibility not changed 2 id: 6
+10-10 17:31:26.062  2747  2747 D KNOXCORE::LockSecureFolderTask: started: 150
+10-10 17:31:26.062  2747  2747 D KNOXCORE::LockSecureFolderTask: ResumedActivity userId0[com.YourCompany.GiftGame/com.epicgames.ue4.SplashActivity]
+10-10 17:31:26.063  5439  5439 D CocktailBarUiController: onCocktailBarStateChanged: flag=0x1 vis=2 bgType=0 showTimeout=-1 activate=true
+10-10 17:31:26.068  1515  1882 D MdnieScenarioControlService:  packageName : com.YourCompany.GiftGame    className : com.epicgames.ue4.SplashActivity
+10-10 17:31:26.068  1515  1882 V MdnieScenarioControlService: setUIMode from UI function(3)
+10-10 17:31:26.069  1515  2597 V WindowManager: Relayout Window{616c709 u0 com.samsung.android.app.cocktailbarservice/com.samsung.android.app.cocktailbarservice.CocktailBarService}: viewVisibility=8 req=67x445 WM.LayoutParams{(0,478)(67x445) gr=#35 sim=#20 ty=2226 fl=#1800148 pfl=0x50 fmt=-2 vsysui=0x2000 colorMode=0 naviIconColor=0}
+10-10 17:31:26.073 18875 18914 I vndksupport: sphal namespace is not configured for this process. Loading /vendor/lib/egl/libGLESv1_CM_adreno.so from the current namespace instead.
+10-10 17:31:26.073 18875 18914 D libEGL  : loaded /vendor/lib/egl/libGLESv1_CM_adreno.so
+10-10 17:31:26.074  5439  5439 D ViewRootImpl@35f884[CocktailBarService]: Relayout returned: old=[2153,478][2220,923] new=[2153,478][2220,923] result=0x1 surface={valid=false 0} changed=false
+10-10 17:31:26.109  2254  2254 V Configuration:  needToUpdateOverlays
+10-10 17:31:26.114  1515  2597 I ActivityManager: START u0 {act=null typ=null flg=0x10000 cmp=ComponentInfo{com.YourCompany.GiftGame/com.epicgames.ue4.GameActivity}} from uid 10200
+10-10 17:31:26.115  2254  2254 I chatty  : uid=10006(u0_a6) com.android.systemui identical 5 lines
+10-10 17:31:26.115  2254  2254 V Configuration:  needToUpdateOverlays
+10-10 17:31:26.123  1515  1805 D ViewRootImpl@624514d[GiftGame]: dispatchDetachedFromWindow
+10-10 17:31:26.123  1515  1805 D InputEventReceiver: channel 'cca4402 Splash Screen com.YourCompany.GiftGame (client)' ~ Disposing input event receiver.
+10-10 17:31:26.123  1515  1805 D InputEventReceiver: channel 'cca4402 Splash Screen com.YourCompany.GiftGame (client)' ~NativeInputEventReceiver.
+10-10 17:31:26.126  1515  1805 I WindowManager: Destroying surface Surface(name=Splash Screen com.YourCompany.GiftGame) called by com.android.server.wm.WindowStateAnimator.destroySurface:2465 com.android.server.wm.WindowStateAnimator.destroySurfaceLocked:967 com.android.server.wm.WindowState.removeImmediately:2396 com.android.server.wm.WindowState.removeIfPossible:2594 com.android.server.wm.WindowState.removeIfPossible:2434 com.android.server.wm.WindowManagerService.removeWindow:2018 com.android.server.wm.Session.remove:233 android.view.ViewRootImpl.dispatchDetachedFromWindow:4093 
+10-10 17:31:26.126   658   914 I SurfaceFlinger: id=5452 Removed Splash Screen com.YourCompany.GiftGame#0 (2/9)
+10-10 17:31:26.126   658   914 I SurfaceFlinger: id=5452 Removed Splash Screen com.YourCompany.GiftGame#0 (-2/9)
+10-10 17:31:26.126  2254  2254 V Configuration:  needToUpdateOverlays
+10-10 17:31:26.135   658   658 I Layer   : id=5452 onRemoved Splash Screen com.YourCompany.GiftGame#0 
+10-10 17:31:26.135  2254  2254 I chatty  : uid=10006(u0_a6) com.android.systemui expire 75 lines
+10-10 17:31:26.135  2254  2254 V Configuration:  needToUpdateOverlays
+10-10 17:31:26.135  2254  2254 V Configuration:  needToUpdateOverlays
+10-10 17:31:26.136  2254  2254 I chatty  : uid=10006(u0_a6) com.android.systemui identical 12 lines
+10-10 17:31:26.137  2254  2254 V Configuration:  needToUpdateOverlays
+10-10 17:31:26.141   658   658 I SurfaceFlinger: Display 0 HWC layers:
+10-10 17:31:26.141   658   658 I SurfaceFlinger:     type    |    handle    | flag |  format   |   source crop (l,t,r,b)    |         frame       | name 
+10-10 17:31:26.141   658   658 I SurfaceFlinger: ------------+--------------+------+-----------+----------------------------+---------------------+------
+10-10 17:31:26.141   658   658 I SurfaceFlinger:      Device | 0x7979f84200 | 0000 | RGBA_8888 |   0.0    0.0 1080.0 2220.0 |    0    0 1080 2220 | ScreenshotSurface#0
+10-10 17:31:26.141   658   658 I SurfaceFlinger: 
+10-10 17:31:26.142  2254  2657 D NetworkController.MobileSignalController(0/1): getMobileIconGroup(): 6
+10-10 17:31:26.153  2254  2254 D ViewRootImpl@cb49485[AssistPreviewPanel]: setView = com.android.systemui.assist.AssistOrbContainer{201f2da G.E...... ......I. 0,0-0,0} TM=true MM=false
+10-10 17:31:26.201  2254  2254 D ViewRootImpl@daab965[DockedStackDivider]: setView = com.android.systemui.stackdivider.DividerView{f4be63a I.E...... ......I. 0,0-0,0} TM=true MM=false
+10-10 17:31:26.203  2254  2254 D ViewRootImpl@29270ce[DividerButtonsGroup]: dispatchDetachedFromWindow
+10-10 17:31:26.203  2254  2254 D InputEventReceiver: channel '8d4d5ca DividerButtonsGroup (client)' ~ Disposing input event receiver.
+10-10 17:31:26.203  2254  2254 D InputEventReceiver: channel '8d4d5ca DividerButtonsGroup (client)' ~NativeInputEventReceiver.
+10-10 17:31:26.204  1515  2597 W AppOps  : Finishing op nesting under-run: uid 10006 pkg com.android.systemui code 70 time=0 duration=0 nesting=0
+10-10 17:31:26.217  2254  2254 D ViewRootImpl@5f27378[DividerButtonsGroup]: setView = com.android.systemui.stackdivider.DividerButtonsGroup{e39ea51 I.E...... ......I. 0,0-0,0} TM=true MM=false
+10-10 17:31:26.217  1515  1883 D AllAroundSensingService: packageName : com.YourCompany.GiftGame    className : com.epicgames.ue4.GameActivity
+10-10 17:31:26.218  2254  2254 D ImageWallpaper: engine visible:false
+10-10 17:31:26.220  2254  2254 D ViewRootImpl@630bd2d[NavBarTouchConsumer]: MSG_RESIZED_REPORT: frame=Rect(0, 1063 - 2220, 1080) ci=Rect(0, 0 - 0, 0) vi=Rect(0, 0 - 144, 0) or=2
+10-10 17:31:26.220  2254  2254 D ViewRootImpl@9cba9ce[StatusBar]: MSG_RESIZED_REPORT: frame=Rect(0, 0 - 2220, 72) ci=Rect(0, 0 - 144, 0) vi=Rect(0, 0 - 144, 0) or=2
+10-10 17:31:26.221  1515  1883 V AllAroundSensingService: setPlatformBrightnessValue 120
+10-10 17:31:26.222  2254  2254 D MetadataParser: onConfigurationChanged()
+10-10 17:31:26.228  1515  2597 D SecContentProvider: query(), uri = 17 selection = isSettingsChangesAllowed
+10-10 17:31:26.228  1515  2597 D SecContentProvider: called from android.uid.systemui:10006
+10-10 17:31:26.230  1515  2597 D RestrictionPolicy: isSettingsChangesAllowedAsUser, userId 0 : true
+10-10 17:31:26.231  1515  3446 D ActivityManager: isScaleDownAnimationEnabled() : false
+10-10 17:31:26.231  1515  2597 D SecContentProvider: query(), uri = 17 selection = isSettingsChangesAllowed
+10-10 17:31:26.231  1515  2597 D SecContentProvider: called from android.uid.systemui:10006
+10-10 17:31:26.234  1515  3446 D PersonaManagerService: Current focused persona service handled id set to : 0
+10-10 17:31:26.234  1515  3446 D InputDispatcher: Focused application set to: xxxx
+10-10 17:31:26.236  1515  2014 D GameManagerService: handleForegroundChange(). pkgName: com.YourCompany.GiftGame, clsName: com.epicgames.ue4.GameActivity,FgActivityName:com.YourCompany.GiftGame/com.epicgames.ue4.GameActivity
+10-10 17:31:26.236  1515  2014 D GameManagerService:   handleForegroundChange(). same package with Prev KILL_YOURSELF. ignore
+10-10 17:31:26.236  1515  3446 D MARsPolicyManager: onPackageResumedFG pkgName = com.YourCompany.GiftGame, userId = 0
+10-10 17:31:26.243  1515  2597 D RestrictionPolicy: isSettingsChangesAllowedAsUser, userId 0 : true
+10-10 17:31:26.246  2747  2747 I SemPersonaManager: SecureFolder personaId = 150
+10-10 17:31:26.251  1515  3446 D SecContentProvider: query(), uri = 17 selection = isSettingsChangesAllowed
+10-10 17:31:26.252  1515  3446 D SecContentProvider: called from android.uid.systemui:10006
+10-10 17:31:26.252  1515  3446 D RestrictionPolicy: isSettingsChangesAllowedAsUser, userId 0 : true
+10-10 17:31:26.261  2254  2254 D ViewRootImpl@4edaa1a[NavigationBar]: MSG_RESIZED_REPORT: frame=Rect(2076, 0 - 2220, 1080) ci=Rect(0, 0 - 0, 0) vi=Rect(0, 0 - 0, 0) or=2
+10-10 17:31:26.267  2254  2254 D KeyguardUpdateMonitor: received broadcast android.intent.action.CONFIGURATION_CHANGED
+10-10 17:31:26.273  1515  3446 V WindowManager: Relayout Window{faf65af u0 NavigationBar}: viewVisibility=0 req=144x1080 WM.LayoutParams{(0,0)(fillxfill) sim=#20 ty=2019 fl=#21840068 fmt=-3 colorMode=0 naviIconColor=0}
+10-10 17:31:26.285 18875 18875 W linker  : /data/app/com.YourCompany.GiftGame-RzHLgTM4YaKNZdhKkDQPSw==/lib/arm/libOVRPlugin.so: is missing DT_SONAME will use basename as a replacement: "libOVRPlugin.so"
+10-10 17:31:26.290  2254  2254 D ViewRootImpl@4edaa1a[NavigationBar]: Relayout returned: old=[2076,0][2220,1080] new=[2076,0][2220,1080] result=0x23 surface={valid=true 486653964288} changed=false
+10-10 17:31:26.291 18875 18875 D OVRPlugin: JNI_OnLoad
+10-10 17:31:26.291  2254  2254 D SecNavigationBarView: setNavigationIconHints showImeButton : false
+10-10 17:31:26.292  2254  2254 D SecNavigationBarView: updateImmersivePinIcon() isImmersiveMode=true
+10-10 17:31:26.292  2254  2685 D OpenGLRenderer: eglDestroySurface = 0x71606a68a0
+10-10 17:31:26.293  2254  2685 D OpenGLRenderer: eglCreateWindowSurface = 0x71606a68a0
+10-10 17:31:26.300  1515  3446 V WindowManager: finishDrawingLocked: mDrawState=COMMIT_DRAW_PENDING Window{faf65af u0 NavigationBar} in Surface(name=NavigationBar)
+10-10 17:31:26.304  1515  3446 V WindowManager: Relayout Window{8ea4853 u0 NavBarTouchConsumer}: viewVisibility=0 req=17x17 WM.LayoutParams{(0,0)(17xfill) gr=#5 sim=#20 ty=2273 fl=#1080108 fmt=-3 alpha=0.0 colorMode=0 naviIconColor=0 sfl=0x20000}
+10-10 17:31:26.325  2254  2254 D ViewRootImpl@630bd2d[NavBarTouchConsumer]: Relayout returned: old=[0,1063][2220,1080] new=[2203,0][2220,1080] result=0x23 surface={valid=true 487083569152} changed=false
+10-10 17:31:26.326  2254  2685 D OpenGLRenderer: eglDestroySurface = 0x715fc20010
+10-10 17:31:26.326  2254  2685 D OpenGLRenderer: eglCreateWindowSurface = 0x715fc20010
+10-10 17:31:26.330  1515  2597 V WindowManager: finishDrawingLocked: mDrawState=COMMIT_DRAW_PENDING Window{8ea4853 u0 NavBarTouchConsumer} in Surface(name=NavBarTouchConsumer)
+10-10 17:31:26.330  2254  2254 D ViewRootImpl@cb49485[AssistPreviewPanel]: dispatchAttachedToWindow
+10-10 17:31:26.333  1515  2597 V WindowManager: Relayout Window{dc14967 u0 AssistPreviewPanel}: viewVisibility=8 req=2076x750 WM.LayoutParams{(0,0)(fillx750) gr=#800053 sim=#31 ty=2033 fl=#1000118 fmt=-3 vsysui=0x700 colorMode=0 naviIconColor=0}
+10-10 17:31:26.336  2254  2254 D ViewRootImpl@cb49485[AssistPreviewPanel]: Relayout returned: old=[0,0][0,0] new=[0,1080][2220,1080] result=0x1 surface={valid=false 0} changed=false
+10-10 17:31:26.343  1515  1920 I WifiTrafficPoller: mCpuCoreBooster Lock
+10-10 17:31:26.346  2254 12614 D SystemServicesProxy: updateOverviewLastStackActiveTimeAsync: newTime=1539210686235
+10-10 17:31:26.347  2747  2747 D KNOXCORE::LockSecureFolderTask: started: 150
+10-10 17:31:26.347  2747  2747 D KNOXCORE::LockSecureFolderTask: ResumedActivity userId0[com.YourCompany.GiftGame/com.epicgames.ue4.GameActivity]
+10-10 17:31:26.347  1515  2597 D SecContentProvider: query(), uri = 17 selection = isSettingsChangesAllowed
+10-10 17:31:26.347  1515  2597 D SecContentProvider: called from android.uid.systemui:10006
+10-10 17:31:26.347  1515  2597 D RestrictionPolicy: isSettingsChangesAllowedAsUser, userId 0 : true
+10-10 17:31:26.348  2254  2498 D SystemServicesProxy: updateOverviewLastStackActiveTimeAsync: done.
+10-10 17:31:26.358  1515  2597 V WindowManager: Relayout Window{84a75 u0 StatusBar}: viewVisibility=0 req=2220x72 WM.LayoutParams{(0,0)(fillx72) gr=#30 sim=#10 ty=2000 fl=#81840048 fmt=-3 vsysui=0x600 colorMode=0 naviIconColor=0}
+10-10 17:31:26.375  2254  2254 D ViewRootImpl@9cba9ce[StatusBar]: Relayout returned: old=[0,0][2220,72] new=[0,0][2220,72] result=0x23 surface={valid=true 487045689344} changed=false
+10-10 17:31:26.377  2254  2685 D OpenGLRenderer: eglDestroySurface = 0x716237ab10
+10-10 17:31:26.377  2254  2685 D OpenGLRenderer: eglCreateWindowSurface = 0x716237ab10
+10-10 17:31:26.390  2254  2254 D ScrollView:  onsize change changed 
+10-10 17:31:26.402  1515  2597 V WindowManager: finishDrawingLocked: mDrawState=COMMIT_DRAW_PENDING Window{84a75 u0 StatusBar} in Surface(name=StatusBar)
+10-10 17:31:26.403  2254  2254 D ViewRootImpl@daab965[DockedStackDivider]: dispatchAttachedToWindow
+10-10 17:31:26.406  1515  2597 V WindowManager: Relayout Window{9dfb1b2 u0 DockedStackDivider}: viewVisibility=4 req=144x1008 WM.LayoutParams{(0,0)(144xfill) sim=#20 ty=2034 fl=#21840028 pfl=0x40 fmt=-3 vsysui=0x700 colorMode=0 naviIconColor=0}
+10-10 17:31:26.409  2254  2254 D ViewRootImpl@daab965[DockedStackDivider]: Relayout returned: old=[0,0][0,0] new=[0,542][1080,686] result=0x1 surface={valid=false 0} changed=false
+10-10 17:31:26.412  1515  1805 I WindowManager: Screen frozen for +962ms due to Window{84a75 u0 StatusBar}
+10-10 17:31:26.414   658   658 I SurfaceFlinger: id=5454 createSurf (2160x2220),-1 flag=20004, BlackSurface#0
+10-10 17:31:26.416   658   658 I SurfaceFlinger: id=5455 createSurf (1080x4440),-1 flag=20004, BlackSurface#0
+10-10 17:31:26.416   658   658 I SurfaceFlinger: id=5456 createSurf (2160x2220),-1 flag=20004, BlackSurface#0
+10-10 17:31:26.418   658   658 I SurfaceFlinger: id=5457 createSurf (1080x4440),-1 flag=20004, BlackSurface#0
+10-10 17:31:26.418  1515  1805 D InputDispatcher: setInputDispatchMode: enabled=1, frozen=0
+10-10 17:31:26.424  2254  2254 D ViewRootImpl@5f27378[DividerButtonsGroup]: dispatchAttachedToWindow
+10-10 17:31:26.425  1515  3446 V WindowManager: Relayout Window{8250c80 u0 DividerButtonsGroup}: viewVisibility=4 req=150x525 WM.LayoutParams{(0,0)(150x525) sim=#20 ty=2302 fl=#1040020 fmt=-3 vsysui=0x700 surfaceInsets=Rect(36, 36 - 36, 36) colorMode=0 naviIconColor=0}
+10-10 17:31:26.430  2254  2254 D ViewRootImpl@5f27378[DividerButtonsGroup]: Relayout returned: old=[0,0][0,0] new=[199,539][881,689] result=0x1 surface={valid=false 0} changed=false
+10-10 17:31:26.432  2254  2254 D BarTransitions.PhoneStatusBarView: MODE_TRANSPARENT -> MODE_OPAQUE animate=false
+10-10 17:31:26.432  2254  2254 D BarTransitions.SecNavigationBarView: MODE_TRANSPARENT -> MODE_OPAQUE animate=false
+10-10 17:31:26.432  1515  3446 D WindowManager: adjustSystemUiVisibilityLw : vis= 0x1212
+10-10 17:31:26.433  2254  2254 D ViewRootImpl@630bd2d[NavBarTouchConsumer]: MSG_RESIZED_REPORT: frame=Rect(0, 1063 - 2220, 1080) ci=Rect(0, 0 - 0, 0) vi=Rect(0, 0 - 0, 0) or=2
+10-10 17:31:26.433   621  2786 D audio_hw_primary: adev_set_parameters: enter: display_rotation=1
+10-10 17:31:26.433  2254  2254 V Bar.QuickConnectBar: intent receive
+10-10 17:31:26.434  2254  2254 D Bar.QuickConnectBar: collapsed =android.widget.RemoteViews@b36e531,  expanded =null
+10-10 17:31:26.434  2254  2254 D ViewRootImpl@69ec41e[AssistPreviewPanel]: dispatchDetachedFromWindow
+10-10 17:31:26.434  2254  2254 D InputEventReceiver: channel 'c314610 AssistPreviewPanel (client)' ~ Disposing input event receiver.
+10-10 17:31:26.434  2254  2254 D InputEventReceiver: channel 'c314610 AssistPreviewPanel (client)' ~NativeInputEventReceiver.
+10-10 17:31:26.435  1515  3446 W AppOps  : Finishing op nesting under-run: uid 10006 pkg com.android.systemui code 70 time=0 duration=0 nesting=0
+10-10 17:31:26.435   621  2786 V msm8974_platform: platform_set_parameters: enter: display_rotation=1
+10-10 17:31:26.435   621  2786 V audio_hw_sec: factory_set_parameters: enter: display_rotation=1
+10-10 17:31:26.438   959 23804 W bt_a2dp_hw: adev_set_parameters: state 5
+10-10 17:31:26.438   959 23804 W bt_a2dp_hw: out_set_parameters: state 5 kvpairs display_rotation=1
+10-10 17:31:26.441  2254  2254 D SecNavigationBarView: setNavigationIconHints showImeButton : false
+10-10 17:31:26.441  2254  2254 D SecNavigationBarView: updateImmersivePinIcon() isImmersiveMode=true
+10-10 17:31:26.443  2254  2254 D ViewRootImpl@d92f191[DockedStackDivider]: dispatchDetachedFromWindow
+10-10 17:31:26.443  2254  2254 D InputEventReceiver: channel '7355727 DockedStackDivider (client)' ~ Disposing input event receiver.
+10-10 17:31:26.443  2254  2254 D InputEventReceiver: channel '7355727 DockedStackDivider (client)' ~NativeInputEventReceiver.
+10-10 17:31:26.444  1515  3446 W AppOps  : Finishing op nesting under-run: uid 10006 pkg com.android.systemui code 70 time=0 duration=0 nesting=0
+10-10 17:31:26.452   959 23804 V MultiRecordManager: setParameters(): io 0, keyvalue display_rotation=1, calling pid 1515
+10-10 17:31:26.460   658   658 I SurfaceFlinger: Display 0 HWC layers:
+10-10 17:31:26.460   658   658 I SurfaceFlinger:     type    |    handle    | flag |  format   |   source crop (l,t,r,b)    |         frame       | name 
+10-10 17:31:26.460   658   658 I SurfaceFlinger: ------------+--------------+------+-----------+----------------------------+---------------------+------
+10-10 17:31:26.460   658   658 I SurfaceFlinger:      Client | 0x7979f84200 | 0000 | RGBA_8888 |   0.0    0.0 1080.0 2220.0 |    0    0 1080 2220 | ScreenshotSurface#0
+10-10 17:31:26.460   658   658 I SurfaceFlinger:      Client |              | 0000 |  Unknown  |  -0.4   -0.9   -0.9   -1.0 |    0    0 1080  332 | BlackSurface#0
+10-10 17:31:26.460   658   658 I SurfaceFlinger:      Client |              | 0000 |  Unknown  |  -0.9   -0.0   -1.0   -0.6 |    0    0  209 2220 | BlackSurface#0
+10-10 17:31:26.460   658   658 I SurfaceFlinger:      Client |              | 0000 |  Unknown  |  -0.1    0.0   -0.6   -0.1 |    0 1888 1080 2220 | BlackSurface#0
+10-10 17:31:26.460   658   658 I SurfaceFlinger:      Client |              | 0000 |  Unknown  |   0.0   -0.4   -0.1   -1.0 |  871    0 1080 2220 | BlackSurface#0
+10-10 17:31:26.460   658   658 I SurfaceFlinger: 
+10-10 17:31:26.461  2254  2657 D Tile.WifiTile: handleUpdateState enabledChanging
+10-10 17:31:26.465  2254  2254 D KeyguardUpdateMonitor: handleConfigurationChanged
+10-10 17:31:26.465  2254  2775 V SystemUIAnalytics: SAPreference : 1104 / 1
+10-10 17:31:26.465  2254  2775 V SystemUIAnalytics: SAPreference : 1105 / 1
+10-10 17:31:26.467  2254  2254 D ViewRootImpl@4edaa1a[NavigationBar]: MSG_RESIZED_REPORT: frame=Rect(2076, 0 - 2220, 1080) ci=Rect(0, 0 - 0, 0) vi=Rect(0, 0 - 0, 0) or=2
+10-10 17:31:26.468  2254  2657 D Tile.MobileDataTile: handleUpdateState : state true
+10-10 17:31:26.468  1515  2597 V WindowManager: Relayout Window{faf65af u0 NavigationBar}: viewVisibility=0 req=144x1080 WM.LayoutParams{(0,0)(fillxfill) sim=#20 ty=2019 fl=#21840068 fmt=-3 colorMode=0 naviIconColor=0}
+10-10 17:31:26.469  2254  2657 D Tile.BluetoothTile: handleUpdateState enabled = true connected = true bluetoothState = 12
+10-10 17:31:26.473  2254  2254 D ViewRootImpl@4edaa1a[NavigationBar]: Relayout returned: old=[2076,0][2220,1080] new=[2076,0][2220,1080] result=0x3 surface={valid=true 486653964288} changed=false
+10-10 17:31:26.477  2254  2657 D FlashlightController: updateTorchCallback for mCameraId 0
+10-10 17:31:26.477  2254  2775 V SystemUIAnalytics: SAPreference : 1108 / 0
+10-10 17:31:26.481  2254  2775 V SystemUIAnalytics: SAPreference : 2016 / 0
+10-10 17:31:26.484  2254  2775 V SystemUIAnalytics: SAPreference : 2018 / 0
+10-10 17:31:26.484  2254  2657 D Tile.RotationLockTile:  handleUpdateState: true orientation = true
+10-10 17:31:26.491  1515  2597 V WindowManager: Relayout Window{8ea4853 u0 NavBarTouchConsumer}: viewVisibility=0 req=17x17 WM.LayoutParams{(0,0)(17xfill) gr=#5 sim=#20 ty=2273 fl=#1080108 fmt=-3 alpha=0.0 colorMode=0 naviIconColor=0 sfl=0x20000}
+10-10 17:31:26.495  2254  2254 D ViewRootImpl@630bd2d[NavBarTouchConsumer]: Relayout returned: old=[0,1063][2220,1080] new=[2203,0][2220,1080] result=0x1 surface={valid=true 487083569152} changed=false
+10-10 17:31:26.499  2254  2254 D ViewRootImpl@630bd2d[NavBarTouchConsumer]: MSG_RESIZED_REPORT: frame=Rect(2203, 0 - 2220, 1080) ci=Rect(0, 0 - 0, 0) vi=Rect(0, 0 - 0, 0) or=2
+10-10 17:31:26.499  2254  2254 D ViewRootImpl@9cba9ce[StatusBar]: MSG_RESIZED_REPORT: frame=Rect(0, 0 - 2220, 72) ci=Rect(0, 0 - 144, 0) vi=Rect(0, 0 - 144, 0) or=2
+10-10 17:31:26.500  2254  2254 D KeyguardUpdateMonitor: handleStatusBarState( false )
+10-10 17:31:26.541 18875 18875 D UE4     : Used memory before allocating anything was 103.68MB
+10-10 17:31:26.548  2254  2254 D KeyguardUpdateMonitor: handleStatusBarState( false )
+10-10 17:31:26.549  2254  2254 I chatty  : uid=10006(u0_a6) com.android.systemui identical 3 lines
+10-10 17:31:26.556  2254  2254 D KeyguardUpdateMonitor: handleStatusBarState( false )
+10-10 17:31:26.689  2184  2184 E adbd    : recv: OPEN 00000ea3 00000000 004d:73 68 65 6C 6C 3A 65 78 70 6F 72 74 20 41 4E 44 52 4F 49 44 5F 4C 4F 47 5F 54 41 47 53 3D 22 27 27 22 3B 20 65 78 65 63 20 6C 6F 67 63 61 74 20 27 2D 64 27 20 27 2D 73 27 20 27 55 45 34 27 20 27 2D 73 27 20 27 44 65 62 75 67 27 00 
+10-10 17:31:26.690  2184  2184 E adbd    : service_to_fd: shell:export ANDROID_LOG_TAGS="''"; exec logcat '-d' '-s' 'UE4' '-s' 'Debug'
+10-10 17:31:26.708 18918 18918 E propClient: PropClient failed to load
+10-10 17:31:26.722 18918 18918 E propClient: PropClient failed to load
+10-10 17:31:26.776   658   658 I SurfaceFlinger: Display 0 HWC layers:
+10-10 17:31:26.776   658   658 I SurfaceFlinger:     type    |    handle    | flag |  format   |   source crop (l,t,r,b)    |         frame       | name 
+10-10 17:31:26.776   658   658 I SurfaceFlinger: ------------+--------------+------+-----------+----------------------------+---------------------+------
+10-10 17:31:26.776   658   658 I SurfaceFlinger:      Device | 0x7979f84200 | 0000 | RGBA_8888 |   0.0    0.0 1080.0 2220.0 |    0    0 1080 2220 | ScreenshotSurface#0
+10-10 17:31:26.776   658   658 I SurfaceFlinger: 
+10-10 17:31:26.782  2184  2184 E adbd    : recv: OPEN 00000ea5 00000000 0035:73 68 65 6C 6C 3A 65 78 70 6F 72 74 20 41 4E 44 52 4F 49 44 5F 4C 4F 47 5F 54 41 47 53 3D 22 27 27 22 3B 20 65 78 65 63 20 6C 6F 67 63 61 74 20 27 2D 64 27 00 
+10-10 17:31:26.782  2184  2184 E adbd    : service_to_fd: shell:export ANDROID_LOG_TAGS="''"; exec logcat '-d'
+10-10 17:31:26.796 18924 18924 E propClient: PropClient failed to load

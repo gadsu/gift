@@ -1,10 +1,10 @@
 package com.epicgames.ue4;
 
-import com.TeamNA.GiftGame.OBBDownloaderService;
-import com.TeamNA.GiftGame.DownloaderActivity;
+import com.YourCompany.GiftGame.OBBDownloaderService;
+import com.YourCompany.GiftGame.DownloaderActivity;
 import android.app.Activity;
 import com.google.android.vending.expansion.downloader.Helpers;
-import com.TeamNA.GiftGame.OBBData;
+import com.YourCompany.GiftGame.OBBData;
 
 
 public class DownloadShim

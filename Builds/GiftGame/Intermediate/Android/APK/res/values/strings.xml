@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Gift Game</string>
+    <string name="app_name">GiftGame</string>
 	
 	<!-- When a download completes, a notification is displayed, and this
         string is used to indicate that the download successfully completed.
