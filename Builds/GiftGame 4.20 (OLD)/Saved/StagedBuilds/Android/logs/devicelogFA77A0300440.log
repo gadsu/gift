@@ -1,0 +1,49 @@
+--------- beginning of main
+11-27 18:21:10.946   686   686 I /vendor/bin/hw/android.hardware.health@2.0-service.marlin: SRAM data: 2595000
+--------- beginning of system
+11-27 18:20:57.211   943   943 V SettingsProvider: Notifying for 0: content://settings/system/screen_brightness
+11-27 18:21:10.953   943  1597 I ActivityManager: START u0 {flg=0x10000000 cmp=com.TeamNA.GiftGame/com.epicgames.ue4.SplashActivity} from uid 2000
+11-27 18:21:10.963   690   690 D QCOM PowerHAL: LAUNCH HINT: ON
+11-27 18:21:10.964   690   690 D QCOM PowerHAL: Activity launch hint handled
+11-27 18:21:10.997   943  1026 I ActivityManager: Start proc 12003:com.TeamNA.GiftGame/u0a351 for activity com.TeamNA.GiftGame/com.epicgames.ue4.SplashActivity
+11-27 18:21:11.006 12003 12003 I TeamNA.GiftGam: Late-enabling -Xcheck:jni
+11-27 18:21:11.086   943  3390 I ActivityManager: Config changes=20000480 {1.0 311mcc480mnc [en_US] ldltr sw411dp w683dp h387dp 420dpi nrml land night finger -keyb/v/h -nav/h winConfig={ mBounds=Rect(0, 0 - 0, 0) mAppBounds=Rect(0, 0 - 1794, 1080) mWindowingMode=fullscreen mActivityType=undefined} s.32}
+11-27 18:21:11.146   943  3390 I ActivityManager: Override config changes=20000480 {1.0 311mcc480mnc [en_US] ldltr sw411dp w683dp h387dp 420dpi nrml land night finger -keyb/v/h -nav/h winConfig={ mBounds=Rect(0, 0 - 1080, 1794) mAppBounds=Rect(0, 0 - 1794, 1080) mWindowingMode=fullscreen mActivityType=undefined} s.32} for displayId=0
+11-27 18:21:11.183   943  3390 W ActivityManager: Slow operation: 118ms so far, now at attachApplicationLocked: after mServices.attachApplicationLocked
+11-27 18:21:11.199   943  1424 I InputReader: Reconfiguring input devices.  changes=0x00000004
+11-27 18:21:11.199   943  1424 I InputReader: Device reconfigured: id=8, name='synaptics_dsxv26', size 1080x1920, orientation 1, mode 1, display id 0
+11-27 18:21:11.203 12003 12003 I TeamNA.GiftGam: The ClassLoaderContext is a special shared library.
+11-27 18:21:11.244  9320  9353 I PBSessionCacheImpl: Deleted sessionId[40991336789925775] from persistence.
+11-27 18:21:11.251  9320  9353 W SearchServiceCore: Abort, client detached.
+11-27 18:21:11.267  1511  1511 D StatusBar: disable<e i a s b h r c s > disable2<q i n >
+11-27 18:21:11.390  1511  1511 D StatusBar: disable<e i a s b h r c s > disable2<q i n >
+11-27 18:21:11.422   492   623 W SurfaceFlinger: Attempting to destroy on removed layer: 6394504 DockedStackDivider#0
+11-27 18:21:11.665   943  3390 I ActivityManager: START u0 {flg=0x10000 cmp=com.TeamNA.GiftGame/com.epicgames.ue4.GameActivity (has extras)} from uid 10351
+11-27 18:21:11.667   690   690 D QCOM PowerHAL: LAUNCH HINT: ON
+11-27 18:21:11.683   943  3390 I WindowManager: Screen frozen for +616ms due to AppWindowToken{4909bdb token=Token{3da2cea ActivityRecord{9e02cd5 u0 com.TeamNA.GiftGame/com.epicgames.ue4.SplashActivity t413}}}
+11-27 18:21:11.693 12003 12003 W ActivityThread: handleWindowVisibility: no activity for token android.os.BinderProxy@df1cfd8
+11-27 18:21:11.725 12003 12003 W linker  : Warning: "/data/app/com.TeamNA.GiftGame-HpYoyXaYCVXC1fZbKiKrKg==/lib/arm/libOVRPlugin.so" has no DT_SONAME (will use libOVRPlugin.so instead) and will not work when the app moves to API level 23 or later (https://android.googlesource.com/platform/bionic/+/master/missing-soname-enforced-for-api-level-23) (allowing for now because this app's target API level is still 14)
+11-27 18:21:11.727 12003 12003 D OVRPlugin: JNI_OnLoad
+11-27 18:21:11.727 12003 12003 E libsigchain: Warning: Unexpected sigaction action found 0xf2e99765
+11-27 18:21:11.766 12003 12003 D UE4     : Used memory before allocating anything was 129.62MB
+11-27 18:21:12.001 12003 12003 D UE4     : In the JNI_OnLoad function
+11-27 18:21:12.002 12003 12003 D UE4     : [JNI] - Failed to determine if app purchasing is enabled!
+11-27 18:21:12.004 12003 12003 D UE4     : Path found as '/storage/emulated/0'
+11-27 18:21:12.004 12003 12003 D UE4     : Font Path found as '/system/fonts/'
+11-27 18:21:12.004 12003 12003 D UE4     : In the JNI_OnLoad function 5
+11-27 18:21:12.274 12003 12003 V threaded_app: Creating: 0xef29dc00
+11-27 18:21:12.274 12003 12029 V threaded_app: Config: mcc=311 mnc=480 lang=en cnt=US orien=2 touch=3 dens=420 keys=1 nav=1 keysHid=3 navHid=0 sdk=28 size=2 long=1 modetype=1 modenight=2
+11-27 18:21:12.274 12003 12029 D UE4     : Entering native app glue main function
+11-27 18:21:12.274 12003 12029 D UE4     : Created event thread
+11-27 18:21:12.274 12003 12029 D UE4     : Entered AndroidMain()
+11-27 18:21:12.274 12003 12030 D UE4     : Entering event processing thread engine entry point
+11-27 18:21:12.275 12003 12030 D UE4     : Prepared looper for event thread
+11-27 18:21:12.275 12003 12030 D UE4     : Passed callback initialization
+11-27 18:21:12.275 12003 12030 D UE4     : Passed sensor initialization
+11-27 18:21:12.276 12003 12029 D UE4     : Controller interface supported
+11-27 18:21:12.286 12003 12003 D OpenGLRenderer: Skia GL Pipeline
+11-27 18:21:12.303 12003 12003 D PermissionFragment: Creating PlayGamesFragment
+11-27 18:21:12.306   943  1597 I ActivityManager: START u0 {act=android.content.pm.action.REQUEST_PERMISSIONS pkg=com.google.android.packageinstaller cmp=com.google.android.packageinstaller/com.android.packageinstaller.permission.ui.GrantPermissionsActivity (has extras)} from uid 10351
+11-27 18:21:12.309   690   690 D QCOM PowerHAL: LAUNCH HINT: ON
+11-27 18:21:12.317 12003 12003 D UE4     : Vulkan version: 1.1.0
+11-27 18:21:12.317 12003 12003 D UE4     : Vulkan level: 0
