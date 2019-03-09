@@ -1,9 +1,9 @@
-NDKROOT=C:/NVPACK/android-ndk-r14b
-ANDROID_HOME=C:/NVPACK/android-sdk-windows
-ANT_HOME=C:/NVPACK/apache-ant-1.8.2
-JAVA_HOME=C:/NVPACK/jdk1.8.0_77
+NDKROOT=D:/NVPACK/android-ndk-r14b
+ANDROID_HOME=D:/NVPACK/android-sdk-windows
+ANT_HOME=D:/NVPACK/apache-ant-1.8.2
+JAVA_HOME=D:/NVPACK/jdk1.8.0_77
 NDKVersion=android-19
-SDKVersion=android-26
+SDKVersion=android-28
 bForDistribution=False
 bMakeSeparateApks=True
 bPackageDataInsideApk=False
@@ -29,8 +29,8 @@ DepthBufferPreference=Default
 PackageName=com.TeamNA.GiftGame
 StoreVersion=1
 VersionDisplayName=1.0
-MinSDKVersion=9
-TargetSDKVersion=9
+MinSDKVersion=26
+TargetSDKVersion=28
 bEnableGradle=true
 bEnableLint=false
 bShowLaunchImage=true
@@ -56,9 +56,9 @@ bAllowControllers=True
 bAllowIMU=True
 ApplicationDisplayName=Gift Game
 bFullScreen=True
-SDKPath=(Path="C:/NVPACK/android-sdk-windows")
-NDKPath=(Path="C:/NVPACK/android-ndk-r14b")
-ANTPath=(Path="C:/NVPACK/apache-ant-1.8.2")
-JavaPath=(Path="C:/NVPACK/jdk1.8.0_77")
+SDKPath=(Path="D:/NVPACK/android-sdk-windows")
+NDKPath=(Path="D:/NVPACK/android-ndk-r14b")
+ANTPath=(Path="D:/NVPACK/apache-ant-1.8.2")
+JavaPath=(Path="D:/NVPACK/jdk1.8.0_77")
 Arch=-armv7
 GPUArch=-es2

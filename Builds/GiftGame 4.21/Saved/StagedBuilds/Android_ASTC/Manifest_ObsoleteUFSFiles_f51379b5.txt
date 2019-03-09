@@ -1,5 +1,1 @@
-Engine/Plugins/Runtime/ImmediatePhysics/ImmediatePhysics.uplugin
-Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialMaterial.uasset
-Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialMaterial.uexp
-GiftGame/Content/Blueprints/DataContainer.uasset
-GiftGame/Content/Blueprints/DataContainer.uexp
+GiftGame/Saved/Logs/GiftGame-backup-0001.01.01-00.00.00.log
