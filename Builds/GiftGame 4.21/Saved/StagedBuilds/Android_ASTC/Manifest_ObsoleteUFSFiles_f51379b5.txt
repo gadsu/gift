@@ -1,5 +1,2 @@
-Engine/Content/EditorResources/BadBlueprintSprite.uasset
-Engine/Content/EditorResources/BadBlueprintSprite.ubulk
-Engine/Content/EditorResources/BadBlueprintSprite.uexp
 GiftGame/Saved/Logs/GiftGame-backup-0001.01.01-00.00.00.log
 e/Content/Sounds/SoundEffects/TickCut.uasset

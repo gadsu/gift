@@ -1,4 +1,3 @@
-GiftGame/Config/DefaultEngine.ini
 Engine/GlobalShaderCache-GLSL_ES2.bin
 Engine/Content/ArtTools/RenderToTexture/Enums/EFloatTypes.uasset
 Engine/Content/ArtTools/RenderToTexture/Enums/EFloatTypes.uexp
@@ -915,6 +914,8 @@ GiftGame/Content/Blueprints/ShakeControl.uasset
 GiftGame/Content/Blueprints/ShakeControl.uexp
 GiftGame/Content/Blueprints/SpriteHolder.uasset
 GiftGame/Content/Blueprints/SpriteHolder.uexp
+GiftGame/Content/Maps/CreditsWidget.uasset
+GiftGame/Content/Maps/CreditsWidget.uexp
 GiftGame/Content/Maps/EditableTextboxWidget.uasset
 GiftGame/Content/Maps/EditableTextboxWidget.uexp
 GiftGame/Content/Maps/EndScreenWidget.uasset
@@ -932,6 +933,8 @@ GiftGame/Content/Maps/MainMenuWidget.uasset
 GiftGame/Content/Maps/MainMenuWidget.uexp
 GiftGame/Content/Maps/MenuGameMode.uasset
 GiftGame/Content/Maps/MenuGameMode.uexp
+GiftGame/Content/Materials/BackgroundMaterial.uasset
+GiftGame/Content/Materials/BackgroundMaterial.uexp
 GiftGame/Content/Models/ChairRound/ChairPlanks.uasset
 GiftGame/Content/Models/ChairRound/ChairPlanks.uexp
 GiftGame/Content/Models/ChairRound/ChairRound_Frame.uasset
