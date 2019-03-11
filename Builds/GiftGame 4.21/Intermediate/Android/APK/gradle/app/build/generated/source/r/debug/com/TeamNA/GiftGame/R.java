@@ -556,8 +556,8 @@ public final class R {
      * @see #AdsAttrs_adUnitId
      */
     public static final int[] AdsAttrs={
-      0x7f020000, 0x7f020001, 0x7f020002
-    };
+        0x7f020000, 0x7f020001, 0x7f020002
+      };
     /**
      * <p>This symbol is the offset where the {@link com.TeamNA.GiftGame.R.attr#adSize}
      * attribute's value can be found in the {@link #AdsAttrs} array.
@@ -602,35 +602,8 @@ public final class R {
      * @see #CoordinatorLayout_statusBarBackground
      */
     public static final int[] CoordinatorLayout={
-      0x7f020012, 0x7f02001a
-    };
-    /**
-     * <p>This symbol is the offset where the {@link com.TeamNA.GiftGame.R.attr#keylines}
-     * attribute's value can be found in the {@link #CoordinatorLayout} array.
-     *
-     * <p>May be a reference to another resource, in the form
-     * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
-     * attribute in the form
-     * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
-     *
-     * @attr name com.TeamNA.GiftGame:keylines
-     */
-    public static final int CoordinatorLayout_keylines=0;
-    /**
-     * <p>This symbol is the offset where the {@link com.TeamNA.GiftGame.R.attr#statusBarBackground}
-     * attribute's value can be found in the {@link #CoordinatorLayout} array.
-     *
-     * <p>May be a reference to another resource, in the form
-     * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
-     * attribute in the form
-     * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
-     * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
-     * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
-     * "<code>#<i>aarrggbb</i></code>".
-     *
-     * @attr name com.TeamNA.GiftGame:statusBarBackground
-     */
-    public static final int CoordinatorLayout_statusBarBackground=1;
+        0x7f020012, 0x7f02001a
+      };
     /**
      * Attributes that can be used with a CoordinatorLayout_Layout.
      * <p>Includes the following attributes:</p>
@@ -655,9 +628,9 @@ public final class R {
      * @see #CoordinatorLayout_Layout_layout_keyline
      */
     public static final int[] CoordinatorLayout_Layout={
-      0x010100b3, 0x7f020013, 0x7f020014, 0x7f020015, 
-      0x7f020016, 0x7f020017, 0x7f020018
-    };
+        0x010100b3, 0x7f020013, 0x7f020014, 0x7f020015, 
+        0x7f020016, 0x7f020017, 0x7f020018
+      };
     /**
      * <p>This symbol is the offset where the {@link android.R.attr#layout_gravity}
      * attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
@@ -793,6 +766,33 @@ public final class R {
      */
     public static final int CoordinatorLayout_Layout_layout_keyline=6;
     /**
+     * <p>This symbol is the offset where the {@link com.TeamNA.GiftGame.R.attr#keylines}
+     * attribute's value can be found in the {@link #CoordinatorLayout} array.
+     *
+     * <p>May be a reference to another resource, in the form
+     * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
+     * attribute in the form
+     * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
+     *
+     * @attr name com.TeamNA.GiftGame:keylines
+     */
+    public static final int CoordinatorLayout_keylines=0;
+    /**
+     * <p>This symbol is the offset where the {@link com.TeamNA.GiftGame.R.attr#statusBarBackground}
+     * attribute's value can be found in the {@link #CoordinatorLayout} array.
+     *
+     * <p>May be a reference to another resource, in the form
+     * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
+     * attribute in the form
+     * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
+     * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
+     * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
+     * "<code>#<i>aarrggbb</i></code>".
+     *
+     * @attr name com.TeamNA.GiftGame:statusBarBackground
+     */
+    public static final int CoordinatorLayout_statusBarBackground=1;
+    /**
      * Attributes that can be used with a FontFamily.
      * <p>Includes the following attributes:</p>
      * <table>
@@ -814,9 +814,110 @@ public final class R {
      * @see #FontFamily_fontProviderQuery
      */
     public static final int[] FontFamily={
-      0x7f020008, 0x7f020009, 0x7f02000a, 0x7f02000b, 
-      0x7f02000c, 0x7f02000d
-    };
+        0x7f020008, 0x7f020009, 0x7f02000a, 0x7f02000b, 
+        0x7f02000c, 0x7f02000d
+      };
+    /**
+     * Attributes that can be used with a FontFamilyFont.
+     * <p>Includes the following attributes:</p>
+     * <table>
+     * <colgroup align="left" />
+     * <colgroup align="left" />
+     * <tr><th>Attribute</th><th>Description</th></tr>
+     * <tr><td><code>{@link #FontFamilyFont_android_font android:font}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamilyFont_android_fontWeight android:fontWeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamilyFont_android_fontStyle android:fontStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamilyFont_font com.TeamNA.GiftGame:font}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamilyFont_fontStyle com.TeamNA.GiftGame:fontStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamilyFont_fontWeight com.TeamNA.GiftGame:fontWeight}</code></td><td></td></tr>
+     * </table>
+     * @see #FontFamilyFont_android_font
+     * @see #FontFamilyFont_android_fontWeight
+     * @see #FontFamilyFont_android_fontStyle
+     * @see #FontFamilyFont_font
+     * @see #FontFamilyFont_fontStyle
+     * @see #FontFamilyFont_fontWeight
+     */
+    public static final int[] FontFamilyFont={
+        0x01010532, 0x01010533, 0x0101053f, 0x7f020007, 
+        0x7f02000e, 0x7f02000f
+      };
+    /**
+     * <p>This symbol is the offset where the {@link android.R.attr#font}
+     * attribute's value can be found in the {@link #FontFamilyFont} array.
+     *
+     * <p>May be a reference to another resource, in the form
+     * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
+     * attribute in the form
+     * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
+     *
+     * @attr name android:font
+     */
+    public static final int FontFamilyFont_android_font=0;
+    /**
+     * <p>This symbol is the offset where the {@link android.R.attr#fontStyle}
+     * attribute's value can be found in the {@link #FontFamilyFont} array.
+     *
+     * <p>Must be one of the following constant values.</p>
+     * <table>
+     * <colgroup align="left" />
+     * <colgroup align="left" />
+     * <colgroup align="left" />
+     * <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+     * <tr><td>italic</td><td>1</td><td></td></tr>
+     * <tr><td>normal</td><td>0</td><td></td></tr>
+     * </table>
+     *
+     * @attr name android:fontStyle
+     */
+    public static final int FontFamilyFont_android_fontStyle=2;
+    /**
+     * <p>This symbol is the offset where the {@link android.R.attr#fontWeight}
+     * attribute's value can be found in the {@link #FontFamilyFont} array.
+     *
+     * <p>May be an integer value, such as "<code>100</code>".
+     *
+     * @attr name android:fontWeight
+     */
+    public static final int FontFamilyFont_android_fontWeight=1;
+    /**
+     * <p>This symbol is the offset where the {@link com.TeamNA.GiftGame.R.attr#font}
+     * attribute's value can be found in the {@link #FontFamilyFont} array.
+     *
+     * <p>May be a reference to another resource, in the form
+     * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
+     * attribute in the form
+     * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
+     *
+     * @attr name com.TeamNA.GiftGame:font
+     */
+    public static final int FontFamilyFont_font=3;
+    /**
+     * <p>This symbol is the offset where the {@link com.TeamNA.GiftGame.R.attr#fontStyle}
+     * attribute's value can be found in the {@link #FontFamilyFont} array.
+     *
+     * <p>Must be one of the following constant values.</p>
+     * <table>
+     * <colgroup align="left" />
+     * <colgroup align="left" />
+     * <colgroup align="left" />
+     * <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+     * <tr><td>italic</td><td>1</td><td></td></tr>
+     * <tr><td>normal</td><td>0</td><td></td></tr>
+     * </table>
+     *
+     * @attr name com.TeamNA.GiftGame:fontStyle
+     */
+    public static final int FontFamilyFont_fontStyle=4;
+    /**
+     * <p>This symbol is the offset where the {@link com.TeamNA.GiftGame.R.attr#fontWeight}
+     * attribute's value can be found in the {@link #FontFamilyFont} array.
+     *
+     * <p>May be an integer value, such as "<code>100</code>".
+     *
+     * @attr name com.TeamNA.GiftGame:fontWeight
+     */
+    public static final int FontFamilyFont_fontWeight=5;
     /**
      * <p>This symbol is the offset where the {@link com.TeamNA.GiftGame.R.attr#fontProviderAuthority}
      * attribute's value can be found in the {@link #FontFamily} array.
@@ -894,107 +995,6 @@ public final class R {
      */
     public static final int FontFamily_fontProviderQuery=5;
     /**
-     * Attributes that can be used with a FontFamilyFont.
-     * <p>Includes the following attributes:</p>
-     * <table>
-     * <colgroup align="left" />
-     * <colgroup align="left" />
-     * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #FontFamilyFont_android_font android:font}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamilyFont_android_fontWeight android:fontWeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamilyFont_android_fontStyle android:fontStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamilyFont_font com.TeamNA.GiftGame:font}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamilyFont_fontStyle com.TeamNA.GiftGame:fontStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamilyFont_fontWeight com.TeamNA.GiftGame:fontWeight}</code></td><td></td></tr>
-     * </table>
-     * @see #FontFamilyFont_android_font
-     * @see #FontFamilyFont_android_fontWeight
-     * @see #FontFamilyFont_android_fontStyle
-     * @see #FontFamilyFont_font
-     * @see #FontFamilyFont_fontStyle
-     * @see #FontFamilyFont_fontWeight
-     */
-    public static final int[] FontFamilyFont={
-      0x01010532, 0x01010533, 0x0101053f, 0x7f020007, 
-      0x7f02000e, 0x7f02000f
-    };
-    /**
-     * <p>This symbol is the offset where the {@link android.R.attr#font}
-     * attribute's value can be found in the {@link #FontFamilyFont} array.
-     *
-     * <p>May be a reference to another resource, in the form
-     * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
-     * attribute in the form
-     * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
-     *
-     * @attr name android:font
-     */
-    public static final int FontFamilyFont_android_font=0;
-    /**
-     * <p>This symbol is the offset where the {@link android.R.attr#fontWeight}
-     * attribute's value can be found in the {@link #FontFamilyFont} array.
-     *
-     * <p>May be an integer value, such as "<code>100</code>".
-     *
-     * @attr name android:fontWeight
-     */
-    public static final int FontFamilyFont_android_fontWeight=1;
-    /**
-     * <p>This symbol is the offset where the {@link android.R.attr#fontStyle}
-     * attribute's value can be found in the {@link #FontFamilyFont} array.
-     *
-     * <p>Must be one of the following constant values.</p>
-     * <table>
-     * <colgroup align="left" />
-     * <colgroup align="left" />
-     * <colgroup align="left" />
-     * <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
-     * <tr><td>italic</td><td>1</td><td></td></tr>
-     * <tr><td>normal</td><td>0</td><td></td></tr>
-     * </table>
-     *
-     * @attr name android:fontStyle
-     */
-    public static final int FontFamilyFont_android_fontStyle=2;
-    /**
-     * <p>This symbol is the offset where the {@link com.TeamNA.GiftGame.R.attr#font}
-     * attribute's value can be found in the {@link #FontFamilyFont} array.
-     *
-     * <p>May be a reference to another resource, in the form
-     * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
-     * attribute in the form
-     * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
-     *
-     * @attr name com.TeamNA.GiftGame:font
-     */
-    public static final int FontFamilyFont_font=3;
-    /**
-     * <p>This symbol is the offset where the {@link com.TeamNA.GiftGame.R.attr#fontStyle}
-     * attribute's value can be found in the {@link #FontFamilyFont} array.
-     *
-     * <p>Must be one of the following constant values.</p>
-     * <table>
-     * <colgroup align="left" />
-     * <colgroup align="left" />
-     * <colgroup align="left" />
-     * <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
-     * <tr><td>italic</td><td>1</td><td></td></tr>
-     * <tr><td>normal</td><td>0</td><td></td></tr>
-     * </table>
-     *
-     * @attr name com.TeamNA.GiftGame:fontStyle
-     */
-    public static final int FontFamilyFont_fontStyle=4;
-    /**
-     * <p>This symbol is the offset where the {@link com.TeamNA.GiftGame.R.attr#fontWeight}
-     * attribute's value can be found in the {@link #FontFamilyFont} array.
-     *
-     * <p>May be an integer value, such as "<code>100</code>".
-     *
-     * @attr name com.TeamNA.GiftGame:fontWeight
-     */
-    public static final int FontFamilyFont_fontWeight=5;
-    /**
      * Attributes that can be used with a LoadingImageView.
      * <p>Includes the following attributes:</p>
      * <table>
@@ -1010,8 +1010,8 @@ public final class R {
      * @see #LoadingImageView_imageAspectRatioAdjust
      */
     public static final int[] LoadingImageView={
-      0x7f020004, 0x7f020010, 0x7f020011
-    };
+        0x7f020004, 0x7f020010, 0x7f020011
+      };
     /**
      * <p>This symbol is the offset where the {@link com.TeamNA.GiftGame.R.attr#circleCrop}
      * attribute's value can be found in the {@link #LoadingImageView} array.
@@ -1065,8 +1065,8 @@ public final class R {
      * @see #SignInButton_scopeUris
      */
     public static final int[] SignInButton={
-      0x7f020003, 0x7f020005, 0x7f020019
-    };
+        0x7f020003, 0x7f020005, 0x7f020019
+      };
     /**
      * <p>This symbol is the offset where the {@link com.TeamNA.GiftGame.R.attr#buttonSize}
      * attribute's value can be found in the {@link #SignInButton} array.

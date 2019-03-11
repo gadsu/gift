@@ -63,7 +63,7 @@
 
         <meta-data
             android:name="com.epicgames.ue4.GameActivity.EngineVersion"
-            android:value="4.21.2" />
+            android:value="4.21.1" />
         <meta-data
             android:name="com.epicgames.ue4.GameActivity.EngineBranch"
             android:value="++UE4+Release-4.21" />

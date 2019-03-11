@@ -298,7 +298,7 @@
 "../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 297
 "../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 298
 "../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x.uasset" 299
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialMaterial.uasset" 300
+"../../../Engine/Content/Tutorial/Mobile/TutorialAssets/IOS.uasset" 300
 "../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 301
 "../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 302
 "../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 303
@@ -309,332 +309,331 @@
 "../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 308
 "../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 309
 "../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 310
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Materials/BackgroundMaterial.uasset" 311
-"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 312
-"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 313
-"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 314
-"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 315
-"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 316
-"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 317
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/ArrayOfActor.uasset" 318
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/ArrayOfSwitch.uasset" 319
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_SceneNode.uasset" 320
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_Switch.uasset" 321
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_SceneRoot.uasset" 322
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/FBXImporterUtils.uasset" 323
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/DeltaGenAnimationTrackType.uasset" 324
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/VREDAnimationTrackComponent.uasset" 325
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/VREDAnimationTrackType.uasset" 326
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/VREDAnimCurveComponent.uasset" 327
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/VREDAnimCurveType.uasset" 328
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/VariantSwitchType.uasset" 329
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/VREDVariantSwitchType.uasset" 330
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/VREDVariantType.uasset" 331
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 332
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_AO.uasset" 333
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Color.uasset" 334
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Normal.uasset" 335
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/GearVRControllerMaterial.uasset" 336
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/GearVrController.uasset" 337
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.uasset" 338
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.uasset" 339
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/touchController_mat.uasset" 340
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchController.uasset" 341
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftHMD.uasset" 342
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uasset" 343
-"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 344
-"../../../Engine/Content/Maps/Entry.umap" 345
-"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 346
-"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 347
-"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 348
-"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 349
-"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 350
-"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 351
-"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 352
-"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 353
-"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 354
-"../../../Engine/Content/Maps/Templates/Template_Default_BuiltData.uasset" 355
-"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset" 356
-"../../../Engine/Content/Maps/Templates/Template_Default.umap" 357
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Blueprints/ShakeCamera.uasset" 358
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/MyFonts/KOMIKAX_.uasset" 359
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/MyFonts/KOMIKAX__Font.uasset" 360
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Maps/EditableTextboxWidget.uasset" 361
-"../../Plugins/2D/Paper2D/Content/TranslucentUnlitSpriteMaterial.uasset" 362
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Art/MenuAssets/menu_test.uasset" 363
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Art/MenuAssets/menu_test_Sprite.uasset" 364
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Maps/CreditsWidget.uasset" 365
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Maps/EndScreenWidget.uasset" 366
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Maps/MainGameWidget.uasset" 367
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Art/MenuAssets/Exit.uasset" 368
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Art/MenuAssets/Exit_Sprite.uasset" 369
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Art/MenuAssets/MainMenu.uasset" 370
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Art/MenuAssets/MainMenu_Sprite.uasset" 371
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Art/MenuAssets/Minus.uasset" 372
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Art/MenuAssets/Minus_Sprite.uasset" 373
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Art/MenuAssets/Play.uasset" 374
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Art/MenuAssets/Plus.uasset" 375
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Art/MenuAssets/Plus_Sprite.uasset" 376
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Art/MenuAssets/Settings.uasset" 377
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Art/MenuAssets/START.uasset" 378
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Art/MenuAssets/Start_Sprite.uasset" 379
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Sounds/Music/MusicSoundMix.uasset" 380
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Sounds/Music/MusicSoundClass.uasset" 381
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Sounds/SoundEffects/FXSoundMix.uasset" 382
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Sounds/SoundEffects/FXSoundClass.uasset" 383
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Sounds/SoundEffects/EmptyBox.uasset" 384
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Maps/MainMenuWidget.uasset" 385
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Maps/MainMenuHUD.uasset" 386
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Maps/MenuGameMode.uasset" 387
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/VibrationPatterns/OneVibration.uasset" 388
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Sounds/HighSoundEffects/ArmyDudesHigh.uasset" 389
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Sounds/HighSoundEffects/BearTrapHigh.uasset" 390
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Sounds/HighSoundEffects/BookHigh.uasset" 391
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Sounds/HighSoundEffects/CandyBagHigh.uasset" 392
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Sounds/HighSoundEffects/CandyCanesHigh.uasset" 393
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Sounds/HighSoundEffects/RockHigh.uasset" 394
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Sounds/HighSoundEffects/SweaterHigh.uasset" 395
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Sounds/HighSoundEffects/TickHigh.uasset" 396
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Sounds/HighSoundEffects/ToiletHigh.uasset" 397
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Sounds/HighSoundEffects/WaterHigh.uasset" 398
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Sounds/HighSoundEffects/WetSlapHigh.uasset" 399
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Sounds/HighSoundEffects/WetSocksHigh.uasset" 400
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Sounds/Music/BGM.uasset" 401
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Sounds/Music/MainMenuQueue.uasset" 402
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Sounds/SoundEffects/AnimeCut.uasset" 403
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Sounds/SoundEffects/ArmyDudesCut.uasset" 404
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Sounds/SoundEffects/BearTrapCut.uasset" 405
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Sounds/SoundEffects/CandyCanes.uasset" 406
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Sounds/SoundEffects/GiftCard.uasset" 407
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Sounds/SoundEffects/RockCut.uasset" 408
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Sounds/SoundEffects/SweaterCut.uasset" 409
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Sounds/SoundEffects/TickCut.uasset" 410
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Sounds/SoundEffects/Toilet.uasset" 411
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Sounds/SoundEffects/WaterCut.uasset" 412
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Sounds/SoundEffects/WetSlapCut.uasset" 413
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Sounds/SoundEffects/WetSocksCut.uasset" 414
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Blueprints/ShakeControl.uasset" 415
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Blueprints/GiftSprite.uasset" 416
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Blueprints/SpriteHolder.uasset" 417
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Maps/MainGame_BuiltData.uasset" 418
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Walls/FloorOutUV.uasset" 419
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Walls/Floor.uasset" 420
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Art/Sprites/500K_Diamond.uasset" 421
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Art/Sprites/500K_Diamond_Sprite.uasset" 422
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Art/Sprites/8ball.uasset" 423
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Art/Sprites/8ball_Sprite.uasset" 424
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Art/Sprites/AlarmClock.uasset" 425
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Art/Sprites/AlarmClock_Sprite.uasset" 426
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Art/Sprites/AnimeBoxSet.uasset" 427
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Art/Sprites/AnimeBoxSet_Sprite.uasset" 428
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Art/Sprites/ArmyMen.uasset" 429
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Art/Sprites/ArmyMen_Sprite.uasset" 430
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Art/Sprites/Beartrap2.uasset" 431
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Art/Sprites/Beartrap2_Sprite.uasset" 432
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Art/Sprites/Bomb.uasset" 433
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Art/Sprites/Bomb_Sprite.uasset" 434
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Art/Sprites/CandyCane2.uasset" 435
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Art/Sprites/CandyCane2_Sprite.uasset" 436
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Art/Sprites/CandyCane.uasset" 437
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Art/Sprites/CandyCane_Sprite.uasset" 438
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Art/Sprites/Coal.uasset" 439
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Art/Sprites/Coal_Sprite.uasset" 440
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Art/Sprites/Dart_Gun.uasset" 441
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Art/Sprites/Dart_Gun_Sprite.uasset" 442
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Art/Sprites/DeadFishReal.uasset" 443
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Art/Sprites/DeadFishReal_Sprite.uasset" 444
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Art/Sprites/HealingCrystal.uasset" 445
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Art/Sprites/HealingCrystal_Sprite.uasset" 446
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Art/Sprites/HorribleChristmasSweater.uasset" 447
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Art/Sprites/HorribleChristmasSweater_Sprite.uasset" 448
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Art/Sprites/Hypno-Glasses2.uasset" 449
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Art/Sprites/Hypno-Glasses2_Sprite.uasset" 450
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Art/Sprites/JelloBrain.uasset" 451
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Art/Sprites/JelloBrain_Sprite.uasset" 452
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Art/Sprites/Melted_Ice_Cube.uasset" 453
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Art/Sprites/Melted_Ice_Cube_Sprite.uasset" 454
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Art/Sprites/Really_Nice_Watch.uasset" 455
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Art/Sprites/Really_Nice_Watch_Sprite.uasset" 456
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Art/Sprites/Socks_-_Copy.uasset" 457
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Art/Sprites/Socks_-_Copy_Sprite.uasset" 458
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Art/Sprites/Spicy_Water.uasset" 459
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Art/Sprites/Spicy_Water_Sprite.uasset" 460
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Art/Sprites/SuperBigHugeCakeForRichPeople2.uasset" 461
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Art/Sprites/SuperBigHugeCakeForRichPeople2_Sprite.uasset" 462
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Art/Sprites/toilet.uasset" 463
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Art/Sprites/toilet_Sprite.uasset" 464
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Art/Sprites/TrumpCard.uasset" 465
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Art/Sprites/TrumpCard_Sprite.uasset" 466
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Art/Sprites/Vase.uasset" 467
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Art/Sprites/Vase_Sprite.uasset" 468
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Art/Sprites/WaterBalloon.uasset" 469
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Art/Sprites/WaterBalloon_Sprite.uasset" 470
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/ChairRound/WoodPlankChairOutUV.uasset" 471
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/ChairRound/ChairPlanks.uasset" 472
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/ChairRound/ChairRound_Frame.uasset" 473
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/ChairRound/ChairSideOutUV.uasset" 474
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/ChairRound/ChairSide.uasset" 475
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/ChairRound/ChairRound_Seat.uasset" 476
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Chess/ChessBoardOutUV.uasset" 477
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Chess/ChessBoard1.uasset" 478
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Chess/ChessBoard.uasset" 479
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Couch/Cushions/CouchOutUV.uasset" 480
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Couch/Cushions/CouchTexture.uasset" 481
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Couch/Cushions/CouchCushions_LeftCushion.uasset" 482
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Couch/Cushions/CouchCushions_MiddleCushion.uasset" 483
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Couch/Cushions/CouchCushions_RightCushion.uasset" 484
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Couch/Frame/CouchOutUV.uasset" 485
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Couch/Frame/CouchTexture.uasset" 486
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Couch/Frame/CouchFrame.uasset" 487
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Couch/Pillows/CouchOutUV.uasset" 488
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Couch/Pillows/CouchTexture.uasset" 489
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Couch/Pillows/CouchPillows_Pillow1.uasset" 490
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Couch/Pillows/CouchPillows_Pillow2.uasset" 491
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Couch/Pillows/CouchPillows_Pillow3.uasset" 492
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Dreidel/DreidelOutUV.uasset" 493
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Dreidel/Dreidel1.uasset" 494
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Dreidel/Dreidel_Body.uasset" 495
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Dreidel/Dreidel_Handle.uasset" 496
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/FestivusPole/FestivusPoleOutUV.uasset" 497
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/FestivusPole/lambert3.uasset" 498
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/FestivusPole/FestivusWSG_FestivusPole.uasset" 499
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/FestivusPole/FestivusWSG_FestivusPoleStand.uasset" 500
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Fireplace/FirePlaceOutUV.uasset" 501
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Fireplace/FirePlace1.uasset" 502
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Fireplace/Fireplace.uasset" 503
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Flame/Rug.uasset" 504
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Flame/Star.uasset" 505
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Flame/Flames.uasset" 506
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/GiftBox/PhongCyan.uasset" 507
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/GiftBox/GiftBox_Bow_Simple.uasset" 508
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/GiftBox/Cyan.uasset" 509
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/GiftBox/GiftBox_Bow_Tie.uasset" 510
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/GiftBox/DarkGrey.uasset" 511
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/GiftBox/GiftBox_Box_Bottom.uasset" 512
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/GiftBox/GiftBox_Box_Top.uasset" 513
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/GiftBox/GiftBox_Ribbon_Lower.uasset" 514
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/GiftBox/GiftBox_Ribbon_Upper.uasset" 515
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Lamp/Lamp/lambert1.uasset" 516
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Lamp/Lamp/Lamp_Bar1.uasset" 517
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Lamp/Lamp/Lamp_Bar2.uasset" 518
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Lamp/Lamp/Lamp_Bar3.uasset" 519
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Lamp/Lamp/Lamp_Bar4.uasset" 520
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Lamp/Lamp/Lamp_Bar5.uasset" 521
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Lamp/Lamp/Lamp_Bar6.uasset" 522
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Lamp/Lamp/Lamp_Bar7.uasset" 523
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Lamp/Lamp/Lamp_Bar8.uasset" 524
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Lamp/Lamp/ChairSideBlack.uasset" 525
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Lamp/Lamp/Lamp_Cover.uasset" 526
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Lamp/Lamp/Lamp_Donut.uasset" 527
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Lamp/Lamp/WoodPlankChairOutUV.uasset" 528
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Lamp/Lamp/ChairPlanks.uasset" 529
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Lamp/Lamp/Lamp_Pole.uasset" 530
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Lamp/Lamp/Lamp_Stand.uasset" 531
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Lamp/LampStand/ChairSideBlack.uasset" 532
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Lamp/LampStand/LampTable_pCube21.uasset" 533
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Lamp/LampStand/LampTable_pCube22.uasset" 534
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Lamp/LampStand/LampTable_pCube23.uasset" 535
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Lamp/LampStand/LampTable_pCube24.uasset" 536
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Lamp/LampStand/LampTable_pCube25.uasset" 537
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Lamp/LampStand/LampTable_pCube26.uasset" 538
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Lamp/LampStand/LampTable_pCube27.uasset" 539
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Logs/FireWoodOutUV.uasset" 540
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Logs/WoodLogs.uasset" 541
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Logs/Logs_Log1.uasset" 542
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Logs/Logs_Log2.uasset" 543
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Logs/Logs_Log3.uasset" 544
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Sock/StockingOutUV.uasset" 545
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Sock/Stocking.uasset" 546
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Sock/Sock.uasset" 547
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Tree/FestivusPoleOutUV.uasset" 548
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Tree/lambert3.uasset" 549
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_FestivusPoleStand1.uasset" 550
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeMain.uasset" 551
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pCone1.uasset" 552
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pCone2.uasset" 553
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pCone3.uasset" 554
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pCone4.uasset" 555
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Tree/Star.uasset" 556
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pCube1.uasset" 557
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pCube12.uasset" 558
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pCube2.uasset" 559
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pCube3.uasset" 560
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pCube4.uasset" 561
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pCube5.uasset" 562
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pCube6.uasset" 563
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pCube7.uasset" 564
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Tree/Ornament.uasset" 565
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pSphere1.uasset" 566
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pSphere10.uasset" 567
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pSphere2.uasset" 568
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Tree/Lights1.uasset" 569
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pSphere21.uasset" 570
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pSphere22.uasset" 571
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pSphere23.uasset" 572
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pSphere27.uasset" 573
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pSphere28.uasset" 574
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pSphere29.uasset" 575
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pSphere3.uasset" 576
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pSphere30.uasset" 577
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pSphere31.uasset" 578
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pSphere32.uasset" 579
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pSphere33.uasset" 580
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pSphere34.uasset" 581
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pSphere35.uasset" 582
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pSphere39.uasset" 583
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pSphere4.uasset" 584
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pSphere40.uasset" 585
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pSphere44.uasset" 586
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pSphere45.uasset" 587
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pSphere46.uasset" 588
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pSphere47.uasset" 589
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pSphere49.uasset" 590
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pSphere5.uasset" 591
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pSphere50.uasset" 592
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pSphere55.uasset" 593
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pSphere56.uasset" 594
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pSphere57.uasset" 595
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pSphere58.uasset" 596
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pSphere59.uasset" 597
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pSphere6.uasset" 598
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pSphere60.uasset" 599
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pSphere62.uasset" 600
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pSphere63.uasset" 601
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pSphere64.uasset" 602
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pSphere65.uasset" 603
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pSphere66.uasset" 604
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pSphere69.uasset" 605
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pSphere7.uasset" 606
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pSphere70.uasset" 607
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pSphere71.uasset" 608
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pSphere72.uasset" 609
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pSphere73.uasset" 610
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pSphere74.uasset" 611
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pSphere8.uasset" 612
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pSphere84.uasset" 613
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pSphere85.uasset" 614
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pSphere86.uasset" 615
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pSphere88.uasset" 616
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pSphere89.uasset" 617
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pSphere9.uasset" 618
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pSphere90.uasset" 619
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pSphere91.uasset" 620
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pSphere92.uasset" 621
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pSphere93.uasset" 622
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pSphere94.uasset" 623
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pSphere95.uasset" 624
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pSphere96.uasset" 625
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeTrunk.uasset" 626
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_Trunk.uasset" 627
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Walls/WallOutUV.uasset" 628
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Walls/Wall.uasset" 629
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Walls/WallsWSG_pCube10.uasset" 630
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Walls/WallsWSG_pCube11.uasset" 631
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Walls/WallsWSG_pCube21.uasset" 632
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Walls/WallsWSG_pCube8.uasset" 633
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Window/WindowOutUV.uasset" 634
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Window/Window1.uasset" 635
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Window/Window.uasset" 636
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Wreath/TreeMain.uasset" 637
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Models/Wreath/WreathWSG.uasset" 638
-"../../../../../Github/gift/Builds/GiftGame 4.21/Content/Maps/MainGame.umap" 639
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 311
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 312
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 313
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 314
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 315
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 316
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/ArrayOfActor.uasset" 317
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/ArrayOfSwitch.uasset" 318
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_SceneNode.uasset" 319
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_Switch.uasset" 320
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_SceneRoot.uasset" 321
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/FBXImporterUtils.uasset" 322
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/DeltaGenAnimationTrackType.uasset" 323
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/VREDAnimationTrackComponent.uasset" 324
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/VREDAnimationTrackType.uasset" 325
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/VREDAnimCurveComponent.uasset" 326
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/VREDAnimCurveType.uasset" 327
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/VariantSwitchType.uasset" 328
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/VREDVariantSwitchType.uasset" 329
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/VREDVariantType.uasset" 330
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 331
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_AO.uasset" 332
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Color.uasset" 333
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Normal.uasset" 334
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/GearVRControllerMaterial.uasset" 335
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/GearVrController.uasset" 336
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.uasset" 337
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.uasset" 338
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/touchController_mat.uasset" 339
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchController.uasset" 340
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftHMD.uasset" 341
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uasset" 342
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Blueprints/ShakeCamera.uasset" 343
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/MyFonts/KOMIKAX_.uasset" 344
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/MyFonts/KOMIKAX__Font.uasset" 345
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Maps/EditableTextboxWidget.uasset" 346
+"../../Plugins/2D/Paper2D/Content/TranslucentUnlitSpriteMaterial.uasset" 347
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Art/MenuAssets/menu_test.uasset" 348
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Art/MenuAssets/menu_test_Sprite.uasset" 349
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Maps/CreditsWidget.uasset" 350
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Maps/EndScreenWidget.uasset" 351
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Maps/MainGameWidget.uasset" 352
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Art/MenuAssets/Exit.uasset" 353
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Art/MenuAssets/Exit_Sprite.uasset" 354
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Art/MenuAssets/MainMenu.uasset" 355
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Art/MenuAssets/MainMenu_Sprite.uasset" 356
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Art/MenuAssets/Minus.uasset" 357
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Art/MenuAssets/Minus_Sprite.uasset" 358
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Art/MenuAssets/Play.uasset" 359
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Art/MenuAssets/Plus.uasset" 360
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Art/MenuAssets/Plus_Sprite.uasset" 361
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Art/MenuAssets/Settings.uasset" 362
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Art/MenuAssets/START.uasset" 363
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Art/MenuAssets/Start_Sprite.uasset" 364
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Sounds/Music/MusicSoundMix.uasset" 365
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Sounds/Music/MusicSoundClass.uasset" 366
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Sounds/SoundEffects/FXSoundMix.uasset" 367
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Sounds/SoundEffects/FXSoundClass.uasset" 368
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Sounds/SoundEffects/EmptyBox.uasset" 369
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Maps/MainMenuWidget.uasset" 370
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Maps/MainMenuHUD.uasset" 371
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Maps/MenuGameMode.uasset" 372
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/VibrationPatterns/OneVibration.uasset" 373
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Sounds/HighSoundEffects/ArmyDudesHigh.uasset" 374
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Sounds/HighSoundEffects/BearTrapHigh.uasset" 375
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Sounds/HighSoundEffects/BookHigh.uasset" 376
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Sounds/HighSoundEffects/CandyBagHigh.uasset" 377
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Sounds/HighSoundEffects/CandyCanesHigh.uasset" 378
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Sounds/HighSoundEffects/RockHigh.uasset" 379
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Sounds/HighSoundEffects/SweaterHigh.uasset" 380
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Sounds/HighSoundEffects/TickHigh.uasset" 381
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Sounds/HighSoundEffects/ToiletHigh.uasset" 382
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Sounds/HighSoundEffects/WaterHigh.uasset" 383
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Sounds/HighSoundEffects/WetSlapHigh.uasset" 384
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Sounds/HighSoundEffects/WetSocksHigh.uasset" 385
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Sounds/Music/BGM.uasset" 386
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Sounds/Music/MainMenuQueue.uasset" 387
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Sounds/SoundEffects/AnimeCut.uasset" 388
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Sounds/SoundEffects/ArmyDudesCut.uasset" 389
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Sounds/SoundEffects/BearTrapCut.uasset" 390
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Sounds/SoundEffects/CandyCanes.uasset" 391
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Sounds/SoundEffects/GiftCard.uasset" 392
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Sounds/SoundEffects/RockCut.uasset" 393
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Sounds/SoundEffects/SweaterCut.uasset" 394
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Sounds/SoundEffects/TickCut.uasset" 395
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Sounds/SoundEffects/Toilet.uasset" 396
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Sounds/SoundEffects/WaterCut.uasset" 397
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Sounds/SoundEffects/WetSlapCut.uasset" 398
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Sounds/SoundEffects/WetSocksCut.uasset" 399
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Blueprints/ShakeControl.uasset" 400
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 401
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 402
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 403
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 404
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 405
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 406
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 407
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 408
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 409
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Blueprints/GiftSprite.uasset" 410
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Blueprints/SpriteHolder.uasset" 411
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Maps/MainGame_BuiltData.uasset" 412
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Walls/FloorOutUV.uasset" 413
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Walls/Floor.uasset" 414
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Art/Sprites/500K_Diamond.uasset" 415
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Art/Sprites/500K_Diamond_Sprite.uasset" 416
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Art/Sprites/8ball.uasset" 417
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Art/Sprites/8ball_Sprite.uasset" 418
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Art/Sprites/AlarmClock.uasset" 419
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Art/Sprites/AlarmClock_Sprite.uasset" 420
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Art/Sprites/AnimeBoxSet.uasset" 421
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Art/Sprites/AnimeBoxSet_Sprite.uasset" 422
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Art/Sprites/ArmyMen.uasset" 423
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Art/Sprites/ArmyMen_Sprite.uasset" 424
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Art/Sprites/Beartrap2.uasset" 425
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Art/Sprites/Beartrap2_Sprite.uasset" 426
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Art/Sprites/Bomb.uasset" 427
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Art/Sprites/Bomb_Sprite.uasset" 428
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Art/Sprites/CandyCane2.uasset" 429
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Art/Sprites/CandyCane2_Sprite.uasset" 430
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Art/Sprites/CandyCane.uasset" 431
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Art/Sprites/CandyCane_Sprite.uasset" 432
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Art/Sprites/Coal.uasset" 433
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Art/Sprites/Coal_Sprite.uasset" 434
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Art/Sprites/Dart_Gun.uasset" 435
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Art/Sprites/Dart_Gun_Sprite.uasset" 436
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Art/Sprites/DeadFishReal.uasset" 437
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Art/Sprites/DeadFishReal_Sprite.uasset" 438
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Art/Sprites/HealingCrystal.uasset" 439
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Art/Sprites/HealingCrystal_Sprite.uasset" 440
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Art/Sprites/HorribleChristmasSweater.uasset" 441
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Art/Sprites/HorribleChristmasSweater_Sprite.uasset" 442
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Art/Sprites/Hypno-Glasses2.uasset" 443
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Art/Sprites/Hypno-Glasses2_Sprite.uasset" 444
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Art/Sprites/JelloBrain.uasset" 445
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Art/Sprites/JelloBrain_Sprite.uasset" 446
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Art/Sprites/Melted_Ice_Cube.uasset" 447
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Art/Sprites/Melted_Ice_Cube_Sprite.uasset" 448
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Art/Sprites/Really_Nice_Watch.uasset" 449
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Art/Sprites/Really_Nice_Watch_Sprite.uasset" 450
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Art/Sprites/Socks_-_Copy.uasset" 451
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Art/Sprites/Socks_-_Copy_Sprite.uasset" 452
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Art/Sprites/Spicy_Water.uasset" 453
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Art/Sprites/Spicy_Water_Sprite.uasset" 454
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Art/Sprites/SuperBigHugeCakeForRichPeople2.uasset" 455
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Art/Sprites/SuperBigHugeCakeForRichPeople2_Sprite.uasset" 456
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Art/Sprites/toilet.uasset" 457
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Art/Sprites/toilet_Sprite.uasset" 458
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Art/Sprites/TrumpCard.uasset" 459
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Art/Sprites/TrumpCard_Sprite.uasset" 460
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Art/Sprites/Vase.uasset" 461
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Art/Sprites/Vase_Sprite.uasset" 462
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Art/Sprites/WaterBalloon.uasset" 463
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Art/Sprites/WaterBalloon_Sprite.uasset" 464
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/ChairRound/WoodPlankChairOutUV.uasset" 465
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/ChairRound/ChairPlanks.uasset" 466
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/ChairRound/ChairRound_Frame.uasset" 467
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/ChairRound/ChairSideOutUV.uasset" 468
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/ChairRound/ChairSide.uasset" 469
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/ChairRound/ChairRound_Seat.uasset" 470
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Chess/ChessBoardOutUV.uasset" 471
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Chess/ChessBoard1.uasset" 472
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Chess/ChessBoard.uasset" 473
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Couch/Cushions/CouchOutUV.uasset" 474
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Couch/Cushions/CouchTexture.uasset" 475
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Couch/Cushions/CouchCushions_LeftCushion.uasset" 476
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Couch/Cushions/CouchCushions_MiddleCushion.uasset" 477
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Couch/Cushions/CouchCushions_RightCushion.uasset" 478
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Couch/Frame/CouchOutUV.uasset" 479
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Couch/Frame/CouchTexture.uasset" 480
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Couch/Frame/CouchFrame.uasset" 481
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Couch/Pillows/CouchOutUV.uasset" 482
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Couch/Pillows/CouchTexture.uasset" 483
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Couch/Pillows/CouchPillows_Pillow1.uasset" 484
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Couch/Pillows/CouchPillows_Pillow2.uasset" 485
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Couch/Pillows/CouchPillows_Pillow3.uasset" 486
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Dreidel/DreidelOutUV.uasset" 487
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Dreidel/Dreidel1.uasset" 488
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Dreidel/Dreidel_Body.uasset" 489
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Dreidel/Dreidel_Handle.uasset" 490
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/FestivusPole/FestivusPoleOutUV.uasset" 491
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/FestivusPole/lambert3.uasset" 492
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/FestivusPole/FestivusWSG_FestivusPole.uasset" 493
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/FestivusPole/FestivusWSG_FestivusPoleStand.uasset" 494
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Fireplace/FirePlaceOutUV.uasset" 495
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Fireplace/FirePlace1.uasset" 496
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Fireplace/Fireplace.uasset" 497
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Flame/Rug.uasset" 498
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Flame/Star.uasset" 499
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Flame/Flames.uasset" 500
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/GiftBox/PhongCyan.uasset" 501
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/GiftBox/GiftBox_Bow_Simple.uasset" 502
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/GiftBox/Cyan.uasset" 503
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/GiftBox/GiftBox_Bow_Tie.uasset" 504
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/GiftBox/DarkGrey.uasset" 505
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/GiftBox/GiftBox_Box_Bottom.uasset" 506
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/GiftBox/GiftBox_Box_Top.uasset" 507
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/GiftBox/GiftBox_Ribbon_Lower.uasset" 508
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/GiftBox/GiftBox_Ribbon_Upper.uasset" 509
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Lamp/Lamp/lambert1.uasset" 510
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Lamp/Lamp/Lamp_Bar1.uasset" 511
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Lamp/Lamp/Lamp_Bar2.uasset" 512
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Lamp/Lamp/Lamp_Bar3.uasset" 513
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Lamp/Lamp/Lamp_Bar4.uasset" 514
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Lamp/Lamp/Lamp_Bar5.uasset" 515
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Lamp/Lamp/Lamp_Bar6.uasset" 516
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Lamp/Lamp/Lamp_Bar7.uasset" 517
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Lamp/Lamp/Lamp_Bar8.uasset" 518
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Lamp/Lamp/ChairSideBlack.uasset" 519
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Lamp/Lamp/Lamp_Cover.uasset" 520
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Lamp/Lamp/Lamp_Donut.uasset" 521
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Lamp/Lamp/WoodPlankChairOutUV.uasset" 522
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Lamp/Lamp/ChairPlanks.uasset" 523
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Lamp/Lamp/Lamp_Pole.uasset" 524
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Lamp/Lamp/Lamp_Stand.uasset" 525
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Lamp/LampStand/ChairSideBlack.uasset" 526
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Lamp/LampStand/LampTable_pCube21.uasset" 527
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Lamp/LampStand/LampTable_pCube22.uasset" 528
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Lamp/LampStand/LampTable_pCube23.uasset" 529
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Lamp/LampStand/LampTable_pCube24.uasset" 530
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Lamp/LampStand/LampTable_pCube25.uasset" 531
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Lamp/LampStand/LampTable_pCube26.uasset" 532
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Lamp/LampStand/LampTable_pCube27.uasset" 533
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Logs/FireWoodOutUV.uasset" 534
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Logs/WoodLogs.uasset" 535
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Logs/Logs_Log1.uasset" 536
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Logs/Logs_Log2.uasset" 537
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Logs/Logs_Log3.uasset" 538
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Sock/StockingOutUV.uasset" 539
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Sock/Stocking.uasset" 540
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Sock/Sock.uasset" 541
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Tree/FestivusPoleOutUV.uasset" 542
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Tree/lambert3.uasset" 543
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_FestivusPoleStand1.uasset" 544
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeMain.uasset" 545
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pCone1.uasset" 546
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pCone2.uasset" 547
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pCone3.uasset" 548
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pCone4.uasset" 549
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Tree/Star.uasset" 550
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pCube1.uasset" 551
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pCube12.uasset" 552
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pCube2.uasset" 553
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pCube3.uasset" 554
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pCube4.uasset" 555
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pCube5.uasset" 556
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pCube6.uasset" 557
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pCube7.uasset" 558
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Tree/Ornament.uasset" 559
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pSphere1.uasset" 560
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pSphere10.uasset" 561
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pSphere2.uasset" 562
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Tree/Lights1.uasset" 563
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pSphere21.uasset" 564
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pSphere22.uasset" 565
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pSphere23.uasset" 566
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pSphere27.uasset" 567
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pSphere28.uasset" 568
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pSphere29.uasset" 569
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pSphere3.uasset" 570
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pSphere30.uasset" 571
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pSphere31.uasset" 572
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pSphere32.uasset" 573
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pSphere33.uasset" 574
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pSphere34.uasset" 575
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pSphere35.uasset" 576
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pSphere39.uasset" 577
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pSphere4.uasset" 578
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pSphere40.uasset" 579
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pSphere44.uasset" 580
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pSphere45.uasset" 581
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pSphere46.uasset" 582
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pSphere47.uasset" 583
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pSphere49.uasset" 584
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pSphere5.uasset" 585
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pSphere50.uasset" 586
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pSphere55.uasset" 587
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pSphere56.uasset" 588
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pSphere57.uasset" 589
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pSphere58.uasset" 590
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pSphere59.uasset" 591
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pSphere6.uasset" 592
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pSphere60.uasset" 593
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pSphere62.uasset" 594
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pSphere63.uasset" 595
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pSphere64.uasset" 596
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pSphere65.uasset" 597
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pSphere66.uasset" 598
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pSphere69.uasset" 599
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pSphere7.uasset" 600
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pSphere70.uasset" 601
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pSphere71.uasset" 602
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pSphere72.uasset" 603
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pSphere73.uasset" 604
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pSphere74.uasset" 605
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pSphere8.uasset" 606
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pSphere84.uasset" 607
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pSphere85.uasset" 608
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pSphere86.uasset" 609
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pSphere88.uasset" 610
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pSphere89.uasset" 611
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pSphere9.uasset" 612
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pSphere90.uasset" 613
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pSphere91.uasset" 614
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pSphere92.uasset" 615
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pSphere93.uasset" 616
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pSphere94.uasset" 617
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pSphere95.uasset" 618
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_pSphere96.uasset" 619
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeTrunk.uasset" 620
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Tree/TreeWSG_Trunk.uasset" 621
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Walls/WallOutUV.uasset" 622
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Walls/Wall.uasset" 623
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Walls/WallsWSG_pCube10.uasset" 624
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Walls/WallsWSG_pCube11.uasset" 625
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Walls/WallsWSG_pCube21.uasset" 626
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Walls/WallsWSG_pCube8.uasset" 627
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Window/WindowOutUV.uasset" 628
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Window/Window1.uasset" 629
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Window/Window.uasset" 630
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Wreath/TreeMain.uasset" 631
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Models/Wreath/WreathWSG.uasset" 632
+"F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Maps/MainGame.umap" 633
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 634
+"../../../Engine/Content/Maps/Entry.umap" 635
+"../../../Engine/Content/Maps/Templates/Template_Default_BuiltData.uasset" 636
+"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset" 637
+"../../../Engine/Content/Maps/Templates/Template_Default.umap" 638
