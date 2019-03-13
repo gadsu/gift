@@ -1,5 +1,0 @@
-Engine/Plugins/Runtime/ImmediatePhysics/ImmediatePhysics.uplugin
-Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialMaterial.uasset
-Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialMaterial.uexp
-GiftGame/Content/Blueprints/DataContainer.uasset
-GiftGame/Content/Blueprints/DataContainer.uexp

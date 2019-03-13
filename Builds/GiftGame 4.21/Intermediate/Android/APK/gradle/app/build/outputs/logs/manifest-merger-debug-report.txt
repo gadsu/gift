@@ -154,15 +154,15 @@ ADDED from Z:\app\src\main\AndroidManifest.xml:7:9-69
 activity#com.epicgames.ue4.GameActivity
 ADDED from Z:\app\src\main\AndroidManifest.xml:10:5-12:16
 	android:screenOrientation
-		ADDED from Z:\app\src\main\AndroidManifest.xml:10:250-287
+		ADDED from Z:\app\src\main\AndroidManifest.xml:10:258-295
 	android:label
 		ADDED from Z:\app\src\main\AndroidManifest.xml:10:61-93
 	android:launchMode
-		ADDED from Z:\app\src\main\AndroidManifest.xml:10:218-249
+		ADDED from Z:\app\src\main\AndroidManifest.xml:10:226-257
 	android:debuggable
-		ADDED from Z:\app\src\main\AndroidManifest.xml:10:288-313
+		ADDED from Z:\app\src\main\AndroidManifest.xml:10:296-321
 	android:configChanges
-		ADDED from Z:\app\src\main\AndroidManifest.xml:10:132-217
+		ADDED from Z:\app\src\main\AndroidManifest.xml:10:132-225
 	android:theme
 		ADDED from Z:\app\src\main\AndroidManifest.xml:10:94-131
 	android:name
@@ -174,13 +174,13 @@ ADDED from Z:\app\src\main\AndroidManifest.xml:11:7-76
 	android:name
 		ADDED from Z:\app\src\main\AndroidManifest.xml:11:18-53
 activity#com.TeamNA.GiftGame.DownloaderActivity
-ADDED from Z:\app\src\main\AndroidManifest.xml:13:5-214
+ADDED from Z:\app\src\main\AndroidManifest.xml:13:5-222
 	android:screenOrientation
 		ADDED from Z:\app\src\main\AndroidManifest.xml:13:50-87
 	android:configChanges
-		ADDED from Z:\app\src\main\AndroidManifest.xml:13:88-173
+		ADDED from Z:\app\src\main\AndroidManifest.xml:13:88-181
 	android:theme
-		ADDED from Z:\app\src\main\AndroidManifest.xml:13:174-211
+		ADDED from Z:\app\src\main\AndroidManifest.xml:13:182-219
 	android:name
 		ADDED from Z:\app\src\main\AndroidManifest.xml:13:15-49
 meta-data#com.epicgames.ue4.GameActivity.EngineVersion

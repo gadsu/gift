@@ -1,1 +1,1 @@
-../../../GiftGame/GiftGame.uproject  /Game/Maps/MainGame -Messaging -SessionId=28938E2547FB1D8B248BA8A115A008F7 -SessionOwner="ajkrieger" -SessionName="Launch On Device" -iterative
+../../../GiftGame/GiftGame.uproject  /Game/Maps/MainGame -Messaging -SessionId=8299AF4640F83647374E2FBB4473263C -SessionOwner="ajkrieger" -SessionName="Launch On Device" -iterative
