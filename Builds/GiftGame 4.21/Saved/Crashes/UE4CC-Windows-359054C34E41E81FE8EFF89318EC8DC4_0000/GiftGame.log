@@ -1,0 +1,1186 @@
+﻿Log file open, 03/13/19 17:23:36
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: GiftGame
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.839011
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.085s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.002s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.03.13-22.23.37:335][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.03.13-22.23.37:335][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.03.13-22.23.37:335][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/Config/Windows/Engine.ini]
+[2019.03.13-22.23.37:335][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.03.13-22.23.37:335][  0]LogConfig: Setting CVar [[r.MobileHDR:0]]
+[2019.03.13-22.23.37:335][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:1]]
+[2019.03.13-22.23.37:335][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxMobileCascades:2]]
+[2019.03.13-22.23.37:335][  0]LogConfig: Setting CVar [[r.MobileMSAA:1]]
+[2019.03.13-22.23.37:335][  0]LogConfig: Setting CVar [[r.Mobile.UseLegacyShadingModel:0]]
+[2019.03.13-22.23.37:335][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
+[2019.03.13-22.23.37:335][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2019.03.13-22.23.37:336][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2019.03.13-22.23.37:336][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2019.03.13-22.23.37:336][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+[2019.03.13-22.23.37:336][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2019.03.13-22.23.37:336][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2019.03.13-22.23.37:336][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2019.03.13-22.23.37:336][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:0]]
+[2019.03.13-22.23.37:336][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2019.03.13-22.23.37:336][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+[2019.03.13-22.23.37:336][  0]LogConfig: Setting CVar [[r.ForwardShading:0]]
+[2019.03.13-22.23.37:336][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:1]]
+[2019.03.13-22.23.37:336][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2019.03.13-22.23.37:336][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2019.03.13-22.23.37:336][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2019.03.13-22.23.37:336][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
+[2019.03.13-22.23.37:336][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:0]]
+[2019.03.13-22.23.37:336][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:0]]
+[2019.03.13-22.23.37:336][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2019.03.13-22.23.37:336][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2019.03.13-22.23.37:336][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2019.03.13-22.23.37:336][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2019.03.13-22.23.37:336][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
+[2019.03.13-22.23.37:336][  0]LogConfig: Setting CVar [[r.PostProcessing.PropagateAlpha:0]]
+[2019.03.13-22.23.37:336][  0]LogConfig: Setting CVar [[r.DOF.Algorithm:1]]
+[2019.03.13-22.23.37:336][  0]LogConfig: Setting CVar [[r.UsePreExposure:0]]
+[2019.03.13-22.23.37:336][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:0]]
+[2019.03.13-22.23.37:336][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2019.03.13-22.23.37:336][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+[2019.03.13-22.23.37:336][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2019.03.13-22.23.37:336][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2019.03.13-22.23.37:336][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2019.03.13-22.23.37:336][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2019.03.13-22.23.37:336][  0]LogConfig: Setting CVar [[r.TemporalAA.Upsampling:0]]
+[2019.03.13-22.23.37:336][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:0]]
+[2019.03.13-22.23.37:336][  0]LogConfig: Setting CVar [[r.DefaultBackBufferPixelFormat:4]]
+[2019.03.13-22.23.37:336][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+[2019.03.13-22.23.37:336][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
+[2019.03.13-22.23.37:336][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2019.03.13-22.23.37:338][  0]LogConfig: Setting CVar [[r.EarlyZPassMovable:1]]
+[2019.03.13-22.23.37:338][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+[2019.03.13-22.23.37:338][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2019.03.13-22.23.37:338][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2019.03.13-22.23.37:338][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
+[2019.03.13-22.23.37:338][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
+[2019.03.13-22.23.37:338][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeX:1024]]
+[2019.03.13-22.23.37:338][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeY:1024]]
+[2019.03.13-22.23.37:338][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
+[2019.03.13-22.23.37:338][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2019.03.13-22.23.37:338][  0]LogConfig: Setting CVar [[r.MorphTarget.Mode:1]]
+[2019.03.13-22.23.37:338][  0]LogConfig: Setting CVar [[vr.InstancedStereo:0]]
+[2019.03.13-22.23.37:338][  0]LogConfig: Setting CVar [[vr.MultiView:0]]
+[2019.03.13-22.23.37:338][  0]LogConfig: Setting CVar [[vr.MobileMultiView:0]]
+[2019.03.13-22.23.37:338][  0]LogConfig: Setting CVar [[vr.MobileMultiView.Direct:0]]
+[2019.03.13-22.23.37:338][  0]LogConfig: Setting CVar [[vr.MonoscopicFarField:0]]
+[2019.03.13-22.23.37:338][  0]LogConfig: Setting CVar [[vr.ODSCapture:0]]
+[2019.03.13-22.23.37:338][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2019.03.13-22.23.37:338][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:1]]
+[2019.03.13-22.23.37:338][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:1]]
+[2019.03.13-22.23.37:338][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
+[2019.03.13-22.23.37:338][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:1]]
+[2019.03.13-22.23.37:338][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
+[2019.03.13-22.23.37:338][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
+[2019.03.13-22.23.37:338][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableLightCSMShaderCulling:1]]
+[2019.03.13-22.23.37:338][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
+[2019.03.13-22.23.37:338][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+[2019.03.13-22.23.37:338][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:4]]
+[2019.03.13-22.23.37:338][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
+[2019.03.13-22.23.37:338][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+[2019.03.13-22.23.37:338][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+[2019.03.13-22.23.37:338][  0]LogConfig: Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
+[2019.03.13-22.23.37:338][  0]LogConfig: Setting CVar [[r.SupportReversedIndexBuffers:1]]
+[2019.03.13-22.23.37:339][  0]LogConfig: Setting CVar [[r.SupportMaterialLayers:0]]
+[2019.03.13-22.23.37:339][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/Config/Windows/Engine.ini]
+[2019.03.13-22.23.37:339][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/Config/Windows/Engine.ini]
+[2019.03.13-22.23.37:339][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.03.13-22.23.37:339][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.03.13-22.23.37:339][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.03.13-22.23.37:339][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.03.13-22.23.37:339][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.03.13-22.23.37:339][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.03.13-22.23.37:339][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.03.13-22.23.37:339][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.03.13-22.23.37:339][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.03.13-22.23.37:339][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.03.13-22.23.37:339][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.03.13-22.23.37:339][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.03.13-22.23.37:339][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.03.13-22.23.37:339][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/Config/Windows/Engine.ini]
+[2019.03.13-22.23.37:339][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.03.13-22.23.37:339][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.03.13-22.23.37:339][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.03.13-22.23.37:339][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.03.13-22.23.37:339][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.03.13-22.23.37:339][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.03.13-22.23.37:339][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.03.13-22.23.37:339][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.03.13-22.23.37:339][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.03.13-22.23.37:339][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.03.13-22.23.37:339][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.03.13-22.23.37:339][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.03.13-22.23.37:339][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.03.13-22.23.37:339][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.03.13-22.23.37:339][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/Config/Windows/Engine.ini]
+[2019.03.13-22.23.37:339][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/Config/Windows/Engine.ini]
+[2019.03.13-22.23.37:349][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.03.13-22.23.37:349][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.03.13-22.23.37:349][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.03.13-22.23.37:349][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.03.13-22.23.37:349][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.03.13-22.23.37:349][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.03.13-22.23.37:349][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.03.13-22.23.37:349][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.03.13-22.23.37:349][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.03.13-22.23.37:349][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.03.13-22.23.37:349][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.03.13-22.23.37:349][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.03.13-22.23.37:349][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.03.13-22.23.37:349][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.03.13-22.23.37:349][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.03.13-22.23.37:349][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.03.13-22.23.37:349][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.03.13-22.23.37:350][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.03.13-22.23.37:350][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.03.13-22.23.37:350][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.03.13-22.23.37:350][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.03.13-22.23.37:350][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.03.13-22.23.37:350][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.03.13-22.23.37:350][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.03.13-22.23.37:350][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.03.13-22.23.37:350][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.03.13-22.23.37:350][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.03.13-22.23.37:350][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.03.13-22.23.37:350][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.03.13-22.23.37:350][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.03.13-22.23.37:350][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.03.13-22.23.37:350][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.03.13-22.23.37:350][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.03.13-22.23.37:350][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.03.13-22.23.37:350][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.03.13-22.23.37:350][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.03.13-22.23.37:350][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.03.13-22.23.37:350][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.03.13-22.23.37:350][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.03.13-22.23.37:350][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.03.13-22.23.37:350][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.03.13-22.23.37:350][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.03.13-22.23.37:350][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.03.13-22.23.37:350][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.03.13-22.23.37:350][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.03.13-22.23.37:350][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.03.13-22.23.37:350][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.03.13-22.23.37:350][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.03.13-22.23.37:350][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.03.13-22.23.37:350][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.03.13-22.23.37:350][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.03.13-22.23.37:350][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.03.13-22.23.37:350][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.03.13-22.23.37:350][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.03.13-22.23.37:350][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.03.13-22.23.37:350][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.03.13-22.23.37:350][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.03.13-22.23.37:350][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.03.13-22.23.37:350][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.03.13-22.23.37:350][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.03.13-22.23.37:350][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.03.13-22.23.37:350][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.03.13-22.23.37:350][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.03.13-22.23.37:350][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.03.13-22.23.37:350][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.03.13-22.23.37:350][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.03.13-22.23.37:350][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.03.13-22.23.37:350][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.03.13-22.23.37:350][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.03.13-22.23.37:350][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.03.13-22.23.37:350][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.03.13-22.23.37:350][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.03.13-22.23.37:350][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.03.13-22.23.37:351][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.03.13-22.23.37:351][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.03.13-22.23.37:351][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.03.13-22.23.37:351][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.03.13-22.23.37:351][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.03.13-22.23.37:351][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.03.13-22.23.37:351][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.03.13-22.23.37:351][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.03.13-22.23.37:352][  0]LogInit: Selected Device Profile: [Windows]
+[2019.03.13-22.23.37:352][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.03.13-22.23.37:373][  0]LogHAL: Display: Platform has ~ 16 GB [17078124544 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.03.13-22.23.37:374][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.03.13-22.23.37:374][  0]LogInit: Going up to parent DeviceProfile []
+[2019.03.13-22.23.37:374][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.03.13-22.23.37:374][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.03.13-22.23.37:374][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.03.13-22.23.37:374][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.03.13-22.23.37:374][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.03.13-22.23.37:374][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.03.13-22.23.37:374][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.03.13-22.23.37:374][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.03.13-22.23.37:374][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.03.13-22.23.37:374][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.03.13-22.23.37:374][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.03.13-22.23.37:374][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.03.13-22.23.37:374][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.03.13-22.23.37:374][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.03.13-22.23.37:374][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.03.13-22.23.37:374][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.03.13-22.23.37:374][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.03.13-22.23.37:374][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.03.13-22.23.37:374][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.03.13-22.23.37:374][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.03.13-22.23.37:374][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.03.13-22.23.37:374][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.03.13-22.23.37:374][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.03.13-22.23.37:374][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.03.13-22.23.37:374][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.03.13-22.23.37:374][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.03.13-22.23.37:374][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.03.13-22.23.37:374][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.03.13-22.23.37:374][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.03.13-22.23.37:374][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.03.13-22.23.37:374][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.03.13-22.23.37:374][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.03.13-22.23.37:374][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.03.13-22.23.37:374][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.03.13-22.23.37:374][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.03.13-22.23.37:374][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.03.13-22.23.37:374][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.03.13-22.23.37:374][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.03.13-22.23.37:374][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.03.13-22.23.37:374][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.03.13-22.23.37:374][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.03.13-22.23.37:374][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.03.13-22.23.37:374][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.03.13-22.23.37:374][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.03.13-22.23.37:374][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.03.13-22.23.37:374][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.03.13-22.23.37:374][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.03.13-22.23.37:374][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.03.13-22.23.37:374][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.03.13-22.23.37:374][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.03.13-22.23.37:374][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.03.13-22.23.37:374][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.03.13-22.23.37:374][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.03.13-22.23.37:374][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.03.13-22.23.37:374][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.03.13-22.23.37:374][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.03.13-22.23.37:374][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.03.13-22.23.37:374][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.03.13-22.23.37:374][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.03.13-22.23.37:374][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.03.13-22.23.37:374][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.03.13-22.23.37:374][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.03.13-22.23.37:374][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.03.13-22.23.37:374][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.03.13-22.23.37:374][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.03.13-22.23.37:374][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.03.13-22.23.37:374][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.03.13-22.23.37:374][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.03.13-22.23.37:374][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.03.13-22.23.37:374][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.03.13-22.23.37:374][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.03.13-22.23.37:374][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.03.13-22.23.37:374][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.03.13-22.23.37:374][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.03.13-22.23.37:374][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.03.13-22.23.37:374][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.03.13-22.23.37:374][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.03.13-22.23.37:374][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.03.13-22.23.37:374][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.03.13-22.23.37:374][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.03.13-22.23.37:374][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.03.13-22.23.37:374][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.03.13-22.23.37:379][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.03.13-22.23.37:379][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/Config/Windows/Engine.ini]
+[2019.03.13-22.23.37:380][  0]LogInit: Computer: RAZER-BLADE
+[2019.03.13-22.23.37:380][  0]LogInit: User: Phenrear
+[2019.03.13-22.23.37:380][  0]LogInit: CPU Page size=4096, Cores=6
+[2019.03.13-22.23.37:380][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.03.13-22.23.37:380][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.03.13-22.23.37:380][  0]LogMemory: Platform Memory Stats for Windows
+[2019.03.13-22.23.37:380][  0]LogMemory: Process Physical Memory: 103.63 MB used, 103.63 MB peak
+[2019.03.13-22.23.37:380][  0]LogMemory: Process Virtual Memory: 86.16 MB used, 86.16 MB peak
+[2019.03.13-22.23.37:380][  0]LogMemory: Physical Memory: 5237.38 MB used,  11049.59 MB free, 16286.97 MB total
+[2019.03.13-22.23.37:380][  0]LogMemory: Virtual Memory: 4662.29 MB used,  134213064.00 MB free, 134217728.00 MB total
+[2019.03.13-22.23.37:563][  0]LogInit: Using OS detected language (en-US).
+[2019.03.13-22.23.37:563][  0]LogInit: Using OS detected locale (en-US).
+[2019.03.13-22.23.37:564][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.03.13-22.23.37:961][  0]LogStreaming: Display: Took  0.398s to InitEngineTextLocalization.
+[2019.03.13-22.23.37:962][  0]LogInit: Setting process to per monitor DPI aware
+[2019.03.13-22.23.38:029][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.03.13-22.23.38:029][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.03.13-22.23.39:746][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.03.13-22.23.39:746][  0]LogD3D11RHI: D3D11 adapters:
+[2019.03.13-22.23.40:729][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070 with Max-Q Design' (Feature Level 11_0)
+[2019.03.13-22.23.40:729][  0]LogD3D11RHI:       8082/0/8143 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.03.13-22.23.40:746][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2019.03.13-22.23.40:746][  0]LogD3D11RHI:       128/0/8143 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.03.13-22.23.40:748][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.03.13-22.23.40:748][  0]LogD3D11RHI:       0/0/8143 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.03.13-22.23.40:748][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.03.13-22.23.40:760][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.03.13-22.23.40:760][  0]LogD3D11RHI:     GPU DeviceId: 0x1ba1 (for the marketing name, search the web for "GPU Device Id")
+[2019.03.13-22.23.40:760][  0]LogWindows: EnumDisplayDevices:
+[2019.03.13-22.23.40:760][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2019.03.13-22.23.40:760][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.03.13-22.23.40:760][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.03.13-22.23.40:761][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070 with Max-Q Design' (P:0 D:0)
+[2019.03.13-22.23.40:761][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1070 with Max-Q Design' (P:0 D:0)
+[2019.03.13-22.23.40:761][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1070 with Max-Q Design' (P:0 D:0)
+[2019.03.13-22.23.40:761][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1070 with Max-Q Design' (P:0 D:0)
+[2019.03.13-22.23.40:761][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2019.03.13-22.23.40:761][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070 with Max-Q Design
+[2019.03.13-22.23.40:762][  0]LogD3D11RHI:   Driver Version: 419.35 (internal:25.21.14.1935, unified:419.35)
+[2019.03.13-22.23.40:762][  0]LogD3D11RHI:      Driver Date: 3-1-2019
+[2019.03.13-22.23.40:762][  0]LogRHI: Texture pool is 5657 MB (70% of 8082 MB)
+[2019.03.13-22.23.40:800][  0]LogD3D11RHI: Async texture creation enabled
+[2019.03.13-22.23.40:872][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.03.13-22.23.41:334][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.03.13-22.23.41:348][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.03.13-22.23.41:363][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.03.13-22.23.41:376][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.03.13-22.23.41:394][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.03.13-22.23.41:408][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.03.13-22.23.41:422][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.03.13-22.23.41:436][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.03.13-22.23.41:444][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.03.13-22.23.41:514][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.13-22.23.41:514][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.13-22.23.41:514][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.13-22.23.41:514][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.13-22.23.41:514][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.13-22.23.41:514][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.13-22.23.41:514][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.13-22.23.41:514][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.13-22.23.41:514][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.13-22.23.41:514][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.13-22.23.41:514][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.13-22.23.41:514][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.13-22.23.41:514][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.13-22.23.41:514][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.13-22.23.41:514][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.13-22.23.41:514][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.13-22.23.41:514][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.13-22.23.41:514][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.13-22.23.41:518][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.03.13-22.23.41:589][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.03.13-22.23.41:589][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.03.13-22.23.41:609][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.03.13-22.23.41:609][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.03.13-22.23.41:623][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.03.13-22.23.41:637][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.03.13-22.23.41:650][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.03.13-22.23.41:668][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.03.13-22.23.41:710][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.03.13-22.23.41:710][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.03.13-22.23.41:710][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.03.13-22.23.41:855][  0]LogShaderCompilers: Guid format shader working directory is -17 characters bigger than the processId version (../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Intermediate/Shaders/WorkingDirectory/5284/).
+[2019.03.13-22.23.41:855][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Phenrear/AppData/Local/Temp/UnrealShaderWorkingDir/99CB4FB041669F5BCBC89EBA56956E12/'.
+[2019.03.13-22.23.41:859][  0]LogXGEController: Cleaning working directory: C:/Users/Phenrear/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.03.13-22.23.41:859][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.03.13-22.23.41:859][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.03.13-22.23.41:859][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.03.13-22.23.43:207][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.03.13-22.23.43:208][  0]LogDerivedDataCache: Display: Starting with empty Boot cache
+[2019.03.13-22.23.43:208][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.03.13-22.23.43:208][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.03.13-22.23.43:208][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.03.13-22.23.43:208][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.03.13-22.23.43:228][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.03.13-22.23.43:228][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.03.13-22.23.43:228][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.03.13-22.23.43:241][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Phenrear/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.03.13-22.23.43:241][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.03.13-22.23.43:241][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.03.13-22.23.43:270][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.03.13-22.23.43:281][  0]LogSlate: Using FreeType 2.6.0
+[2019.03.13-22.23.43:296][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.03.13-22.23.43:618][  0]LogAssetRegistry: FAssetRegistry took 0.0351 seconds to start up
+[2019.03.13-22.23.43:912][  0]LogInit: Selected Device Profile: [Windows]
+[2019.03.13-22.23.44:188][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.03.13-22.23.44:201][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.03.13-22.23.44:201][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.03.13-22.23.44:202][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.03.13-22.23.44:202][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.03.13-22.23.44:250][  0]LogNetVersion: GiftGame 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 4259663717)
+[2019.03.13-22.23.45:332][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.091557 seconds
+[2019.03.13-22.23.45:337][  0]LogUObjectArray: 39796 objects as part of root set at end of initial load.
+[2019.03.13-22.23.45:337][  0]LogUObjectAllocator: 6916336 out of 0 bytes used by permanent object pool.
+[2019.03.13-22.23.45:337][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.03.13-22.23.47:746][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.03.13-22.23.47:762][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.03.13-22.23.48:558][  0]SourceControl: Source control is disabled
+[2019.03.13-22.23.48:558][  0]SourceControl: Source control is disabled
+[2019.03.13-22.23.48:566][  0]SourceControl: Source control is disabled
+[2019.03.13-22.23.48:569][  0]SourceControl: Source control is disabled
+[2019.03.13-22.23.48:819][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.03.13-22.23.48:878][  0]LogOcInput: OculusInput pre-init called
+[2019.03.13-22.23.49:043][  0]LogEngine: Initializing Engine...
+[2019.03.13-22.23.49:044][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.03.13-22.23.49:046][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.03.13-22.23.49:046][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.03.13-22.23.49:046][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.03.13-22.23.49:047][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.03.13-22.23.49:365][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.03.13-22.23.49:393][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.03.13-22.23.49:409][  0]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio Codec with DolbyAPO)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.13-22.23.50:007][  0]LogInit: FAudioDevice initialized.
+[2019.03.13-22.23.50:007][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.03.13-22.23.50:040][  0]LogDerivedDataCache: Saved boot cache 0.03s 86MB C:/Users/Phenrear/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.03.13-22.23.50:047][  0]LogInit: Texture streaming: Enabled
+[2019.03.13-22.23.50:065][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.03.13-22.23.50:214][  0]LogInit: Transaction tracking system initialized
+[2019.03.13-22.23.50:253][  0]BlueprintLog: New page: Editor Load
+[2019.03.13-22.23.50:397][  0]LocalizationService: Localization service is disabled
+[2019.03.13-22.23.50:861][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Content/' took 0.02s
+[2019.03.13-22.23.50:861][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.03.13-22.23.50:862][  0]LogCook: Display: Mobile HDR setting 0
+[2019.03.13-22.23.50:862][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.03.13-22.23.50:862][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.03.13-22.23.50:862][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.03.13-22.23.50:862][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.03.13-22.23.50:862][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.03.13-22.23.51:104][  0]SourceControl: Source control is disabled
+[2019.03.13-22.23.51:105][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.03.13-22.23.51:106][  0]LightingResults: New page: Lighting Build
+[2019.03.13-22.23.51:113][  0]MapCheck: New page: Map Check
+[2019.03.13-22.23.51:113][  0]LightingResults: New page: Lighting Build
+[2019.03.13-22.23.51:330][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2019.03.13-22.23.51:346][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.03.13-22.23.51:377][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.03.13-22.23.51:377][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.12ms to complete.
+[2019.03.13-22.23.51:377][  0]LogFileHelpers: Loading map 'Template_Default' took 0.273
+[2019.03.13-22.23.51:505][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.13-22.23.51:512][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.13-22.23.51:518][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.13-22.23.51:524][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.13-22.23.51:540][  0]LogCollectionManager: Loaded 0 collections in 0.001139 seconds
+[2019.03.13-22.23.51:590][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/Collections/' took 0.01s
+[2019.03.13-22.23.51:590][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Content/Developers/Phenrear/Collections/' took 0.01s
+[2019.03.13-22.23.51:590][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Content/Collections/' took 0.01s
+[2019.03.13-22.23.51:590][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.03.13-22.23.51:599][  0]LogContentBrowser: Native class hierarchy populated in 0.0080 seconds. Added 2651 classes and 620 folders.
+[2019.03.13-22.23.51:610][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.03.13-22.23.51:618][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.13-22.23.51:625][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.13-22.23.51:646][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.13-22.23.51:651][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.13-22.23.51:656][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.13-22.23.51:661][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.13-22.23.51:665][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.13-22.23.51:669][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.13-22.23.51:675][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.13-22.23.51:680][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.13-22.23.51:685][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.13-22.23.51:690][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.13-22.23.51:695][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.13-22.23.51:700][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.13-22.23.51:704][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.13-22.23.51:708][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.13-22.23.51:737][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.13-22.23.51:742][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.13-22.23.51:746][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.13-22.23.51:751][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.13-22.23.51:787][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.13-22.23.51:791][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.13-22.23.51:796][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.13-22.23.51:801][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.13-22.23.51:805][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.13-22.23.51:810][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.13-22.23.51:921][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.03.13-22.23.51:929][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.03.13-22.23.51:969][  0]LogSlate: Took 0.005336 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.03.13-22.23.51:975][  0]LogSlate: Took 0.004179 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.03.13-22.23.51:986][  0]LogSlate: Took 0.004565 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.03.13-22.23.52:091][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2019.03.13-22.23.52:228][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.13-22.23.52:241][  0]LogSlate: Window 'Tutorials' being destroyed
+[2019.03.13-22.23.52:278][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.03.13-22.23.52:278][  0]LogLoad: (Engine Initialization) Total time: 18.40 seconds
+[2019.03.13-22.23.52:278][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.03.13-22.23.52:371][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.03.13-22.23.52:386][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Content/' took 0.08s
+[2019.03.13-22.23.52:399][  1]LogAssetRegistry: Asset discovery search completed in 8.8037 seconds
+[2019.03.13-22.23.52:401][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2019.03.13-22.23.52:401][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000045 seconds (updated 0 objects)
+[2019.03.13-22.23.56:398][220]LogSlate: Took 0.004924 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.03.13-22.24.09:518][275]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.13-22.27.03:218][ 32]LogSlate: Took 0.000223 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.03.13-22.27.03:472][ 32]LogLinker: Warning: Can't find file '/Game/Maps/MainGame_BuiltData'
+[2019.03.13-22.27.03:473][ 32]LogLinker: Warning: Can't find file for asset '/Game/Maps/MainGame_BuiltData' while loading ../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Content/Maps/MainGame.umap.
+[2019.03.13-22.27.03:473][ 32]LoadErrors: Error: /Game/Maps/MainGame : Can't find file for asset. /Game/Maps/MainGame_BuiltData
+[2019.03.13-22.27.03:524][ 32]LogLinker: Warning: Can't find file '/Game/Maps/MainGame_BuiltData'
+[2019.03.13-22.27.03:524][ 32]LogLinker: Warning: Can't find file for asset '/Game/Maps/MainGame_BuiltData' while loading ../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Content/Maps/MainGame.umap.
+[2019.03.13-22.27.03:761][ 32]LogLinker: Warning: Can't find file '/Game/Maps/MainGame_BuiltData'
+[2019.03.13-22.27.03:761][ 32]LogLinker: Warning: Can't find file for asset '/Game/Maps/MainGame_BuiltData' while loading NULL.
+[2019.03.13-22.27.03:761][ 32]LogLinker: Warning: Can't find file '/Game/Maps/MainGame_BuiltData'
+[2019.03.13-22.27.03:761][ 32]LogLinker: Warning: Can't find file for asset '/Game/Maps/MainGame_BuiltData' while loading NULL.
+[2019.03.13-22.27.03:806][ 32]LogLinker: Warning: Can't find file '/Game/Maps/MainGame_BuiltData'
+[2019.03.13-22.27.03:806][ 32]LoadErrors: Failed to load /Game/Maps/MainGame_BuiltData.MainGame_BuiltData Referenced by PersistentLevel
+[2019.03.13-22.27.03:806][ 32]LogLinker: Warning: Can't find file for asset '/Game/Maps/MainGame_BuiltData' while loading NULL.
+[2019.03.13-22.27.08:368][ 32]LogTexture: Display: Building textures: Start (BGRA8, 1470X547)
+[2019.03.13-22.27.08:368][ 32]LogTexture: Display: Building textures: WoodPlankChairOutUV (AutoDXT, 2048X2048)
+[2019.03.13-22.27.08:368][ 32]LogTexture: Display: Building textures: Plus (AutoDXT, 428X544)
+[2019.03.13-22.27.08:368][ 32]LogTexture: Display: Building textures: Minus (BGRA8, 428X545)
+[2019.03.13-22.27.08:368][ 32]LogTexture: Display: Building textures: ChessBoardOutUV (AutoDXT, 2048X2048)
+[2019.03.13-22.27.08:368][ 32]LogTexture: Display: Building textures: WoodPlankChairOutUV (AutoDXT, 2048X2048)
+[2019.03.13-22.27.08:368][ 32]LogTexture: Display: Building textures: TrumpCard (BGRA8, 224X137)
+[2019.03.13-22.27.08:368][ 32]LogTexture: Display: Building textures: Vase (BGRA8, 143X288)
+[2019.03.13-22.27.08:368][ 32]LogTexture: Display: Building textures: Play (BGRA8, 1470X537)
+[2019.03.13-22.27.08:368][ 32]LogTexture: Display: Building textures: MainMenu (BGRA8, 1470X537)
+[2019.03.13-22.27.08:368][ 32]LogTexture: Display: Building textures: WaterBalloon (BGRA8, 87X123)
+[2019.03.13-22.27.08:368][ 32]LogTexture: Display: Building textures: Settings (BGRA8, 1470X537)
+[2019.03.13-22.27.08:368][ 32]LogTexture: Display: Building textures: SuperBigHugeCakeForRichPeople2 (BGRA8, 587X479)
+[2019.03.13-22.27.08:368][ 32]LogTexture: Display: Building textures: Spicy_Water (BGRA8, 119X426)
+[2019.03.13-22.27.08:368][ 32]LogTexture: Display: Building textures: Socks_-_Copy (AutoDXT, 120X100)
+[2019.03.13-22.27.08:368][ 32]LogTexture: Display: Building textures: Melted_Ice_Cube (BGRA8, 389X304)
+[2019.03.13-22.27.08:368][ 32]LogTexture: Display: Building textures: toilet (AutoDXT, 2116X1500)
+[2019.03.13-22.27.08:368][ 32]LogTexture: Display: Building textures: Hypno-Glasses2 (BGRA8, 717X562)
+[2019.03.13-22.27.08:368][ 32]LogTexture: Display: Building textures: Really_Nice_Watch (BGRA8, 120X90)
+[2019.03.13-22.27.08:368][ 32]LogTexture: Display: Building textures: ChairSideOutUV (AutoDXT, 2048X2048)
+[2019.03.13-22.27.08:368][ 32]LogTexture: Display: Building textures: JelloBrain (BGRA8, 939X781)
+[2019.03.13-22.27.08:368][ 32]LogTexture: Display: Building textures: Dart_Gun (BGRA8, 461X250)
+[2019.03.13-22.27.08:368][ 32]LogTexture: Display: Building textures: HealingCrystal (BGRA8, 210X210)
+[2019.03.13-22.27.08:368][ 32]LogTexture: Display: Building textures: CandyCane (AutoDXT, 40X100)
+[2019.03.13-22.27.08:368][ 32]LogTexture: Display: Building textures: Coal (AutoDXT, 96X96)
+[2019.03.13-22.27.08:368][ 32]LogTexture: Display: Building textures: DeadFishReal (BGRA8, 130X80)
+[2019.03.13-22.27.08:368][ 32]LogTexture: Display: Building textures: CandyCane2 (BGRA8, 50X100)
+[2019.03.13-22.27.08:368][ 32]LogTexture: Display: Building textures: Bomb (AutoDXT, 140X100)
+[2019.03.13-22.27.08:368][ 32]LogTexture: Display: Building textures: HorribleChristmasSweater (BGRA8, 2061X2349)
+[2019.03.13-22.27.08:368][ 32]LogTexture: Display: Building textures: menu_test (BGRA8, 794X614)
+[2019.03.13-22.27.08:368][ 32]LogTexture: Display: Building textures: Exit (BGRA8, 1470X570)
+[2019.03.13-22.27.08:368][ 32]LogTexture: Display: Building textures: WindowOutUV (AutoDXT, 2048X2048)
+[2019.03.13-22.27.08:368][ 32]LogTexture: Display: Building textures: FestivusPoleOutUV (AutoDXT, 2048X2048)
+[2019.03.13-22.27.08:368][ 32]LogTexture: Display: Building textures: StockingOutUV (AutoDXT, 2048X2048)
+[2019.03.13-22.27.08:368][ 32]LogTexture: Display: Building textures: WallOutUV (AutoDXT, 2048X2048)
+[2019.03.13-22.27.08:368][ 32]LogTexture: Display: Building textures: FireWoodOutUV (AutoDXT, 2048X2048)
+[2019.03.13-22.27.08:368][ 32]LogTexture: Display: Building textures: FestivusPoleOutUV (AutoDXT, 2048X2048)
+[2019.03.13-22.27.08:368][ 32]LogTexture: Display: Building textures: DreidelOutUV (AutoDXT, 2048X2048)
+[2019.03.13-22.27.08:368][ 32]LogTexture: Display: Building textures: FirePlaceOutUV (AutoDXT, 2048X2048)
+[2019.03.13-22.27.08:368][ 32]LogTexture: Display: Building textures: CouchOutUV (AutoDXT, 2048X2048)
+[2019.03.13-22.27.08:368][ 32]LogTexture: Display: Building textures: CouchOutUV (AutoDXT, 2048X2048)
+[2019.03.13-22.27.08:368][ 32]LogTexture: Display: Building textures: CouchOutUV (AutoDXT, 2048X2048)
+[2019.03.13-22.27.08:377][ 32]LogMaterial: Display: Missing cached shader map for material ChairPlanks, compiling. 
+[2019.03.13-22.27.08:507][ 32]LogTexture: Display: Building textures: Beartrap2 (AutoDXT, 2100X1500)
+[2019.03.13-22.27.08:507][ 32]LogTexture: Display: Building textures: ArmyMen (BGRA8, 272X339)
+[2019.03.13-22.27.08:507][ 32]LogTexture: Display: Building textures: AnimeBoxSet (BGRA8, 96X62)
+[2019.03.13-22.27.08:507][ 32]LogStaticMesh: Building static mesh Lamp_Pole...
+[2019.03.13-22.27.08:515][ 32]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.03.13-22.27.08:515][ 32]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.03.13-22.27.08:515][ 32]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.03.13-22.27.08:515][ 32]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.03.13-22.27.08:515][ 32]LogStaticMesh: Built static mesh [0.01s] /Game/Models/Lamp/Lamp/Lamp_Pole.Lamp_Pole
+[2019.03.13-22.27.08:520][ 32]LogStaticMesh: Building static mesh Lamp_Donut...
+[2019.03.13-22.27.08:576][ 32]LogStaticMesh: Built static mesh [0.06s] /Game/Models/Lamp/Lamp/Lamp_Donut.Lamp_Donut
+[2019.03.13-22.27.08:582][ 32]LogMaterial: Display: Missing cached shader map for material ChairSideBlack, compiling. 
+[2019.03.13-22.27.08:626][ 32]LogTexture: Display: Building textures: AlarmClock (BGRA8, 2867X3188)
+[2019.03.13-22.27.08:626][ 32]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.03.13-22.27.08:626][ 32]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.03.13-22.27.08:626][ 32]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.03.13-22.27.08:626][ 32]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.03.13-22.27.08:626][ 32]LogStaticMesh: Building static mesh Lamp_Cover...
+[2019.03.13-22.27.08:666][ 32]LogStaticMesh: Built static mesh [0.04s] /Game/Models/Lamp/Lamp/Lamp_Cover.Lamp_Cover
+[2019.03.13-22.27.08:668][ 32]LogStaticMesh: Building static mesh Lamp_Bar8...
+[2019.03.13-22.27.08:670][ 32]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Lamp/Lamp/Lamp_Bar8.Lamp_Bar8
+[2019.03.13-22.27.08:670][ 32]LogPhysics: Warning: Failed to cook TriMesh: /Game/Models/Lamp/Lamp/Lamp_Bar8.Lamp_Bar8.
+[2019.03.13-22.27.08:670][ 32]LogPhysics: Warning: Attempt to build physics data for /Game/Models/Lamp/Lamp/Lamp_Bar8.Lamp_Bar8:BodySetup_0 when we are unable to.
+[2019.03.13-22.27.08:671][ 32]LogStaticMesh: Building static mesh Lamp_Bar7...
+[2019.03.13-22.27.08:673][ 32]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Lamp/Lamp/Lamp_Bar7.Lamp_Bar7
+[2019.03.13-22.27.08:673][ 32]LogPhysics: Warning: Failed to cook TriMesh: /Game/Models/Lamp/Lamp/Lamp_Bar7.Lamp_Bar7.
+[2019.03.13-22.27.08:673][ 32]LogPhysics: Warning: Attempt to build physics data for /Game/Models/Lamp/Lamp/Lamp_Bar7.Lamp_Bar7:BodySetup_0 when we are unable to.
+[2019.03.13-22.27.08:674][ 32]LogStaticMesh: Building static mesh Lamp_Bar6...
+[2019.03.13-22.27.08:675][ 32]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Lamp/Lamp/Lamp_Bar6.Lamp_Bar6
+[2019.03.13-22.27.08:675][ 32]LogPhysics: Warning: Failed to cook TriMesh: /Game/Models/Lamp/Lamp/Lamp_Bar6.Lamp_Bar6.
+[2019.03.13-22.27.08:675][ 32]LogPhysics: Warning: Attempt to build physics data for /Game/Models/Lamp/Lamp/Lamp_Bar6.Lamp_Bar6:BodySetup_0 when we are unable to.
+[2019.03.13-22.27.08:676][ 32]LogStaticMesh: Building static mesh Lamp_Bar5...
+[2019.03.13-22.27.08:677][ 32]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Lamp/Lamp/Lamp_Bar5.Lamp_Bar5
+[2019.03.13-22.27.08:678][ 32]LogPhysics: Warning: Failed to cook TriMesh: /Game/Models/Lamp/Lamp/Lamp_Bar5.Lamp_Bar5.
+[2019.03.13-22.27.08:678][ 32]LogPhysics: Warning: Attempt to build physics data for /Game/Models/Lamp/Lamp/Lamp_Bar5.Lamp_Bar5:BodySetup_0 when we are unable to.
+[2019.03.13-22.27.08:678][ 32]LogStaticMesh: Building static mesh Lamp_Bar4...
+[2019.03.13-22.27.08:680][ 32]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Lamp/Lamp/Lamp_Bar4.Lamp_Bar4
+[2019.03.13-22.27.08:681][ 32]LogStaticMesh: Building static mesh Lamp_Bar3...
+[2019.03.13-22.27.08:683][ 32]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Lamp/Lamp/Lamp_Bar3.Lamp_Bar3
+[2019.03.13-22.27.08:683][ 32]LogPhysics: Warning: Failed to cook TriMesh: /Game/Models/Lamp/Lamp/Lamp_Bar3.Lamp_Bar3.
+[2019.03.13-22.27.08:683][ 32]LogPhysics: Warning: Attempt to build physics data for /Game/Models/Lamp/Lamp/Lamp_Bar3.Lamp_Bar3:BodySetup_0 when we are unable to.
+[2019.03.13-22.27.08:684][ 32]LogStaticMesh: Building static mesh Lamp_Bar2...
+[2019.03.13-22.27.08:685][ 32]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Lamp/Lamp/Lamp_Bar2.Lamp_Bar2
+[2019.03.13-22.27.08:689][ 32]LogMaterial: Display: Missing cached shader map for material lambert1, compiling. 
+[2019.03.13-22.27.08:737][ 32]LogStaticMesh: Building static mesh Lamp_Bar1...
+[2019.03.13-22.27.08:756][ 32]LogStaticMesh: Built static mesh [0.02s] /Game/Models/Lamp/Lamp/Lamp_Bar1.Lamp_Bar1
+[2019.03.13-22.27.08:757][ 32]LogPhysics: Warning: Failed to cook TriMesh: /Game/Models/Lamp/Lamp/Lamp_Bar1.Lamp_Bar1.
+[2019.03.13-22.27.08:757][ 32]LogPhysics: Warning: Attempt to build physics data for /Game/Models/Lamp/Lamp/Lamp_Bar1.Lamp_Bar1:BodySetup_0 when we are unable to.
+[2019.03.13-22.27.08:757][ 32]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave AnimeCut...
+[2019.03.13-22.27.09:092][ 32]LogTexture: Display: Building textures: 8ball (BGRA8, 153X153)
+[2019.03.13-22.27.09:092][ 32]LogTexture: Display: Building textures: 500K_Diamond (AutoDXT, 140X100)
+[2019.03.13-22.27.09:092][ 32]LogTexture: Display: Building textures: FloorOutUV (AutoDXT, 2048X2048)
+[2019.03.13-22.27.09:092][ 32]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 1344068 while cooking SoundWave /Game/Sounds/SoundEffects/AnimeCut.AnimeCut.
+[2019.03.13-22.27.09:093][ 32]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave BGM...
+[2019.03.13-22.27.10:027][ 32]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 5242348 while cooking SoundWave /Game/Sounds/Music/BGM.BGM.
+[2019.03.13-22.27.10:031][ 32]LogStaticMesh: Building static mesh TreeWSG_pSphere93...
+[2019.03.13-22.27.10:043][ 32]LogStaticMesh: Built static mesh [0.01s] /Game/Models/Tree/TreeWSG_pSphere93.TreeWSG_pSphere93
+[2019.03.13-22.27.10:045][ 32]LogStaticMesh: Building static mesh TreeWSG_pSphere92...
+[2019.03.13-22.27.10:078][ 32]LogStaticMesh: Built static mesh [0.03s] /Game/Models/Tree/TreeWSG_pSphere92.TreeWSG_pSphere92
+[2019.03.13-22.27.10:081][ 32]LogStaticMesh: Building static mesh TreeWSG_pSphere91...
+[2019.03.13-22.27.10:093][ 32]LogStaticMesh: Built static mesh [0.01s] /Game/Models/Tree/TreeWSG_pSphere91.TreeWSG_pSphere91
+[2019.03.13-22.27.10:095][ 32]LogStaticMesh: Building static mesh TreeWSG_pSphere90...
+[2019.03.13-22.27.10:114][ 32]LogStaticMesh: Built static mesh [0.02s] /Game/Models/Tree/TreeWSG_pSphere90.TreeWSG_pSphere90
+[2019.03.13-22.27.10:117][ 32]LogStaticMesh: Building static mesh TreeWSG_pSphere9...
+[2019.03.13-22.27.10:125][ 32]LogStaticMesh: Built static mesh [0.01s] /Game/Models/Tree/TreeWSG_pSphere9.TreeWSG_pSphere9
+[2019.03.13-22.27.10:130][ 32]LogStaticMesh: Building static mesh TreeWSG_pSphere89...
+[2019.03.13-22.27.10:155][ 32]LogStaticMesh: Built static mesh [0.03s] /Game/Models/Tree/TreeWSG_pSphere89.TreeWSG_pSphere89
+[2019.03.13-22.27.10:159][ 32]LogStaticMesh: Building static mesh TreeWSG_pSphere85...
+[2019.03.13-22.27.10:172][ 32]LogStaticMesh: Built static mesh [0.01s] /Game/Models/Tree/TreeWSG_pSphere85.TreeWSG_pSphere85
+[2019.03.13-22.27.10:176][ 32]LogStaticMesh: Building static mesh TreeWSG_pSphere84...
+[2019.03.13-22.27.10:184][ 32]LogStaticMesh: Built static mesh [0.01s] /Game/Models/Tree/TreeWSG_pSphere84.TreeWSG_pSphere84
+[2019.03.13-22.27.10:187][ 32]LogStaticMesh: Building static mesh TreeWSG_pSphere8...
+[2019.03.13-22.27.10:208][ 32]LogStaticMesh: Built static mesh [0.02s] /Game/Models/Tree/TreeWSG_pSphere8.TreeWSG_pSphere8
+[2019.03.13-22.27.10:211][ 32]LogStaticMesh: Building static mesh TreeWSG_pSphere74...
+[2019.03.13-22.27.10:221][ 32]LogStaticMesh: Built static mesh [0.01s] /Game/Models/Tree/TreeWSG_pSphere74.TreeWSG_pSphere74
+[2019.03.13-22.27.10:224][ 32]LogStaticMesh: Building static mesh TreeWSG_pSphere73...
+[2019.03.13-22.27.10:233][ 32]LogStaticMesh: Built static mesh [0.01s] /Game/Models/Tree/TreeWSG_pSphere73.TreeWSG_pSphere73
+[2019.03.13-22.27.10:259][ 32]LogStaticMesh: Building static mesh TreeWSG_pSphere72...
+[2019.03.13-22.27.10:269][ 32]LogStaticMesh: Built static mesh [0.01s] /Game/Models/Tree/TreeWSG_pSphere72.TreeWSG_pSphere72
+[2019.03.13-22.27.10:271][ 32]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave EmptyBox...
+[2019.03.13-22.27.10:300][ 32]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 113272 while cooking SoundWave /Game/Sounds/SoundEffects/EmptyBox.EmptyBox.
+[2019.03.13-22.27.10:337][ 32]LogStaticMesh: Building static mesh CouchCushions_LeftCushion...
+[2019.03.13-22.27.10:353][ 32]LogStaticMesh: Built static mesh [0.02s] /Game/Models/Couch/Cushions/CouchCushions_LeftCushion.CouchCushions_LeftCushion
+[2019.03.13-22.27.10:358][ 32]LogMaterial: Display: Missing cached shader map for material ChessBoard1, compiling. 
+[2019.03.13-22.27.10:404][ 32]LogStaticMesh: Building static mesh ChessBoard...
+[2019.03.13-22.27.10:407][ 32]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Chess/ChessBoard.ChessBoard
+[2019.03.13-22.27.12:434][ 32]LogShaderCompilers: Display: Shaders left to compile 62
+[2019.03.13-22.27.12:451][ 32]LogMaterial: Display: Missing cached shader map for material ChairSide, compiling. 
+[2019.03.13-22.27.12:505][ 32]LogStaticMesh: Building static mesh ChairRound_Seat...
+[2019.03.13-22.27.12:520][ 32]LogStaticMesh: Built static mesh [0.02s] /Game/Models/ChairRound/ChairRound_Seat.ChairRound_Seat
+[2019.03.13-22.27.12:527][ 32]LogMaterial: Display: Missing cached shader map for material ChairPlanks, compiling. 
+[2019.03.13-22.27.12:597][ 32]LogStaticMesh: Building static mesh ChairRound_Frame...
+[2019.03.13-22.27.12:621][ 32]LogStaticMesh: Built static mesh [0.02s] /Game/Models/ChairRound/ChairRound_Frame.ChairRound_Frame
+[2019.03.13-22.27.12:894][ 32]LogStaticMesh: Building static mesh CouchCushions_MiddleCushion...
+[2019.03.13-22.27.12:915][ 32]LogStaticMesh: Built static mesh [0.02s] /Game/Models/Couch/Cushions/CouchCushions_MiddleCushion.CouchCushions_MiddleCushion
+[2019.03.13-22.27.12:919][ 32]LogStaticMesh: Building static mesh CouchCushions_RightCushion...
+[2019.03.13-22.27.12:930][ 32]LogStaticMesh: Built static mesh [0.01s] /Game/Models/Couch/Cushions/CouchCushions_RightCushion.CouchCushions_RightCushion
+[2019.03.13-22.27.12:934][ 32]LogStaticMesh: Building static mesh CouchFrame...
+[2019.03.13-22.27.12:947][ 32]LogStaticMesh: Built static mesh [0.01s] /Game/Models/Couch/Frame/CouchFrame.CouchFrame
+[2019.03.13-22.27.12:952][ 32]LogStaticMesh: Building static mesh CouchPillows_Pillow1...
+[2019.03.13-22.27.12:975][ 32]LogStaticMesh: Built static mesh [0.02s] /Game/Models/Couch/Pillows/CouchPillows_Pillow1.CouchPillows_Pillow1
+[2019.03.13-22.27.12:980][ 32]LogStaticMesh: Building static mesh CouchPillows_Pillow2...
+[2019.03.13-22.27.13:004][ 32]LogStaticMesh: Built static mesh [0.02s] /Game/Models/Couch/Pillows/CouchPillows_Pillow2.CouchPillows_Pillow2
+[2019.03.13-22.27.13:009][ 32]LogStaticMesh: Building static mesh CouchPillows_Pillow3...
+[2019.03.13-22.27.13:022][ 32]LogStaticMesh: Built static mesh [0.01s] /Game/Models/Couch/Pillows/CouchPillows_Pillow3.CouchPillows_Pillow3
+[2019.03.13-22.27.13:026][ 32]LogStaticMesh: Building static mesh Dreidel_Body...
+[2019.03.13-22.27.13:064][ 32]LogStaticMesh: Built static mesh [0.04s] /Game/Models/Dreidel/Dreidel_Body.Dreidel_Body
+[2019.03.13-22.27.13:068][ 32]LogStaticMesh: Building static mesh Dreidel_Handle...
+[2019.03.13-22.27.13:094][ 32]LogShaderCompilers: Display: Shaders left to compile 114
+[2019.03.13-22.27.13:094][ 32]LogStaticMesh: Built static mesh [0.03s] /Game/Models/Dreidel/Dreidel_Handle.Dreidel_Handle
+[2019.03.13-22.27.13:095][ 32]LogStaticMesh: Building static mesh FestivusWSG_FestivusPole...
+[2019.03.13-22.27.13:099][ 32]LogStaticMesh: Built static mesh [0.00s] /Game/Models/FestivusPole/FestivusWSG_FestivusPole.FestivusWSG_FestivusPole
+[2019.03.13-22.27.13:100][ 32]LogStaticMesh: Building static mesh FestivusWSG_FestivusPoleStand...
+[2019.03.13-22.27.13:105][ 32]LogStaticMesh: Built static mesh [0.00s] /Game/Models/FestivusPole/FestivusWSG_FestivusPoleStand.FestivusWSG_FestivusPoleStand
+[2019.03.13-22.27.13:129][ 32]LogStaticMesh: Building static mesh Fireplace...
+[2019.03.13-22.27.13:218][ 32]LogStaticMesh: Built static mesh [0.09s] /Game/Models/Fireplace/Fireplace.Fireplace
+[2019.03.13-22.27.13:260][ 32]LogStaticMesh: Building static mesh GiftBox_Bow_Simple...
+[2019.03.13-22.27.13:756][ 32]LogStaticMesh: Built static mesh [0.50s] /Game/Models/GiftBox/GiftBox_Bow_Simple.GiftBox_Bow_Simple
+[2019.03.13-22.27.13:799][ 32]LogStaticMesh: Building static mesh GiftBox_Bow_Tie...
+[2019.03.13-22.27.15:265][ 32]LogShaderCompilers: Display: Shaders left to compile 104
+[2019.03.13-22.27.15:265][ 32]LogStaticMesh: Built static mesh [1.46s] /Game/Models/GiftBox/GiftBox_Bow_Tie.GiftBox_Bow_Tie
+[2019.03.13-22.27.15:275][ 32]LogStaticMesh: Building static mesh GiftBox_Box_Bottom...
+[2019.03.13-22.27.15:277][ 32]LogStaticMesh: Built static mesh [0.01s] /Game/Models/GiftBox/GiftBox_Box_Bottom.GiftBox_Box_Bottom
+[2019.03.13-22.27.15:279][ 32]LogStaticMesh: Building static mesh GiftBox_Box_Top...
+[2019.03.13-22.27.15:281][ 32]LogStaticMesh: Built static mesh [0.00s] /Game/Models/GiftBox/GiftBox_Box_Top.GiftBox_Box_Top
+[2019.03.13-22.27.15:283][ 32]LogStaticMesh: Building static mesh GiftBox_Ribbon_Lower...
+[2019.03.13-22.27.15:290][ 32]LogStaticMesh: Built static mesh [0.01s] /Game/Models/GiftBox/GiftBox_Ribbon_Lower.GiftBox_Ribbon_Lower
+[2019.03.13-22.27.15:292][ 32]LogStaticMesh: Building static mesh GiftBox_Ribbon_Upper...
+[2019.03.13-22.27.15:301][ 32]LogStaticMesh: Built static mesh [0.01s] /Game/Models/GiftBox/GiftBox_Ribbon_Upper.GiftBox_Ribbon_Upper
+[2019.03.13-22.27.15:303][ 32]LogStaticMesh: Building static mesh Lamp_Stand...
+[2019.03.13-22.27.15:309][ 32]LogStaticMesh: Built static mesh [0.01s] /Game/Models/Lamp/Lamp/Lamp_Stand.Lamp_Stand
+[2019.03.13-22.27.15:310][ 32]LogStaticMesh: Building static mesh LampTable_pCube21...
+[2019.03.13-22.27.15:311][ 32]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Lamp/LampStand/LampTable_pCube21.LampTable_pCube21
+[2019.03.13-22.27.15:312][ 32]LogStaticMesh: Building static mesh LampTable_pCube22...
+[2019.03.13-22.27.15:313][ 32]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Lamp/LampStand/LampTable_pCube22.LampTable_pCube22
+[2019.03.13-22.27.15:314][ 32]LogStaticMesh: Building static mesh LampTable_pCube23...
+[2019.03.13-22.27.15:316][ 32]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Lamp/LampStand/LampTable_pCube23.LampTable_pCube23
+[2019.03.13-22.27.15:317][ 32]LogStaticMesh: Building static mesh LampTable_pCube24...
+[2019.03.13-22.27.15:319][ 32]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Lamp/LampStand/LampTable_pCube24.LampTable_pCube24
+[2019.03.13-22.27.15:319][ 32]LogStaticMesh: Building static mesh LampTable_pCube25...
+[2019.03.13-22.27.15:321][ 32]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Lamp/LampStand/LampTable_pCube25.LampTable_pCube25
+[2019.03.13-22.27.15:322][ 32]LogStaticMesh: Building static mesh LampTable_pCube26...
+[2019.03.13-22.27.15:324][ 32]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Lamp/LampStand/LampTable_pCube26.LampTable_pCube26
+[2019.03.13-22.27.15:325][ 32]LogStaticMesh: Building static mesh LampTable_pCube27...
+[2019.03.13-22.27.15:326][ 32]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Lamp/LampStand/LampTable_pCube27.LampTable_pCube27
+[2019.03.13-22.27.15:327][ 32]LogStaticMesh: Building static mesh Logs_Log1...
+[2019.03.13-22.27.15:330][ 32]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Logs/Logs_Log1.Logs_Log1
+[2019.03.13-22.27.15:332][ 32]LogStaticMesh: Building static mesh Logs_Log2...
+[2019.03.13-22.27.15:336][ 32]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Logs/Logs_Log2.Logs_Log2
+[2019.03.13-22.27.15:337][ 32]LogStaticMesh: Building static mesh Logs_Log3...
+[2019.03.13-22.27.15:341][ 32]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Logs/Logs_Log3.Logs_Log3
+[2019.03.13-22.27.15:355][ 32]LogStaticMesh: Building static mesh Sock...
+[2019.03.13-22.27.15:416][ 32]LogStaticMesh: Built static mesh [0.06s] /Game/Models/Sock/Sock.Sock
+[2019.03.13-22.27.15:420][ 32]LogStaticMesh: Building static mesh TreeWSG_FestivusPoleStand1...
+[2019.03.13-22.27.15:424][ 32]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Tree/TreeWSG_FestivusPoleStand1.TreeWSG_FestivusPoleStand1
+[2019.03.13-22.27.15:425][ 32]LogStaticMesh: Building static mesh TreeWSG_pCone1...
+[2019.03.13-22.27.15:427][ 32]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Tree/TreeWSG_pCone1.TreeWSG_pCone1
+[2019.03.13-22.27.15:428][ 32]LogStaticMesh: Building static mesh TreeWSG_pCone2...
+[2019.03.13-22.27.15:430][ 32]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Tree/TreeWSG_pCone2.TreeWSG_pCone2
+[2019.03.13-22.27.15:430][ 32]LogStaticMesh: Building static mesh TreeWSG_pCone3...
+[2019.03.13-22.27.15:432][ 32]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Tree/TreeWSG_pCone3.TreeWSG_pCone3
+[2019.03.13-22.27.15:433][ 32]LogStaticMesh: Building static mesh TreeWSG_pCone4...
+[2019.03.13-22.27.15:435][ 32]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Tree/TreeWSG_pCone4.TreeWSG_pCone4
+[2019.03.13-22.27.15:435][ 32]LogStaticMesh: Building static mesh TreeWSG_pCube12...
+[2019.03.13-22.27.15:438][ 32]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Tree/TreeWSG_pCube12.TreeWSG_pCube12
+[2019.03.13-22.27.15:439][ 32]LogStaticMesh: Building static mesh TreeWSG_pCube1...
+[2019.03.13-22.27.15:442][ 32]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Tree/TreeWSG_pCube1.TreeWSG_pCube1
+[2019.03.13-22.27.15:443][ 32]LogStaticMesh: Building static mesh TreeWSG_pCube2...
+[2019.03.13-22.27.15:458][ 32]LogStaticMesh: Built static mesh [0.01s] /Game/Models/Tree/TreeWSG_pCube2.TreeWSG_pCube2
+[2019.03.13-22.27.15:459][ 32]LogStaticMesh: Building static mesh TreeWSG_pCube3...
+[2019.03.13-22.27.15:462][ 32]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Tree/TreeWSG_pCube3.TreeWSG_pCube3
+[2019.03.13-22.27.15:463][ 32]LogStaticMesh: Building static mesh TreeWSG_pCube4...
+[2019.03.13-22.27.15:466][ 32]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Tree/TreeWSG_pCube4.TreeWSG_pCube4
+[2019.03.13-22.27.15:468][ 32]LogStaticMesh: Building static mesh TreeWSG_pCube5...
+[2019.03.13-22.27.15:504][ 32]LogStaticMesh: Built static mesh [0.04s] /Game/Models/Tree/TreeWSG_pCube5.TreeWSG_pCube5
+[2019.03.13-22.27.15:505][ 32]LogStaticMesh: Building static mesh TreeWSG_pCube6...
+[2019.03.13-22.27.15:509][ 32]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Tree/TreeWSG_pCube6.TreeWSG_pCube6
+[2019.03.13-22.27.15:511][ 32]LogStaticMesh: Building static mesh TreeWSG_pCube7...
+[2019.03.13-22.27.15:514][ 32]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Tree/TreeWSG_pCube7.TreeWSG_pCube7
+[2019.03.13-22.27.15:516][ 32]LogStaticMesh: Building static mesh TreeWSG_pSphere10...
+[2019.03.13-22.27.15:535][ 32]LogStaticMesh: Built static mesh [0.02s] /Game/Models/Tree/TreeWSG_pSphere10.TreeWSG_pSphere10
+[2019.03.13-22.27.15:538][ 32]LogStaticMesh: Building static mesh TreeWSG_pSphere1...
+[2019.03.13-22.27.15:547][ 32]LogStaticMesh: Built static mesh [0.01s] /Game/Models/Tree/TreeWSG_pSphere1.TreeWSG_pSphere1
+[2019.03.13-22.27.15:556][ 32]LogStaticMesh: Building static mesh TreeWSG_pSphere21...
+[2019.03.13-22.27.15:581][ 32]LogStaticMesh: Built static mesh [0.03s] /Game/Models/Tree/TreeWSG_pSphere21.TreeWSG_pSphere21
+[2019.03.13-22.27.15:587][ 32]LogStaticMesh: Building static mesh TreeWSG_pSphere22...
+[2019.03.13-22.27.15:656][ 32]LogStaticMesh: Built static mesh [0.07s] /Game/Models/Tree/TreeWSG_pSphere22.TreeWSG_pSphere22
+[2019.03.13-22.27.15:661][ 32]LogStaticMesh: Building static mesh TreeWSG_pSphere23...
+[2019.03.13-22.27.15:698][ 32]LogStaticMesh: Built static mesh [0.04s] /Game/Models/Tree/TreeWSG_pSphere23.TreeWSG_pSphere23
+[2019.03.13-22.27.15:704][ 32]LogStaticMesh: Building static mesh TreeWSG_pSphere27...
+[2019.03.13-22.27.15:745][ 32]LogStaticMesh: Built static mesh [0.04s] /Game/Models/Tree/TreeWSG_pSphere27.TreeWSG_pSphere27
+[2019.03.13-22.27.15:751][ 32]LogStaticMesh: Building static mesh TreeWSG_pSphere28...
+[2019.03.13-22.27.15:792][ 32]LogStaticMesh: Built static mesh [0.04s] /Game/Models/Tree/TreeWSG_pSphere28.TreeWSG_pSphere28
+[2019.03.13-22.27.15:797][ 32]LogStaticMesh: Building static mesh TreeWSG_pSphere29...
+[2019.03.13-22.27.15:837][ 32]LogStaticMesh: Built static mesh [0.04s] /Game/Models/Tree/TreeWSG_pSphere29.TreeWSG_pSphere29
+[2019.03.13-22.27.15:841][ 32]LogStaticMesh: Building static mesh TreeWSG_pSphere2...
+[2019.03.13-22.27.15:849][ 32]LogStaticMesh: Built static mesh [0.01s] /Game/Models/Tree/TreeWSG_pSphere2.TreeWSG_pSphere2
+[2019.03.13-22.27.15:855][ 32]LogStaticMesh: Building static mesh TreeWSG_pSphere30...
+[2019.03.13-22.27.15:893][ 32]LogStaticMesh: Built static mesh [0.04s] /Game/Models/Tree/TreeWSG_pSphere30.TreeWSG_pSphere30
+[2019.03.13-22.27.15:904][ 32]LogStaticMesh: Building static mesh TreeWSG_pSphere31...
+[2019.03.13-22.27.15:931][ 32]LogStaticMesh: Built static mesh [0.03s] /Game/Models/Tree/TreeWSG_pSphere31.TreeWSG_pSphere31
+[2019.03.13-22.27.15:937][ 32]LogStaticMesh: Building static mesh TreeWSG_pSphere32...
+[2019.03.13-22.27.15:976][ 32]LogStaticMesh: Built static mesh [0.04s] /Game/Models/Tree/TreeWSG_pSphere32.TreeWSG_pSphere32
+[2019.03.13-22.27.15:982][ 32]LogStaticMesh: Building static mesh TreeWSG_pSphere33...
+[2019.03.13-22.27.16:007][ 32]LogStaticMesh: Built static mesh [0.03s] /Game/Models/Tree/TreeWSG_pSphere33.TreeWSG_pSphere33
+[2019.03.13-22.27.16:012][ 32]LogStaticMesh: Building static mesh TreeWSG_pSphere34...
+[2019.03.13-22.27.16:048][ 32]LogStaticMesh: Built static mesh [0.04s] /Game/Models/Tree/TreeWSG_pSphere34.TreeWSG_pSphere34
+[2019.03.13-22.27.16:053][ 32]LogStaticMesh: Building static mesh TreeWSG_pSphere35...
+[2019.03.13-22.27.16:090][ 32]LogStaticMesh: Built static mesh [0.04s] /Game/Models/Tree/TreeWSG_pSphere35.TreeWSG_pSphere35
+[2019.03.13-22.27.16:095][ 32]LogStaticMesh: Building static mesh TreeWSG_pSphere39...
+[2019.03.13-22.27.16:117][ 32]LogStaticMesh: Built static mesh [0.02s] /Game/Models/Tree/TreeWSG_pSphere39.TreeWSG_pSphere39
+[2019.03.13-22.27.16:120][ 32]LogStaticMesh: Building static mesh TreeWSG_pSphere3...
+[2019.03.13-22.27.16:130][ 32]LogStaticMesh: Built static mesh [0.01s] /Game/Models/Tree/TreeWSG_pSphere3.TreeWSG_pSphere3
+[2019.03.13-22.27.16:135][ 32]LogStaticMesh: Building static mesh TreeWSG_pSphere40...
+[2019.03.13-22.27.16:171][ 32]LogStaticMesh: Built static mesh [0.04s] /Game/Models/Tree/TreeWSG_pSphere40.TreeWSG_pSphere40
+[2019.03.13-22.27.16:175][ 32]LogStaticMesh: Building static mesh TreeWSG_pSphere44...
+[2019.03.13-22.27.16:189][ 32]LogStaticMesh: Built static mesh [0.01s] /Game/Models/Tree/TreeWSG_pSphere44.TreeWSG_pSphere44
+[2019.03.13-22.27.16:192][ 32]LogStaticMesh: Building static mesh TreeWSG_pSphere45...
+[2019.03.13-22.27.16:206][ 32]LogStaticMesh: Built static mesh [0.01s] /Game/Models/Tree/TreeWSG_pSphere45.TreeWSG_pSphere45
+[2019.03.13-22.27.16:209][ 32]LogStaticMesh: Building static mesh TreeWSG_pSphere46...
+[2019.03.13-22.27.16:224][ 32]LogStaticMesh: Built static mesh [0.02s] /Game/Models/Tree/TreeWSG_pSphere46.TreeWSG_pSphere46
+[2019.03.13-22.27.16:227][ 32]LogStaticMesh: Building static mesh TreeWSG_pSphere47...
+[2019.03.13-22.27.16:236][ 32]LogStaticMesh: Built static mesh [0.01s] /Game/Models/Tree/TreeWSG_pSphere47.TreeWSG_pSphere47
+[2019.03.13-22.27.16:239][ 32]LogStaticMesh: Building static mesh TreeWSG_pSphere49...
+[2019.03.13-22.27.16:249][ 32]LogStaticMesh: Built static mesh [0.01s] /Game/Models/Tree/TreeWSG_pSphere49.TreeWSG_pSphere49
+[2019.03.13-22.27.16:252][ 32]LogStaticMesh: Building static mesh TreeWSG_pSphere4...
+[2019.03.13-22.27.16:265][ 32]LogStaticMesh: Built static mesh [0.01s] /Game/Models/Tree/TreeWSG_pSphere4.TreeWSG_pSphere4
+[2019.03.13-22.27.16:269][ 32]LogStaticMesh: Building static mesh TreeWSG_pSphere50...
+[2019.03.13-22.27.16:281][ 32]LogStaticMesh: Built static mesh [0.01s] /Game/Models/Tree/TreeWSG_pSphere50.TreeWSG_pSphere50
+[2019.03.13-22.27.16:285][ 32]LogStaticMesh: Building static mesh TreeWSG_pSphere55...
+[2019.03.13-22.27.16:299][ 32]LogStaticMesh: Built static mesh [0.01s] /Game/Models/Tree/TreeWSG_pSphere55.TreeWSG_pSphere55
+[2019.03.13-22.27.16:302][ 32]LogStaticMesh: Building static mesh TreeWSG_pSphere56...
+[2019.03.13-22.27.16:316][ 32]LogStaticMesh: Built static mesh [0.01s] /Game/Models/Tree/TreeWSG_pSphere56.TreeWSG_pSphere56
+[2019.03.13-22.27.16:319][ 32]LogStaticMesh: Building static mesh TreeWSG_pSphere57...
+[2019.03.13-22.27.16:333][ 32]LogStaticMesh: Built static mesh [0.01s] /Game/Models/Tree/TreeWSG_pSphere57.TreeWSG_pSphere57
+[2019.03.13-22.27.16:336][ 32]LogStaticMesh: Building static mesh TreeWSG_pSphere58...
+[2019.03.13-22.27.16:351][ 32]LogStaticMesh: Built static mesh [0.01s] /Game/Models/Tree/TreeWSG_pSphere58.TreeWSG_pSphere58
+[2019.03.13-22.27.16:354][ 32]LogStaticMesh: Building static mesh TreeWSG_pSphere59...
+[2019.03.13-22.27.16:365][ 32]LogStaticMesh: Built static mesh [0.01s] /Game/Models/Tree/TreeWSG_pSphere59.TreeWSG_pSphere59
+[2019.03.13-22.27.16:368][ 32]LogStaticMesh: Building static mesh TreeWSG_pSphere5...
+[2019.03.13-22.27.16:378][ 32]LogStaticMesh: Built static mesh [0.01s] /Game/Models/Tree/TreeWSG_pSphere5.TreeWSG_pSphere5
+[2019.03.13-22.27.16:382][ 32]LogStaticMesh: Building static mesh TreeWSG_pSphere60...
+[2019.03.13-22.27.16:397][ 32]LogShaderCompilers: Display: Shaders left to compile 94
+[2019.03.13-22.27.16:397][ 32]LogStaticMesh: Built static mesh [0.01s] /Game/Models/Tree/TreeWSG_pSphere60.TreeWSG_pSphere60
+[2019.03.13-22.27.16:400][ 32]LogStaticMesh: Building static mesh TreeWSG_pSphere62...
+[2019.03.13-22.27.16:411][ 32]LogStaticMesh: Built static mesh [0.01s] /Game/Models/Tree/TreeWSG_pSphere62.TreeWSG_pSphere62
+[2019.03.13-22.27.16:414][ 32]LogStaticMesh: Building static mesh TreeWSG_pSphere63...
+[2019.03.13-22.27.16:424][ 32]LogStaticMesh: Built static mesh [0.01s] /Game/Models/Tree/TreeWSG_pSphere63.TreeWSG_pSphere63
+[2019.03.13-22.27.16:427][ 32]LogShaderCompilers: Display: Shaders left to compile 84
+[2019.03.13-22.27.16:427][ 32]LogStaticMesh: Building static mesh TreeWSG_pSphere64...
+[2019.03.13-22.27.16:438][ 32]LogStaticMesh: Built static mesh [0.01s] /Game/Models/Tree/TreeWSG_pSphere64.TreeWSG_pSphere64
+[2019.03.13-22.27.16:441][ 32]LogStaticMesh: Building static mesh TreeWSG_pSphere65...
+[2019.03.13-22.27.16:456][ 32]LogStaticMesh: Built static mesh [0.01s] /Game/Models/Tree/TreeWSG_pSphere65.TreeWSG_pSphere65
+[2019.03.13-22.27.16:459][ 32]LogStaticMesh: Building static mesh TreeWSG_pSphere66...
+[2019.03.13-22.27.16:469][ 32]LogStaticMesh: Built static mesh [0.01s] /Game/Models/Tree/TreeWSG_pSphere66.TreeWSG_pSphere66
+[2019.03.13-22.27.16:472][ 32]LogStaticMesh: Building static mesh TreeWSG_pSphere69...
+[2019.03.13-22.27.16:487][ 32]LogStaticMesh: Built static mesh [0.01s] /Game/Models/Tree/TreeWSG_pSphere69.TreeWSG_pSphere69
+[2019.03.13-22.27.16:490][ 32]LogStaticMesh: Building static mesh TreeWSG_pSphere6...
+[2019.03.13-22.27.16:501][ 32]LogStaticMesh: Built static mesh [0.01s] /Game/Models/Tree/TreeWSG_pSphere6.TreeWSG_pSphere6
+[2019.03.13-22.27.16:504][ 32]LogStaticMesh: Building static mesh TreeWSG_pSphere70...
+[2019.03.13-22.27.16:518][ 32]LogStaticMesh: Built static mesh [0.01s] /Game/Models/Tree/TreeWSG_pSphere70.TreeWSG_pSphere70
+[2019.03.13-22.27.16:522][ 32]LogStaticMesh: Building static mesh TreeWSG_pSphere71...
+[2019.03.13-22.27.16:536][ 32]LogStaticMesh: Built static mesh [0.01s] /Game/Models/Tree/TreeWSG_pSphere71.TreeWSG_pSphere71
+[2019.03.13-22.27.16:539][ 32]LogStaticMesh: Building static mesh TreeWSG_pSphere7...
+[2019.03.13-22.27.16:552][ 32]LogStaticMesh: Built static mesh [0.01s] /Game/Models/Tree/TreeWSG_pSphere7.TreeWSG_pSphere7
+[2019.03.13-22.27.16:556][ 32]LogStaticMesh: Building static mesh TreeWSG_pSphere86...
+[2019.03.13-22.27.16:569][ 32]LogStaticMesh: Built static mesh [0.01s] /Game/Models/Tree/TreeWSG_pSphere86.TreeWSG_pSphere86
+[2019.03.13-22.27.16:573][ 32]LogStaticMesh: Building static mesh TreeWSG_pSphere88...
+[2019.03.13-22.27.16:583][ 32]LogStaticMesh: Built static mesh [0.01s] /Game/Models/Tree/TreeWSG_pSphere88.TreeWSG_pSphere88
+[2019.03.13-22.27.16:587][ 32]LogStaticMesh: Building static mesh TreeWSG_pSphere94...
+[2019.03.13-22.27.16:599][ 32]LogStaticMesh: Built static mesh [0.01s] /Game/Models/Tree/TreeWSG_pSphere94.TreeWSG_pSphere94
+[2019.03.13-22.27.16:602][ 32]LogStaticMesh: Building static mesh TreeWSG_pSphere95...
+[2019.03.13-22.27.16:616][ 32]LogStaticMesh: Built static mesh [0.01s] /Game/Models/Tree/TreeWSG_pSphere95.TreeWSG_pSphere95
+[2019.03.13-22.27.16:620][ 32]LogStaticMesh: Building static mesh TreeWSG_pSphere96...
+[2019.03.13-22.27.16:631][ 32]LogStaticMesh: Built static mesh [0.01s] /Game/Models/Tree/TreeWSG_pSphere96.TreeWSG_pSphere96
+[2019.03.13-22.27.16:633][ 32]LogStaticMesh: Building static mesh TreeWSG_Trunk...
+[2019.03.13-22.27.16:637][ 32]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Tree/TreeWSG_Trunk.TreeWSG_Trunk
+[2019.03.13-22.27.16:638][ 32]LogStaticMesh: Building static mesh WallsWSG_pCube10...
+[2019.03.13-22.27.16:640][ 32]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Walls/WallsWSG_pCube10.WallsWSG_pCube10
+[2019.03.13-22.27.16:640][ 32]LogStaticMesh: Building static mesh WallsWSG_pCube11...
+[2019.03.13-22.27.16:642][ 32]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Walls/WallsWSG_pCube11.WallsWSG_pCube11
+[2019.03.13-22.27.16:643][ 32]LogStaticMesh: Building static mesh WallsWSG_pCube21...
+[2019.03.13-22.27.16:646][ 32]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Walls/WallsWSG_pCube21.WallsWSG_pCube21
+[2019.03.13-22.27.16:648][ 32]LogStaticMesh: Building static mesh WallsWSG_pCube8...
+[2019.03.13-22.27.16:651][ 32]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Walls/WallsWSG_pCube8.WallsWSG_pCube8
+[2019.03.13-22.27.16:653][ 32]LogStaticMesh: Building static mesh Window...
+[2019.03.13-22.27.16:673][ 32]LogStaticMesh: Built static mesh [0.02s] /Game/Models/Window/Window.Window
+[2019.03.13-22.27.17:158][ 32]LogStaticMesh: Building static mesh WreathWSG...
+[2019.03.13-22.27.58:234][ 32]LogShaderCompilers: Display: Shaders left to compile 74
+[2019.03.13-22.27.58:234][ 32]LogShaderCompilers: Display: Shaders left to compile 64
+[2019.03.13-22.27.58:234][ 32]LogShaderCompilers: Display: Shaders left to compile 54
+[2019.03.13-22.27.58:234][ 32]LogShaderCompilers: Display: Shaders left to compile 44
+[2019.03.13-22.27.58:234][ 32]LogShaderCompilers: Display: Shaders left to compile 34
+[2019.03.13-22.27.58:234][ 32]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.03.13-22.27.58:234][ 32]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.03.13-22.27.58:234][ 32]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.03.13-22.27.58:234][ 32]LogStaticMesh: Built static mesh [41.08s] /Game/Models/Wreath/WreathWSG.WreathWSG
+[2019.03.13-22.27.58:272][ 32]LogMaterial: Display: Missing cached shader map for material TreeMain, compiling. 
+[2019.03.13-22.27.58:287][ 32]LogMaterial: Display: Missing cached shader map for material Window1, compiling. 
+[2019.03.13-22.27.58:304][ 32]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.03.13-22.27.58:304][ 32]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.03.13-22.27.58:304][ 32]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.03.13-22.27.58:304][ 32]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.03.13-22.27.58:304][ 32]LogMaterial: Display: Missing cached shader map for material Wall, compiling. 
+[2019.03.13-22.27.58:320][ 32]LogMaterial: Display: Missing cached shader map for material TreeTrunk, compiling. 
+[2019.03.13-22.27.58:344][ 32]LogShaderCompilers: Display: Shaders left to compile 62
+[2019.03.13-22.27.58:344][ 32]LogShaderCompilers: Display: Shaders left to compile 52
+[2019.03.13-22.27.58:344][ 32]LogShaderCompilers: Display: Shaders left to compile 42
+[2019.03.13-22.27.58:344][ 32]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.03.13-22.27.58:344][ 32]LogMaterial: Display: Missing cached shader map for material Lights1, compiling. 
+[2019.03.13-22.27.58:366][ 32]LogMaterial: Display: Missing cached shader map for material Ornament, compiling. 
+[2019.03.13-22.27.58:396][ 32]LogMaterial: Display: Missing cached shader map for material Star, compiling. 
+[2019.03.13-22.27.58:423][ 32]LogMaterial: Display: Missing cached shader map for material TreeMain, compiling. 
+[2019.03.13-22.27.58:504][ 32]LogMaterial: Display: Missing cached shader map for material lambert3, compiling. 
+[2019.03.13-22.27.58:541][ 32]LogMaterial: Display: Missing cached shader map for material Stocking, compiling. 
+[2019.03.13-22.27.58:574][ 32]LogMaterial: Display: Missing cached shader map for material WoodLogs, compiling. 
+[2019.03.13-22.27.58:607][ 32]LogMaterial: Display: Missing cached shader map for material ChairSideBlack, compiling. 
+[2019.03.13-22.27.58:638][ 32]LogShaderCompilers: Display: Shaders left to compile 270
+[2019.03.13-22.27.58:639][ 32]LogMaterial: Display: Missing cached shader map for material DarkGrey, compiling. 
+[2019.03.13-22.27.58:673][ 32]LogMaterial: Display: Missing cached shader map for material Cyan, compiling. 
+[2019.03.13-22.27.58:711][ 32]LogMaterial: Display: Missing cached shader map for material PhongCyan, compiling. 
+[2019.03.13-22.27.58:745][ 32]LogMaterial: Display: Missing cached shader map for material Star, compiling. 
+[2019.03.13-22.27.58:805][ 32]LogMaterial: Display: Missing cached shader map for material Rug, compiling. 
+[2019.03.13-22.27.58:861][ 32]LogSkeletalMesh: Building Skeletal Mesh Flames...
+[2019.03.13-22.27.58:873][ 32]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/Models/Flame/Flames.Flames
+[2019.03.13-22.27.58:890][ 32]LogMaterial: Display: Missing cached shader map for material FirePlace1, compiling. 
+[2019.03.13-22.27.58:925][ 32]LogMaterial: Display: Missing cached shader map for material lambert3, compiling. 
+[2019.03.13-22.27.58:963][ 32]LogMaterial: Display: Missing cached shader map for material Dreidel1, compiling. 
+[2019.03.13-22.27.59:001][ 32]LogMaterial: Display: Missing cached shader map for material CouchTexture, compiling. 
+[2019.03.13-22.27.59:039][ 32]LogMaterial: Display: Missing cached shader map for material CouchTexture, compiling. 
+[2019.03.13-22.27.59:074][ 32]LogMaterial: Display: Missing cached shader map for material CouchTexture, compiling. 
+[2019.03.13-22.27.59:129][ 32]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave BearTrapHigh...
+[2019.03.13-22.27.59:173][ 32]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 191880 while cooking SoundWave /Game/Sounds/HighSoundEffects/BearTrapHigh.BearTrapHigh.
+[2019.03.13-22.27.59:174][ 32]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave ArmyDudesHigh...
+[2019.03.13-22.27.59:218][ 32]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 106732 while cooking SoundWave /Game/Sounds/HighSoundEffects/ArmyDudesHigh.ArmyDudesHigh.
+[2019.03.13-22.27.59:282][ 32]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave TickHigh...
+[2019.03.13-22.27.59:324][ 32]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 125656 while cooking SoundWave /Game/Sounds/HighSoundEffects/TickHigh.TickHigh.
+[2019.03.13-22.27.59:326][ 32]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave ToiletHigh...
+[2019.03.13-22.27.59:382][ 32]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 198024 while cooking SoundWave /Game/Sounds/HighSoundEffects/ToiletHigh.ToiletHigh.
+[2019.03.13-22.27.59:383][ 32]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave WaterHigh...
+[2019.03.13-22.27.59:435][ 32]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 256912 while cooking SoundWave /Game/Sounds/HighSoundEffects/WaterHigh.WaterHigh.
+[2019.03.13-22.27.59:439][ 32]LogMaterial: Display: Missing cached shader map for material Floor, compiling. 
+[2019.03.13-22.27.59:471][ 32]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave WetSocksCut...
+[2019.03.13-22.27.59:514][ 32]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 156260 while cooking SoundWave /Game/Sounds/SoundEffects/WetSocksCut.WetSocksCut.
+[2019.03.13-22.27.59:515][ 32]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave WetSlapCut...
+[2019.03.13-22.27.59:546][ 32]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 91908 while cooking SoundWave /Game/Sounds/SoundEffects/WetSlapCut.WetSlapCut.
+[2019.03.13-22.27.59:547][ 32]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave WaterCut...
+[2019.03.13-22.27.59:614][ 32]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 256916 while cooking SoundWave /Game/Sounds/SoundEffects/WaterCut.WaterCut.
+[2019.03.13-22.27.59:614][ 32]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Toilet...
+[2019.03.13-22.27.59:732][ 32]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 628904 while cooking SoundWave /Game/Sounds/SoundEffects/Toilet.Toilet.
+[2019.03.13-22.27.59:733][ 32]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave SweaterCut...
+[2019.03.13-22.27.59:767][ 32]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 156748 while cooking SoundWave /Game/Sounds/SoundEffects/SweaterCut.SweaterCut.
+[2019.03.13-22.27.59:768][ 32]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave RockCut...
+[2019.03.13-22.27.59:819][ 32]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 154984 while cooking SoundWave /Game/Sounds/SoundEffects/RockCut.RockCut.
+[2019.03.13-22.27.59:820][ 32]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave TickCut...
+[2019.03.13-22.27.59:857][ 32]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 157004 while cooking SoundWave /Game/Sounds/SoundEffects/TickCut.TickCut.
+[2019.03.13-22.27.59:857][ 32]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave SweaterHigh...
+[2019.03.13-22.27.59:893][ 32]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 156748 while cooking SoundWave /Game/Sounds/HighSoundEffects/SweaterHigh.SweaterHigh.
+[2019.03.13-22.27.59:893][ 32]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave BookHigh...
+[2019.03.13-22.27.59:961][ 32]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 295968 while cooking SoundWave /Game/Sounds/HighSoundEffects/BookHigh.BookHigh.
+[2019.03.13-22.27.59:962][ 32]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave CandyCanesHigh...
+[2019.03.13-22.28.00:010][ 32]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 136104 while cooking SoundWave /Game/Sounds/HighSoundEffects/CandyCanesHigh.CandyCanesHigh.
+[2019.03.13-22.28.00:012][ 32]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave RockHigh...
+[2019.03.13-22.28.00:060][ 32]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 155024 while cooking SoundWave /Game/Sounds/HighSoundEffects/RockHigh.RockHigh.
+[2019.03.13-22.28.00:060][ 32]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave CandyBagHigh...
+[2019.03.13-22.28.00:105][ 32]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 222240 while cooking SoundWave /Game/Sounds/HighSoundEffects/CandyBagHigh.CandyBagHigh.
+[2019.03.13-22.28.00:105][ 32]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave WetSlapHigh...
+[2019.03.13-22.28.00:138][ 32]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 91904 while cooking SoundWave /Game/Sounds/HighSoundEffects/WetSlapHigh.WetSlapHigh.
+[2019.03.13-22.28.00:138][ 32]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave WetSocksHigh...
+[2019.03.13-22.28.00:186][ 32]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 156256 while cooking SoundWave /Game/Sounds/HighSoundEffects/WetSocksHigh.WetSocksHigh.
+[2019.03.13-22.28.00:187][ 32]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave ArmyDudesCut...
+[2019.03.13-22.28.00:230][ 32]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 106732 while cooking SoundWave /Game/Sounds/SoundEffects/ArmyDudesCut.ArmyDudesCut.
+[2019.03.13-22.28.00:231][ 32]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave BearTrapCut...
+[2019.03.13-22.28.00:269][ 32]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 191848 while cooking SoundWave /Game/Sounds/SoundEffects/BearTrapCut.BearTrapCut.
+[2019.03.13-22.28.00:270][ 32]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave CandyCanes...
+[2019.03.13-22.28.00:319][ 32]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 198780 while cooking SoundWave /Game/Sounds/SoundEffects/CandyCanes.CandyCanes.
+[2019.03.13-22.28.00:320][ 32]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave GiftCard...
+[2019.03.13-22.28.00:360][ 32]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 160456 while cooking SoundWave /Game/Sounds/SoundEffects/GiftCard.GiftCard.
+[2019.03.13-22.28.00:376][ 32]LogShaderCompilers: Display: Shaders left to compile 721
+[2019.03.13-22.28.00:376][ 32]LogAIModule: Creating AISystem for world MainGame
+[2019.03.13-22.28.00:425][ 32]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/MainGame.MainGame
+[2019.03.13-22.28.00:510][ 32]Cmd: MAP LOAD FILE="../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Content/Maps/MainGame.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.03.13-22.28.00:510][ 32]LightingResults: New page: Lighting Build
+[2019.03.13-22.28.00:511][ 32]LoadErrors: New page: Loading map: MainGame.umap
+[2019.03.13-22.28.00:512][ 32]MapCheck: New page: Map Check
+[2019.03.13-22.28.00:512][ 32]LightingResults: New page: Lighting Build
+[2019.03.13-22.28.00:609][ 32]LogShaderCompilers: Display: Shaders left to compile 711
+[2019.03.13-22.28.00:639][ 32]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.03.13-22.28.00:718][ 32]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.03.13-22.28.00:718][ 32]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.18ms to complete.
+[2019.03.13-22.28.00:718][ 32]LogFileHelpers: Loading map 'MainGame' took 0.209
+[2019.03.13-22.28.00:762][ 32]LogShaderCompilers: Display: Shaders left to compile 701
+[2019.03.13-22.28.02:092][ 88]LogShaderCompilers: Display: Shaders left to compile 691
+[2019.03.13-22.28.02:311][ 96]LogShaderCompilers: Display: Shaders left to compile 681
+[2019.03.13-22.28.02:350][ 98]LogShaderCompilers: Display: Shaders left to compile 671
+[2019.03.13-22.28.02:485][103]LogShaderCompilers: Display: Shaders left to compile 661
+[2019.03.13-22.28.02:590][106]LogShaderCompilers: Display: Shaders left to compile 651
+[2019.03.13-22.28.02:610][107]LogShaderCompilers: Display: Shaders left to compile 641
+[2019.03.13-22.28.04:257][156]LogShaderCompilers: Display: Shaders left to compile 631
+[2019.03.13-22.28.04:267][156]LogShaderCompilers: Display: Shaders left to compile 621
+[2019.03.13-22.28.04:513][164]LogShaderCompilers: Display: Shaders left to compile 611
+[2019.03.13-22.28.04:930][176]LogShaderCompilers: Display: Shaders left to compile 601
+[2019.03.13-22.28.05:555][195]LogShaderCompilers: Display: Shaders left to compile 591
+[2019.03.13-22.28.05:612][197]LogShaderCompilers: Display: Shaders left to compile 581
+[2019.03.13-22.28.05:828][203]LogShaderCompilers: Display: Shaders left to compile 571
+[2019.03.13-22.28.06:129][212]LogShaderCompilers: Display: Shaders left to compile 561
+[2019.03.13-22.28.06:705][229]LogShaderCompilers: Display: Shaders left to compile 551
+[2019.03.13-22.28.07:325][248]LogShaderCompilers: Display: Shaders left to compile 541
+[2019.03.13-22.28.08:097][271]LogShaderCompilers: Display: Shaders left to compile 531
+[2019.03.13-22.28.08:281][277]LogShaderCompilers: Display: Shaders left to compile 521
+[2019.03.13-22.28.08:314][278]LogShaderCompilers: Display: Shaders left to compile 511
+[2019.03.13-22.28.08:614][287]LogShaderCompilers: Display: Shaders left to compile 501
+[2019.03.13-22.28.09:165][303]LogShaderCompilers: Display: Shaders left to compile 491
+[2019.03.13-22.28.09:280][307]LogShaderCompilers: Display: Shaders left to compile 481
+[2019.03.13-22.28.09:304][307]LogShaderCompilers: Display: Shaders left to compile 471
+[2019.03.13-22.28.10:713][350]LogShaderCompilers: Display: Shaders left to compile 461
+[2019.03.13-22.28.11:063][360]LogShaderCompilers: Display: Shaders left to compile 451
+[2019.03.13-22.28.11:233][365]LogShaderCompilers: Display: Shaders left to compile 441
+[2019.03.13-22.28.11:595][376]LogShaderCompilers: Display: Shaders left to compile 431
+[2019.03.13-22.28.11:899][385]LogShaderCompilers: Display: Shaders left to compile 421
+[2019.03.13-22.28.12:030][389]LogShaderCompilers: Display: Shaders left to compile 411
+[2019.03.13-22.28.12:729][410]LogShaderCompilers: Display: Shaders left to compile 401
+[2019.03.13-22.28.12:763][411]LogShaderCompilers: Display: Shaders left to compile 391
+[2019.03.13-22.28.12:824][413]LogShaderCompilers: Display: Shaders left to compile 381
+[2019.03.13-22.28.13:415][431]LogShaderCompilers: Display: Shaders left to compile 371
+[2019.03.13-22.28.14:600][466]LogShaderCompilers: Display: Shaders left to compile 361
+[2019.03.13-22.28.14:672][468]LogShaderCompilers: Display: Shaders left to compile 351
+[2019.03.13-22.28.14:691][469]LogShaderCompilers: Display: Shaders left to compile 341
+[2019.03.13-22.28.15:499][493]LogShaderCompilers: Display: Shaders left to compile 331
+[2019.03.13-22.28.15:582][496]LogShaderCompilers: Display: Shaders left to compile 321
+[2019.03.13-22.28.15:680][499]LogShaderCompilers: Display: Shaders left to compile 311
+[2019.03.13-22.28.16:102][511]LogShaderCompilers: Display: Shaders left to compile 301
+[2019.03.13-22.28.16:530][524]LogShaderCompilers: Display: Shaders left to compile 291
+[2019.03.13-22.28.17:057][540]LogShaderCompilers: Display: Shaders left to compile 281
+[2019.03.13-22.28.17:884][565]LogShaderCompilers: Display: Shaders left to compile 271
+[2019.03.13-22.28.18:313][578]LogShaderCompilers: Display: Shaders left to compile 261
+[2019.03.13-22.28.18:390][579]LogShaderCompilers: Display: Shaders left to compile 251
+[2019.03.13-22.28.18:548][585]LogShaderCompilers: Display: Shaders left to compile 241
+[2019.03.13-22.28.18:649][588]LogShaderCompilers: Display: Shaders left to compile 231
+[2019.03.13-22.28.19:228][605]LogShaderCompilers: Display: Shaders left to compile 221
+[2019.03.13-22.28.19:394][610]LogShaderCompilers: Display: Shaders left to compile 211
+[2019.03.13-22.28.20:089][631]LogShaderCompilers: Display: Shaders left to compile 201
+[2019.03.13-22.28.20:933][656]LogShaderCompilers: Display: Shaders left to compile 191
+[2019.03.13-22.28.21:050][660]LogShaderCompilers: Display: Shaders left to compile 181
+[2019.03.13-22.28.21:098][661]LogShaderCompilers: Display: Shaders left to compile 171
+[2019.03.13-22.28.21:652][678]LogShaderCompilers: Display: Shaders left to compile 161
+[2019.03.13-22.28.22:039][689]LogShaderCompilers: Display: Shaders left to compile 151
+[2019.03.13-22.28.22:265][696]LogShaderCompilers: Display: Shaders left to compile 141
+[2019.03.13-22.28.22:430][701]LogShaderCompilers: Display: Shaders left to compile 131
+[2019.03.13-22.28.23:450][732]LogShaderCompilers: Display: Shaders left to compile 121
+[2019.03.13-22.28.23:934][746]LogShaderCompilers: Display: Shaders left to compile 111
+[2019.03.13-22.28.23:954][747]LogShaderCompilers: Display: Shaders left to compile 101
+[2019.03.13-22.28.24:436][761]LogShaderCompilers: Display: Shaders left to compile 91
+[2019.03.13-22.28.24:929][776]LogShaderCompilers: Display: Shaders left to compile 81
+[2019.03.13-22.28.24:957][777]LogShaderCompilers: Display: Shaders left to compile 71
+[2019.03.13-22.28.25:703][799]LogShaderCompilers: Display: Shaders left to compile 61
+[2019.03.13-22.28.26:007][808]LogShaderCompilers: Display: Shaders left to compile 51
+[2019.03.13-22.28.26:198][814]LogShaderCompilers: Display: Shaders left to compile 41
+[2019.03.13-22.28.27:227][845]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.03.13-22.28.27:348][849]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.03.13-22.28.28:131][872]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.03.13-22.28.28:402][880]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.03.13-22.28.52:306][231]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (51.486 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.13-22.31.26:659][702]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/ShakeCamera.ShakeCamera
+[2019.03.13-22.31.27:334][702]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 117 classes and 0 folders.
+[2019.03.13-22.31.29:391][748]LogSlate: Window 'ShakeCamera' being destroyed
+[2019.03.13-22.31.29:427][748]LogSlate: Window 'ShakeCamera' being destroyed
+[2019.03.13-22.31.30:896][815]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/ShakeControl.ShakeControl
+[2019.03.13-22.31.31:248][815]LogSlate: Took 0.003313 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.03.13-22.31.53:947][321]LogSlate: Took 0.014318 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.03.13-22.33.28:157][201]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.03.13-22.33.28:175][201]LogD3D11RHI: Error: Result failed 
+ at D:\Build\++UE4\Sync\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11Query.cpp:140 
+ with error DXGI_ERROR_DEVICE_REMOVED DXGI_ERROR_DEVICE_HUNG
+[2019.03.13-22.33.28:175][201]LogD3D11RHI: [Aftermath] GDynamicRHI=00000225873300C0, GDX11NVAfterMathEnabled=0, Result=0xFFFFFFFF, bDeviceActive=0
+[2019.03.13-22.33.28:175][201]LogWindows: Windows GetLastError: The operation completed successfully. (0)
