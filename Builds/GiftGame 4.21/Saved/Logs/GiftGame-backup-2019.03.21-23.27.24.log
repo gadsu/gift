@@ -1,0 +1,1337 @@
+﻿Log file open, 03/21/19 17:31:48
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: GiftGame
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 1.790558
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.172s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.007s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.03.21-22.31.49:264][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.03.21-22.31.49:264][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.03.21-22.31.49:265][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/Config/Windows/Engine.ini]
+[2019.03.21-22.31.49:265][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.03.21-22.31.49:265][  0]LogConfig: Setting CVar [[r.MobileHDR:0]]
+[2019.03.21-22.31.49:265][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:1]]
+[2019.03.21-22.31.49:265][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxMobileCascades:2]]
+[2019.03.21-22.31.49:265][  0]LogConfig: Setting CVar [[r.MobileMSAA:1]]
+[2019.03.21-22.31.49:265][  0]LogConfig: Setting CVar [[r.Mobile.UseLegacyShadingModel:0]]
+[2019.03.21-22.31.49:265][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
+[2019.03.21-22.31.49:265][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2019.03.21-22.31.49:265][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2019.03.21-22.31.49:265][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2019.03.21-22.31.49:265][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+[2019.03.21-22.31.49:265][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2019.03.21-22.31.49:265][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2019.03.21-22.31.49:265][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2019.03.21-22.31.49:265][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:0]]
+[2019.03.21-22.31.49:265][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2019.03.21-22.31.49:265][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+[2019.03.21-22.31.49:265][  0]LogConfig: Setting CVar [[r.ForwardShading:0]]
+[2019.03.21-22.31.49:265][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:1]]
+[2019.03.21-22.31.49:265][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2019.03.21-22.31.49:265][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2019.03.21-22.31.49:265][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2019.03.21-22.31.49:265][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
+[2019.03.21-22.31.49:265][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:0]]
+[2019.03.21-22.31.49:265][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:0]]
+[2019.03.21-22.31.49:265][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2019.03.21-22.31.49:265][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2019.03.21-22.31.49:265][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2019.03.21-22.31.49:265][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2019.03.21-22.31.49:265][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
+[2019.03.21-22.31.49:265][  0]LogConfig: Setting CVar [[r.PostProcessing.PropagateAlpha:0]]
+[2019.03.21-22.31.49:265][  0]LogConfig: Setting CVar [[r.DOF.Algorithm:1]]
+[2019.03.21-22.31.49:265][  0]LogConfig: Setting CVar [[r.UsePreExposure:0]]
+[2019.03.21-22.31.49:265][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:0]]
+[2019.03.21-22.31.49:265][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2019.03.21-22.31.49:265][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+[2019.03.21-22.31.49:265][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2019.03.21-22.31.49:265][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2019.03.21-22.31.49:265][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2019.03.21-22.31.49:265][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2019.03.21-22.31.49:265][  0]LogConfig: Setting CVar [[r.TemporalAA.Upsampling:0]]
+[2019.03.21-22.31.49:265][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:0]]
+[2019.03.21-22.31.49:265][  0]LogConfig: Setting CVar [[r.DefaultBackBufferPixelFormat:4]]
+[2019.03.21-22.31.49:265][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+[2019.03.21-22.31.49:265][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
+[2019.03.21-22.31.49:265][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2019.03.21-22.31.49:266][  0]LogConfig: Setting CVar [[r.EarlyZPassMovable:1]]
+[2019.03.21-22.31.49:266][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+[2019.03.21-22.31.49:266][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2019.03.21-22.31.49:266][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2019.03.21-22.31.49:266][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
+[2019.03.21-22.31.49:266][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
+[2019.03.21-22.31.49:266][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeX:1024]]
+[2019.03.21-22.31.49:266][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeY:1024]]
+[2019.03.21-22.31.49:266][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
+[2019.03.21-22.31.49:266][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2019.03.21-22.31.49:266][  0]LogConfig: Setting CVar [[r.MorphTarget.Mode:1]]
+[2019.03.21-22.31.49:266][  0]LogConfig: Setting CVar [[vr.InstancedStereo:0]]
+[2019.03.21-22.31.49:266][  0]LogConfig: Setting CVar [[vr.MultiView:0]]
+[2019.03.21-22.31.49:266][  0]LogConfig: Setting CVar [[vr.MobileMultiView:0]]
+[2019.03.21-22.31.49:266][  0]LogConfig: Setting CVar [[vr.MobileMultiView.Direct:0]]
+[2019.03.21-22.31.49:266][  0]LogConfig: Setting CVar [[vr.MonoscopicFarField:0]]
+[2019.03.21-22.31.49:266][  0]LogConfig: Setting CVar [[vr.ODSCapture:0]]
+[2019.03.21-22.31.49:266][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2019.03.21-22.31.49:266][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:1]]
+[2019.03.21-22.31.49:266][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:1]]
+[2019.03.21-22.31.49:266][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
+[2019.03.21-22.31.49:266][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:1]]
+[2019.03.21-22.31.49:266][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
+[2019.03.21-22.31.49:266][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
+[2019.03.21-22.31.49:266][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableLightCSMShaderCulling:1]]
+[2019.03.21-22.31.49:266][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
+[2019.03.21-22.31.49:266][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+[2019.03.21-22.31.49:266][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:4]]
+[2019.03.21-22.31.49:266][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
+[2019.03.21-22.31.49:266][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+[2019.03.21-22.31.49:266][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+[2019.03.21-22.31.49:266][  0]LogConfig: Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
+[2019.03.21-22.31.49:266][  0]LogConfig: Setting CVar [[r.SupportReversedIndexBuffers:1]]
+[2019.03.21-22.31.49:266][  0]LogConfig: Setting CVar [[r.SupportMaterialLayers:0]]
+[2019.03.21-22.31.49:266][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/Config/Windows/Engine.ini]
+[2019.03.21-22.31.49:266][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/Config/Windows/Engine.ini]
+[2019.03.21-22.31.49:266][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.03.21-22.31.49:266][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.03.21-22.31.49:267][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.03.21-22.31.49:267][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.03.21-22.31.49:267][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.03.21-22.31.49:267][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.03.21-22.31.49:267][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.03.21-22.31.49:267][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.03.21-22.31.49:267][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.03.21-22.31.49:267][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.03.21-22.31.49:267][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.03.21-22.31.49:267][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.03.21-22.31.49:267][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.03.21-22.31.49:267][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/Config/Windows/Engine.ini]
+[2019.03.21-22.31.49:267][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.03.21-22.31.49:267][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.03.21-22.31.49:267][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.03.21-22.31.49:267][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.03.21-22.31.49:267][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.03.21-22.31.49:267][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.03.21-22.31.49:267][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.03.21-22.31.49:267][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.03.21-22.31.49:267][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.03.21-22.31.49:267][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.03.21-22.31.49:267][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.03.21-22.31.49:267][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.03.21-22.31.49:267][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.03.21-22.31.49:267][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.03.21-22.31.49:267][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/Config/Windows/Engine.ini]
+[2019.03.21-22.31.49:267][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/Config/Windows/Engine.ini]
+[2019.03.21-22.31.49:273][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.03.21-22.31.49:273][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.03.21-22.31.49:273][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.03.21-22.31.49:273][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.03.21-22.31.49:273][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.03.21-22.31.49:273][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.03.21-22.31.49:273][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.03.21-22.31.49:273][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.03.21-22.31.49:273][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.03.21-22.31.49:273][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.03.21-22.31.49:273][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.03.21-22.31.49:273][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.03.21-22.31.49:273][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.03.21-22.31.49:273][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.03.21-22.31.49:273][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.03.21-22.31.49:273][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.03.21-22.31.49:273][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.03.21-22.31.49:273][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.03.21-22.31.49:273][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.03.21-22.31.49:273][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.03.21-22.31.49:273][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.03.21-22.31.49:273][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.03.21-22.31.49:273][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.03.21-22.31.49:273][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.03.21-22.31.49:273][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.03.21-22.31.49:273][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.03.21-22.31.49:273][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.03.21-22.31.49:273][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.03.21-22.31.49:273][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.03.21-22.31.49:273][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.03.21-22.31.49:273][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.03.21-22.31.49:273][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.03.21-22.31.49:273][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.03.21-22.31.49:273][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.03.21-22.31.49:273][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.03.21-22.31.49:273][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.03.21-22.31.49:273][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.03.21-22.31.49:273][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.03.21-22.31.49:273][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.03.21-22.31.49:273][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.03.21-22.31.49:273][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.03.21-22.31.49:273][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.03.21-22.31.49:273][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.03.21-22.31.49:273][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.03.21-22.31.49:273][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.03.21-22.31.49:274][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.03.21-22.31.49:274][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.03.21-22.31.49:274][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.03.21-22.31.49:274][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.03.21-22.31.49:274][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.03.21-22.31.49:274][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.03.21-22.31.49:274][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.03.21-22.31.49:274][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.03.21-22.31.49:274][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.03.21-22.31.49:274][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.03.21-22.31.49:274][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.03.21-22.31.49:274][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.03.21-22.31.49:274][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.03.21-22.31.49:274][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.03.21-22.31.49:274][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.03.21-22.31.49:274][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.03.21-22.31.49:274][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.03.21-22.31.49:274][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.03.21-22.31.49:274][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.03.21-22.31.49:274][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.03.21-22.31.49:274][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.03.21-22.31.49:274][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.03.21-22.31.49:274][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.03.21-22.31.49:274][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.03.21-22.31.49:274][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.03.21-22.31.49:274][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.03.21-22.31.49:274][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.03.21-22.31.49:274][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.03.21-22.31.49:274][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.03.21-22.31.49:274][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.03.21-22.31.49:274][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.03.21-22.31.49:274][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.03.21-22.31.49:274][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.03.21-22.31.49:274][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.03.21-22.31.49:274][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.03.21-22.31.49:274][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.03.21-22.31.49:275][  0]LogInit: Selected Device Profile: [Windows]
+[2019.03.21-22.31.49:275][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.03.21-22.31.49:306][  0]LogHAL: Display: Platform has ~ 16 GB [17078124544 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.03.21-22.31.49:307][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.03.21-22.31.49:307][  0]LogInit: Going up to parent DeviceProfile []
+[2019.03.21-22.31.49:307][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.03.21-22.31.49:307][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.03.21-22.31.49:307][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.03.21-22.31.49:307][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.03.21-22.31.49:307][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.03.21-22.31.49:307][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.03.21-22.31.49:307][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.03.21-22.31.49:307][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.03.21-22.31.49:307][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.03.21-22.31.49:307][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.03.21-22.31.49:307][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.03.21-22.31.49:308][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.03.21-22.31.49:308][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.03.21-22.31.49:308][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.03.21-22.31.49:308][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.03.21-22.31.49:308][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.03.21-22.31.49:308][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.03.21-22.31.49:308][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.03.21-22.31.49:308][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.03.21-22.31.49:308][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.03.21-22.31.49:308][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.03.21-22.31.49:308][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.03.21-22.31.49:308][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.03.21-22.31.49:308][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.03.21-22.31.49:308][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.03.21-22.31.49:308][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.03.21-22.31.49:308][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.03.21-22.31.49:308][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.03.21-22.31.49:308][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.03.21-22.31.49:308][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.03.21-22.31.49:308][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.03.21-22.31.49:308][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.03.21-22.31.49:308][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.03.21-22.31.49:308][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.03.21-22.31.49:308][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.03.21-22.31.49:309][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.03.21-22.31.49:309][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.03.21-22.31.49:309][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.03.21-22.31.49:309][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.03.21-22.31.49:309][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.03.21-22.31.49:309][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.03.21-22.31.49:309][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.03.21-22.31.49:309][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.03.21-22.31.49:309][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.03.21-22.31.49:309][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.03.21-22.31.49:309][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.03.21-22.31.49:309][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.03.21-22.31.49:309][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.03.21-22.31.49:309][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.03.21-22.31.49:309][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.03.21-22.31.49:309][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.03.21-22.31.49:309][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.03.21-22.31.49:309][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.03.21-22.31.49:309][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.03.21-22.31.49:309][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.03.21-22.31.49:309][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.03.21-22.31.49:309][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.03.21-22.31.49:309][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.03.21-22.31.49:309][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.03.21-22.31.49:309][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.03.21-22.31.49:309][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.03.21-22.31.49:309][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.03.21-22.31.49:309][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.03.21-22.31.49:309][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.03.21-22.31.49:309][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.03.21-22.31.49:309][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.03.21-22.31.49:309][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.03.21-22.31.49:309][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.03.21-22.31.49:309][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.03.21-22.31.49:309][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.03.21-22.31.49:309][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.03.21-22.31.49:309][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.03.21-22.31.49:309][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.03.21-22.31.49:309][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.03.21-22.31.49:309][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.03.21-22.31.49:309][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.03.21-22.31.49:309][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.03.21-22.31.49:309][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.03.21-22.31.49:309][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.03.21-22.31.49:309][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.03.21-22.31.49:309][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.03.21-22.31.49:309][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.03.21-22.31.49:319][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.03.21-22.31.49:319][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/Config/Windows/Engine.ini]
+[2019.03.21-22.31.49:322][  0]LogInit: Computer: RAZER-BLADE
+[2019.03.21-22.31.49:322][  0]LogInit: User: Phenrear
+[2019.03.21-22.31.49:322][  0]LogInit: CPU Page size=4096, Cores=6
+[2019.03.21-22.31.49:322][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.03.21-22.31.49:323][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.03.21-22.31.49:323][  0]LogMemory: Platform Memory Stats for Windows
+[2019.03.21-22.31.49:323][  0]LogMemory: Process Physical Memory: 103.62 MB used, 103.63 MB peak
+[2019.03.21-22.31.49:323][  0]LogMemory: Process Virtual Memory: 86.18 MB used, 86.18 MB peak
+[2019.03.21-22.31.49:323][  0]LogMemory: Physical Memory: 4820.83 MB used,  11466.14 MB free, 16286.97 MB total
+[2019.03.21-22.31.49:323][  0]LogMemory: Virtual Memory: 4662.29 MB used,  134213064.00 MB free, 134217728.00 MB total
+[2019.03.21-22.31.49:737][  0]LogInit: Using OS detected language (en-US).
+[2019.03.21-22.31.49:737][  0]LogInit: Using OS detected locale (en-US).
+[2019.03.21-22.31.49:743][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.03.21-22.31.50:715][  0]LogStreaming: Display: Took  0.978s to InitEngineTextLocalization.
+[2019.03.21-22.31.50:715][  0]LogInit: Setting process to per monitor DPI aware
+[2019.03.21-22.31.50:941][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.03.21-22.31.50:941][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.03.21-22.31.55:918][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.03.21-22.31.55:918][  0]LogD3D11RHI: D3D11 adapters:
+[2019.03.21-22.31.56:934][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070 with Max-Q Design' (Feature Level 11_0)
+[2019.03.21-22.31.56:934][  0]LogD3D11RHI:       8082/0/8143 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.03.21-22.31.56:959][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2019.03.21-22.31.56:959][  0]LogD3D11RHI:       128/0/8143 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.03.21-22.31.56:961][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.03.21-22.31.56:961][  0]LogD3D11RHI:       0/0/8143 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.03.21-22.31.56:961][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.03.21-22.31.56:985][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.03.21-22.31.56:986][  0]LogD3D11RHI:     GPU DeviceId: 0x1ba1 (for the marketing name, search the web for "GPU Device Id")
+[2019.03.21-22.31.56:986][  0]LogWindows: EnumDisplayDevices:
+[2019.03.21-22.31.56:986][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2019.03.21-22.31.56:987][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.03.21-22.31.56:987][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.03.21-22.31.56:988][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070 with Max-Q Design' (P:0 D:0)
+[2019.03.21-22.31.56:988][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1070 with Max-Q Design' (P:0 D:0)
+[2019.03.21-22.31.56:989][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1070 with Max-Q Design' (P:0 D:0)
+[2019.03.21-22.31.56:989][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1070 with Max-Q Design' (P:0 D:0)
+[2019.03.21-22.31.56:990][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2019.03.21-22.31.56:990][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070 with Max-Q Design
+[2019.03.21-22.31.56:990][  0]LogD3D11RHI:   Driver Version: 419.35 (internal:25.21.14.1935, unified:419.35)
+[2019.03.21-22.31.56:990][  0]LogD3D11RHI:      Driver Date: 3-1-2019
+[2019.03.21-22.31.56:991][  0]LogRHI: Texture pool is 5657 MB (70% of 8082 MB)
+[2019.03.21-22.31.57:085][  0]LogD3D11RHI: Async texture creation enabled
+[2019.03.21-22.31.57:185][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.03.21-22.31.57:670][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.03.21-22.31.57:709][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.03.21-22.31.57:748][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.03.21-22.31.57:772][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.03.21-22.31.57:818][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.03.21-22.31.57:858][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.03.21-22.31.57:897][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.03.21-22.31.57:933][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.03.21-22.31.57:947][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.03.21-22.31.58:083][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.21-22.31.58:083][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.21-22.31.58:083][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.21-22.31.58:083][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.21-22.31.58:083][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.21-22.31.58:083][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.21-22.31.58:083][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.21-22.31.58:083][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.21-22.31.58:083][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.21-22.31.58:084][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.21-22.31.58:084][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.21-22.31.58:084][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.21-22.31.58:084][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.21-22.31.58:084][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.21-22.31.58:084][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.21-22.31.58:084][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.21-22.31.58:084][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.21-22.31.58:084][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.21-22.31.58:088][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.03.21-22.31.58:201][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.03.21-22.31.58:201][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.03.21-22.31.58:275][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.03.21-22.31.58:275][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.03.21-22.31.58:317][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.03.21-22.31.58:366][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.03.21-22.31.58:409][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.03.21-22.31.58:447][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.03.21-22.31.58:554][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.03.21-22.31.58:554][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.03.21-22.31.58:554][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.03.21-22.31.58:922][  0]LogShaderCompilers: Guid format shader working directory is -17 characters bigger than the processId version (../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Intermediate/Shaders/WorkingDirectory/9636/).
+[2019.03.21-22.31.58:923][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Phenrear/AppData/Local/Temp/UnrealShaderWorkingDir/97C12BC34D13E9E92D8391B7D6F00619/'.
+[2019.03.21-22.31.58:930][  0]LogXGEController: Cleaning working directory: C:/Users/Phenrear/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.03.21-22.31.58:930][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.03.21-22.31.58:931][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.03.21-22.31.58:931][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.03.21-22.32.02:581][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.03.21-22.32.02:721][  0]LogDerivedDataCache: Loaded boot cache 0.14s 71MB C:/Users/Phenrear/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.03.21-22.32.02:721][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Phenrear/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.03.21-22.32.02:721][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.03.21-22.32.02:721][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.03.21-22.32.02:721][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.03.21-22.32.02:721][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.03.21-22.32.02:785][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.03.21-22.32.02:785][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.03.21-22.32.02:785][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.03.21-22.32.02:798][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Phenrear/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.03.21-22.32.02:798][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.03.21-22.32.02:798][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.03.21-22.32.02:842][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.03.21-22.32.02:855][  0]LogSlate: Using FreeType 2.6.0
+[2019.03.21-22.32.02:882][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.03.21-22.32.03:734][  0]LogAssetRegistry: FAssetRegistry took 0.0644 seconds to start up
+[2019.03.21-22.32.04:612][  0]LogInit: Selected Device Profile: [Windows]
+[2019.03.21-22.32.05:164][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.03.21-22.32.05:193][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.03.21-22.32.05:194][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.03.21-22.32.05:195][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.03.21-22.32.05:195][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.03.21-22.32.05:301][  0]LogNetVersion: GiftGame 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 4259663717)
+[2019.03.21-22.32.07:823][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.248696 seconds
+[2019.03.21-22.32.07:838][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.03.21-22.32.07:838][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2019.03.21-22.32.07:838][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.03.21-22.32.16:020][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.03.21-22.32.16:041][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.03.21-22.32.17:160][  0]SourceControl: Source control is disabled
+[2019.03.21-22.32.17:160][  0]SourceControl: Source control is disabled
+[2019.03.21-22.32.17:176][  0]SourceControl: Source control is disabled
+[2019.03.21-22.32.17:184][  0]SourceControl: Source control is disabled
+[2019.03.21-22.32.17:693][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.03.21-22.32.17:907][  0]LogOcInput: OculusInput pre-init called
+[2019.03.21-22.32.18:228][  0]LogEngine: Initializing Engine...
+[2019.03.21-22.32.18:232][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.03.21-22.32.18:238][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.001 s
+[2019.03.21-22.32.18:238][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.03.21-22.32.18:239][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.03.21-22.32.18:239][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.03.21-22.32.18:970][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.03.21-22.32.19:039][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.03.21-22.32.19:089][  0]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio Codec with DolbyAPO)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.21-22.32.19:860][  0]LogInit: FAudioDevice initialized.
+[2019.03.21-22.32.19:860][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.03.21-22.32.19:971][  0]LogDerivedDataCache: Saved boot cache 0.11s 71MB C:/Users/Phenrear/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.03.21-22.32.19:990][  0]LogInit: Texture streaming: Enabled
+[2019.03.21-22.32.20:037][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.03.21-22.32.20:494][  0]LogInit: Transaction tracking system initialized
+[2019.03.21-22.32.20:616][  0]BlueprintLog: New page: Editor Load
+[2019.03.21-22.32.20:982][  0]LocalizationService: Localization service is disabled
+[2019.03.21-22.32.22:240][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Content/' took 0.02s
+[2019.03.21-22.32.22:241][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.03.21-22.32.22:241][  0]LogCook: Display: Mobile HDR setting 0
+[2019.03.21-22.32.22:241][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.03.21-22.32.22:241][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.03.21-22.32.22:241][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.03.21-22.32.22:241][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.03.21-22.32.22:241][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.03.21-22.32.22:649][  0]SourceControl: Source control is disabled
+[2019.03.21-22.32.22:650][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.03.21-22.32.22:651][  0]LightingResults: New page: Lighting Build
+[2019.03.21-22.32.22:659][  0]MapCheck: New page: Map Check
+[2019.03.21-22.32.22:659][  0]LightingResults: New page: Lighting Build
+[2019.03.21-22.32.22:900][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2019.03.21-22.32.22:919][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.03.21-22.32.22:946][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.03.21-22.32.22:946][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.109ms to complete.
+[2019.03.21-22.32.22:947][  0]LogFileHelpers: Loading map 'Template_Default' took 0.297
+[2019.03.21-22.32.23:211][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.21-22.32.23:230][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.21-22.32.23:247][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.21-22.32.23:260][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.21-22.32.23:283][  0]LogCollectionManager: Loaded 0 collections in 0.002356 seconds
+[2019.03.21-22.32.23:328][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/Collections/' took 0.01s
+[2019.03.21-22.32.23:328][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Content/Developers/Phenrear/Collections/' took 0.01s
+[2019.03.21-22.32.23:328][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Content/Collections/' took 0.00s
+[2019.03.21-22.32.23:328][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.03.21-22.32.23:344][  0]LogContentBrowser: Native class hierarchy populated in 0.0137 seconds. Added 2651 classes and 620 folders.
+[2019.03.21-22.32.23:358][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.03.21-22.32.23:372][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.21-22.32.23:380][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.21-22.32.23:400][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.21-22.32.23:412][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.21-22.32.23:424][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.21-22.32.23:436][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.21-22.32.23:448][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.21-22.32.23:460][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.21-22.32.23:474][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.21-22.32.23:487][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.21-22.32.23:500][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.21-22.32.23:512][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.21-22.32.23:525][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.21-22.32.23:537][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.21-22.32.23:549][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.21-22.32.23:560][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.21-22.32.23:624][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.21-22.32.23:636][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.21-22.32.23:649][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.21-22.32.23:663][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.21-22.32.23:740][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.21-22.32.23:752][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.21-22.32.23:764][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.21-22.32.23:777][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.21-22.32.23:788][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.21-22.32.23:800][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.21-22.32.24:230][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2019.03.21-22.32.24:252][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2019.03.21-22.32.24:358][  0]LogSlate: Took 0.014684 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.03.21-22.32.24:378][  0]LogSlate: Took 0.012464 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.03.21-22.32.24:411][  0]LogSlate: Took 0.013148 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.03.21-22.32.24:658][  0]LogRenderer: Reallocating scene render targets to support 1036x576 Format 10 NumSamples 1 (Frame:1).
+[2019.03.21-22.32.24:894][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2019.03.21-22.32.24:894][  0]LogLoad: (Engine Initialization) Total time: 44.69 seconds
+[2019.03.21-22.32.24:894][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.03.21-22.32.25:029][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.03.21-22.32.25:045][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Content/' took 0.12s
+[2019.03.21-22.32.25:081][  1]LogAssetRegistry: Asset discovery search completed in 21.3711 seconds
+[2019.03.21-22.32.25:083][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.03.21-22.32.25:083][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000044 seconds (updated 0 objects)
+[2019.03.21-22.32.25:216][  1]LogSlate: Took 0.009319 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.03.21-22.32.25:944][ 76]LogSlate: Took 0.000246 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.03.21-22.32.27:258][195]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.21-22.32.29:903][450]LogLinker: Warning: Can't find file '/Game/Maps/MainGame_BuiltData'
+[2019.03.21-22.32.29:903][450]LogLinker: Warning: Can't find file for asset '/Game/Maps/MainGame_BuiltData' while loading ../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Content/Maps/MainGame.umap.
+[2019.03.21-22.32.29:903][450]LoadErrors: Error: /Game/Maps/MainGame : Can't find file for asset. /Game/Maps/MainGame_BuiltData
+[2019.03.21-22.32.30:067][450]LogLinker: Warning: Can't find file '/Game/Maps/MainGame_BuiltData'
+[2019.03.21-22.32.30:067][450]LogLinker: Warning: Can't find file for asset '/Game/Maps/MainGame_BuiltData' while loading ../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Content/Maps/MainGame.umap.
+[2019.03.21-22.32.30:858][450]LogLinker: Warning: Can't find file '/Game/Maps/MainGame_BuiltData'
+[2019.03.21-22.32.30:859][450]LogLinker: Warning: Can't find file for asset '/Game/Maps/MainGame_BuiltData' while loading NULL.
+[2019.03.21-22.32.30:859][450]LogLinker: Warning: Can't find file '/Game/Maps/MainGame_BuiltData'
+[2019.03.21-22.32.30:859][450]LogLinker: Warning: Can't find file for asset '/Game/Maps/MainGame_BuiltData' while loading NULL.
+[2019.03.21-22.32.30:970][450]LogLinker: Warning: Can't find file '/Game/Maps/MainGame_BuiltData'
+[2019.03.21-22.32.30:970][450]LoadErrors: Failed to load /Game/Maps/MainGame_BuiltData.MainGame_BuiltData Referenced by PersistentLevel
+[2019.03.21-22.32.30:970][450]LogLinker: Warning: Can't find file for asset '/Game/Maps/MainGame_BuiltData' while loading NULL.
+[2019.03.21-22.32.34:584][450]LogPhysics: Warning: Failed to cook TriMesh: /Game/Models/Lamp/Lamp/Lamp_Bar3.Lamp_Bar3.
+[2019.03.21-22.32.34:584][450]LogPhysics: Warning: Attempt to build physics data for /Game/Models/Lamp/Lamp/Lamp_Bar3.Lamp_Bar3:BodySetup_0 when we are unable to.
+[2019.03.21-22.32.34:615][450]LogPhysics: Warning: Failed to cook TriMesh: /Game/Models/Lamp/Lamp/Lamp_Bar1.Lamp_Bar1.
+[2019.03.21-22.32.34:615][450]LogPhysics: Warning: Attempt to build physics data for /Game/Models/Lamp/Lamp/Lamp_Bar1.Lamp_Bar1:BodySetup_0 when we are unable to.
+[2019.03.21-22.32.35:846][450]LogPhysics: Warning: Failed to cook TriMesh: /Game/Models/Lamp/Lamp/Lamp_Bar8.Lamp_Bar8.
+[2019.03.21-22.32.35:846][450]LogPhysics: Warning: Attempt to build physics data for /Game/Models/Lamp/Lamp/Lamp_Bar8.Lamp_Bar8:BodySetup_0 when we are unable to.
+[2019.03.21-22.32.35:847][450]LogPhysics: Warning: Failed to cook TriMesh: /Game/Models/Lamp/Lamp/Lamp_Bar7.Lamp_Bar7.
+[2019.03.21-22.32.35:847][450]LogPhysics: Warning: Attempt to build physics data for /Game/Models/Lamp/Lamp/Lamp_Bar7.Lamp_Bar7:BodySetup_0 when we are unable to.
+[2019.03.21-22.32.35:847][450]LogPhysics: Warning: Failed to cook TriMesh: /Game/Models/Lamp/Lamp/Lamp_Bar6.Lamp_Bar6.
+[2019.03.21-22.32.35:847][450]LogPhysics: Warning: Attempt to build physics data for /Game/Models/Lamp/Lamp/Lamp_Bar6.Lamp_Bar6:BodySetup_0 when we are unable to.
+[2019.03.21-22.32.35:848][450]LogPhysics: Warning: Failed to cook TriMesh: /Game/Models/Lamp/Lamp/Lamp_Bar5.Lamp_Bar5.
+[2019.03.21-22.32.35:848][450]LogPhysics: Warning: Attempt to build physics data for /Game/Models/Lamp/Lamp/Lamp_Bar5.Lamp_Bar5:BodySetup_0 when we are unable to.
+[2019.03.21-22.32.36:797][450]LogAIModule: Creating AISystem for world MainGame
+[2019.03.21-22.32.36:908][450]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/MainGame.MainGame
+[2019.03.21-22.32.36:978][450]Cmd: MAP LOAD FILE="../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Content/Maps/MainGame.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.03.21-22.32.36:978][450]LightingResults: New page: Lighting Build
+[2019.03.21-22.32.36:979][450]LoadErrors: New page: Loading map: MainGame.umap
+[2019.03.21-22.32.36:980][450]MapCheck: New page: Map Check
+[2019.03.21-22.32.36:980][450]LightingResults: New page: Lighting Build
+[2019.03.21-22.32.37:056][450]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.03.21-22.32.37:121][450]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.03.21-22.32.37:122][450]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.418ms to complete.
+[2019.03.21-22.32.37:122][450]LogFileHelpers: Loading map 'MainGame' took 0.146
+[2019.03.21-22.38.15:162][962]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Phenrear\Desktop\gift\Art\Exports\Bag of Candy.png)
+[2019.03.21-22.38.15:167][962]LogTexture: Display: Building textures: Bag_of_Candy (BGRA8, 360X397)
+[2019.03.21-22.38.31:586][108]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Phenrear\Desktop\gift\Art\Exports\Katana-Sword.png)
+[2019.03.21-22.38.31:592][108]LogTexture: Display: Building textures: Katana-Sword (BGRA8, 731X412)
+[2019.03.21-22.38.51:849][240]LogTexture: Display: Building textures: NES_Cartridge (BGRA8, 259X281)
+[2019.03.21-22.38.51:849][240]LogEditorFactories: Performing atomic reimport of [C:/Users/Phenrear/Desktop/gift/Art/Exports/NES Cartridge.png]
+[2019.03.21-22.38.51:850][240]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Phenrear/Desktop/gift/Art/Exports/NES Cartridge.png)
+[2019.03.21-22.38.51:855][240]LogTexture: Display: Building textures: NES_Cartridge (BGRA8, 259X281)
+[2019.03.21-22.38.51:862][240]LogEditorFactories: -- imported successfully
+[2019.03.21-22.39.16:831][421]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Phenrear\Desktop\gift\Art\Exports\SodaCan.png)
+[2019.03.21-22.39.16:846][421]LogTexture: Display: Building textures: SodaCan (BGRA8, 803X1249)
+[2019.03.21-22.39.21:354][463]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Phenrear\Desktop\gift\Art\Exports\Sub Sandwhich.png)
+[2019.03.21-22.39.21:359][463]LogTexture: Display: Building textures: Sub_Sandwhich (BGRA8, 429X260)
+[2019.03.21-22.39.41:626][550]LogTexture: Display: Building textures: MechKeyboard (BGRA8, 1774X773)
+[2019.03.21-22.39.41:626][550]LogEditorFactories: Performing atomic reimport of [C:/Users/Phenrear/Desktop/gift/Art/Exports/MechKeyboard.png]
+[2019.03.21-22.39.41:627][550]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Phenrear/Desktop/gift/Art/Exports/MechKeyboard.png)
+[2019.03.21-22.39.41:647][550]LogTexture: Display: Building textures: MechKeyboard (BGRA8, 1774X773)
+[2019.03.21-22.39.41:679][550]LogEditorFactories: -- imported successfully
+[2019.03.21-22.39.47:762][614]LogTexture: Display: Building textures: plunger (BGRA8, 763X1131)
+[2019.03.21-22.39.47:762][614]LogEditorFactories: Performing atomic reimport of [C:/Users/Phenrear/Desktop/gift/Art/Exports/plunger.png]
+[2019.03.21-22.39.47:763][614]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Phenrear/Desktop/gift/Art/Exports/plunger.png)
+[2019.03.21-22.39.47:777][614]LogTexture: Display: Building textures: plunger (BGRA8, 763X1131)
+[2019.03.21-22.39.47:801][614]LogEditorFactories: -- imported successfully
+[2019.03.21-22.39.54:680][668]LogTexture: Display: Building textures: QuadDollar (BGRA8, 132X57)
+[2019.03.21-22.39.54:680][668]LogEditorFactories: Performing atomic reimport of [C:/Users/Phenrear/Desktop/gift/Art/Exports/QuadDollar.png]
+[2019.03.21-22.39.54:680][668]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Phenrear/Desktop/gift/Art/Exports/QuadDollar.png)
+[2019.03.21-22.39.54:683][668]LogTexture: Display: Building textures: QuadDollar (BGRA8, 132X57)
+[2019.03.21-22.39.54:688][668]LogEditorFactories: -- imported successfully
+[2019.03.21-22.39.59:943][715]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Phenrear\Desktop\gift\Art\Exports\Large Stereo System.png)
+[2019.03.21-22.39.59:949][715]LogTexture: Display: Building textures: Large_Stereo_System (BGRA8, 420X254)
+[2019.03.21-22.40.08:677][801]LogTexture: Display: Building textures: Mjolnir1 (BGRA8, 417X209)
+[2019.03.21-22.40.08:677][801]LogEditorFactories: Performing atomic reimport of [C:/Users/Phenrear/Desktop/gift/Art/Exports/Mjolnir1.png]
+[2019.03.21-22.40.08:678][801]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Phenrear/Desktop/gift/Art/Exports/Mjolnir1.png)
+[2019.03.21-22.40.08:683][801]LogTexture: Display: Building textures: Mjolnir1 (BGRA8, 417X209)
+[2019.03.21-22.40.08:689][801]LogEditorFactories: -- imported successfully
+[2019.03.21-22.40.15:263][852]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Phenrear\Desktop\gift\Art\Exports\Fart Button.png)
+[2019.03.21-22.40.15:267][852]LogTexture: Display: Building textures: Fart_Button (BGRA8, 294X288)
+[2019.03.21-22.40.22:759][920]LogTexture: Display: Building textures: Sock_Puppet (BGRA8, 160X263)
+[2019.03.21-22.40.22:759][920]LogEditorFactories: Performing atomic reimport of [C:/Users/Phenrear/Desktop/gift/Art/Exports/Sock Puppet.png]
+[2019.03.21-22.40.22:760][920]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Phenrear/Desktop/gift/Art/Exports/Sock Puppet.png)
+[2019.03.21-22.40.22:764][920]LogTexture: Display: Building textures: Sock_Puppet (BGRA8, 160X263)
+[2019.03.21-22.40.22:769][920]LogEditorFactories: -- imported successfully
+[2019.03.21-22.40.35:547][ 19]LogTexture: Display: Building textures: Rubber_Chicken (BGRA8, 84X401)
+[2019.03.21-22.40.35:547][ 19]LogEditorFactories: Performing atomic reimport of [C:/Users/Phenrear/Desktop/gift/Art/Exports/Rubber Chicken.png]
+[2019.03.21-22.40.35:548][ 19]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Phenrear/Desktop/gift/Art/Exports/Rubber Chicken.png)
+[2019.03.21-22.40.35:551][ 19]LogTexture: Display: Building textures: Rubber_Chicken (BGRA8, 84X401)
+[2019.03.21-22.40.35:556][ 19]LogEditorFactories: -- imported successfully
+[2019.03.21-22.40.55:239][112]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Phenrear\Desktop\gift\Art\Exports\Finger Skateboard.png)
+[2019.03.21-22.40.55:243][112]LogTexture: Display: Building textures: Finger_Skateboard (BGRA8, 343X161)
+[2019.03.21-22.41.00:681][170]LogTexture: Display: Building textures: Checkers_Board (BGRA8, 620X479)
+[2019.03.21-22.41.00:681][170]LogEditorFactories: Performing atomic reimport of [C:/Users/Phenrear/Desktop/gift/Art/Exports/Checkers Board.png]
+[2019.03.21-22.41.00:682][170]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Phenrear/Desktop/gift/Art/Exports/Checkers Board.png)
+[2019.03.21-22.41.00:689][170]LogTexture: Display: Building textures: Checkers_Board (BGRA8, 620X479)
+[2019.03.21-22.41.00:699][170]LogEditorFactories: -- imported successfully
+[2019.03.21-22.42.12:114][424]LogTexture: Display: Building textures: Broken_Radio (BGRA8, 287X366)
+[2019.03.21-22.42.12:114][424]LogEditorFactories: Performing atomic reimport of [C:/Users/Phenrear/Desktop/gift/Art/Exports/Broken Radio.png]
+[2019.03.21-22.42.12:115][424]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Phenrear/Desktop/gift/Art/Exports/Broken Radio.png)
+[2019.03.21-22.42.12:120][424]LogTexture: Display: Building textures: Broken_Radio (BGRA8, 287X366)
+[2019.03.21-22.42.12:127][424]LogEditorFactories: -- imported successfully
+[2019.03.21-22.42.47:964][661]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MainGame' took 0.023
+[2019.03.21-22.42.47:965][661]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Sprites/Bag_of_Candy] ([1] browsable assets)...
+[2019.03.21-22.42.47:973][661]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Art/Sprites/Bag_of_Candy.Bag_of_Candy]
+[2019.03.21-22.42.47:973][661]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Sprites/Bag_of_Candy]
+[2019.03.21-22.42.47:984][661]LogSavePackage: Moving '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/Bag_of_Candy_Auto1074D5FC44204D108AD004EBB020254CE.tmp' to '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/Autosaves/Game/Art/Sprites/Bag_of_Candy_Auto1.uasset'
+[2019.03.21-22.42.47:986][661]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Sprites/Katana-Sword] ([1] browsable assets)...
+[2019.03.21-22.42.47:988][661]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Art/Sprites/Katana-Sword.Katana-Sword]
+[2019.03.21-22.42.47:988][661]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Sprites/Katana-Sword]
+[2019.03.21-22.42.47:996][661]LogSavePackage: Moving '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/Katana-Sword_Auto12283ED034FEC82D022C171A4D493C9E6.tmp' to '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/Autosaves/Game/Art/Sprites/Katana-Sword_Auto1.uasset'
+[2019.03.21-22.42.47:996][661]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Sprites/NES_Cartridge] ([1] browsable assets)...
+[2019.03.21-22.42.48:003][661]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Art/Sprites/NES_Cartridge.NES_Cartridge]
+[2019.03.21-22.42.48:003][661]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Sprites/NES_Cartridge]
+[2019.03.21-22.42.48:021][661]LogSavePackage: Moving '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/NES_Cartridge_Auto101ED17BC45C8B15B2B01B3B5C10160B9.tmp' to '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/Autosaves/Game/Art/Sprites/NES_Cartridge_Auto1.uasset'
+[2019.03.21-22.42.48:022][661]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Sprites/SodaCan] ([1] browsable assets)...
+[2019.03.21-22.42.48:026][661]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Art/Sprites/SodaCan.SodaCan]
+[2019.03.21-22.42.48:026][661]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Sprites/SodaCan]
+[2019.03.21-22.42.48:101][661]LogSavePackage: Moving '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/SodaCan_Auto1046E9681404292F0F6A44194C1F58AB3.tmp' to '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/Autosaves/Game/Art/Sprites/SodaCan_Auto1.uasset'
+[2019.03.21-22.42.48:101][661]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Sprites/Sub_Sandwhich] ([1] browsable assets)...
+[2019.03.21-22.42.48:107][661]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Art/Sprites/Sub_Sandwhich.Sub_Sandwhich]
+[2019.03.21-22.42.48:107][661]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Sprites/Sub_Sandwhich]
+[2019.03.21-22.42.48:114][661]LogSavePackage: Moving '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/Sub_Sandwhich_Auto182A107354BE5281CD7BF329552BA7E62.tmp' to '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/Autosaves/Game/Art/Sprites/Sub_Sandwhich_Auto1.uasset'
+[2019.03.21-22.42.48:115][661]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Sprites/MechKeyboard] ([1] browsable assets)...
+[2019.03.21-22.42.48:118][661]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Art/Sprites/MechKeyboard.MechKeyboard]
+[2019.03.21-22.42.48:118][661]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Sprites/MechKeyboard]
+[2019.03.21-22.42.48:133][661]LogSavePackage: Moving '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/MechKeyboard_Auto1A10767C145F884AE7CBE6AB1984E7089.tmp' to '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/Autosaves/Game/Art/Sprites/MechKeyboard_Auto1.uasset'
+[2019.03.21-22.42.48:134][661]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Sprites/plunger] ([1] browsable assets)...
+[2019.03.21-22.42.48:140][661]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Art/Sprites/plunger.plunger]
+[2019.03.21-22.42.48:140][661]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Sprites/plunger]
+[2019.03.21-22.42.48:154][661]LogSavePackage: Moving '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/plunger_Auto10BFF43B14A4889522ACC528AFA382082.tmp' to '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/Autosaves/Game/Art/Sprites/plunger_Auto1.uasset'
+[2019.03.21-22.42.48:155][661]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Sprites/QuadDollar] ([1] browsable assets)...
+[2019.03.21-22.42.48:156][661]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Art/Sprites/QuadDollar.QuadDollar]
+[2019.03.21-22.42.48:156][661]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Sprites/QuadDollar]
+[2019.03.21-22.42.48:171][661]LogSavePackage: Moving '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/QuadDollar_Auto1F8EA77FD4224E59394A076AFA97E76C4.tmp' to '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/Autosaves/Game/Art/Sprites/QuadDollar_Auto1.uasset'
+[2019.03.21-22.42.48:172][661]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Sprites/Large_Stereo_System] ([1] browsable assets)...
+[2019.03.21-22.42.48:176][661]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Art/Sprites/Large_Stereo_System.Large_Stereo_System]
+[2019.03.21-22.42.48:176][661]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Sprites/Large_Stereo_System]
+[2019.03.21-22.42.48:183][661]LogSavePackage: Moving '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/Large_Stereo_System_Auto179EEEDE64384BFB3970D4483B116CDD1.tmp' to '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/Autosaves/Game/Art/Sprites/Large_Stereo_System_Auto1.uasset'
+[2019.03.21-22.42.48:184][661]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Sprites/Mjolnir1] ([1] browsable assets)...
+[2019.03.21-22.42.48:188][661]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Art/Sprites/Mjolnir1.Mjolnir1]
+[2019.03.21-22.42.48:188][661]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Sprites/Mjolnir1]
+[2019.03.21-22.42.48:202][661]LogSavePackage: Moving '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/Mjolnir1_Auto1839C2787476003A0EFBC0F887407F5F5.tmp' to '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/Autosaves/Game/Art/Sprites/Mjolnir1_Auto1.uasset'
+[2019.03.21-22.42.48:202][661]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Sprites/Fart_Button] ([1] browsable assets)...
+[2019.03.21-22.42.48:209][661]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Art/Sprites/Fart_Button.Fart_Button]
+[2019.03.21-22.42.48:210][661]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Sprites/Fart_Button]
+[2019.03.21-22.42.48:219][661]LogSavePackage: Moving '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/Fart_Button_Auto19BA732054F887B59623EE690C609F48C.tmp' to '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/Autosaves/Game/Art/Sprites/Fart_Button_Auto1.uasset'
+[2019.03.21-22.42.48:220][661]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Sprites/Sock_Puppet] ([1] browsable assets)...
+[2019.03.21-22.42.48:225][661]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Art/Sprites/Sock_Puppet.Sock_Puppet]
+[2019.03.21-22.42.48:225][661]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Sprites/Sock_Puppet]
+[2019.03.21-22.42.48:239][661]LogSavePackage: Moving '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/Sock_Puppet_Auto16E84CC2544BB971C43C5FAB52839A34A.tmp' to '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/Autosaves/Game/Art/Sprites/Sock_Puppet_Auto1.uasset'
+[2019.03.21-22.42.48:240][661]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Sprites/Rubber_Chicken] ([1] browsable assets)...
+[2019.03.21-22.42.48:242][661]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Art/Sprites/Rubber_Chicken.Rubber_Chicken]
+[2019.03.21-22.42.48:242][661]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Sprites/Rubber_Chicken]
+[2019.03.21-22.42.48:255][661]LogSavePackage: Moving '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/Rubber_Chicken_Auto13FBA8B2A4449172F3ED05C81CFC9E69D.tmp' to '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/Autosaves/Game/Art/Sprites/Rubber_Chicken_Auto1.uasset'
+[2019.03.21-22.42.48:258][661]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Sprites/Finger_Skateboard] ([1] browsable assets)...
+[2019.03.21-22.42.48:263][661]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Art/Sprites/Finger_Skateboard.Finger_Skateboard]
+[2019.03.21-22.42.48:263][661]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Sprites/Finger_Skateboard]
+[2019.03.21-22.42.48:269][661]LogSavePackage: Moving '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/Finger_Skateboard_Auto1D347946343141657EC91F682B7FA3C38.tmp' to '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/Autosaves/Game/Art/Sprites/Finger_Skateboard_Auto1.uasset'
+[2019.03.21-22.42.48:270][661]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Sprites/Checkers_Board] ([1] browsable assets)...
+[2019.03.21-22.42.48:275][661]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Art/Sprites/Checkers_Board.Checkers_Board]
+[2019.03.21-22.42.48:275][661]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Sprites/Checkers_Board]
+[2019.03.21-22.42.48:289][661]LogSavePackage: Moving '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/Checkers_Board_Auto12FCE554849FD225A7FA81EB479C47021.tmp' to '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/Autosaves/Game/Art/Sprites/Checkers_Board_Auto1.uasset'
+[2019.03.21-22.42.48:290][661]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Sprites/Broken_Radio] ([1] browsable assets)...
+[2019.03.21-22.42.48:296][661]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Art/Sprites/Broken_Radio.Broken_Radio]
+[2019.03.21-22.42.48:296][661]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Sprites/Broken_Radio]
+[2019.03.21-22.42.48:311][661]LogSavePackage: Moving '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/Broken_Radio_Auto127079FC74DB9A4B232B28E96EA560165.tmp' to '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/Autosaves/Game/Art/Sprites/Broken_Radio_Auto1.uasset'
+[2019.03.21-22.42.48:311][661]LogFileHelpers: Auto-saving content packages took 0.346
+[2019.03.21-22.43.16:436][107]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/Art/Sprites/AnimeBoxSet_Sprite.AnimeBoxSet_Sprite
+[2019.03.21-22.43.16:515][107]LogSlate: Took 0.003960 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.03.21-22.43.16:645][107]LogRenderer: Reallocating scene render targets to support 1528x920 Format 10 NumSamples 1 (Frame:1).
+[2019.03.21-22.43.17:941][183]LogSlate: Window 'AnimeBoxSet_Sprite' being destroyed
+[2019.03.21-22.43.17:945][183]LogSlate: Window 'AnimeBoxSet_Sprite' being destroyed
+[2019.03.21-22.44.15:257][597]LogTexture: Display: Building textures: Prosthetic_Arm (BGRA8, 359X271)
+[2019.03.21-22.44.52:534][805]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Maps/MainGame.MainGame:PersistentLevel.MainGame
+[2019.03.21-22.44.52:911][805]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 117 classes and 0 folders.
+[2019.03.21-22.44.53:621][806]LogSlate: Took 0.003921 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.03.21-22.45.19:250][326]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/ShakeControl.ShakeControl
+[2019.03.21-22.55.15:429][506]LogSavePackage: Moving '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/MainGame_Auto20B0BFE1541A6235E990D4B8E2E373CD8.tmp' to '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/Autosaves/Game/Maps/MainGame_Auto2.umap'
+[2019.03.21-22.55.15:436][506]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MainGame' took 0.320
+[2019.03.21-22.55.15:436][506]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.320
+[2019.03.21-22.55.15:438][506]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/ShakeControl] ([1] browsable assets)...
+[2019.03.21-22.55.15:438][506]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/ShakeControl]
+[2019.03.21-22.55.15:500][506]LogSavePackage: Moving '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/ShakeControl_Auto22613BB9A4E3F9958A048CF89E605B86C.tmp' to '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/Autosaves/Game/Blueprints/ShakeControl_Auto2.uasset'
+[2019.03.21-22.55.15:501][506]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Sprites/Bag_of_Candy_Sprite] ([1] browsable assets)...
+[2019.03.21-22.55.15:508][506]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Art/Sprites/Bag_of_Candy_Sprite.Bag_of_Candy_Sprite]
+[2019.03.21-22.55.15:508][506]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Sprites/Bag_of_Candy_Sprite]
+[2019.03.21-22.55.15:518][506]LogSavePackage: Moving '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/Bag_of_Candy_Sprite_Auto20C40548F4888E9830AF22CA0274301A2.tmp' to '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/Autosaves/Game/Art/Sprites/Bag_of_Candy_Sprite_Auto2.uasset'
+[2019.03.21-22.55.15:518][506]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Sprites/Katana-Sword_Sprite] ([1] browsable assets)...
+[2019.03.21-22.55.15:525][506]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Art/Sprites/Katana-Sword_Sprite.Katana-Sword_Sprite]
+[2019.03.21-22.55.15:525][506]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Sprites/Katana-Sword_Sprite]
+[2019.03.21-22.55.15:532][506]LogSavePackage: Moving '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/Katana-Sword_Sprite_Auto2F7B8D30248639DE192537BB6DBD813A1.tmp' to '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/Autosaves/Game/Art/Sprites/Katana-Sword_Sprite_Auto2.uasset'
+[2019.03.21-22.55.15:533][506]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Sprites/MechKeyboard_Sprite] ([1] browsable assets)...
+[2019.03.21-22.55.15:539][506]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Art/Sprites/MechKeyboard_Sprite.MechKeyboard_Sprite]
+[2019.03.21-22.55.15:539][506]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Sprites/MechKeyboard_Sprite]
+[2019.03.21-22.55.15:547][506]LogSavePackage: Moving '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/MechKeyboard_Sprite_Auto20F1DF36C486605502999808BA660C802.tmp' to '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/Autosaves/Game/Art/Sprites/MechKeyboard_Sprite_Auto2.uasset'
+[2019.03.21-22.55.15:548][506]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Sprites/Large_Stereo_System_Sprite] ([1] browsable assets)...
+[2019.03.21-22.55.15:554][506]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Art/Sprites/Large_Stereo_System_Sprite.Large_Stereo_System_Sprite]
+[2019.03.21-22.55.15:555][506]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Sprites/Large_Stereo_System_Sprite]
+[2019.03.21-22.55.15:562][506]LogSavePackage: Moving '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/Large_Stereo_System_Sprite_Auto2741A1EDD4C1C1C8BDF7002A4BA1A53A4.tmp' to '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/Autosaves/Game/Art/Sprites/Large_Stereo_System_Sprite_Auto2.uasset'
+[2019.03.21-22.55.15:563][506]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Sprites/NES_Cartridge_Sprite] ([1] browsable assets)...
+[2019.03.21-22.55.15:569][506]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Art/Sprites/NES_Cartridge_Sprite.NES_Cartridge_Sprite]
+[2019.03.21-22.55.15:569][506]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Sprites/NES_Cartridge_Sprite]
+[2019.03.21-22.55.15:577][506]LogSavePackage: Moving '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/NES_Cartridge_Sprite_Auto286FE8DB143045AF532381AB09F7B1526.tmp' to '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/Autosaves/Game/Art/Sprites/NES_Cartridge_Sprite_Auto2.uasset'
+[2019.03.21-22.55.15:578][506]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Sprites/Mjolnir1_Sprite] ([1] browsable assets)...
+[2019.03.21-22.55.15:584][506]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Art/Sprites/Mjolnir1_Sprite.Mjolnir1_Sprite]
+[2019.03.21-22.55.15:584][506]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Sprites/Mjolnir1_Sprite]
+[2019.03.21-22.55.15:592][506]LogSavePackage: Moving '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/Mjolnir1_Sprite_Auto24FD8EDF548E38A78BAF633BCCFD3A5C5.tmp' to '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/Autosaves/Game/Art/Sprites/Mjolnir1_Sprite_Auto2.uasset'
+[2019.03.21-22.55.15:593][506]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Sprites/plunger_Sprite] ([1] browsable assets)...
+[2019.03.21-22.55.15:599][506]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Art/Sprites/plunger_Sprite.plunger_Sprite]
+[2019.03.21-22.55.15:599][506]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Sprites/plunger_Sprite]
+[2019.03.21-22.55.15:607][506]LogSavePackage: Moving '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/plunger_Sprite_Auto2BEC0954B41AAA718B550BF8FB3E5C230.tmp' to '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/Autosaves/Game/Art/Sprites/plunger_Sprite_Auto2.uasset'
+[2019.03.21-22.55.15:607][506]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Sprites/QuadDollar_Sprite] ([1] browsable assets)...
+[2019.03.21-22.55.15:614][506]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Art/Sprites/QuadDollar_Sprite.QuadDollar_Sprite]
+[2019.03.21-22.55.15:614][506]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Sprites/QuadDollar_Sprite]
+[2019.03.21-22.55.15:622][506]LogSavePackage: Moving '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/QuadDollar_Sprite_Auto218CAEA6B4BB63472AE88E49A541BF9B0.tmp' to '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/Autosaves/Game/Art/Sprites/QuadDollar_Sprite_Auto2.uasset'
+[2019.03.21-22.55.15:623][506]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Sprites/Prosthetic_Arm_Sprite] ([1] browsable assets)...
+[2019.03.21-22.55.15:629][506]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Art/Sprites/Prosthetic_Arm_Sprite.Prosthetic_Arm_Sprite]
+[2019.03.21-22.55.15:629][506]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Sprites/Prosthetic_Arm_Sprite]
+[2019.03.21-22.55.15:638][506]LogSavePackage: Moving '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/Prosthetic_Arm_Sprite_Auto2AB83A9364172ECA3237C5FB04B634813.tmp' to '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/Autosaves/Game/Art/Sprites/Prosthetic_Arm_Sprite_Auto2.uasset'
+[2019.03.21-22.55.15:639][506]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Sprites/Rubber_Chicken_Sprite] ([1] browsable assets)...
+[2019.03.21-22.55.15:645][506]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Art/Sprites/Rubber_Chicken_Sprite.Rubber_Chicken_Sprite]
+[2019.03.21-22.55.15:645][506]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Sprites/Rubber_Chicken_Sprite]
+[2019.03.21-22.55.15:653][506]LogSavePackage: Moving '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/Rubber_Chicken_Sprite_Auto29DF19B604D558A80DFE7ABBD138C295E.tmp' to '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/Autosaves/Game/Art/Sprites/Rubber_Chicken_Sprite_Auto2.uasset'
+[2019.03.21-22.55.15:654][506]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Sprites/Sock_Puppet_Sprite] ([1] browsable assets)...
+[2019.03.21-22.55.15:660][506]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Art/Sprites/Sock_Puppet_Sprite.Sock_Puppet_Sprite]
+[2019.03.21-22.55.15:660][506]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Sprites/Sock_Puppet_Sprite]
+[2019.03.21-22.55.15:669][506]LogSavePackage: Moving '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/Sock_Puppet_Sprite_Auto259E65E934813BFDC4C050F8520781A52.tmp' to '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/Autosaves/Game/Art/Sprites/Sock_Puppet_Sprite_Auto2.uasset'
+[2019.03.21-22.55.15:670][506]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Sprites/SodaCan_Sprite] ([1] browsable assets)...
+[2019.03.21-22.55.15:676][506]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Art/Sprites/SodaCan_Sprite.SodaCan_Sprite]
+[2019.03.21-22.55.15:676][506]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Sprites/SodaCan_Sprite]
+[2019.03.21-22.55.15:684][506]LogSavePackage: Moving '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/SodaCan_Sprite_Auto2D4C1D760400B5124914B489221DAF9E8.tmp' to '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/Autosaves/Game/Art/Sprites/SodaCan_Sprite_Auto2.uasset'
+[2019.03.21-22.55.15:693][506]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Sprites/Sub_Sandwhich_Sprite] ([1] browsable assets)...
+[2019.03.21-22.55.15:699][506]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Art/Sprites/Sub_Sandwhich_Sprite.Sub_Sandwhich_Sprite]
+[2019.03.21-22.55.15:699][506]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Sprites/Sub_Sandwhich_Sprite]
+[2019.03.21-22.55.15:708][506]LogSavePackage: Moving '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/Sub_Sandwhich_Sprite_Auto21C42531F4940933D97B818AAC2D0A553.tmp' to '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/Autosaves/Game/Art/Sprites/Sub_Sandwhich_Sprite_Auto2.uasset'
+[2019.03.21-22.55.15:709][506]LogFileHelpers: Auto-saving content packages took 0.271
+[2019.03.21-22.59.15:201][453]BlueprintLog: New page: Compile ShakeControl
+[2019.03.21-22.59.15:905][479]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ShakeControl" FILE="../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Content/Blueprints/ShakeControl.uasset" SILENT=true
+[2019.03.21-22.59.15:968][479]LogSavePackage: Moving '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/ShakeControl273D88E94B61B2ECEE65B6BCCE37967D.tmp' to '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Content/Blueprints/ShakeControl.uasset'
+[2019.03.21-22.59.17:154][550]BlueprintLog: New page: Compile MainGame
+[2019.03.21-22.59.17:639][563]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainGame" FILE="../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Content/Maps/MainGame.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.03.21-22.59.17:919][563]LogSavePackage: Moving '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/MainGame2BB861A8408D648A7E122FBA9994F3AF.tmp' to '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Content/Maps/MainGame.umap'
+[2019.03.21-22.59.17:946][563]LogFileHelpers: Saving map 'MainGame' took 0.306
+[2019.03.21-23.03.20:911][523]LogTexture: Display: Building textures: Bees (BGRA8, 211X210)
+[2019.03.21-23.09.17:874][777]LogSavePackage: Moving '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/MainGame_Auto3A02B2B384D0DAB91C7748B8AAE0C0ACA.tmp' to '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/Autosaves/Game/Maps/MainGame_Auto3.umap'
+[2019.03.21-23.09.17:876][777]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MainGame' took 0.291
+[2019.03.21-23.09.17:876][777]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.291
+[2019.03.21-23.09.17:878][777]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/ShakeControl] ([1] browsable assets)...
+[2019.03.21-23.09.17:878][777]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/ShakeControl]
+[2019.03.21-23.09.17:941][777]LogSavePackage: Moving '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/ShakeControl_Auto3A871961744580BFD6A55C89F2E062E14.tmp' to '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/Autosaves/Game/Blueprints/ShakeControl_Auto3.uasset'
+[2019.03.21-23.09.17:942][777]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Sprites/Bees_Sprite] ([1] browsable assets)...
+[2019.03.21-23.09.17:949][777]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Art/Sprites/Bees_Sprite.Bees_Sprite]
+[2019.03.21-23.09.17:949][777]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Sprites/Bees_Sprite]
+[2019.03.21-23.09.17:959][777]LogSavePackage: Moving '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/Bees_Sprite_Auto36901D34846D3F635308DB6BA7D9936A3.tmp' to '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/Autosaves/Game/Art/Sprites/Bees_Sprite_Auto3.uasset'
+[2019.03.21-23.09.17:960][777]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Sprites/Fart_Button_Sprite] ([1] browsable assets)...
+[2019.03.21-23.09.17:965][777]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Art/Sprites/Fart_Button_Sprite.Fart_Button_Sprite]
+[2019.03.21-23.09.17:965][777]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Sprites/Fart_Button_Sprite]
+[2019.03.21-23.09.17:975][777]LogSavePackage: Moving '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/Fart_Button_Sprite_Auto33E4DD09846303B8823B0FEAC7D22F188.tmp' to '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/Autosaves/Game/Art/Sprites/Fart_Button_Sprite_Auto3.uasset'
+[2019.03.21-23.09.17:976][777]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Sprites/Finger_Skateboard_Sprite] ([1] browsable assets)...
+[2019.03.21-23.09.17:982][777]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Art/Sprites/Finger_Skateboard_Sprite.Finger_Skateboard_Sprite]
+[2019.03.21-23.09.17:982][777]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Sprites/Finger_Skateboard_Sprite]
+[2019.03.21-23.09.17:990][777]LogSavePackage: Moving '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/Finger_Skateboard_Sprite_Auto39F0116584C805F3FDB8410AA915426D7.tmp' to '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/Autosaves/Game/Art/Sprites/Finger_Skateboard_Sprite_Auto3.uasset'
+[2019.03.21-23.09.17:991][777]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Sprites/Checkers_Board_Sprite] ([1] browsable assets)...
+[2019.03.21-23.09.17:997][777]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Art/Sprites/Checkers_Board_Sprite.Checkers_Board_Sprite]
+[2019.03.21-23.09.17:997][777]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Sprites/Checkers_Board_Sprite]
+[2019.03.21-23.09.18:006][777]LogSavePackage: Moving '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/Checkers_Board_Sprite_Auto34DD69AF64045B058E38CBEA2B044D909.tmp' to '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/Autosaves/Game/Art/Sprites/Checkers_Board_Sprite_Auto3.uasset'
+[2019.03.21-23.09.18:007][777]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Sprites/Broken_Radio_Sprite] ([1] browsable assets)...
+[2019.03.21-23.09.18:013][777]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Art/Sprites/Broken_Radio_Sprite.Broken_Radio_Sprite]
+[2019.03.21-23.09.18:013][777]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Sprites/Broken_Radio_Sprite]
+[2019.03.21-23.09.18:021][777]LogSavePackage: Moving '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/Broken_Radio_Sprite_Auto348A486AE47C43C17BA79B992500C367C.tmp' to '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/Autosaves/Game/Art/Sprites/Broken_Radio_Sprite_Auto3.uasset'
+[2019.03.21-23.09.18:022][777]LogFileHelpers: Auto-saving content packages took 0.144
+[2019.03.21-23.16.17:154][265]BlueprintLog: New page: Compile MainGame
+[2019.03.21-23.16.18:153][333]BlueprintLog: New page: Compile ShakeControl
+[2019.03.21-23.16.19:356][426]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ShakeControl" FILE="../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Content/Blueprints/ShakeControl.uasset" SILENT=true
+[2019.03.21-23.16.19:422][426]LogSavePackage: Moving '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/ShakeControlA0BA4E1E4C8D6BC233E74DB95AA653ED.tmp' to '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Content/Blueprints/ShakeControl.uasset'
+[2019.03.21-23.16.20:437][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainGame" FILE="../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Content/Maps/MainGame.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.03.21-23.16.20:725][513]LogSavePackage: Moving '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/MainGameC59454D04E8BE4BA334263A7058C3ADA.tmp' to '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Content/Maps/MainGame.umap'
+[2019.03.21-23.16.20:751][513]LogFileHelpers: Saving map 'MainGame' took 0.314
+[2019.03.21-23.19.44:964][525]LogEditorTransaction: Undo Add Component
+[2019.03.21-23.20.04:654][241]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave CandyBagCut...
+[2019.03.21-23.20.04:689][241]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 221808 while cooking SoundWave /Game/Sounds/SoundEffects/CandyBagCut.CandyBagCut.
+[2019.03.21-23.25.59:268][725]BlueprintLog: New page: Compile ShakeControl
+[2019.03.21-23.26.00:951][867]BlueprintLog: New page: Compile MainGame
+[2019.03.21-23.26.01:525][899]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainGame" FILE="../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Content/Maps/MainGame.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.03.21-23.26.01:813][899]LogSavePackage: Moving '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/MainGameE055D4A24496C734D11BD0812E878428.tmp' to '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Content/Maps/MainGame.umap'
+[2019.03.21-23.26.01:839][899]LogFileHelpers: Saving map 'MainGame' took 0.315
+[2019.03.21-23.26.02:779][980]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ShakeControl" FILE="../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Content/Blueprints/ShakeControl.uasset" SILENT=true
+[2019.03.21-23.26.02:842][980]LogSavePackage: Moving '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/ShakeControlE1ED125144ED9C6A1CADD19594496CC8.tmp' to '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Content/Blueprints/ShakeControl.uasset'
+[2019.03.21-23.27.05:177][224]BlueprintLog: New page: Compile MainGame
+[2019.03.21-23.27.05:827][265]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainGame" FILE="../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Content/Maps/MainGame.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.03.21-23.27.06:110][265]LogSavePackage: Moving '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/MainGame86CA01E04253D0C8C5053CB807AE6B7D.tmp' to '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Content/Maps/MainGame.umap'
+[2019.03.21-23.27.06:136][265]LogFileHelpers: Saving map 'MainGame' took 0.309
+[2019.03.21-23.27.06:939][332]BlueprintLog: New page: Compile ShakeControl
+[2019.03.21-23.27.07:587][364]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ShakeControl" FILE="../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Content/Blueprints/ShakeControl.uasset" SILENT=true
+[2019.03.21-23.27.07:648][364]LogSavePackage: Moving '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/ShakeControl3702B7AB4145AD1C677F5FA84288A476.tmp' to '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Content/Blueprints/ShakeControl.uasset'
+[2019.03.21-23.27.10:797][659]LogSlate: Window 'ShakeControl' being destroyed
+[2019.03.21-23.27.10:801][659]LogSlate: Window 'ShakeControl' being destroyed
+[2019.03.21-23.27.14:270][ 55]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainGame" FILE="../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Content/Maps/MainGame.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.03.21-23.27.14:544][ 55]LogSavePackage: Moving '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/MainGame8768EDD84CA6898F5A64499ACCB3AA81.tmp' to '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Content/Maps/MainGame.umap'
+[2019.03.21-23.27.20:502][325]LogSlate: Window 'Save Content' being destroyed
+[2019.03.21-23.27.20:526][325]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Sprites/Bag_of_Candy" FILE="../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Content/Art/Sprites/Bag_of_Candy.uasset" SILENT=true
+[2019.03.21-23.27.20:538][325]LogSavePackage: Moving '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/Bag_of_Candy42ED160240F0502C309F8BAF2CF94220.tmp' to '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Content/Art/Sprites/Bag_of_Candy.uasset'
+[2019.03.21-23.27.20:546][325]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Sprites/Bag_of_Candy_Sprite" FILE="../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Content/Art/Sprites/Bag_of_Candy_Sprite.uasset" SILENT=true
+[2019.03.21-23.27.20:552][325]LogSavePackage: Moving '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/Bag_of_Candy_SpriteA8A8EA9D451DBBA4FF43AEA2F7C4294A.tmp' to '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Content/Art/Sprites/Bag_of_Candy_Sprite.uasset'
+[2019.03.21-23.27.20:560][325]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Sprites/Bees_Sprite" FILE="../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Content/Art/Sprites/Bees_Sprite.uasset" SILENT=true
+[2019.03.21-23.27.20:565][325]LogSavePackage: Moving '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/Bees_SpriteED80756F40BB12E920AF9DAAF1E516D7.tmp' to '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Content/Art/Sprites/Bees_Sprite.uasset'
+[2019.03.21-23.27.20:572][325]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Sprites/Broken_Radio" FILE="../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Content/Art/Sprites/Broken_Radio.uasset" SILENT=true
+[2019.03.21-23.27.20:591][325]LogSavePackage: Moving '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/Broken_Radio41A5689049FA008DFECD2A86760CD065.tmp' to '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Content/Art/Sprites/Broken_Radio.uasset'
+[2019.03.21-23.27.20:600][325]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Sprites/Broken_Radio_Sprite" FILE="../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Content/Art/Sprites/Broken_Radio_Sprite.uasset" SILENT=true
+[2019.03.21-23.27.20:605][325]LogSavePackage: Moving '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/Broken_Radio_Sprite64C6FCB94E0247265FE02C84DA3FEDED.tmp' to '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Content/Art/Sprites/Broken_Radio_Sprite.uasset'
+[2019.03.21-23.27.20:613][325]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Sprites/Checkers_Board" FILE="../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Content/Art/Sprites/Checkers_Board.uasset" SILENT=true
+[2019.03.21-23.27.20:636][325]LogSavePackage: Moving '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/Checkers_Board9C4DAB60458166AC85B3C6B2EAD5DBB7.tmp' to '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Content/Art/Sprites/Checkers_Board.uasset'
+[2019.03.21-23.27.20:650][325]LogSavePackage: Moving '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/Checkers_Board_Sprite771C71FF4A05600617CB33872A8E714E.tmp' to '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Content/Art/Sprites/Checkers_Board_Sprite.uasset'
+[2019.03.21-23.27.20:659][325]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Sprites/Fart_Button" FILE="../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Content/Art/Sprites/Fart_Button.uasset" SILENT=true
+[2019.03.21-23.27.20:669][325]LogSavePackage: Moving '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/Fart_Button9E4320AA465A74F975E03EAC4CB525F3.tmp' to '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Content/Art/Sprites/Fart_Button.uasset'
+[2019.03.21-23.27.20:677][325]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Sprites/Fart_Button_Sprite" FILE="../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Content/Art/Sprites/Fart_Button_Sprite.uasset" SILENT=true
+[2019.03.21-23.27.20:682][325]LogSavePackage: Moving '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/Fart_Button_SpriteDCC7C7794356E6069C4437A9538F7E1B.tmp' to '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Content/Art/Sprites/Fart_Button_Sprite.uasset'
+[2019.03.21-23.27.20:689][325]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Sprites/Finger_Skateboard" FILE="../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Content/Art/Sprites/Finger_Skateboard.uasset" SILENT=true
+[2019.03.21-23.27.20:696][325]LogSavePackage: Moving '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/Finger_Skateboard090BD780498D1D234C4FD9863AFAFE0B.tmp' to '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Content/Art/Sprites/Finger_Skateboard.uasset'
+[2019.03.21-23.27.20:708][325]LogSavePackage: Moving '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/Finger_Skateboard_Sprite3954085C48A9CEA2A1A94DBCD7B6ADB0.tmp' to '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Content/Art/Sprites/Finger_Skateboard_Sprite.uasset'
+[2019.03.21-23.27.20:716][325]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Sprites/Katana-Sword" FILE="../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Content/Art/Sprites/Katana-Sword.uasset" SILENT=true
+[2019.03.21-23.27.20:731][325]LogSavePackage: Moving '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/Katana-SwordAE452D3C4FB7313A93FC7691510A0FF5.tmp' to '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Content/Art/Sprites/Katana-Sword.uasset'
+[2019.03.21-23.27.20:739][325]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Sprites/Katana-Sword_Sprite" FILE="../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Content/Art/Sprites/Katana-Sword_Sprite.uasset" SILENT=true
+[2019.03.21-23.27.20:745][325]LogSavePackage: Moving '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/Katana-Sword_Sprite47CB54C045F2E5735C70CF898F915FC7.tmp' to '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Content/Art/Sprites/Katana-Sword_Sprite.uasset'
+[2019.03.21-23.27.20:752][325]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Sprites/Large_Stereo_System" FILE="../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Content/Art/Sprites/Large_Stereo_System.uasset" SILENT=true
+[2019.03.21-23.27.20:761][325]LogSavePackage: Moving '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/Large_Stereo_System2666FC474D060A88ADF953A06675EC97.tmp' to '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Content/Art/Sprites/Large_Stereo_System.uasset'
+[2019.03.21-23.27.20:773][325]LogSavePackage: Moving '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/Large_Stereo_System_Sprite0B46ABBF4D4F96F4D578B3AC4A85449A.tmp' to '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Content/Art/Sprites/Large_Stereo_System_Sprite.uasset'
+[2019.03.21-23.27.20:780][325]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Sprites/MechKeyboard" FILE="../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Content/Art/Sprites/MechKeyboard.uasset" SILENT=true
+[2019.03.21-23.27.20:845][325]LogSavePackage: Moving '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/MechKeyboard0647201545B1C4BE468F12B783310E28.tmp' to '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Content/Art/Sprites/MechKeyboard.uasset'
+[2019.03.21-23.27.20:854][325]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Sprites/MechKeyboard_Sprite" FILE="../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Content/Art/Sprites/MechKeyboard_Sprite.uasset" SILENT=true
+[2019.03.21-23.27.20:859][325]LogSavePackage: Moving '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/MechKeyboard_Sprite9D1C9C10412537BBFAE13FABB7AA14B9.tmp' to '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Content/Art/Sprites/MechKeyboard_Sprite.uasset'
+[2019.03.21-23.27.20:866][325]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Sprites/Mjolnir1" FILE="../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Content/Art/Sprites/Mjolnir1.uasset" SILENT=true
+[2019.03.21-23.27.20:883][325]LogSavePackage: Moving '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/Mjolnir19D4A39024EED191BD5D7C8BF5AF4376D.tmp' to '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Content/Art/Sprites/Mjolnir1.uasset'
+[2019.03.21-23.27.20:891][325]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Sprites/Mjolnir1_Sprite" FILE="../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Content/Art/Sprites/Mjolnir1_Sprite.uasset" SILENT=true
+[2019.03.21-23.27.20:896][325]LogSavePackage: Moving '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/Mjolnir1_SpriteB22431F3456916517EE64BB52ACEC73F.tmp' to '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Content/Art/Sprites/Mjolnir1_Sprite.uasset'
+[2019.03.21-23.27.20:903][325]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Sprites/NES_Cartridge" FILE="../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Content/Art/Sprites/NES_Cartridge.uasset" SILENT=true
+[2019.03.21-23.27.20:920][325]LogSavePackage: Moving '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/NES_Cartridge2CEC982D47BF4B7A141ED89F8405CB4D.tmp' to '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Content/Art/Sprites/NES_Cartridge.uasset'
+[2019.03.21-23.27.20:928][325]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Sprites/NES_Cartridge_Sprite" FILE="../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Content/Art/Sprites/NES_Cartridge_Sprite.uasset" SILENT=true
+[2019.03.21-23.27.20:933][325]LogSavePackage: Moving '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/NES_Cartridge_SpriteCB837EB94F7673C3576A0B8287A2C842.tmp' to '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Content/Art/Sprites/NES_Cartridge_Sprite.uasset'
+[2019.03.21-23.27.20:941][325]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Sprites/plunger" FILE="../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Content/Art/Sprites/plunger.uasset" SILENT=true
+[2019.03.21-23.27.20:980][325]LogSavePackage: Moving '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/plunger59D3CCFA418734D27A804EA5F5A16F2A.tmp' to '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Content/Art/Sprites/plunger.uasset'
+[2019.03.21-23.27.20:988][325]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Sprites/plunger_Sprite" FILE="../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Content/Art/Sprites/plunger_Sprite.uasset" SILENT=true
+[2019.03.21-23.27.20:993][325]LogSavePackage: Moving '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/plunger_SpriteDEFB1CE24C9E79FBD38779B0C6AEC0F9.tmp' to '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Content/Art/Sprites/plunger_Sprite.uasset'
+[2019.03.21-23.27.21:006][325]LogSavePackage: Moving '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/Prosthetic_Arm_Sprite1EA010CC468B86EEFABC79BDA16CEBA5.tmp' to '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Content/Art/Sprites/Prosthetic_Arm_Sprite.uasset'
+[2019.03.21-23.27.21:014][325]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Sprites/QuadDollar" FILE="../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Content/Art/Sprites/QuadDollar.uasset" SILENT=true
+[2019.03.21-23.27.21:028][325]LogSavePackage: Moving '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/QuadDollarBE4CE0384FBD2AA9C233618154204F66.tmp' to '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Content/Art/Sprites/QuadDollar.uasset'
+[2019.03.21-23.27.21:035][325]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Sprites/QuadDollar_Sprite" FILE="../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Content/Art/Sprites/QuadDollar_Sprite.uasset" SILENT=true
+[2019.03.21-23.27.21:040][325]LogSavePackage: Moving '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/QuadDollar_SpriteA7AE897E4E8AC1048772CEB7A07556B3.tmp' to '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Content/Art/Sprites/QuadDollar_Sprite.uasset'
+[2019.03.21-23.27.21:047][325]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Sprites/Rubber_Chicken" FILE="../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Content/Art/Sprites/Rubber_Chicken.uasset" SILENT=true
+[2019.03.21-23.27.21:062][325]LogSavePackage: Moving '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/Rubber_Chicken2D414C8144927DE1C950DBA29BD7987C.tmp' to '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Content/Art/Sprites/Rubber_Chicken.uasset'
+[2019.03.21-23.27.21:075][325]LogSavePackage: Moving '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/Rubber_Chicken_Sprite4ADF5307488C25DF98343090C1E2E899.tmp' to '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Content/Art/Sprites/Rubber_Chicken_Sprite.uasset'
+[2019.03.21-23.27.21:082][325]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Sprites/Sock_Puppet" FILE="../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Content/Art/Sprites/Sock_Puppet.uasset" SILENT=true
+[2019.03.21-23.27.21:097][325]LogSavePackage: Moving '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/Sock_Puppet9A668B394A7F9B7FECF1AF8AA0F5D314.tmp' to '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Content/Art/Sprites/Sock_Puppet.uasset'
+[2019.03.21-23.27.21:104][325]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Sprites/Sock_Puppet_Sprite" FILE="../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Content/Art/Sprites/Sock_Puppet_Sprite.uasset" SILENT=true
+[2019.03.21-23.27.21:110][325]LogSavePackage: Moving '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/Sock_Puppet_Sprite1FBA820740D33B6521FD9182C71BCD5A.tmp' to '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Content/Art/Sprites/Sock_Puppet_Sprite.uasset'
+[2019.03.21-23.27.21:117][325]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Sprites/SodaCan" FILE="../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Content/Art/Sprites/SodaCan.uasset" SILENT=true
+[2019.03.21-23.27.21:163][325]LogSavePackage: Moving '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/SodaCan927F1A29467FDC023F8CD98B65EF23EB.tmp' to '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Content/Art/Sprites/SodaCan.uasset'
+[2019.03.21-23.27.21:169][325]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Sprites/SodaCan_Sprite" FILE="../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Content/Art/Sprites/SodaCan_Sprite.uasset" SILENT=true
+[2019.03.21-23.27.21:175][325]LogSavePackage: Moving '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/SodaCan_SpriteE8F70E2E43ED8019D34110BC7325F44C.tmp' to '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Content/Art/Sprites/SodaCan_Sprite.uasset'
+[2019.03.21-23.27.21:181][325]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Sprites/Sub_Sandwhich" FILE="../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Content/Art/Sprites/Sub_Sandwhich.uasset" SILENT=true
+[2019.03.21-23.27.21:191][325]LogSavePackage: Moving '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/Sub_Sandwhich8A78C3934CF4B1347660C09E8FDCA75A.tmp' to '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Content/Art/Sprites/Sub_Sandwhich.uasset'
+[2019.03.21-23.27.21:197][325]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Sprites/Sub_Sandwhich_Sprite" FILE="../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Content/Art/Sprites/Sub_Sandwhich_Sprite.uasset" SILENT=true
+[2019.03.21-23.27.21:202][325]LogSavePackage: Moving '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Saved/Sub_Sandwhich_Sprite8551385944FD62B8B45380BFA959F72B.tmp' to '../../../../../../Users/Phenrear/Desktop/gift/Builds/GiftGame 4.21/Content/Art/Sprites/Sub_Sandwhich_Sprite.uasset'
+[2019.03.21-23.27.21:268][325]LogSlate: Window 'GiftGame - Unreal Editor' being destroyed
+[2019.03.21-23.27.21:268][325]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.03.21-23.27.21:581][326]Cmd: QUIT_EDITOR
+[2019.03.21-23.27.21:620][326]LogExit: Preparing to exit.
+[2019.03.21-23.27.22:739][326]LogExit: Editor shut down
+[2019.03.21-23.27.22:739][326]LogExit: Transaction tracking system shut down
+[2019.03.21-23.27.22:963][326]LogExit: Object subsystem successfully closed.
+[2019.03.21-23.27.22:989][326]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.03.21-23.27.22:992][326]LogD3D11RHI: Shutdown
+[2019.03.21-23.27.22:992][326]LogD3D11RHI: CleanupD3DDevice
+[2019.03.21-23.27.22:994][326]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.03.21-23.27.23:020][326]LogModuleManager: Shutting down and abandoning module BlueprintGraph (626)
+[2019.03.21-23.27.23:020][326]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (624)
+[2019.03.21-23.27.23:020][326]LogModuleManager: Shutting down and abandoning module SceneOutliner (622)
+[2019.03.21-23.27.23:020][326]LogModuleManager: Shutting down and abandoning module AddContentDialog (620)
+[2019.03.21-23.27.23:021][326]LogModuleManager: Shutting down and abandoning module WidgetCarousel (619)
+[2019.03.21-23.27.23:021][326]LogModuleManager: Shutting down and abandoning module EditorWidgets (616)
+[2019.03.21-23.27.23:021][326]LogModuleManager: Shutting down and abandoning module CollectionManager (614)
+[2019.03.21-23.27.23:021][326]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (612)
+[2019.03.21-23.27.23:021][326]LogModuleManager: Shutting down and abandoning module StatsViewer (610)
+[2019.03.21-23.27.23:021][326]LogModuleManager: Shutting down and abandoning module FoliageEdit (608)
+[2019.03.21-23.27.23:021][326]LogModuleManager: Shutting down and abandoning module LandscapeEditor (606)
+[2019.03.21-23.27.23:023][326]LogModuleManager: Shutting down and abandoning module MeshPaintMode (604)
+[2019.03.21-23.27.23:023][326]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (602)
+[2019.03.21-23.27.23:023][326]LogModuleManager: Shutting down and abandoning module ActorPickerMode (600)
+[2019.03.21-23.27.23:023][326]LogModuleManager: Shutting down and abandoning module GeometryMode (598)
+[2019.03.21-23.27.23:023][326]LogModuleManager: Shutting down and abandoning module TextureAlignMode (596)
+[2019.03.21-23.27.23:023][326]LogModuleManager: Shutting down and abandoning module BspMode (594)
+[2019.03.21-23.27.23:023][326]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (592)
+[2019.03.21-23.27.23:023][326]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (590)
+[2019.03.21-23.27.23:023][326]LogModuleManager: Shutting down and abandoning module AutomationWorker (588)
+[2019.03.21-23.27.23:023][326]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (586)
+[2019.03.21-23.27.23:023][326]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (584)
+[2019.03.21-23.27.23:023][326]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (582)
+[2019.03.21-23.27.23:023][326]LogModuleManager: Shutting down and abandoning module PlacementMode (581)
+[2019.03.21-23.27.23:023][326]LogModuleManager: Shutting down and abandoning module MaterialEditor (580)
+[2019.03.21-23.27.23:025][326]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (576)
+[2019.03.21-23.27.23:025][326]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (574)
+[2019.03.21-23.27.23:025][326]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (572)
+[2019.03.21-23.27.23:025][326]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (570)
+[2019.03.21-23.27.23:025][326]LogModuleManager: Shutting down and abandoning module WebMMedia (568)
+[2019.03.21-23.27.23:025][326]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (566)
+[2019.03.21-23.27.23:025][326]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (564)
+[2019.03.21-23.27.23:025][326]LogModuleManager: Shutting down and abandoning module SequenceRecorder (563)
+[2019.03.21-23.27.23:025][326]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (560)
+[2019.03.21-23.27.23:025][326]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (558)
+[2019.03.21-23.27.23:025][326]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (556)
+[2019.03.21-23.27.23:025][326]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (554)
+[2019.03.21-23.27.23:025][326]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (552)
+[2019.03.21-23.27.23:025][326]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (550)
+[2019.03.21-23.27.23:025][326]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (548)
+[2019.03.21-23.27.23:025][326]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (546)
+[2019.03.21-23.27.23:025][326]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (544)
+[2019.03.21-23.27.23:025][326]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (542)
+[2019.03.21-23.27.23:025][326]LogModuleManager: Shutting down and abandoning module CharacterAI (540)
+[2019.03.21-23.27.23:025][326]LogModuleManager: Shutting down and abandoning module SmartSnapping (538)
+[2019.03.21-23.27.23:025][326]LogModuleManager: Shutting down and abandoning module SessionServices (536)
+[2019.03.21-23.27.23:025][326]LogModuleManager: Shutting down and abandoning module ViewportSnapping (534)
+[2019.03.21-23.27.23:025][326]LogModuleManager: Shutting down and abandoning module ViewportInteraction (532)
+[2019.03.21-23.27.23:025][326]LogModuleManager: Shutting down and abandoning module ClothPainter (530)
+[2019.03.21-23.27.23:026][326]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (529)
+[2019.03.21-23.27.23:027][326]LogModuleManager: Shutting down and abandoning module LogVisualizer (526)
+[2019.03.21-23.27.23:027][326]LogModuleManager: Shutting down and abandoning module IntroTutorials (524)
+[2019.03.21-23.27.23:027][326]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (523)
+[2019.03.21-23.27.23:028][326]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (520)
+[2019.03.21-23.27.23:028][326]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (518)
+[2019.03.21-23.27.23:028][326]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (516)
+[2019.03.21-23.27.23:028][326]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (514)
+[2019.03.21-23.27.23:028][326]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (513)
+[2019.03.21-23.27.23:411][326]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (510)
+[2019.03.21-23.27.23:411][326]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (508)
+[2019.03.21-23.27.23:411][326]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (506)
+[2019.03.21-23.27.23:411][326]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (504)
+[2019.03.21-23.27.23:411][326]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (502)
+[2019.03.21-23.27.23:411][326]LogModuleManager: Shutting down and abandoning module InputBindingEditor (500)
+[2019.03.21-23.27.23:413][326]LogModuleManager: Shutting down and abandoning module MergeActors (498)
+[2019.03.21-23.27.23:413][326]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (496)
+[2019.03.21-23.27.23:414][326]LogModuleManager: Shutting down and abandoning module LocalizationService (495)
+[2019.03.21-23.27.23:414][326]LogModuleManager: Shutting down and abandoning module HardwareTargeting (492)
+[2019.03.21-23.27.23:414][326]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (490)
+[2019.03.21-23.27.23:414][326]LogModuleManager: Shutting down and abandoning module UndoHistory (488)
+[2019.03.21-23.27.23:414][326]LogModuleManager: Shutting down and abandoning module XmlParser (486)
+[2019.03.21-23.27.23:414][326]LogModuleManager: Shutting down and abandoning module Blutility (484)
+[2019.03.21-23.27.23:414][326]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (482)
+[2019.03.21-23.27.23:414][326]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (481)
+[2019.03.21-23.27.23:414][326]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (478)
+[2019.03.21-23.27.23:414][326]LogModuleManager: Shutting down and abandoning module SettingsEditor (476)
+[2019.03.21-23.27.23:414][326]LogModuleManager: Shutting down and abandoning module ProjectLauncher (474)
+[2019.03.21-23.27.23:415][326]LogModuleManager: Shutting down and abandoning module SessionFrontend (472)
+[2019.03.21-23.27.23:415][326]LogModuleManager: Shutting down and abandoning module ProfilerClient (470)
+[2019.03.21-23.27.23:415][326]LogModuleManager: Shutting down and abandoning module DeviceManager (468)
+[2019.03.21-23.27.23:416][326]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (467)
+[2019.03.21-23.27.23:479][326]LogModuleManager: Shutting down and abandoning module AutomationController (464)
+[2019.03.21-23.27.23:479][326]LogModuleManager: Shutting down and abandoning module AutomationWindow (462)
+[2019.03.21-23.27.23:481][326]LogModuleManager: Shutting down and abandoning module Layers (460)
+[2019.03.21-23.27.23:483][326]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (458)
+[2019.03.21-23.27.23:483][326]LogModuleManager: Shutting down and abandoning module DetailCustomizations (456)
+[2019.03.21-23.27.23:484][326]LogModuleManager: Shutting down and abandoning module PackagesDialog (454)
+[2019.03.21-23.27.23:484][326]LogModuleManager: Shutting down and abandoning module Persona (452)
+[2019.03.21-23.27.23:484][326]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (451)
+[2019.03.21-23.27.23:485][326]LogModuleManager: Shutting down and abandoning module AnimGraph (449)
+[2019.03.21-23.27.23:485][326]LogModuleManager: Shutting down and abandoning module Kismet (446)
+[2019.03.21-23.27.23:489][326]LogModuleManager: Shutting down and abandoning module GraphEditor (444)
+[2019.03.21-23.27.23:489][326]LogModuleManager: Shutting down and abandoning module ClassViewer (442)
+[2019.03.21-23.27.23:489][326]LogModuleManager: Shutting down and abandoning module Toolbox (440)
+[2019.03.21-23.27.23:489][326]LogModuleManager: Shutting down and abandoning module ModuleUI (438)
+[2019.03.21-23.27.23:490][326]LogModuleManager: Shutting down and abandoning module MovieSceneTools (436)
+[2019.03.21-23.27.23:490][326]LogModuleManager: Shutting down and abandoning module OutputLog (434)
+[2019.03.21-23.27.23:490][326]LogModuleManager: Shutting down and abandoning module GammaUI (432)
+[2019.03.21-23.27.23:491][326]LogModuleManager: Shutting down and abandoning module Documentation (430)
+[2019.03.21-23.27.23:491][326]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (428)
+[2019.03.21-23.27.23:491][326]LogModuleManager: Shutting down and abandoning module MovieScene (426)
+[2019.03.21-23.27.23:491][326]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (424)
+[2019.03.21-23.27.23:491][326]LogModuleManager: Shutting down and abandoning module LauncherPlatform (422)
+[2019.03.21-23.27.23:491][326]LogModuleManager: Shutting down and abandoning module AnalyticsET (420)
+[2019.03.21-23.27.23:491][326]LogModuleManager: Shutting down and abandoning module PortalServices (418)
+[2019.03.21-23.27.23:491][326]LogModuleManager: Shutting down and abandoning module PortalRpc (416)
+[2019.03.21-23.27.23:491][326]LogModuleManager: Shutting down and abandoning module MessagingRpc (414)
+[2019.03.21-23.27.23:491][326]LogModuleManager: Shutting down and abandoning module AIModule (412)
+[2019.03.21-23.27.23:491][326]LogModuleManager: Shutting down and abandoning module GameplayDebugger (411)
+[2019.03.21-23.27.23:491][326]LogModuleManager: Shutting down and abandoning module AITestSuite (409)
+[2019.03.21-23.27.23:491][326]LogModuleManager: Shutting down and abandoning module NavigationSystem (407)
+[2019.03.21-23.27.23:491][326]LogModuleManager: Shutting down and abandoning module DesktopPlatform (404)
+[2019.03.21-23.27.23:491][326]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (402)
+[2019.03.21-23.27.23:493][326]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2019.03.21-23.27.23:705][326]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2019.03.21-23.27.23:705][326]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2019.03.21-23.27.23:705][326]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2019.03.21-23.27.23:705][326]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2019.03.21-23.27.23:705][326]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2019.03.21-23.27.23:705][326]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2019.03.21-23.27.23:705][326]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2019.03.21-23.27.23:705][326]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2019.03.21-23.27.23:705][326]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2019.03.21-23.27.23:705][326]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2019.03.21-23.27.23:705][326]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2019.03.21-23.27.23:705][326]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2019.03.21-23.27.23:705][326]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2019.03.21-23.27.23:705][326]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2019.03.21-23.27.23:706][326]LogModuleManager: Shutting down and abandoning module MediaCompositing (370)
+[2019.03.21-23.27.23:706][326]LogModuleManager: Shutting down and abandoning module LinearTimecode (368)
+[2019.03.21-23.27.23:706][326]LogModuleManager: Shutting down and abandoning module ImgMedia (366)
+[2019.03.21-23.27.23:708][326]LogModuleManager: Shutting down and abandoning module HTML5Networking (364)
+[2019.03.21-23.27.23:708][326]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (362)
+[2019.03.21-23.27.23:708][326]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (360)
+[2019.03.21-23.27.23:708][326]LogModuleManager: Shutting down and abandoning module BackChannel (358)
+[2019.03.21-23.27.23:708][326]LogModuleManager: Shutting down and abandoning module AppleVision (356)
+[2019.03.21-23.27.23:708][326]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (354)
+[2019.03.21-23.27.23:708][326]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2019.03.21-23.27.23:708][326]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2019.03.21-23.27.23:708][326]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2019.03.21-23.27.23:709][326]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2019.03.21-23.27.23:709][326]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2019.03.21-23.27.23:709][326]LogModuleManager: Shutting down and abandoning module VariantManagerContent (342)
+[2019.03.21-23.27.23:709][326]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (340)
+[2019.03.21-23.27.23:709][326]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2019.03.21-23.27.23:709][326]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2019.03.21-23.27.23:709][326]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2019.03.21-23.27.23:709][326]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2019.03.21-23.27.23:709][326]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2019.03.21-23.27.23:709][326]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2019.03.21-23.27.23:709][326]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2019.03.21-23.27.23:709][326]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2019.03.21-23.27.23:709][326]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2019.03.21-23.27.23:709][326]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2019.03.21-23.27.23:709][326]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2019.03.21-23.27.23:709][326]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2019.03.21-23.27.23:709][326]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2019.03.21-23.27.23:709][326]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2019.03.21-23.27.23:709][326]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2019.03.21-23.27.23:709][326]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (308)
+[2019.03.21-23.27.23:709][326]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (306)
+[2019.03.21-23.27.23:709][326]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (304)
+[2019.03.21-23.27.23:709][326]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (302)
+[2019.03.21-23.27.23:709][326]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (300)
+[2019.03.21-23.27.23:709][326]LogModuleManager: Shutting down and abandoning module Paper2DEditor (298)
+[2019.03.21-23.27.23:709][326]LogModuleManager: Shutting down and abandoning module MeshPaint (297)
+[2019.03.21-23.27.23:709][326]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (294)
+[2019.03.21-23.27.23:709][326]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (292)
+[2019.03.21-23.27.23:709][326]LogModuleManager: Shutting down and abandoning module PhysXVehicles (290)
+[2019.03.21-23.27.23:709][326]LogModuleManager: Shutting down and abandoning module OculusEditor (288)
+[2019.03.21-23.27.23:709][326]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2019.03.21-23.27.23:709][326]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.03.21-23.27.23:709][326]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.03.21-23.27.23:810][326]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.03.21-23.27.23:911][326]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2019.03.21-23.27.23:911][326]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2019.03.21-23.27.23:911][326]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2019.03.21-23.27.23:911][326]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2019.03.21-23.27.23:911][326]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2019.03.21-23.27.23:911][326]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2019.03.21-23.27.23:912][326]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2019.03.21-23.27.23:912][326]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2019.03.21-23.27.23:912][326]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2019.03.21-23.27.23:912][326]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2019.03.21-23.27.23:912][326]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2019.03.21-23.27.23:912][326]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2019.03.21-23.27.23:913][326]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2019.03.21-23.27.23:913][326]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2019.03.21-23.27.23:913][326]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2019.03.21-23.27.23:913][326]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2019.03.21-23.27.23:913][326]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2019.03.21-23.27.23:913][326]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (244)
+[2019.03.21-23.27.23:913][326]LogModuleManager: Shutting down and abandoning module WmfMedia (242)
+[2019.03.21-23.27.23:928][326]LogModuleManager: Shutting down and abandoning module Media (241)
+[2019.03.21-23.27.23:934][326]LogModuleManager: Shutting down and abandoning module PacketHandler (238)
+[2019.03.21-23.27.23:934][326]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (236)
+[2019.03.21-23.27.23:934][326]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (234)
+[2019.03.21-23.27.23:934][326]LogModuleManager: Shutting down and abandoning module MediaAssets (232)
+[2019.03.21-23.27.23:934][326]LogModuleManager: Shutting down and abandoning module Overlay (230)
+[2019.03.21-23.27.23:934][326]LogModuleManager: Shutting down and abandoning module OverlayEditor (229)
+[2019.03.21-23.27.23:934][326]LogModuleManager: Shutting down and abandoning module VREditor (226)
+[2019.03.21-23.27.23:934][326]LogModuleManager: Shutting down and abandoning module StringTableEditor (224)
+[2019.03.21-23.27.23:935][326]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (222)
+[2019.03.21-23.27.23:935][326]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (220)
+[2019.03.21-23.27.23:935][326]LogModuleManager: Shutting down and abandoning module FunctionalTesting (218)
+[2019.03.21-23.27.23:935][326]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (216)
+[2019.03.21-23.27.23:935][326]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (215)
+[2019.03.21-23.27.23:935][326]LogModuleManager: Shutting down and abandoning module UMG (212)
+[2019.03.21-23.27.23:935][326]LogModuleManager: Shutting down and abandoning module UMGEditor (211)
+[2019.03.21-23.27.23:935][326]LogModuleManager: Shutting down and abandoning module Sequencer (210)
+[2019.03.21-23.27.23:936][326]LogModuleManager: Shutting down and abandoning module MessageLog (207)
+[2019.03.21-23.27.23:936][326]LogModuleManager: Shutting down and abandoning module SlateReflector (202)
+[2019.03.21-23.27.23:937][326]LogModuleManager: Shutting down and abandoning module Slate (200)
+[2019.03.21-23.27.23:937][326]LogModuleManager: Shutting down and abandoning module EditorStyle (198)
+[2019.03.21-23.27.23:938][326]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2019.03.21-23.27.23:938][326]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2019.03.21-23.27.23:938][326]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2019.03.21-23.27.23:938][326]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2019.03.21-23.27.23:938][326]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2019.03.21-23.27.23:938][326]LogModuleManager: Shutting down and abandoning module Core (186)
+[2019.03.21-23.27.23:938][326]LogModuleManager: Shutting down and abandoning module LevelSequence (184)
+[2019.03.21-23.27.23:938][326]LogModuleManager: Shutting down and abandoning module KismetCompiler (182)
+[2019.03.21-23.27.23:938][326]LogModuleManager: Shutting down and abandoning module MeshUtilities (180)
+[2019.03.21-23.27.23:938][326]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (179)
+[2019.03.21-23.27.23:938][326]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (178)
+[2019.03.21-23.27.23:938][326]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (177)
+[2019.03.21-23.27.23:938][326]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (175)
+[2019.03.21-23.27.23:939][326]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (173)
+[2019.03.21-23.27.23:939][326]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (171)
+[2019.03.21-23.27.23:939][326]LogModuleManager: Shutting down and abandoning module MaterialBaking (167)
+[2019.03.21-23.27.23:939][326]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (163)
+[2019.03.21-23.27.23:939][326]LogModuleManager: Shutting down and abandoning module DerivedDataCache (160)
+[2019.03.21-23.27.23:995][326]LogDerivedDataCache: Shutdown
+[2019.03.21-23.27.23:995][326]LogModuleManager: Shutting down and abandoning module XGEController (158)
+[2019.03.21-23.27.23:995][326]LogXGEController: Cleaning working directory: C:/Users/Phenrear/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.03.21-23.27.23:995][326]LogModuleManager: Shutting down and abandoning module TargetPlatform (156)
+[2019.03.21-23.27.23:995][326]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (155)
+[2019.03.21-23.27.23:995][326]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (153)
+[2019.03.21-23.27.23:995][326]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (151)
+[2019.03.21-23.27.23:996][326]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (149)
+[2019.03.21-23.27.23:996][326]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (147)
+[2019.03.21-23.27.23:996][326]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (145)
+[2019.03.21-23.27.23:996][326]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (143)
+[2019.03.21-23.27.23:996][326]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (141)
+[2019.03.21-23.27.23:996][326]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (139)
+[2019.03.21-23.27.23:996][326]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (137)
+[2019.03.21-23.27.23:996][326]LogModuleManager: Shutting down and abandoning module ImageWrapper (136)
+[2019.03.21-23.27.23:996][326]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (133)
+[2019.03.21-23.27.23:996][326]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (131)
+[2019.03.21-23.27.23:996][326]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (129)
+[2019.03.21-23.27.23:996][326]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (127)
+[2019.03.21-23.27.23:996][326]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (125)
+[2019.03.21-23.27.23:997][326]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (123)
+[2019.03.21-23.27.23:997][326]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (121)
+[2019.03.21-23.27.23:997][326]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (119)
+[2019.03.21-23.27.23:997][326]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (117)
+[2019.03.21-23.27.23:997][326]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (115)
+[2019.03.21-23.27.23:997][326]LogModuleManager: Shutting down and abandoning module Messaging (113)
+[2019.03.21-23.27.23:997][326]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (111)
+[2019.03.21-23.27.23:998][326]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (109)
+[2019.03.21-23.27.23:998][326]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (107)
+[2019.03.21-23.27.24:003][326]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (105)
+[2019.03.21-23.27.24:003][326]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (103)
+[2019.03.21-23.27.24:003][326]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (101)
+[2019.03.21-23.27.24:003][326]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (99)
+[2019.03.21-23.27.24:003][326]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (97)
+[2019.03.21-23.27.24:003][326]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (95)
+[2019.03.21-23.27.24:003][326]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (93)
+[2019.03.21-23.27.24:003][326]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (91)
+[2019.03.21-23.27.24:003][326]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (89)
+[2019.03.21-23.27.24:003][326]LogModuleManager: Shutting down and abandoning module InputCore (86)
+[2019.03.21-23.27.24:003][326]LogModuleManager: Shutting down and abandoning module Settings (84)
+[2019.03.21-23.27.24:003][326]LogModuleManager: Shutting down and abandoning module PhysXCooking (82)
+[2019.03.21-23.27.24:003][326]LogModuleManager: Shutting down and abandoning module SteamVR (80)
+[2019.03.21-23.27.24:003][326]LogHMD: Freeing OpenVRDLLHandle.
+[2019.03.21-23.27.24:003][326]LogModuleManager: Shutting down and abandoning module OculusHMD (78)
+[2019.03.21-23.27.24:003][326]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (76)
+[2019.03.21-23.27.24:003][326]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (74)
+[2019.03.21-23.27.24:003][326]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (72)
+[2019.03.21-23.27.24:003][326]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (68)
+[2019.03.21-23.27.24:004][326]LogModuleManager: Shutting down and abandoning module XMPP (63)
+[2019.03.21-23.27.24:005][326]LogModuleManager: Shutting down and abandoning module WebSockets (62)
+[2019.03.21-23.27.24:024][326]LogModuleManager: Shutting down and abandoning module HTTP (59)
+[2019.03.21-23.27.24:024][326]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.03.21-23.27.24:024][326]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5ADA0795-40BD-5A38-E8A2-538178814975%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=4af3b85249095883dbebc6b77bc89745%7C10e6303825bb42e187c400971c8e6d18%7Cf3fe5d53-6850-4950-9e2b-267872259c11&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.03.21-23.27.24:044][326]LogModuleManager: Shutting down and abandoning module SSL (58)
+[2019.03.21-23.27.24:044][326]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (54)
+[2019.03.21-23.27.24:044][326]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (52)
+[2019.03.21-23.27.24:044][326]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (50)
+[2019.03.21-23.27.24:044][326]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (48)
+[2019.03.21-23.27.24:044][326]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (46)
+[2019.03.21-23.27.24:044][326]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (44)
+[2019.03.21-23.27.24:045][326]LogModuleManager: Shutting down and abandoning module MagicLeapController (42)
+[2019.03.21-23.27.24:045][326]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.03.21-23.27.24:045][326]LogModuleManager: Shutting down and abandoning module MagicLeap (40)
+[2019.03.21-23.27.24:045][326]LogModuleManager: Shutting down and abandoning module DatasmithContent (38)
+[2019.03.21-23.27.24:045][326]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.03.21-23.27.24:045][326]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.03.21-23.27.24:045][326]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.03.21-23.27.24:045][326]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.03.21-23.27.24:045][326]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.03.21-23.27.24:045][326]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.03.21-23.27.24:045][326]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.03.21-23.27.24:046][326]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.03.21-23.27.24:046][326]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.03.21-23.27.24:046][326]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.03.21-23.27.24:046][326]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.03.21-23.27.24:046][326]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.03.21-23.27.24:046][326]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.03.21-23.27.24:046][326]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.03.21-23.27.24:046][326]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.03.21-23.27.24:046][326]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.03.21-23.27.24:046][326]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.03.21-23.27.24:046][326]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.03.21-23.27.24:053][326]LogExit: Exiting.
+[2019.03.21-23.27.24:075][326]Log file closed, 03/21/19 18:27:24
