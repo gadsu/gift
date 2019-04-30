@@ -1,0 +1,1343 @@
+﻿Log file open, 04/29/19 17:26:31
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: GiftGame
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.613661
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.103s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4613538
+LogInit: Engine Version: 4.21.1-4613538+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Xeon(R) Silver 4108 CPU @ 1.80GHz, GPU: NVIDIA Quadro P4000
+LogInit: Compiled (64-bit): Nov 30 2018 04:13:25
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line:  -EpicPortal -epicusername=Austin.Krieger -epicuserid=934f8c9d0f054b03a9de808ca0b59c2e -epiclocale=en-US
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.04.29-22.26.31:672][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.04.29-22.26.31:672][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.04.29-22.26.31:672][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Saved/Config/Windows/Engine.ini]
+[2019.04.29-22.26.31:672][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.04.29-22.26.31:672][  0]LogConfig: Setting CVar [[r.MobileHDR:0]]
+[2019.04.29-22.26.31:672][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:1]]
+[2019.04.29-22.26.31:672][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxMobileCascades:2]]
+[2019.04.29-22.26.31:672][  0]LogConfig: Setting CVar [[r.MobileMSAA:1]]
+[2019.04.29-22.26.31:672][  0]LogConfig: Setting CVar [[r.Mobile.UseLegacyShadingModel:0]]
+[2019.04.29-22.26.31:672][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
+[2019.04.29-22.26.31:672][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2019.04.29-22.26.31:672][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2019.04.29-22.26.31:672][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2019.04.29-22.26.31:672][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+[2019.04.29-22.26.31:672][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2019.04.29-22.26.31:672][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2019.04.29-22.26.31:672][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2019.04.29-22.26.31:672][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:0]]
+[2019.04.29-22.26.31:672][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2019.04.29-22.26.31:672][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+[2019.04.29-22.26.31:672][  0]LogConfig: Setting CVar [[r.ForwardShading:0]]
+[2019.04.29-22.26.31:672][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:1]]
+[2019.04.29-22.26.31:672][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2019.04.29-22.26.31:672][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2019.04.29-22.26.31:672][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2019.04.29-22.26.31:672][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
+[2019.04.29-22.26.31:672][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:0]]
+[2019.04.29-22.26.31:672][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:0]]
+[2019.04.29-22.26.31:672][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2019.04.29-22.26.31:672][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2019.04.29-22.26.31:672][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2019.04.29-22.26.31:672][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2019.04.29-22.26.31:672][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
+[2019.04.29-22.26.31:672][  0]LogConfig: Setting CVar [[r.PostProcessing.PropagateAlpha:0]]
+[2019.04.29-22.26.31:672][  0]LogConfig: Setting CVar [[r.DOF.Algorithm:1]]
+[2019.04.29-22.26.31:672][  0]LogConfig: Setting CVar [[r.UsePreExposure:0]]
+[2019.04.29-22.26.31:672][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:0]]
+[2019.04.29-22.26.31:672][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2019.04.29-22.26.31:672][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+[2019.04.29-22.26.31:672][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2019.04.29-22.26.31:672][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2019.04.29-22.26.31:672][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2019.04.29-22.26.31:672][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2019.04.29-22.26.31:672][  0]LogConfig: Setting CVar [[r.TemporalAA.Upsampling:0]]
+[2019.04.29-22.26.31:673][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:0]]
+[2019.04.29-22.26.31:673][  0]LogConfig: Setting CVar [[r.DefaultBackBufferPixelFormat:4]]
+[2019.04.29-22.26.31:673][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+[2019.04.29-22.26.31:673][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
+[2019.04.29-22.26.31:673][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2019.04.29-22.26.31:673][  0]LogConfig: Setting CVar [[r.EarlyZPassMovable:1]]
+[2019.04.29-22.26.31:673][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+[2019.04.29-22.26.31:673][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2019.04.29-22.26.31:673][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2019.04.29-22.26.31:673][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
+[2019.04.29-22.26.31:673][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
+[2019.04.29-22.26.31:673][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeX:1024]]
+[2019.04.29-22.26.31:673][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeY:1024]]
+[2019.04.29-22.26.31:673][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
+[2019.04.29-22.26.31:673][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2019.04.29-22.26.31:673][  0]LogConfig: Setting CVar [[r.MorphTarget.Mode:1]]
+[2019.04.29-22.26.31:673][  0]LogConfig: Setting CVar [[vr.InstancedStereo:0]]
+[2019.04.29-22.26.31:673][  0]LogConfig: Setting CVar [[vr.MultiView:0]]
+[2019.04.29-22.26.31:673][  0]LogConfig: Setting CVar [[vr.MobileMultiView:0]]
+[2019.04.29-22.26.31:673][  0]LogConfig: Setting CVar [[vr.MobileMultiView.Direct:0]]
+[2019.04.29-22.26.31:673][  0]LogConfig: Setting CVar [[vr.MonoscopicFarField:0]]
+[2019.04.29-22.26.31:673][  0]LogConfig: Setting CVar [[vr.ODSCapture:0]]
+[2019.04.29-22.26.31:673][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2019.04.29-22.26.31:673][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:1]]
+[2019.04.29-22.26.31:673][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:1]]
+[2019.04.29-22.26.31:673][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
+[2019.04.29-22.26.31:673][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:1]]
+[2019.04.29-22.26.31:673][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
+[2019.04.29-22.26.31:673][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
+[2019.04.29-22.26.31:673][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableLightCSMShaderCulling:1]]
+[2019.04.29-22.26.31:673][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
+[2019.04.29-22.26.31:673][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+[2019.04.29-22.26.31:673][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:4]]
+[2019.04.29-22.26.31:673][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
+[2019.04.29-22.26.31:673][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+[2019.04.29-22.26.31:673][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+[2019.04.29-22.26.31:673][  0]LogConfig: Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
+[2019.04.29-22.26.31:673][  0]LogConfig: Setting CVar [[r.SupportReversedIndexBuffers:1]]
+[2019.04.29-22.26.31:673][  0]LogConfig: Setting CVar [[r.SupportMaterialLayers:0]]
+[2019.04.29-22.26.31:673][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Saved/Config/Windows/Engine.ini]
+[2019.04.29-22.26.31:673][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Saved/Config/Windows/Engine.ini]
+[2019.04.29-22.26.31:673][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.04.29-22.26.31:673][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.04.29-22.26.31:674][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.04.29-22.26.31:674][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.04.29-22.26.31:674][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.04.29-22.26.31:674][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.04.29-22.26.31:674][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.04.29-22.26.31:674][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.04.29-22.26.31:674][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.04.29-22.26.31:674][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.04.29-22.26.31:674][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.04.29-22.26.31:674][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.04.29-22.26.31:674][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.04.29-22.26.31:674][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Saved/Config/Windows/Engine.ini]
+[2019.04.29-22.26.31:674][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.04.29-22.26.31:674][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.04.29-22.26.31:674][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.04.29-22.26.31:674][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.04.29-22.26.31:674][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.04.29-22.26.31:674][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.04.29-22.26.31:674][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.04.29-22.26.31:674][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.04.29-22.26.31:674][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.04.29-22.26.31:674][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.04.29-22.26.31:674][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.04.29-22.26.31:674][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.04.29-22.26.31:674][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.04.29-22.26.31:674][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.04.29-22.26.31:674][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Saved/Config/Windows/Engine.ini]
+[2019.04.29-22.26.31:674][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Saved/Config/Windows/Engine.ini]
+[2019.04.29-22.26.31:686][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.04.29-22.26.31:686][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.04.29-22.26.31:686][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.04.29-22.26.31:686][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.04.29-22.26.31:686][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.04.29-22.26.31:686][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.04.29-22.26.31:686][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.04.29-22.26.31:686][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.04.29-22.26.31:686][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.04.29-22.26.31:686][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.04.29-22.26.31:686][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.04.29-22.26.31:686][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.04.29-22.26.31:686][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.04.29-22.26.31:686][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.04.29-22.26.31:686][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.04.29-22.26.31:686][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.04.29-22.26.31:686][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.04.29-22.26.31:686][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.04.29-22.26.31:686][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.04.29-22.26.31:686][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.04.29-22.26.31:686][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.04.29-22.26.31:686][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.04.29-22.26.31:686][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.04.29-22.26.31:686][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.04.29-22.26.31:686][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.04.29-22.26.31:686][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.04.29-22.26.31:686][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.04.29-22.26.31:686][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.04.29-22.26.31:686][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.04.29-22.26.31:686][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.04.29-22.26.31:687][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.04.29-22.26.31:687][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.04.29-22.26.31:687][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.04.29-22.26.31:687][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.04.29-22.26.31:687][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.04.29-22.26.31:687][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.04.29-22.26.31:687][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.04.29-22.26.31:687][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.04.29-22.26.31:687][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.04.29-22.26.31:687][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.04.29-22.26.31:687][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.04.29-22.26.31:687][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.04.29-22.26.31:687][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.04.29-22.26.31:687][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.04.29-22.26.31:687][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.04.29-22.26.31:687][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.04.29-22.26.31:687][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.04.29-22.26.31:687][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.04.29-22.26.31:687][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.04.29-22.26.31:687][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.04.29-22.26.31:687][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.04.29-22.26.31:687][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.04.29-22.26.31:687][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.04.29-22.26.31:687][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.04.29-22.26.31:687][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.04.29-22.26.31:687][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.04.29-22.26.31:687][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.04.29-22.26.31:687][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.04.29-22.26.31:687][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.04.29-22.26.31:687][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.04.29-22.26.31:687][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.04.29-22.26.31:687][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.04.29-22.26.31:687][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.04.29-22.26.31:687][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.04.29-22.26.31:687][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.04.29-22.26.31:687][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.04.29-22.26.31:687][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.04.29-22.26.31:687][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.04.29-22.26.31:687][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.04.29-22.26.31:687][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.04.29-22.26.31:687][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.04.29-22.26.31:687][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.04.29-22.26.31:687][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.04.29-22.26.31:688][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.04.29-22.26.31:688][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.04.29-22.26.31:688][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.04.29-22.26.31:688][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.04.29-22.26.31:688][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.04.29-22.26.31:688][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.04.29-22.26.31:688][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.04.29-22.26.31:688][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.04.29-22.26.31:688][  0]LogInit: Selected Device Profile: [Windows]
+[2019.04.29-22.26.31:688][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.04.29-22.26.31:711][  0]LogHAL: Display: Platform has ~ 32 GB [34044575744 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.04.29-22.26.31:711][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.04.29-22.26.31:711][  0]LogInit: Going up to parent DeviceProfile []
+[2019.04.29-22.26.31:711][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.04.29-22.26.31:711][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.04.29-22.26.31:711][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.04.29-22.26.31:711][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.04.29-22.26.31:711][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.04.29-22.26.31:711][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.04.29-22.26.31:711][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.04.29-22.26.31:711][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.04.29-22.26.31:711][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.04.29-22.26.31:711][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.04.29-22.26.31:711][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.04.29-22.26.31:711][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.04.29-22.26.31:711][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.04.29-22.26.31:711][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.04.29-22.26.31:711][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.04.29-22.26.31:711][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.04.29-22.26.31:711][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.04.29-22.26.31:711][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.04.29-22.26.31:711][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.04.29-22.26.31:711][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.04.29-22.26.31:711][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.04.29-22.26.31:711][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.04.29-22.26.31:711][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.04.29-22.26.31:711][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.04.29-22.26.31:711][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.04.29-22.26.31:712][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.04.29-22.26.31:712][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.04.29-22.26.31:712][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.04.29-22.26.31:712][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.04.29-22.26.31:712][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.04.29-22.26.31:712][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.04.29-22.26.31:712][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.04.29-22.26.31:712][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.04.29-22.26.31:712][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.04.29-22.26.31:712][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.04.29-22.26.31:712][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.04.29-22.26.31:712][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.04.29-22.26.31:712][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.04.29-22.26.31:712][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.04.29-22.26.31:712][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.04.29-22.26.31:712][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.04.29-22.26.31:712][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.04.29-22.26.31:712][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.04.29-22.26.31:712][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.04.29-22.26.31:712][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.04.29-22.26.31:712][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.04.29-22.26.31:712][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.04.29-22.26.31:712][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.04.29-22.26.31:712][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.04.29-22.26.31:712][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.04.29-22.26.31:712][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.04.29-22.26.31:712][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.04.29-22.26.31:712][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.04.29-22.26.31:712][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.04.29-22.26.31:712][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.04.29-22.26.31:712][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.04.29-22.26.31:712][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.04.29-22.26.31:712][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.04.29-22.26.31:712][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.04.29-22.26.31:712][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.04.29-22.26.31:712][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.04.29-22.26.31:712][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.04.29-22.26.31:712][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.04.29-22.26.31:712][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.04.29-22.26.31:712][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.04.29-22.26.31:712][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.04.29-22.26.31:712][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.04.29-22.26.31:712][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.04.29-22.26.31:712][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.04.29-22.26.31:712][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.04.29-22.26.31:712][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.04.29-22.26.31:712][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.04.29-22.26.31:712][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.04.29-22.26.31:712][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.04.29-22.26.31:713][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.04.29-22.26.31:713][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.04.29-22.26.31:713][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.04.29-22.26.31:713][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.04.29-22.26.31:713][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.04.29-22.26.31:713][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.04.29-22.26.31:713][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.04.29-22.26.31:713][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.04.29-22.26.31:713][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.04.29-22.26.31:713][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Saved/Config/Windows/Engine.ini]
+[2019.04.29-22.26.31:713][  0]LogInit: Computer: BIT134-002
+[2019.04.29-22.26.31:713][  0]LogInit: User: ajkrieger
+[2019.04.29-22.26.31:713][  0]LogInit: CPU Page size=4096, Cores=8
+[2019.04.29-22.26.31:713][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.04.29-22.26.31:714][  0]LogMemory: Memory total: Physical=31.7GB (32GB approx)
+[2019.04.29-22.26.31:714][  0]LogMemory: Platform Memory Stats for Windows
+[2019.04.29-22.26.31:714][  0]LogMemory: Process Physical Memory: 104.54 MB used, 104.55 MB peak
+[2019.04.29-22.26.31:714][  0]LogMemory: Process Virtual Memory: 91.45 MB used, 91.45 MB peak
+[2019.04.29-22.26.31:714][  0]LogMemory: Physical Memory: 10318.39 MB used,  22149.05 MB free, 32467.44 MB total
+[2019.04.29-22.26.31:714][  0]LogMemory: Virtual Memory: 4683.09 MB used,  134213048.00 MB free, 134217728.00 MB total
+[2019.04.29-22.26.31:732][  0]LogInit: Using OS detected language (en-US).
+[2019.04.29-22.26.31:732][  0]LogInit: Using OS detected locale (en-US).
+[2019.04.29-22.26.31:733][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.04.29-22.26.32:337][  0]LogStreaming: Display: Took  0.600s to InitEngineTextLocalization.
+[2019.04.29-22.26.32:338][  0]LogInit: Setting process to per monitor DPI aware
+[2019.04.29-22.26.32:393][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.04.29-22.26.32:393][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.04.29-22.26.32:656][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.04.29-22.26.32:656][  0]LogD3D11RHI: D3D11 adapters:
+[2019.04.29-22.26.32:722][  0]LogD3D11RHI:    0. 'NVIDIA Quadro P4000' (Feature Level 11_0)
+[2019.04.29-22.26.32:722][  0]LogD3D11RHI:       8090/0/16233 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.04.29-22.26.32:725][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.04.29-22.26.32:725][  0]LogD3D11RHI:       0/0/16233 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.04.29-22.26.32:725][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.04.29-22.26.32:733][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.04.29-22.26.32:733][  0]LogD3D11RHI:     GPU DeviceId: 0x1bb1 (for the marketing name, search the web for "GPU Device Id")
+[2019.04.29-22.26.32:733][  0]LogWindows: EnumDisplayDevices:
+[2019.04.29-22.26.32:733][  0]LogWindows:    0. 'NVIDIA Quadro P4000' (P:0 D:1)
+[2019.04.29-22.26.32:733][  0]LogWindows:    1. 'NVIDIA Quadro P4000' (P:1 D:1)
+[2019.04.29-22.26.32:734][  0]LogWindows:    2. 'NVIDIA Quadro P4000' (P:0 D:0)
+[2019.04.29-22.26.32:734][  0]LogWindows:    3. 'NVIDIA Quadro P4000' (P:0 D:0)
+[2019.04.29-22.26.32:734][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.04.29-22.26.32:734][  0]LogD3D11RHI:     Adapter Name: NVIDIA Quadro P4000
+[2019.04.29-22.26.32:734][  0]LogD3D11RHI:   Driver Version: 391.74 (internal:23.21.13.9174, unified:391.74)
+[2019.04.29-22.26.32:734][  0]LogD3D11RHI:      Driver Date: 6-4-2018
+[2019.04.29-22.26.32:735][  0]LogRHI: Texture pool is 5663 MB (70% of 8090 MB)
+[2019.04.29-22.26.32:782][  0]LogD3D11RHI: Async texture creation enabled
+[2019.04.29-22.26.32:802][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.04.29-22.26.33:240][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.04.29-22.26.33:259][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.04.29-22.26.33:281][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.04.29-22.26.33:300][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.04.29-22.26.33:320][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.04.29-22.26.33:339][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.04.29-22.26.33:358][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.04.29-22.26.33:377][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.04.29-22.26.33:386][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.04.29-22.26.33:497][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.29-22.26.33:497][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.29-22.26.33:497][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.29-22.26.33:497][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.29-22.26.33:497][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.29-22.26.33:497][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.29-22.26.33:497][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.29-22.26.33:498][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.29-22.26.33:498][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.29-22.26.33:498][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.29-22.26.33:498][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.29-22.26.33:498][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.29-22.26.33:498][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.29-22.26.33:498][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.29-22.26.33:498][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.29-22.26.33:498][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.29-22.26.33:498][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.29-22.26.33:498][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.29-22.26.33:499][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.04.29-22.26.33:571][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.04.29-22.26.33:571][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.04.29-22.26.33:606][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.04.29-22.26.33:606][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.04.29-22.26.33:623][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.04.29-22.26.33:640][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.04.29-22.26.33:659][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.04.29-22.26.33:676][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.04.29-22.26.33:745][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.04.29-22.26.33:745][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.04.29-22.26.33:745][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.04.29-22.26.33:821][  0]LogShaderCompilers: Guid format shader working directory is -11 characters bigger than the processId version (F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Intermediate/Shaders/WorkingDirectory/9796/).
+[2019.04.29-22.26.33:821][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'F:/Users/ajkrieger/AppData/Local/Temp/UnrealShaderWorkingDir/34ECB29940A0AB62591C3498AFB0A56C/'.
+[2019.04.29-22.26.33:824][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.04.29-22.26.33:824][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.04.29-22.26.33:824][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.04.29-22.26.34:594][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.04.29-22.26.34:662][  0]LogDerivedDataCache: Loaded boot cache 0.07s 71MB F:/Users/ajkrieger/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.04.29-22.26.34:662][  0]LogDerivedDataCache: Display: Loaded Boot cache: F:/Users/ajkrieger/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.04.29-22.26.34:662][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.04.29-22.26.34:662][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.04.29-22.26.34:662][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.04.29-22.26.34:662][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.04.29-22.26.34:685][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.04.29-22.26.34:685][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.04.29-22.26.34:685][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.04.29-22.26.34:697][  0]LogDerivedDataCache: Using Local data cache path F:/Users/ajkrieger/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.04.29-22.26.34:697][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.04.29-22.26.34:697][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.04.29-22.26.34:731][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.04.29-22.26.34:734][  0]LogSlate: Using FreeType 2.6.0
+[2019.04.29-22.26.34:734][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.04.29-22.26.34:845][  0]LogAssetRegistry: FAssetRegistry took 0.0395 seconds to start up
+[2019.04.29-22.26.35:312][  0]LogInit: Selected Device Profile: [Windows]
+[2019.04.29-22.26.35:526][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.04.29-22.26.35:531][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.04.29-22.26.35:531][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.04.29-22.26.35:531][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.04.29-22.26.35:531][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.04.29-22.26.35:550][  0]LogNetVersion: GiftGame 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 4259663717)
+[2019.04.29-22.26.36:260][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.129165 seconds
+[2019.04.29-22.26.36:268][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.04.29-22.26.36:268][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2019.04.29-22.26.36:268][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.04.29-22.26.37:439][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.04.29-22.26.37:453][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.04.29-22.26.38:350][  0]SourceControl: Source control is disabled
+[2019.04.29-22.26.38:350][  0]SourceControl: Source control is disabled
+[2019.04.29-22.26.38:351][  0]SourceControl: Source control is disabled
+[2019.04.29-22.26.38:352][  0]SourceControl: Source control is disabled
+[2019.04.29-22.26.38:528][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.04.29-22.26.38:627][  0]LogOcInput: OculusInput pre-init called
+[2019.04.29-22.26.38:784][  0]LogEngine: Initializing Engine...
+[2019.04.29-22.26.38:785][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.04.29-22.26.38:787][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.04.29-22.26.38:787][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.04.29-22.26.38:787][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.04.29-22.26.38:787][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.04.29-22.26.39:101][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.04.29-22.26.39:118][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.04.29-22.26.39:156][  0]LogInit: XAudio2 using 'VG248 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.04.29-22.26.39:202][  0]LogInit: FAudioDevice initialized.
+[2019.04.29-22.26.39:203][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.04.29-22.26.39:284][  0]LogDerivedDataCache: Saved boot cache 0.08s 71MB F:/Users/ajkrieger/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.04.29-22.26.39:302][  0]LogInit: Texture streaming: Enabled
+[2019.04.29-22.26.39:324][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.04.29-22.26.39:342][  0]LogInit: Transaction tracking system initialized
+[2019.04.29-22.26.39:373][  0]BlueprintLog: New page: Editor Load
+[2019.04.29-22.26.39:483][  0]LocalizationService: Localization service is disabled
+[2019.04.29-22.26.40:427][  0]LogFileCache: Scanning file cache for directory 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/' took 0.02s
+[2019.04.29-22.26.40:427][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.04.29-22.26.40:427][  0]LogCook: Display: Mobile HDR setting 0
+[2019.04.29-22.26.40:427][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.04.29-22.26.40:427][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.04.29-22.26.40:427][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.04.29-22.26.40:427][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.04.29-22.26.40:427][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.04.29-22.26.40:591][  0]SourceControl: Source control is disabled
+[2019.04.29-22.26.40:592][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.04.29-22.26.40:592][  0]LightingResults: New page: Lighting Build
+[2019.04.29-22.26.40:596][  0]MapCheck: New page: Map Check
+[2019.04.29-22.26.40:596][  0]LightingResults: New page: Lighting Build
+[2019.04.29-22.26.40:849][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2019.04.29-22.26.40:857][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.04.29-22.26.40:909][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.04.29-22.26.40:910][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.158ms to complete.
+[2019.04.29-22.26.40:910][  0]LogFileHelpers: Loading map 'Template_Default' took 0.316
+[2019.04.29-22.26.41:063][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.29-22.26.41:083][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.29-22.26.41:101][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.29-22.26.41:119][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.29-22.26.41:144][  0]LogCollectionManager: Loaded 0 collections in 0.003253 seconds
+[2019.04.29-22.26.41:184][  0]LogFileCache: Scanning file cache for directory 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Saved/Collections/' took 0.01s
+[2019.04.29-22.26.41:184][  0]LogFileCache: Scanning file cache for directory 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Developers/ajkrieger/Collections/' took 0.01s
+[2019.04.29-22.26.41:184][  0]LogFileCache: Scanning file cache for directory 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Collections/' took 0.00s
+[2019.04.29-22.26.41:184][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.04.29-22.26.41:200][  0]LogContentBrowser: Native class hierarchy populated in 0.0148 seconds. Added 2651 classes and 620 folders.
+[2019.04.29-22.26.41:216][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.04.29-22.26.41:229][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.29-22.26.41:238][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.29-22.26.41:260][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.29-22.26.41:268][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.29-22.26.41:275][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.29-22.26.41:281][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.29-22.26.41:287][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.29-22.26.41:294][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.29-22.26.41:301][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.29-22.26.41:309][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.29-22.26.41:315][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.29-22.26.41:322][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.29-22.26.41:328][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.29-22.26.41:335][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.29-22.26.41:341][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.29-22.26.41:347][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.29-22.26.41:376][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.29-22.26.41:384][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.29-22.26.41:390][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.29-22.26.41:396][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.29-22.26.41:433][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.29-22.26.41:441][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.29-22.26.41:447][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.29-22.26.41:454][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.29-22.26.41:461][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.29-22.26.41:467][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.29-22.26.41:647][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.04.29-22.26.41:659][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.04.29-22.26.41:703][  0]LogSlate: Took 0.000221 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.04.29-22.26.41:706][  0]LogSlate: Took 0.000248 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.04.29-22.26.41:722][  0]LogSlate: Took 0.007137 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.04.29-22.26.41:916][  0]LogRenderer: Reallocating scene render targets to support 1040x576 Format 10 NumSamples 1 (Frame:1).
+[2019.04.29-22.26.42:064][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.04.29-22.26.42:064][  0]LogLoad: (Engine Initialization) Total time: 12.79 seconds
+[2019.04.29-22.26.42:064][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.04.29-22.26.42:131][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.04.29-22.26.42:275][  2]LogAssetRegistry: Asset discovery search completed in 7.3889 seconds
+[2019.04.29-22.26.42:278][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2019.04.29-22.26.42:278][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000080 seconds (updated 0 objects)
+[2019.04.29-22.26.42:301][  2]LogSlate: Took 0.005828 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.04.29-22.26.43:110][ 92]LogSlate: Took 0.000188 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.04.29-22.27.02:917][446]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.29-22.27.03:667][457]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Maps/MainGameWidget.MainGameWidget
+[2019.04.29-22.27.04:431][457]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0009 seconds. Added 117 classes and 0 folders.
+[2019.04.29-22.27.05:568][457]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Maps/MenuGameMode.MenuGameMode
+[2019.04.29-22.27.06:100][457]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Maps/CreditsWidget.CreditsWidget
+[2019.04.29-22.27.07:419][457]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/ShakeControl.ShakeControl
+[2019.04.29-22.27.07:861][457]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Maps/MainMenuWidget.MainMenuWidget
+[2019.04.29-22.27.08:311][457]LogLinker: Warning: Can't resolve asset name
+[2019.04.29-22.27.08:363][457]LogSlate: Took 0.006258 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.04.29-22.27.21:283][291]LogPhysics: Warning: Failed to cook TriMesh: /Game/Models/Lamp/Lamp/Lamp_Bar3.Lamp_Bar3.
+[2019.04.29-22.27.21:283][291]LogPhysics: Warning: Attempt to build physics data for /Game/Models/Lamp/Lamp/Lamp_Bar3.Lamp_Bar3:BodySetup_0 when we are unable to.
+[2019.04.29-22.27.21:323][291]LogPhysics: Warning: Failed to cook TriMesh: /Game/Models/Lamp/Lamp/Lamp_Bar5.Lamp_Bar5.
+[2019.04.29-22.27.21:323][291]LogPhysics: Warning: Attempt to build physics data for /Game/Models/Lamp/Lamp/Lamp_Bar5.Lamp_Bar5:BodySetup_0 when we are unable to.
+[2019.04.29-22.27.23:523][291]LogPhysics: Warning: Failed to cook TriMesh: /Game/Models/Lamp/Lamp/Lamp_Bar8.Lamp_Bar8.
+[2019.04.29-22.27.23:523][291]LogPhysics: Warning: Attempt to build physics data for /Game/Models/Lamp/Lamp/Lamp_Bar8.Lamp_Bar8:BodySetup_0 when we are unable to.
+[2019.04.29-22.27.23:548][291]LogPhysics: Warning: Failed to cook TriMesh: /Game/Models/Lamp/Lamp/Lamp_Bar6.Lamp_Bar6.
+[2019.04.29-22.27.23:548][291]LogPhysics: Warning: Attempt to build physics data for /Game/Models/Lamp/Lamp/Lamp_Bar6.Lamp_Bar6:BodySetup_0 when we are unable to.
+[2019.04.29-22.27.23:548][291]LogPhysics: Warning: Failed to cook TriMesh: /Game/Models/Lamp/Lamp/Lamp_Bar7.Lamp_Bar7.
+[2019.04.29-22.27.23:548][291]LogPhysics: Warning: Attempt to build physics data for /Game/Models/Lamp/Lamp/Lamp_Bar7.Lamp_Bar7:BodySetup_0 when we are unable to.
+[2019.04.29-22.27.23:997][291]LogPhysics: Warning: Failed to cook TriMesh: /Game/Models/Lamp/Lamp/Lamp_Bar1.Lamp_Bar1.
+[2019.04.29-22.27.23:997][291]LogPhysics: Warning: Attempt to build physics data for /Game/Models/Lamp/Lamp/Lamp_Bar1.Lamp_Bar1:BodySetup_0 when we are unable to.
+[2019.04.29-22.27.24:657][291]LogAIModule: Creating AISystem for world MainGame
+[2019.04.29-22.27.24:751][291]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/MainGame.MainGame
+[2019.04.29-22.27.24:822][291]Cmd: MAP LOAD FILE="F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Maps/MainGame.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.04.29-22.27.24:823][291]LightingResults: New page: Lighting Build
+[2019.04.29-22.27.24:823][291]LoadErrors: New page: Loading map: MainGame.umap
+[2019.04.29-22.27.24:824][291]MapCheck: New page: Map Check
+[2019.04.29-22.27.24:824][291]LightingResults: New page: Lighting Build
+[2019.04.29-22.27.24:906][291]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.04.29-22.27.25:002][291]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.04.29-22.27.25:002][291]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.152ms to complete.
+[2019.04.29-22.27.25:002][291]LogFileHelpers: Loading map 'MainGame' took 0.180
+[2019.04.29-22.27.36:256][116]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Maps/MainGame.MainGame:PersistentLevel.MainGame
+[2019.04.29-22.27.36:800][117]LogSlate: Took 0.006298 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.04.29-22.38.01:202][349]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Users\ajkrieger\Desktop\Resized New\trump card new.png)
+[2019.04.29-22.38.01:210][349]LogTexture: Display: Building textures: trump_card_new (BGRA8, 133X77)
+[2019.04.29-22.38.09:161][621]LogSlate: Window 'Save Content' being destroyed
+[2019.04.29-22.38.09:187][621]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Sprites/trump_card_new" FILE="F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Art/Sprites/trump_card_new.uasset" SILENT=true
+[2019.04.29-22.38.09:201][621]LogSavePackage: Moving 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Saved/trump_card_new2013A7734FDF541FB8309E93FE963E2B.tmp' to 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Art/Sprites/trump_card_new.uasset'
+[2019.04.29-22.38.09:220][621]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Sprites/trump_card_new_Sprite" FILE="F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Art/Sprites/trump_card_new_Sprite.uasset" SILENT=true
+[2019.04.29-22.38.09:235][621]LogSavePackage: Moving 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Saved/trump_card_new_SpriteB691FB33411BFCEE3B422695B3C1FB32.tmp' to 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Art/Sprites/trump_card_new_Sprite.uasset'
+[2019.04.29-22.38.48:877][575]LogSavePackage: Moving 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Saved/MainGame_Auto1AB0DA57C452E1ACCA6397B8403EEB4AD.tmp' to 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Saved/Autosaves/Game/Maps/MainGame_Auto1.umap'
+[2019.04.29-22.38.48:881][575]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MainGame' took 0.590
+[2019.04.29-22.38.48:881][575]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.590
+[2019.04.29-22.42.55:824][376]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Users\ajkrieger\Desktop\Resized New\ChloroformRag.png)
+[2019.04.29-22.42.55:831][376]LogTexture: Display: Building textures: ChloroformRag (BGRA8, 135X100)
+[2019.04.29-22.43.02:727][595]LogSlate: Window 'Save Content' being destroyed
+[2019.04.29-22.43.02:748][595]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Sprites/ChloroformRag" FILE="F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Art/Sprites/ChloroformRag.uasset" SILENT=true
+[2019.04.29-22.43.02:759][595]LogSavePackage: Moving 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Saved/ChloroformRag26863F8F4193D2595D2230AE0DB32ED3.tmp' to 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Art/Sprites/ChloroformRag.uasset'
+[2019.04.29-22.43.02:774][595]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Sprites/ChloroformRag_Sprite" FILE="F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Art/Sprites/ChloroformRag_Sprite.uasset" SILENT=true
+[2019.04.29-22.43.02:787][595]LogSavePackage: Moving 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Saved/ChloroformRag_Sprite067E64764A25E8B1E1A2A48FBA56FA13.tmp' to 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Art/Sprites/ChloroformRag_Sprite.uasset'
+[2019.04.29-22.43.02:793][595]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainGame" FILE="F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Maps/MainGame.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.04.29-22.43.03:335][595]LogSavePackage: Moving 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Saved/MainGame44394FEA402656EADD6E8DA078CC8F0F.tmp' to 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Maps/MainGame.umap'
+[2019.04.29-22.43.03:368][595]LogFileHelpers: Saving map 'MainGame' took 0.576
+[2019.04.29-22.44.52:427][693]BlueprintLog: New page: Compile MainGame
+[2019.04.29-22.44.53:540][736]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainGame" FILE="F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Maps/MainGame.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.04.29-22.44.54:065][736]LogSavePackage: Moving 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Saved/MainGame24EBCC6B41CC5DD9253F9DBC7CEE9A43.tmp' to 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Maps/MainGame.umap'
+[2019.04.29-22.44.54:098][736]LogFileHelpers: Saving map 'MainGame' took 0.558
+[2019.04.29-22.45.47:383][296]BlueprintLog: New page: Compile MenuGameMode
+[2019.04.29-22.45.48:271][323]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MenuGameMode" FILE="F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Maps/MenuGameMode.uasset" SILENT=true
+[2019.04.29-22.45.48:309][323]LogSavePackage: Moving 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Saved/MenuGameMode9FF950E848881F605CCA7696851ECF91.tmp' to 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Maps/MenuGameMode.uasset'
+[2019.04.29-22.46.04:402][392]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainGame" FILE="F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Maps/MainGame.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.04.29-22.46.04:943][392]LogSavePackage: Moving 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Saved/MainGameF0D745B442089CCE1067AB90DBC5E73F.tmp' to 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Maps/MainGame.umap'
+[2019.04.29-22.46.04:975][392]LogFileHelpers: Saving map 'MainGame' took 0.574
+[2019.04.29-22.49.51:871][ 79]BlueprintLog: New page: Compile MainGame
+[2019.04.29-22.49.52:852][108]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainGame" FILE="F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Maps/MainGame.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.04.29-22.49.53:404][108]LogSavePackage: Moving 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Saved/MainGame01EC98CC4C86F6590B30C1A73C622241.tmp' to 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Maps/MainGame.umap'
+[2019.04.29-22.49.53:437][108]LogFileHelpers: Saving map 'MainGame' took 0.586
+[2019.04.29-22.55.47:779][652]BlueprintLog: New page: Compile MenuGameMode
+[2019.04.29-22.55.49:050][680]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MenuGameMode" FILE="F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Maps/MenuGameMode.uasset" SILENT=true
+[2019.04.29-22.55.49:090][680]LogSavePackage: Moving 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Saved/MenuGameMode815CAD5846B13FAC047E5BBCFAF1D1FA.tmp' to 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Maps/MenuGameMode.uasset'
+[2019.04.29-22.56.03:106][454]BlueprintLog: New page: Compile MenuGameMode
+[2019.04.29-22.56.04:083][467]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MenuGameMode" FILE="F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Maps/MenuGameMode.uasset" SILENT=true
+[2019.04.29-22.56.04:114][467]LogSavePackage: Moving 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Saved/MenuGameMode76A0CDB347608995F86436AE93419A4D.tmp' to 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Maps/MenuGameMode.uasset'
+[2019.04.29-23.00.32:294][985]BlueprintLog: New page: Compile MenuGameMode
+[2019.04.29-23.00.33:252][996]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MenuGameMode" FILE="F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Maps/MenuGameMode.uasset" SILENT=true
+[2019.04.29-23.00.33:287][996]LogSavePackage: Moving 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Saved/MenuGameMode47254AF04E0B65F3DDA15E81392C5558.tmp' to 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Maps/MenuGameMode.uasset'
+[2019.04.29-23.00.48:811][864]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MenuGameMode" FILE="F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Maps/MenuGameMode.uasset" SILENT=true
+[2019.04.29-23.00.48:842][864]LogSavePackage: Moving 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Saved/MenuGameMode3CF8049A4DA14554E01B419A8715772A.tmp' to 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Maps/MenuGameMode.uasset'
+[2019.04.29-23.02.16:679][902]LogSavePackage: Moving 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Saved/MainGame_Auto2392F38D74D02F1DD752CBD824E0F8A47.tmp' to 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Saved/Autosaves/Game/Maps/MainGame_Auto2.umap'
+[2019.04.29-23.02.16:683][902]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MainGame' took 0.542
+[2019.04.29-23.02.16:683][902]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.542
+[2019.04.29-23.02.16:685][902]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Maps/MenuGameMode] ([1] browsable assets)...
+[2019.04.29-23.02.16:685][902]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/MenuGameMode]
+[2019.04.29-23.02.16:685][902]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MenuGameMode" FILE="F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Saved/Autosaves/Game/Maps/MenuGameMode_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2019.04.29-23.02.16:720][902]LogSavePackage: Moving 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Saved/MenuGameMode_Auto22EB29FB5482E3C0A60455498180F97B8.tmp' to 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Saved/Autosaves/Game/Maps/MenuGameMode_Auto2.uasset'
+[2019.04.29-23.02.16:721][902]LogFileHelpers: Auto-saving content packages took 0.036
+[2019.04.29-23.05.51:496][680]BlueprintLog: New page: Compile MenuGameMode
+[2019.04.29-23.05.52:754][709]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MenuGameMode" FILE="F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Maps/MenuGameMode.uasset" SILENT=true
+[2019.04.29-23.05.52:791][709]LogSavePackage: Moving 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Saved/MenuGameMode357C2096443A9CE6965FACAE0C487B88.tmp' to 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Maps/MenuGameMode.uasset'
+[2019.04.29-23.06.02:640][262]BlueprintLog: New page: Compile MenuGameMode
+[2019.04.29-23.06.03:409][264]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MenuGameMode" FILE="F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Maps/MenuGameMode.uasset" SILENT=true
+[2019.04.29-23.06.03:441][264]LogSavePackage: Moving 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Saved/MenuGameModeB3B8FD914D4BDD836C2DD995A21F17BD.tmp' to 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Maps/MenuGameMode.uasset'
+[2019.04.29-23.10.11:027][553]BlueprintLog: New page: Compile MenuGameMode
+[2019.04.29-23.10.12:031][567]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MenuGameMode" FILE="F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Maps/MenuGameMode.uasset" SILENT=true
+[2019.04.29-23.10.12:072][567]LogSavePackage: Moving 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Saved/MenuGameModeE0CECC9F4215233FA5C741A57743F4F6.tmp' to 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Maps/MenuGameMode.uasset'
+[2019.04.29-23.10.29:925][506]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainGame" FILE="F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Maps/MainGame.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.04.29-23.10.30:491][506]LogSavePackage: Moving 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Saved/MainGame6CA8A8DB498FB5001A8F5294813C5631.tmp' to 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Maps/MainGame.umap'
+[2019.04.29-23.10.30:523][506]LogFileHelpers: Saving map 'MainGame' took 0.599
+[2019.04.29-23.12.03:681][183]LogTexture: Display: Building textures: Chainsword (BGRA8, 496X75)
+[2019.04.29-23.12.03:681][183]LogEditorFactories: Performing atomic reimport of [F:/Users/ajkrieger/Desktop/Resized New/Chainsword.png]
+[2019.04.29-23.12.03:683][183]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 F:/Users/ajkrieger/Desktop/Resized New/Chainsword.png)
+[2019.04.29-23.12.03:690][183]LogTexture: Display: Building textures: Chainsword (BGRA8, 496X75)
+[2019.04.29-23.12.03:699][183]LogEditorFactories: -- imported successfully
+[2019.04.29-23.12.24:154][798]LogSlate: Window 'Save Content' being destroyed
+[2019.04.29-23.12.24:174][798]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Sprites/Chainsword" FILE="F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Art/Sprites/Chainsword.uasset" SILENT=true
+[2019.04.29-23.12.24:200][798]LogSavePackage: Moving 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Saved/Chainsword3AE366B94DF5728865815B87F9FF2159.tmp' to 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Art/Sprites/Chainsword.uasset'
+[2019.04.29-23.12.24:216][798]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Sprites/Chainsword_Sprite" FILE="F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Art/Sprites/Chainsword_Sprite.uasset" SILENT=true
+[2019.04.29-23.12.24:228][798]LogSavePackage: Moving 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Saved/Chainsword_Sprite9404938442477A1E6B8D0D8F8668234E.tmp' to 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Art/Sprites/Chainsword_Sprite.uasset'
+[2019.04.29-23.12.24:234][798]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainGame" FILE="F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Maps/MainGame.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.04.29-23.12.24:796][798]LogSavePackage: Moving 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Saved/MainGameC3CEE9EF402A23E30EB3CEAAC5017636.tmp' to 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Maps/MainGame.umap'
+[2019.04.29-23.12.24:827][798]LogFileHelpers: Saving map 'MainGame' took 0.594
+[2019.04.29-23.12.33:677][244]BlueprintLog: New page: Compile MainGame
+[2019.04.29-23.12.34:524][259]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainGame" FILE="F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Maps/MainGame.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.04.29-23.12.35:088][259]LogSavePackage: Moving 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Saved/MainGameF7AF974249B23CA21DFF5380C13912F3.tmp' to 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Maps/MainGame.umap'
+[2019.04.29-23.12.35:124][259]LogFileHelpers: Saving map 'MainGame' took 0.601
+[2019.04.29-23.13.07:558][ 49]BlueprintLog: New page: Compile MenuGameMode
+[2019.04.29-23.13.08:862][ 78]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MenuGameMode" FILE="F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Maps/MenuGameMode.uasset" SILENT=true
+[2019.04.29-23.13.08:894][ 78]LogSavePackage: Moving 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Saved/MenuGameMode5FEE77BC4CE02B4F5D4F629703DD5C4F.tmp' to 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Maps/MenuGameMode.uasset'
+[2019.04.29-23.14.17:295][ 59]BlueprintLog: New page: Compile MenuGameMode
+[2019.04.29-23.14.40:135][299]BlueprintLog: New page: Compile MenuGameMode
+[2019.04.29-23.14.41:438][330]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MenuGameMode" FILE="F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Maps/MenuGameMode.uasset" SILENT=true
+[2019.04.29-23.14.41:472][330]LogSavePackage: Moving 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Saved/MenuGameMode0C9D60054C9C929B9655B084ED39AAB5.tmp' to 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Maps/MenuGameMode.uasset'
+[2019.04.29-23.15.01:869][285]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainGame" FILE="F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Maps/MainGame.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.04.29-23.15.02:427][285]LogSavePackage: Moving 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Saved/MainGameCB9F93F44706965B7F5EBDAD568CACD8.tmp' to 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Maps/MainGame.umap'
+[2019.04.29-23.15.02:465][285]LogFileHelpers: Saving map 'MainGame' took 0.596
+[2019.04.29-23.15.03:763][331]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainGame" FILE="F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Maps/MainGame.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.04.29-23.15.04:292][331]LogSavePackage: Moving 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Saved/MainGame3D2004BD41DC0DDB30F0CABA4277A67A.tmp' to 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Maps/MainGame.umap'
+[2019.04.29-23.15.04:326][331]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainGame_BuiltData" FILE="F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Maps/MainGame_BuiltData.uasset" SILENT=true
+[2019.04.29-23.15.04:627][331]LogSavePackage: Moving 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Saved/MainGame_BuiltDataFBCCEA3747D28F9CBCC59DA47CC4D645.tmp' to 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Maps/MainGame_BuiltData.uasset'
+[2019.04.29-23.15.14:956][903]BlueprintLog: New page: Compile MenuGameMode
+[2019.04.29-23.15.15:648][912]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MenuGameMode" FILE="F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Maps/MenuGameMode.uasset" SILENT=true
+[2019.04.29-23.15.15:683][912]LogSavePackage: Moving 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Saved/MenuGameMode006C70814129DC68C66845B7F8E3125A.tmp' to 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Maps/MenuGameMode.uasset'
+[2019.04.29-23.16.10:795][802]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainGame" FILE="F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Maps/MainGame.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.04.29-23.16.11:348][802]LogSavePackage: Moving 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Saved/MainGameAD2D0D9A49E04D3E6B95C78BF45A695F.tmp' to 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Maps/MainGame.umap'
+[2019.04.29-23.16.11:383][802]LogFileHelpers: Saving map 'MainGame' took 0.589
+[2019.04.29-23.16.22:824][537]BlueprintLog: New page: Compile MainGame
+[2019.04.29-23.16.23:663][559]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainGame" FILE="F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Maps/MainGame.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.04.29-23.16.24:207][559]LogSavePackage: Moving 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Saved/MainGame8E69AF4F44125FF72222888718BF2216.tmp' to 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Maps/MainGame.umap'
+[2019.04.29-23.16.24:241][559]LogFileHelpers: Saving map 'MainGame' took 0.579
+[2019.04.29-23.18.36:698][297]BlueprintLog: New page: Compile ShakeControl
+[2019.04.29-23.18.37:897][329]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ShakeControl" FILE="F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Blueprints/ShakeControl.uasset" SILENT=true
+[2019.04.29-23.18.38:041][329]LogSavePackage: Moving 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Saved/ShakeControl8EB1D1AF4A1458AE1BE1C79DC39D1993.tmp' to 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Blueprints/ShakeControl.uasset'
+[2019.04.29-23.26.40:014][606]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 D:\Audio\trimmed\ChainSwordCut.wav)
+[2019.04.29-23.26.43:059][617]LogAssetEditorManager: Opening Asset editor for SoundWave /Game/Sounds/SoundEffects/ChainSwordCut.ChainSwordCut
+[2019.04.29-23.26.49:361][208]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/SoundEffects/ChainSwordCut" FILE="F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Sounds/SoundEffects/ChainSwordCut.uasset" SILENT=true
+[2019.04.29-23.26.49:373][208]LogSavePackage: Moving 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Saved/ChainSwordCut2C2F08894B15D397938D56968D22EDC1.tmp' to 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Sounds/SoundEffects/ChainSwordCut.uasset'
+[2019.04.29-23.26.52:180][414]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainGame" FILE="F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Maps/MainGame.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.04.29-23.26.52:750][414]LogSavePackage: Moving 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Saved/MainGame0F52763A40110187D2F74DA55D4048F7.tmp' to 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Maps/MainGame.umap'
+[2019.04.29-23.26.52:784][414]LogFileHelpers: Saving map 'MainGame' took 0.605
+[2019.04.29-23.28.16:983][863]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 F:\Users\ajkrieger\Desktop\Sounds\High\ChainSwordHigh.wav)
+[2019.04.29-23.28.16:993][863]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 F:\Users\ajkrieger\Desktop\Sounds\High\MechKeyboardHigh.wav)
+[2019.04.29-23.28.17:002][863]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 F:\Users\ajkrieger\Desktop\Sounds\High\packingpeanutsHigh.wav)
+[2019.04.29-23.28.17:010][863]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 F:\Users\ajkrieger\Desktop\Sounds\High\PopcornShakeHigh.wav)
+[2019.04.29-23.28.17:017][863]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 F:\Users\ajkrieger\Desktop\Sounds\High\RecordScratchHigh.wav)
+[2019.04.29-23.28.17:024][863]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 F:\Users\ajkrieger\Desktop\Sounds\High\RubberChickenHigh.wav)
+[2019.04.29-23.28.17:030][863]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 F:\Users\ajkrieger\Desktop\Sounds\High\saltshakerHigh.wav)
+[2019.04.29-23.28.17:036][863]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 F:\Users\ajkrieger\Desktop\Sounds\High\sandwichHigh.wav)
+[2019.04.29-23.28.17:043][863]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 F:\Users\ajkrieger\Desktop\Sounds\High\SkateboardHigh.wav)
+[2019.04.29-23.28.17:049][863]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 F:\Users\ajkrieger\Desktop\Sounds\High\cakeHigh.wav)
+[2019.04.29-23.28.59:579][942]LogAssetEditorManager: Opening Asset editor for SoundWave /Game/Sounds/SoundEffects/cakeHigh.cakeHigh
+[2019.04.29-23.29.04:936][452]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/SoundEffects/cakeHigh" FILE="F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Sounds/SoundEffects/cakeHigh.uasset" SILENT=true
+[2019.04.29-23.29.04:948][452]LogSavePackage: Moving 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Saved/cakeHigh553BC6AC453469DE751A8BA42B65C3A9.tmp' to 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Sounds/SoundEffects/cakeHigh.uasset'
+[2019.04.29-23.29.15:755][140]LogAssetEditorManager: Opening Asset editor for SoundWave /Game/Sounds/SoundEffects/ChainSwordHigh.ChainSwordHigh
+[2019.04.29-23.29.20:043][428]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/SoundEffects/ChainSwordHigh" FILE="F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Sounds/SoundEffects/ChainSwordHigh.uasset" SILENT=true
+[2019.04.29-23.29.20:055][428]LogSavePackage: Moving 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Saved/ChainSwordHigh1881D3DA4A7D14E897D3938BDA681DA0.tmp' to 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Sounds/SoundEffects/ChainSwordHigh.uasset'
+[2019.04.29-23.29.25:873][754]LogAssetEditorManager: Opening Asset editor for SoundWave /Game/Sounds/SoundEffects/MechKeyboardHigh.MechKeyboardHigh
+[2019.04.29-23.29.29:725][ 17]LogSavePackage: Moving 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Saved/MechKeyboardHighCD70E0AD4351F9FDE78D6FBA25F1C592.tmp' to 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Sounds/SoundEffects/MechKeyboardHigh.uasset'
+[2019.04.29-23.29.33:082][213]LogAssetEditorManager: Opening Asset editor for SoundWave /Game/Sounds/SoundEffects/packingpeanutsHigh.packingpeanutsHigh
+[2019.04.29-23.29.37:230][497]LogSavePackage: Moving 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Saved/packingpeanutsHighFC55BEED49C85829CC47ADA05DF87065.tmp' to 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Sounds/SoundEffects/packingpeanutsHigh.uasset'
+[2019.04.29-23.29.40:273][672]LogAssetEditorManager: Opening Asset editor for SoundWave /Game/Sounds/SoundEffects/PopcornShakeHigh.PopcornShakeHigh
+[2019.04.29-23.29.43:538][891]LogSavePackage: Moving 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Saved/PopcornShakeHighC25601CD4EDB3F201F6F4EBB627C03F1.tmp' to 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Sounds/SoundEffects/PopcornShakeHigh.uasset'
+[2019.04.29-23.29.46:318][ 57]LogAssetEditorManager: Opening Asset editor for SoundWave /Game/Sounds/SoundEffects/RecordScratchHigh.RecordScratchHigh
+[2019.04.29-23.29.49:640][280]LogSavePackage: Moving 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Saved/RecordScratchHighF1316CA54A4D97928ADE46AEA550FA32.tmp' to 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Sounds/SoundEffects/RecordScratchHigh.uasset'
+[2019.04.29-23.29.53:064][483]LogAssetEditorManager: Opening Asset editor for SoundWave /Game/Sounds/SoundEffects/RubberChickenHigh.RubberChickenHigh
+[2019.04.29-23.29.56:497][712]LogSavePackage: Moving 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Saved/RubberChickenHigh439444004C765FD0C9D831957B8593C6.tmp' to 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Sounds/SoundEffects/RubberChickenHigh.uasset'
+[2019.04.29-23.29.59:268][877]LogAssetEditorManager: Opening Asset editor for SoundWave /Game/Sounds/SoundEffects/saltshakerHigh.saltshakerHigh
+[2019.04.29-23.30.02:593][ 96]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/SoundEffects/saltshakerHigh" FILE="F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Sounds/SoundEffects/saltshakerHigh.uasset" SILENT=true
+[2019.04.29-23.30.02:605][ 96]LogSavePackage: Moving 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Saved/saltshakerHigh55B69BBF4BE77F0080C4C5837453698B.tmp' to 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Sounds/SoundEffects/saltshakerHigh.uasset'
+[2019.04.29-23.30.07:466][362]LogAssetEditorManager: Opening Asset editor for SoundWave /Game/Sounds/SoundEffects/sandwichHigh.sandwichHigh
+[2019.04.29-23.30.11:655][644]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/SoundEffects/sandwichHigh" FILE="F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Sounds/SoundEffects/sandwichHigh.uasset" SILENT=true
+[2019.04.29-23.30.11:667][644]LogSavePackage: Moving 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Saved/sandwichHigh96B64FD04EAC219970922BB66BD4A6D8.tmp' to 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Sounds/SoundEffects/sandwichHigh.uasset'
+[2019.04.29-23.30.15:343][858]LogAssetEditorManager: Opening Asset editor for SoundWave /Game/Sounds/SoundEffects/SkateboardHigh.SkateboardHigh
+[2019.04.29-23.30.19:861][163]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/SoundEffects/SkateboardHigh" FILE="F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Sounds/SoundEffects/SkateboardHigh.uasset" SILENT=true
+[2019.04.29-23.30.19:874][163]LogSavePackage: Moving 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Saved/SkateboardHighA94C49524BF3A4FAFA29998BC00AD5F9.tmp' to 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Sounds/SoundEffects/SkateboardHigh.uasset'
+[2019.04.29-23.30.45:243][585]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ShakeControl" FILE="F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Blueprints/ShakeControl.uasset" SILENT=true
+[2019.04.29-23.30.45:399][585]LogSavePackage: Moving 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Saved/ShakeControlAA66B6D4419AF7E3C51EA9B3A017369D.tmp' to 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Blueprints/ShakeControl.uasset'
+[2019.04.29-23.32.55:675][754]BlueprintLog: New page: Compile ShakeControl
+[2019.04.29-23.32.56:638][771]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ShakeControl" FILE="F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Blueprints/ShakeControl.uasset" SILENT=true
+[2019.04.29-23.32.56:773][771]LogSavePackage: Moving 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Saved/ShakeControlE9FA512E42FE5678B3315494CCD766AE.tmp' to 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Blueprints/ShakeControl.uasset'
+[2019.04.29-23.35.13:803][331]BlueprintLog: New page: Compile ShakeControl
+[2019.04.29-23.35.15:032][358]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ShakeControl" FILE="F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Blueprints/ShakeControl.uasset" SILENT=true
+[2019.04.29-23.35.15:184][358]LogSavePackage: Moving 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Saved/ShakeControl9833260F445506EA20F9E3999A08EC24.tmp' to 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Blueprints/ShakeControl.uasset'
+[2019.04.29-23.35.40:253][414]BlueprintLog: New page: Compile ShakeControl
+[2019.04.29-23.35.41:052][422]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ShakeControl" FILE="F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Blueprints/ShakeControl.uasset" SILENT=true
+[2019.04.29-23.35.41:203][422]LogSavePackage: Moving 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Saved/ShakeControl70921B9449FB48E42E69C78988E2E33C.tmp' to 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Blueprints/ShakeControl.uasset'
+[2019.04.29-23.36.01:735][129]LogEditorTransaction: Undo Add Component
+[2019.04.29-23.36.23:355][312]LogEditorTransaction: Undo Add Component
+[2019.04.29-23.36.49:742][719]BlueprintLog: New page: Compile ShakeControl
+[2019.04.29-23.36.50:768][743]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ShakeControl" FILE="F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Blueprints/ShakeControl.uasset" SILENT=true
+[2019.04.29-23.36.50:922][743]LogSavePackage: Moving 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Saved/ShakeControl0BBA6DC946636CF2F7A1E191BCAB96FE.tmp' to 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Blueprints/ShakeControl.uasset'
+[2019.04.29-23.38.35:051][ 49]LogEditorTransaction: Undo Move Node
+[2019.04.29-23.40.20:470][728]BlueprintLog: New page: Compile ShakeControl
+[2019.04.29-23.40.21:412][752]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ShakeControl" FILE="F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Blueprints/ShakeControl.uasset" SILENT=true
+[2019.04.29-23.40.21:553][752]LogSavePackage: Moving 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Saved/ShakeControl423C8985434F62B8B2E3E7BB7DC9BDD2.tmp' to 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Blueprints/ShakeControl.uasset'
+[2019.04.29-23.41.12:445][675]BlueprintLog: New page: Compile ShakeControl
+[2019.04.29-23.41.13:317][693]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ShakeControl" FILE="F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Blueprints/ShakeControl.uasset" SILENT=true
+[2019.04.29-23.41.13:461][693]LogSavePackage: Moving 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Saved/ShakeControl4934E9694D357E935BD7F1A0B4D0EAE3.tmp' to 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Blueprints/ShakeControl.uasset'
+[2019.04.29-23.41.25:593][395]BlueprintLog: New page: Compile ShakeControl
+[2019.04.29-23.41.26:401][406]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ShakeControl" FILE="F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Blueprints/ShakeControl.uasset" SILENT=true
+[2019.04.29-23.41.26:543][406]LogSavePackage: Moving 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Saved/ShakeControlC18CDD9B454C67B220405C9DAC2F9BCD.tmp' to 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Blueprints/ShakeControl.uasset'
+[2019.04.29-23.41.51:955][674]LogSavePackage: Moving 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Saved/MainGame_Auto32903088E4AF541D28012F9A99FD12049.tmp' to 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Saved/Autosaves/Game/Maps/MainGame_Auto3.umap'
+[2019.04.29-23.41.51:959][674]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MainGame' took 0.559
+[2019.04.29-23.41.51:959][674]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.559
+[2019.04.29-23.42.01:987][119]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainGame" FILE="F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Maps/MainGame.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.04.29-23.42.02:540][119]LogSavePackage: Moving 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Saved/MainGame8F1863B042358512DD975BA55A7D0C21.tmp' to 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Maps/MainGame.umap'
+[2019.04.29-23.42.02:577][119]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainGame_BuiltData" FILE="F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Maps/MainGame_BuiltData.uasset" SILENT=true
+[2019.04.29-23.42.02:760][119]LogSavePackage: Moving 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Saved/MainGame_BuiltDataC3887B6E4A295C7C83B273B459D0AD80.tmp' to 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Maps/MainGame_BuiltData.uasset'
+[2019.04.29-23.46.31:082][146]LogEditorTransaction: Undo Add Component
+[2019.04.29-23.47.55:740][195]BlueprintLog: New page: Compile ShakeControl
+[2019.04.29-23.47.56:643][205]BlueprintLog: New page: Compile ShakeControl
+[2019.04.29-23.47.57:335][208]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ShakeControl" FILE="F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Blueprints/ShakeControl.uasset" SILENT=true
+[2019.04.29-23.47.57:485][208]LogSavePackage: Moving 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Saved/ShakeControl486E13894246243952A7268DEFDB2506.tmp' to 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Blueprints/ShakeControl.uasset'
+[2019.04.29-23.52.02:589][624]LogSavePackage: Moving 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Saved/MainGame_Auto4B58DEA094835E883380F639FA73E8826.tmp' to 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Saved/Autosaves/Game/Maps/MainGame_Auto4.umap'
+[2019.04.29-23.52.02:593][624]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MainGame' took 0.554
+[2019.04.29-23.52.02:593][624]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.554
+[2019.04.29-23.55.10:387][710]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 D:\heres ya audio ya big nerd\MangaCut.wav)
+[2019.04.29-23.55.11:980][725]LogAssetEditorManager: Opening Asset editor for SoundWave /Game/Sounds/SoundEffects/MangaCut.MangaCut
+[2019.04.29-23.55.16:110][959]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/SoundEffects/MangaCut" FILE="F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Sounds/SoundEffects/MangaCut.uasset" SILENT=true
+[2019.04.29-23.55.16:122][959]LogSavePackage: Moving 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Saved/MangaCut702C5D8E48B1C59382D2349E341A73C1.tmp' to 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Sounds/SoundEffects/MangaCut.uasset'
+[2019.04.29-23.55.18:808][ 89]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainGame" FILE="F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Maps/MainGame.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.04.29-23.55.19:365][ 89]LogSavePackage: Moving 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Saved/MainGameBCB0F4524E770E95B4C95A867E5BD9DE.tmp' to 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Maps/MainGame.umap'
+[2019.04.29-23.55.19:399][ 89]LogFileHelpers: Saving map 'MainGame' took 0.593
+[2019.04.29-23.55.36:028][774]LogEditorTransaction: Undo Add Component
+[2019.04.29-23.55.50:167][357]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainGame" FILE="F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Maps/MainGame.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.04.29-23.55.50:749][357]LogSavePackage: Moving 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Saved/MainGame672DB6BD49C56629BED5A79B2277C943.tmp' to 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Maps/MainGame.umap'
+[2019.04.29-23.55.50:786][357]LogFileHelpers: Saving map 'MainGame' took 0.620
+[2019.04.29-23.56.27:098][389]BlueprintLog: New page: Compile ShakeControl
+[2019.04.29-23.56.27:901][403]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ShakeControl" FILE="F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Blueprints/ShakeControl.uasset" SILENT=true
+[2019.04.29-23.56.28:055][403]LogSavePackage: Moving 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Saved/ShakeControlCD03CACC44B431AFD6F9E68A4D74E57C.tmp' to 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Blueprints/ShakeControl.uasset'
+[2019.04.29-23.57.05:435][619]BlueprintLog: New page: Compile ShakeControl
+[2019.04.29-23.57.06:398][644]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ShakeControl" FILE="F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Blueprints/ShakeControl.uasset" SILENT=true
+[2019.04.29-23.57.06:545][644]LogSavePackage: Moving 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Saved/ShakeControl76C5381F402F2E34F7D3238CA964198F.tmp' to 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Blueprints/ShakeControl.uasset'
+[2019.04.29-23.57.42:349][636]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 D:\heres ya audio ya big nerd\bagofhammers.wav)
+[2019.04.29-23.57.44:023][641]LogAssetEditorManager: Opening Asset editor for SoundWave /Game/Sounds/SoundEffects/bagofhammers.bagofhammers
+[2019.04.29-23.57.47:634][ 11]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/SoundEffects/bagofhammers" FILE="F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Sounds/SoundEffects/bagofhammers.uasset" SILENT=true
+[2019.04.29-23.57.47:646][ 11]LogSavePackage: Moving 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Saved/bagofhammers2A618BDD4BF53050DDF49497D0365BF7.tmp' to 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Sounds/SoundEffects/bagofhammers.uasset'
+[2019.04.29-23.58.32:731][328]BlueprintLog: New page: Compile ShakeControl
+[2019.04.29-23.58.33:573][341]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ShakeControl" FILE="F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Blueprints/ShakeControl.uasset" SILENT=true
+[2019.04.29-23.58.33:725][341]LogSavePackage: Moving 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Saved/ShakeControl47668F074F53559E82A3F19A6DCA6F16.tmp' to 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Blueprints/ShakeControl.uasset'
+[2019.04.29-23.58.45:168][497]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainGame" FILE="F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Maps/MainGame.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.04.29-23.58.45:729][497]LogSavePackage: Moving 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Saved/MainGame580AFFFE498799D410D600B1A37CDE90.tmp' to 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Maps/MainGame.umap'
+[2019.04.29-23.58.45:762][497]LogFileHelpers: Saving map 'MainGame' took 0.595
+[2019.04.29-23.59.10:803][720]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 D:\heres ya audio ya big nerd\blowupfather.wav)
+[2019.04.29-23.59.10:806][720]Error: Currently, only 16 bit WAV files are supported (blowupfather).
+[2019.04.29-23.59.22:467][720]LogSlate: Window 'Message' being destroyed
+[2019.04.29-23.59.22:471][720]LogAssetTools: Warning: Failed to import 'D:\heres ya audio ya big nerd\blowupfather.wav'. Failed to create asset '/Game/Sounds/SoundEffects/blowupfather'.
+Please see Output Log for details.
+[2019.04.29-23.59.31:110][849]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 F:\Users\ajkrieger\Desktop\Sounds\Trimmed\blowupfather.wav)
+[2019.04.29-23.59.31:112][849]Error: Currently, only 16 bit WAV files are supported (blowupfather).
+[2019.04.29-23.59.45:631][849]LogSlate: Window 'Message' being destroyed
+[2019.04.29-23.59.45:635][849]LogAssetTools: Warning: Failed to import 'F:\Users\ajkrieger\Desktop\Sounds\Trimmed\blowupfather.wav'. Failed to create asset '/Game/Sounds/SoundEffects/blowupfather'.
+Please see Output Log for details.
+[2019.04.30-00.00.14:743][335]LogSlate: Took 0.008249 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2019.04.30-00.01.58:510][775]BlueprintLog: New page: Compile ShakeControl
+[2019.04.30-00.01.59:788][822]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ShakeControl" FILE="F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Blueprints/ShakeControl.uasset" SILENT=true
+[2019.04.30-00.01.59:942][822]LogSavePackage: Moving 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Saved/ShakeControl2414EA6A413437D13FC7FDAAB1DB5E86.tmp' to 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Blueprints/ShakeControl.uasset'
+[2019.04.30-00.02.45:670][358]BlueprintLog: New page: Compile ShakeControl
+[2019.04.30-00.02.46:656][381]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ShakeControl" FILE="F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Blueprints/ShakeControl.uasset" SILENT=true
+[2019.04.30-00.02.46:807][381]LogSavePackage: Moving 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Saved/ShakeControl98725EE0427FF6B34D57FE8747C18EEB.tmp' to 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Blueprints/ShakeControl.uasset'
+[2019.04.30-00.04.42:291][696]BlueprintLog: New page: Compile ShakeControl
+[2019.04.30-00.04.43:075][709]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ShakeControl" FILE="F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Blueprints/ShakeControl.uasset" SILENT=true
+[2019.04.30-00.04.43:221][709]LogSavePackage: Moving 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Saved/ShakeControl4FF780214B88B4105531E7BC8E06ADFF.tmp' to 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Blueprints/ShakeControl.uasset'
+[2019.04.30-00.06.02:388][365]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 F:\Users\ajkrieger\Desktop\Sounds\Trimmed\cleaningsupplies.wav)
+[2019.04.30-00.06.07:951][568]LogAssetEditorManager: Opening Asset editor for SoundWave /Game/Sounds/SoundEffects/cleaningsupplies.cleaningsupplies
+[2019.04.30-00.06.11:463][890]LogSavePackage: Moving 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Saved/cleaningsuppliesE25B8C7F45C045E939B5AE931E816DF0.tmp' to 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Sounds/SoundEffects/cleaningsupplies.uasset'
+[2019.04.30-00.06.16:261][236]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainGame" FILE="F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Maps/MainGame.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.04.30-00.06.16:826][236]LogSavePackage: Moving 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Saved/MainGameCB9875864DE6D7953F96D68C7F1F0222.tmp' to 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Maps/MainGame.umap'
+[2019.04.30-00.06.16:859][236]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainGame_BuiltData" FILE="F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Maps/MainGame_BuiltData.uasset" SILENT=true
+[2019.04.30-00.06.17:038][236]LogSavePackage: Moving 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Saved/MainGame_BuiltDataD1A00B4E4A550B14D2BDED99BED4BC92.tmp' to 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Maps/MainGame_BuiltData.uasset'
+[2019.04.30-00.06.37:355][259]BlueprintLog: New page: Compile ShakeControl
+[2019.04.30-00.06.38:318][275]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ShakeControl" FILE="F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Blueprints/ShakeControl.uasset" SILENT=true
+[2019.04.30-00.06.38:468][275]LogSavePackage: Moving 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Saved/ShakeControl13ABD7024481D402616229944E6F6643.tmp' to 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Blueprints/ShakeControl.uasset'
+[2019.04.30-00.06.55:282][148]BlueprintLog: New page: Compile ShakeControl
+[2019.04.30-00.06.56:071][158]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ShakeControl" FILE="F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Blueprints/ShakeControl.uasset" SILENT=true
+[2019.04.30-00.06.56:224][158]LogSavePackage: Moving 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Saved/ShakeControl3765218D4B71108CD7E4E5B8EB7CED8B.tmp' to 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Blueprints/ShakeControl.uasset'
+[2019.04.30-00.07.20:908][970]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainGame" FILE="F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Maps/MainGame.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.04.30-00.07.21:482][970]LogSavePackage: Moving 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Saved/MainGameE65DD51D4C10F7C4BD74DC99A3B29202.tmp' to 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Maps/MainGame.umap'
+[2019.04.30-00.07.21:516][970]LogFileHelpers: Saving map 'MainGame' took 0.609
+[2019.04.30-00.07.56:540][677]LogEditorTransaction: Undo Add Component
+[2019.04.30-00.08.52:422][715]BlueprintLog: New page: Compile ShakeControl
+[2019.04.30-00.08.53:426][738]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ShakeControl" FILE="F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Blueprints/ShakeControl.uasset" SILENT=true
+[2019.04.30-00.08.53:592][738]LogSavePackage: Moving 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Saved/ShakeControlD9E6E2C4448EBAD9AA6FEBA633B02745.tmp' to 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Blueprints/ShakeControl.uasset'
+[2019.04.30-00.09.27:556][935]LogEditorTransaction: Undo Add Component
+[2019.04.30-00.09.42:269][692]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainGame" FILE="F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Maps/MainGame.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.04.30-00.09.42:859][692]LogSavePackage: Moving 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Saved/MainGame047D56CC410B77307E31C9B114A7346B.tmp' to 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Maps/MainGame.umap'
+[2019.04.30-00.09.42:897][692]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainGame_BuiltData" FILE="F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Maps/MainGame_BuiltData.uasset" SILENT=true
+[2019.04.30-00.09.43:069][692]LogSavePackage: Moving 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Saved/MainGame_BuiltData017CDA8A43F81040EFD905844FD98ECC.tmp' to 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Maps/MainGame_BuiltData.uasset'
+[2019.04.30-00.09.54:204][852]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 F:\Users\ajkrieger\Desktop\Sounds\Trimmed\CowCut.wav)
+[2019.04.30-00.10.15:022][957]LogAssetEditorManager: Opening Asset editor for SoundWave /Game/Sounds/SoundEffects/CowCut.CowCut
+[2019.04.30-00.10.18:576][178]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/SoundEffects/CowCut" FILE="F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Sounds/SoundEffects/CowCut.uasset" SILENT=true
+[2019.04.30-00.10.18:588][178]LogSavePackage: Moving 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Saved/CowCut416FF4E6451279526D1F3EB8A7C81576.tmp' to 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Sounds/SoundEffects/CowCut.uasset'
+[2019.04.30-00.10.44:304][767]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 D:\heres ya audio ya big nerd\blowupfather.wav)
+[2019.04.30-00.10.44:307][767]Error: Currently, only 16 bit WAV files are supported (blowupfather).
+[2019.04.30-00.10.46:863][767]LogSlate: Window 'Message' being destroyed
+[2019.04.30-00.10.46:868][767]LogAssetTools: Warning: Failed to import 'D:\heres ya audio ya big nerd\blowupfather.wav'. Failed to create asset '/Game/Sounds/SoundEffects/blowupfather'.
+Please see Output Log for details.
+[2019.04.30-00.11.26:828][953]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 D:\Audio\trimmed\blowupfather.wav)
+[2019.04.30-00.11.26:830][953]Error: Currently, only 16 bit WAV files are supported (blowupfather).
+[2019.04.30-00.11.28:559][953]LogSlate: Window 'Message' being destroyed
+[2019.04.30-00.11.28:565][953]LogAssetTools: Warning: Failed to import 'D:\Audio\trimmed\blowupfather.wav'. Failed to create asset '/Game/Sounds/SoundEffects/blowupfather'.
+Please see Output Log for details.
+[2019.04.30-00.11.39:667][ 38]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 D:\blowupfather.wav)
+[2019.04.30-00.11.44:802][163]LogAssetEditorManager: Opening Asset editor for SoundWave /Game/Sounds/SoundEffects/blowupfather.blowupfather
+[2019.04.30-00.11.48:209][376]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/SoundEffects/blowupfather" FILE="F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Sounds/SoundEffects/blowupfather.uasset" SILENT=true
+[2019.04.30-00.11.48:222][376]LogSavePackage: Moving 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Saved/blowupfatherEDF93C7F42365F077D1EEB856E3B3744.tmp' to 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Sounds/SoundEffects/blowupfather.uasset'
+[2019.04.30-00.12.00:044][905]BlueprintLog: New page: Compile ShakeControl
+[2019.04.30-00.12.00:997][918]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ShakeControl" FILE="F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Blueprints/ShakeControl.uasset" SILENT=true
+[2019.04.30-00.12.01:152][918]LogSavePackage: Moving 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Saved/ShakeControl090D11B0455B3B33D3E38DADFADBB484.tmp' to 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Blueprints/ShakeControl.uasset'
+[2019.04.30-00.12.10:019][289]BlueprintLog: New page: Compile ShakeControl
+[2019.04.30-00.12.10:990][303]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ShakeControl" FILE="F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Blueprints/ShakeControl.uasset" SILENT=true
+[2019.04.30-00.12.11:139][303]LogSavePackage: Moving 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Saved/ShakeControlFBF9FF5444C6933FD7BB2A82D8C337D2.tmp' to 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Blueprints/ShakeControl.uasset'
+[2019.04.30-00.13.32:851][373]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 D:\Audio\high sounds\CowHigh.wav)
+[2019.04.30-00.13.34:337][385]LogAssetEditorManager: Opening Asset editor for SoundWave /Game/Sounds/SoundEffects/CowHigh.CowHigh
+[2019.04.30-00.13.37:656][665]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/SoundEffects/CowHigh" FILE="F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Sounds/SoundEffects/CowHigh.uasset" SILENT=true
+[2019.04.30-00.13.37:668][665]LogSavePackage: Moving 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Saved/CowHigh56C4A8964C245191AC369C961E429CDB.tmp' to 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Sounds/SoundEffects/CowHigh.uasset'
+[2019.04.30-00.14.55:900][855]BlueprintLog: New page: Compile ShakeControl
+[2019.04.30-00.14.56:893][880]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ShakeControl" FILE="F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Blueprints/ShakeControl.uasset" SILENT=true
+[2019.04.30-00.14.57:063][880]LogSavePackage: Moving 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Saved/ShakeControl4FAC11EF4FC06A979C66C1BCC47639E9.tmp' to 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Blueprints/ShakeControl.uasset'
+[2019.04.30-00.16.02:011][520]BlueprintLog: New page: Compile ShakeControl
+[2019.04.30-00.16.02:915][538]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ShakeControl" FILE="F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Blueprints/ShakeControl.uasset" SILENT=true
+[2019.04.30-00.16.03:070][538]LogSavePackage: Moving 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Saved/ShakeControlABCB180C416DBD5D7DB1B498A597286B.tmp' to 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Blueprints/ShakeControl.uasset'
+[2019.04.30-00.16.39:994][706]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainGame" FILE="F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Maps/MainGame.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.04.30-00.16.40:568][706]LogSavePackage: Moving 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Saved/MainGameCC5B67B14991F88A02E07F956BBD3CAA.tmp' to 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Maps/MainGame.umap'
+[2019.04.30-00.16.40:603][706]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainGame_BuiltData" FILE="F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Maps/MainGame_BuiltData.uasset" SILENT=true
+[2019.04.30-00.16.40:788][706]LogSavePackage: Moving 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Saved/MainGame_BuiltDataC5B31A364B61E5BE1189A7A321233EA7.tmp' to 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Maps/MainGame_BuiltData.uasset'
+[2019.04.30-00.16.45:654][925]LogAssetEditorManager: Opening Asset editor for SoundWave /Game/Sounds/SoundEffects/ChainSwordCut.ChainSwordCut
+[2019.04.30-00.17.09:748][217]LogEditorTransaction: Undo Add Component
+[2019.04.30-00.17.35:640][793]LogEditorTransaction: Undo Move Node
+[2019.04.30-00.17.36:462][836]LogEditorTransaction: Undo Add Component Nodes
+[2019.04.30-00.17.37:275][882]LogEditorTransaction: Undo Add Component
+[2019.04.30-00.18.14:947][585]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 D:\Audio\trimmed\PopcornShakeCut.wav)
+[2019.04.30-00.18.16:635][591]LogAssetEditorManager: Opening Asset editor for SoundWave /Game/Sounds/SoundEffects/PopcornShakeCut.PopcornShakeCut
+[2019.04.30-00.18.19:830][833]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/SoundEffects/PopcornShakeCut" FILE="F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Sounds/SoundEffects/PopcornShakeCut.uasset" SILENT=true
+[2019.04.30-00.18.19:842][833]LogSavePackage: Moving 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Saved/PopcornShakeCutEE63C6DE4333F93742FB3AA0A4660365.tmp' to 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Sounds/SoundEffects/PopcornShakeCut.uasset'
+[2019.04.30-00.18.29:958][435]BlueprintLog: New page: Compile ShakeControl
+[2019.04.30-00.18.30:856][444]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ShakeControl" FILE="F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Blueprints/ShakeControl.uasset" SILENT=true
+[2019.04.30-00.18.31:011][444]LogSavePackage: Moving 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Saved/ShakeControlD0B3FAFA4461DD720E839CB9CDF21DBD.tmp' to 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Blueprints/ShakeControl.uasset'
+[2019.04.30-00.18.54:339][838]BlueprintLog: New page: Compile ShakeControl
+[2019.04.30-00.18.55:663][887]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ShakeControl" FILE="F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Blueprints/ShakeControl.uasset" SILENT=true
+[2019.04.30-00.18.55:822][887]LogSavePackage: Moving 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Saved/ShakeControl2B8C59774B3B45AF95969186D596E670.tmp' to 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Blueprints/ShakeControl.uasset'
+[2019.04.30-00.19.43:673][262]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 D:\Audio\trimmed\sillystring.wav)
+[2019.04.30-00.19.45:350][267]LogAssetEditorManager: Opening Asset editor for SoundWave /Game/Sounds/SoundEffects/sillystring.sillystring
+[2019.04.30-00.19.48:700][551]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/SoundEffects/sillystring" FILE="F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Sounds/SoundEffects/sillystring.uasset" SILENT=true
+[2019.04.30-00.19.48:713][551]LogSavePackage: Moving 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Saved/sillystring78FF08F34505321F56363F921156CD08.tmp' to 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Sounds/SoundEffects/sillystring.uasset'
+[2019.04.30-00.20.18:623][ 57]BlueprintLog: New page: Compile ShakeControl
+[2019.04.30-00.20.19:567][ 72]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ShakeControl" FILE="F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Blueprints/ShakeControl.uasset" SILENT=true
+[2019.04.30-00.20.19:734][ 72]LogSavePackage: Moving 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Saved/ShakeControl466EA487471B3D790C4DB1896BA9807B.tmp' to 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Blueprints/ShakeControl.uasset'
+[2019.04.30-00.20.46:407][714]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 D:\Audio\trimmed\CymbalCut.wav)
+[2019.04.30-00.20.47:800][720]LogAssetEditorManager: Opening Asset editor for SoundWave /Game/Sounds/SoundEffects/CymbalCut.CymbalCut
+[2019.04.30-00.20.51:310][928]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/SoundEffects/CymbalCut" FILE="F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Sounds/SoundEffects/CymbalCut.uasset" SILENT=true
+[2019.04.30-00.20.51:323][928]LogSavePackage: Moving 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Saved/CymbalCutC8C565014F69D8665DAEA59695758441.tmp' to 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Sounds/SoundEffects/CymbalCut.uasset'
+[2019.04.30-00.22.05:173][709]BlueprintLog: New page: Compile ShakeControl
+[2019.04.30-00.22.06:152][735]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ShakeControl" FILE="F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Blueprints/ShakeControl.uasset" SILENT=true
+[2019.04.30-00.22.06:314][735]LogSavePackage: Moving 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Saved/ShakeControl4F8E0DDC4AB84C9B16336A9D40560BB4.tmp' to 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Blueprints/ShakeControl.uasset'
+[2019.04.30-00.22.09:412][945]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainGame" FILE="F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Maps/MainGame.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.04.30-00.22.09:997][945]LogSavePackage: Moving 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Saved/MainGame029D0FB14F6936CBDAB9648A13C7DA5B.tmp' to 'F:/Users/ajkrieger/Documents/GitHub/gift/Builds/GiftGame 4.21/Content/Maps/MainGame.umap'
+[2019.04.30-00.22.10:031][945]LogFileHelpers: Saving map 'MainGame' took 0.619
+[2019.04.30-00.22.13:462][146]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.04.30-00.22.13:602][146]LogSlate: Window 'Output Log' being destroyed
+[2019.04.30-00.22.13:612][146]LogSlate: Window 'GiftGame - Unreal Editor' being destroyed
+[2019.04.30-00.22.13:613][146]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.04.30-00.22.13:831][147]Cmd: QUIT_EDITOR
+[2019.04.30-00.22.13:874][147]LogExit: Preparing to exit.
+[2019.04.30-00.22.14:293][147]LogExit: Editor shut down
+[2019.04.30-00.22.14:293][147]LogExit: Transaction tracking system shut down
+[2019.04.30-00.22.14:611][147]LogExit: Object subsystem successfully closed.
+[2019.04.30-00.22.14:647][147]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.04.30-00.22.14:652][147]LogD3D11RHI: Shutdown
+[2019.04.30-00.22.14:652][147]LogD3D11RHI: CleanupD3DDevice
+[2019.04.30-00.22.14:654][147]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.04.30-00.22.14:680][147]LogModuleManager: Shutting down and abandoning module SequencerWidgets (628)
+[2019.04.30-00.22.14:680][147]LogModuleManager: Shutting down and abandoning module BlueprintGraph (626)
+[2019.04.30-00.22.14:680][147]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (624)
+[2019.04.30-00.22.14:680][147]LogModuleManager: Shutting down and abandoning module SceneOutliner (622)
+[2019.04.30-00.22.14:680][147]LogModuleManager: Shutting down and abandoning module AddContentDialog (620)
+[2019.04.30-00.22.14:680][147]LogModuleManager: Shutting down and abandoning module WidgetCarousel (619)
+[2019.04.30-00.22.14:680][147]LogModuleManager: Shutting down and abandoning module EditorWidgets (616)
+[2019.04.30-00.22.14:680][147]LogModuleManager: Shutting down and abandoning module CollectionManager (614)
+[2019.04.30-00.22.14:681][147]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (612)
+[2019.04.30-00.22.14:681][147]LogModuleManager: Shutting down and abandoning module StatsViewer (610)
+[2019.04.30-00.22.14:681][147]LogModuleManager: Shutting down and abandoning module FoliageEdit (608)
+[2019.04.30-00.22.14:681][147]LogModuleManager: Shutting down and abandoning module LandscapeEditor (606)
+[2019.04.30-00.22.14:681][147]LogModuleManager: Shutting down and abandoning module MeshPaintMode (604)
+[2019.04.30-00.22.14:681][147]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (602)
+[2019.04.30-00.22.14:681][147]LogModuleManager: Shutting down and abandoning module ActorPickerMode (600)
+[2019.04.30-00.22.14:681][147]LogModuleManager: Shutting down and abandoning module GeometryMode (598)
+[2019.04.30-00.22.14:681][147]LogModuleManager: Shutting down and abandoning module TextureAlignMode (596)
+[2019.04.30-00.22.14:681][147]LogModuleManager: Shutting down and abandoning module BspMode (594)
+[2019.04.30-00.22.14:681][147]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (592)
+[2019.04.30-00.22.14:681][147]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (590)
+[2019.04.30-00.22.14:681][147]LogModuleManager: Shutting down and abandoning module AutomationWorker (588)
+[2019.04.30-00.22.14:681][147]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (586)
+[2019.04.30-00.22.14:681][147]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (584)
+[2019.04.30-00.22.14:681][147]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (582)
+[2019.04.30-00.22.14:681][147]LogModuleManager: Shutting down and abandoning module PlacementMode (581)
+[2019.04.30-00.22.14:682][147]LogModuleManager: Shutting down and abandoning module MaterialEditor (580)
+[2019.04.30-00.22.14:682][147]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (576)
+[2019.04.30-00.22.14:682][147]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (574)
+[2019.04.30-00.22.14:682][147]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (572)
+[2019.04.30-00.22.14:682][147]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (570)
+[2019.04.30-00.22.14:682][147]LogModuleManager: Shutting down and abandoning module WebMMedia (568)
+[2019.04.30-00.22.14:682][147]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (566)
+[2019.04.30-00.22.14:682][147]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (564)
+[2019.04.30-00.22.14:682][147]LogModuleManager: Shutting down and abandoning module SequenceRecorder (563)
+[2019.04.30-00.22.14:682][147]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (560)
+[2019.04.30-00.22.14:682][147]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (558)
+[2019.04.30-00.22.14:682][147]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (556)
+[2019.04.30-00.22.14:682][147]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (554)
+[2019.04.30-00.22.14:682][147]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (552)
+[2019.04.30-00.22.14:682][147]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (550)
+[2019.04.30-00.22.14:682][147]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (548)
+[2019.04.30-00.22.14:682][147]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (546)
+[2019.04.30-00.22.14:682][147]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (544)
+[2019.04.30-00.22.14:682][147]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (542)
+[2019.04.30-00.22.14:682][147]LogModuleManager: Shutting down and abandoning module CharacterAI (540)
+[2019.04.30-00.22.14:682][147]LogModuleManager: Shutting down and abandoning module SmartSnapping (538)
+[2019.04.30-00.22.14:682][147]LogModuleManager: Shutting down and abandoning module SessionServices (536)
+[2019.04.30-00.22.14:682][147]LogModuleManager: Shutting down and abandoning module ViewportSnapping (534)
+[2019.04.30-00.22.14:682][147]LogModuleManager: Shutting down and abandoning module ViewportInteraction (532)
+[2019.04.30-00.22.14:682][147]LogModuleManager: Shutting down and abandoning module ClothPainter (530)
+[2019.04.30-00.22.14:682][147]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (529)
+[2019.04.30-00.22.14:682][147]LogModuleManager: Shutting down and abandoning module LogVisualizer (526)
+[2019.04.30-00.22.14:682][147]LogModuleManager: Shutting down and abandoning module IntroTutorials (524)
+[2019.04.30-00.22.14:683][147]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (523)
+[2019.04.30-00.22.14:683][147]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (520)
+[2019.04.30-00.22.14:683][147]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (518)
+[2019.04.30-00.22.14:683][147]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (516)
+[2019.04.30-00.22.14:683][147]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (514)
+[2019.04.30-00.22.14:683][147]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (513)
+[2019.04.30-00.22.16:160][147]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (510)
+[2019.04.30-00.22.16:160][147]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (508)
+[2019.04.30-00.22.16:160][147]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (506)
+[2019.04.30-00.22.16:160][147]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (504)
+[2019.04.30-00.22.16:160][147]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (502)
+[2019.04.30-00.22.16:160][147]LogModuleManager: Shutting down and abandoning module InputBindingEditor (500)
+[2019.04.30-00.22.16:160][147]LogModuleManager: Shutting down and abandoning module MergeActors (498)
+[2019.04.30-00.22.16:160][147]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (496)
+[2019.04.30-00.22.16:160][147]LogModuleManager: Shutting down and abandoning module LocalizationService (495)
+[2019.04.30-00.22.16:160][147]LogModuleManager: Shutting down and abandoning module HardwareTargeting (492)
+[2019.04.30-00.22.16:160][147]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (490)
+[2019.04.30-00.22.16:160][147]LogModuleManager: Shutting down and abandoning module UndoHistory (488)
+[2019.04.30-00.22.16:160][147]LogModuleManager: Shutting down and abandoning module XmlParser (486)
+[2019.04.30-00.22.16:160][147]LogModuleManager: Shutting down and abandoning module Blutility (484)
+[2019.04.30-00.22.16:160][147]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (482)
+[2019.04.30-00.22.16:160][147]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (481)
+[2019.04.30-00.22.16:161][147]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (478)
+[2019.04.30-00.22.16:161][147]LogModuleManager: Shutting down and abandoning module SettingsEditor (476)
+[2019.04.30-00.22.16:161][147]LogModuleManager: Shutting down and abandoning module ProjectLauncher (474)
+[2019.04.30-00.22.16:161][147]LogModuleManager: Shutting down and abandoning module SessionFrontend (472)
+[2019.04.30-00.22.16:161][147]LogModuleManager: Shutting down and abandoning module ProfilerClient (470)
+[2019.04.30-00.22.16:161][147]LogModuleManager: Shutting down and abandoning module DeviceManager (468)
+[2019.04.30-00.22.16:161][147]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (467)
+[2019.04.30-00.22.16:224][147]LogModuleManager: Shutting down and abandoning module AutomationController (464)
+[2019.04.30-00.22.16:224][147]LogModuleManager: Shutting down and abandoning module AutomationWindow (462)
+[2019.04.30-00.22.16:224][147]LogModuleManager: Shutting down and abandoning module Layers (460)
+[2019.04.30-00.22.16:224][147]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (458)
+[2019.04.30-00.22.16:224][147]LogModuleManager: Shutting down and abandoning module DetailCustomizations (456)
+[2019.04.30-00.22.16:224][147]LogModuleManager: Shutting down and abandoning module PackagesDialog (454)
+[2019.04.30-00.22.16:224][147]LogModuleManager: Shutting down and abandoning module Persona (452)
+[2019.04.30-00.22.16:225][147]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (451)
+[2019.04.30-00.22.16:225][147]LogModuleManager: Shutting down and abandoning module AnimGraph (449)
+[2019.04.30-00.22.16:225][147]LogModuleManager: Shutting down and abandoning module Kismet (446)
+[2019.04.30-00.22.16:231][147]LogModuleManager: Shutting down and abandoning module GraphEditor (444)
+[2019.04.30-00.22.16:231][147]LogModuleManager: Shutting down and abandoning module ClassViewer (442)
+[2019.04.30-00.22.16:231][147]LogModuleManager: Shutting down and abandoning module Toolbox (440)
+[2019.04.30-00.22.16:231][147]LogModuleManager: Shutting down and abandoning module ModuleUI (438)
+[2019.04.30-00.22.16:231][147]LogModuleManager: Shutting down and abandoning module MovieSceneTools (436)
+[2019.04.30-00.22.16:231][147]LogModuleManager: Shutting down and abandoning module OutputLog (434)
+[2019.04.30-00.22.16:231][147]LogModuleManager: Shutting down and abandoning module GammaUI (432)
+[2019.04.30-00.22.16:231][147]LogModuleManager: Shutting down and abandoning module Documentation (430)
+[2019.04.30-00.22.16:231][147]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (428)
+[2019.04.30-00.22.16:231][147]LogModuleManager: Shutting down and abandoning module MovieScene (426)
+[2019.04.30-00.22.16:231][147]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (424)
+[2019.04.30-00.22.16:231][147]LogModuleManager: Shutting down and abandoning module LauncherPlatform (422)
+[2019.04.30-00.22.16:231][147]LogModuleManager: Shutting down and abandoning module AnalyticsET (420)
+[2019.04.30-00.22.16:231][147]LogModuleManager: Shutting down and abandoning module PortalServices (418)
+[2019.04.30-00.22.16:231][147]LogModuleManager: Shutting down and abandoning module PortalRpc (416)
+[2019.04.30-00.22.16:231][147]LogModuleManager: Shutting down and abandoning module MessagingRpc (414)
+[2019.04.30-00.22.16:231][147]LogModuleManager: Shutting down and abandoning module AIModule (412)
+[2019.04.30-00.22.16:231][147]LogModuleManager: Shutting down and abandoning module GameplayDebugger (411)
+[2019.04.30-00.22.16:232][147]LogModuleManager: Shutting down and abandoning module AITestSuite (409)
+[2019.04.30-00.22.16:232][147]LogModuleManager: Shutting down and abandoning module NavigationSystem (407)
+[2019.04.30-00.22.16:232][147]LogModuleManager: Shutting down and abandoning module DesktopPlatform (404)
+[2019.04.30-00.22.16:232][147]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (402)
+[2019.04.30-00.22.16:235][147]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2019.04.30-00.22.16:347][147]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2019.04.30-00.22.16:347][147]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2019.04.30-00.22.16:347][147]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2019.04.30-00.22.16:347][147]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2019.04.30-00.22.16:347][147]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2019.04.30-00.22.16:347][147]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2019.04.30-00.22.16:347][147]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2019.04.30-00.22.16:347][147]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2019.04.30-00.22.16:347][147]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2019.04.30-00.22.16:347][147]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2019.04.30-00.22.16:347][147]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2019.04.30-00.22.16:347][147]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2019.04.30-00.22.16:347][147]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2019.04.30-00.22.16:347][147]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2019.04.30-00.22.16:347][147]LogModuleManager: Shutting down and abandoning module MediaCompositing (370)
+[2019.04.30-00.22.16:347][147]LogModuleManager: Shutting down and abandoning module LinearTimecode (368)
+[2019.04.30-00.22.16:347][147]LogModuleManager: Shutting down and abandoning module ImgMedia (366)
+[2019.04.30-00.22.16:352][147]LogModuleManager: Shutting down and abandoning module HTML5Networking (364)
+[2019.04.30-00.22.16:352][147]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (362)
+[2019.04.30-00.22.16:352][147]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (360)
+[2019.04.30-00.22.16:352][147]LogModuleManager: Shutting down and abandoning module BackChannel (358)
+[2019.04.30-00.22.16:352][147]LogModuleManager: Shutting down and abandoning module AppleVision (356)
+[2019.04.30-00.22.16:352][147]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (354)
+[2019.04.30-00.22.16:352][147]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2019.04.30-00.22.16:352][147]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2019.04.30-00.22.16:352][147]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2019.04.30-00.22.16:352][147]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2019.04.30-00.22.16:352][147]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2019.04.30-00.22.16:352][147]LogModuleManager: Shutting down and abandoning module VariantManagerContent (342)
+[2019.04.30-00.22.16:352][147]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (340)
+[2019.04.30-00.22.16:352][147]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2019.04.30-00.22.16:352][147]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2019.04.30-00.22.16:353][147]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2019.04.30-00.22.16:353][147]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2019.04.30-00.22.16:353][147]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2019.04.30-00.22.16:353][147]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2019.04.30-00.22.16:353][147]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2019.04.30-00.22.16:353][147]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2019.04.30-00.22.16:353][147]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2019.04.30-00.22.16:353][147]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2019.04.30-00.22.16:353][147]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2019.04.30-00.22.16:353][147]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2019.04.30-00.22.16:353][147]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2019.04.30-00.22.16:353][147]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2019.04.30-00.22.16:353][147]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2019.04.30-00.22.16:353][147]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (308)
+[2019.04.30-00.22.16:353][147]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (306)
+[2019.04.30-00.22.16:353][147]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (304)
+[2019.04.30-00.22.16:353][147]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (302)
+[2019.04.30-00.22.16:353][147]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (300)
+[2019.04.30-00.22.16:353][147]LogModuleManager: Shutting down and abandoning module Paper2DEditor (298)
+[2019.04.30-00.22.16:353][147]LogModuleManager: Shutting down and abandoning module MeshPaint (297)
+[2019.04.30-00.22.16:354][147]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (294)
+[2019.04.30-00.22.16:354][147]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (292)
+[2019.04.30-00.22.16:354][147]LogModuleManager: Shutting down and abandoning module PhysXVehicles (290)
+[2019.04.30-00.22.16:354][147]LogModuleManager: Shutting down and abandoning module OculusEditor (288)
+[2019.04.30-00.22.16:354][147]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2019.04.30-00.22.16:354][147]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.04.30-00.22.16:354][147]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.04.30-00.22.16:455][147]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.04.30-00.22.16:555][147]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2019.04.30-00.22.16:555][147]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2019.04.30-00.22.16:555][147]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2019.04.30-00.22.16:555][147]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2019.04.30-00.22.16:555][147]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2019.04.30-00.22.16:555][147]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2019.04.30-00.22.16:555][147]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2019.04.30-00.22.16:556][147]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2019.04.30-00.22.16:556][147]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2019.04.30-00.22.16:557][147]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2019.04.30-00.22.16:557][147]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2019.04.30-00.22.16:558][147]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2019.04.30-00.22.16:560][147]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2019.04.30-00.22.16:560][147]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2019.04.30-00.22.16:560][147]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2019.04.30-00.22.16:560][147]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2019.04.30-00.22.16:560][147]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2019.04.30-00.22.16:560][147]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (244)
+[2019.04.30-00.22.16:560][147]LogModuleManager: Shutting down and abandoning module WmfMedia (242)
+[2019.04.30-00.22.16:562][147]LogModuleManager: Shutting down and abandoning module Media (241)
+[2019.04.30-00.22.16:568][147]LogModuleManager: Shutting down and abandoning module PacketHandler (238)
+[2019.04.30-00.22.16:568][147]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (236)
+[2019.04.30-00.22.16:568][147]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (234)
+[2019.04.30-00.22.16:568][147]LogModuleManager: Shutting down and abandoning module MediaAssets (232)
+[2019.04.30-00.22.16:569][147]LogModuleManager: Shutting down and abandoning module Overlay (230)
+[2019.04.30-00.22.16:569][147]LogModuleManager: Shutting down and abandoning module OverlayEditor (229)
+[2019.04.30-00.22.16:569][147]LogModuleManager: Shutting down and abandoning module VREditor (226)
+[2019.04.30-00.22.16:569][147]LogModuleManager: Shutting down and abandoning module StringTableEditor (224)
+[2019.04.30-00.22.16:569][147]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (222)
+[2019.04.30-00.22.16:569][147]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (220)
+[2019.04.30-00.22.16:569][147]LogModuleManager: Shutting down and abandoning module FunctionalTesting (218)
+[2019.04.30-00.22.16:569][147]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (216)
+[2019.04.30-00.22.16:569][147]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (215)
+[2019.04.30-00.22.16:569][147]LogModuleManager: Shutting down and abandoning module UMG (212)
+[2019.04.30-00.22.16:569][147]LogModuleManager: Shutting down and abandoning module UMGEditor (211)
+[2019.04.30-00.22.16:569][147]LogModuleManager: Shutting down and abandoning module Sequencer (210)
+[2019.04.30-00.22.16:569][147]LogModuleManager: Shutting down and abandoning module MessageLog (207)
+[2019.04.30-00.22.16:569][147]LogModuleManager: Shutting down and abandoning module SlateReflector (202)
+[2019.04.30-00.22.16:569][147]LogModuleManager: Shutting down and abandoning module Slate (200)
+[2019.04.30-00.22.16:569][147]LogModuleManager: Shutting down and abandoning module EditorStyle (198)
+[2019.04.30-00.22.16:572][147]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2019.04.30-00.22.16:573][147]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2019.04.30-00.22.16:573][147]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2019.04.30-00.22.16:573][147]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2019.04.30-00.22.16:573][147]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2019.04.30-00.22.16:573][147]LogModuleManager: Shutting down and abandoning module Core (186)
+[2019.04.30-00.22.16:573][147]LogModuleManager: Shutting down and abandoning module LevelSequence (184)
+[2019.04.30-00.22.16:573][147]LogModuleManager: Shutting down and abandoning module KismetCompiler (182)
+[2019.04.30-00.22.16:573][147]LogModuleManager: Shutting down and abandoning module MeshUtilities (180)
+[2019.04.30-00.22.16:573][147]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (179)
+[2019.04.30-00.22.16:573][147]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (178)
+[2019.04.30-00.22.16:573][147]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (177)
+[2019.04.30-00.22.16:573][147]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (175)
+[2019.04.30-00.22.16:573][147]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (173)
+[2019.04.30-00.22.16:573][147]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (171)
+[2019.04.30-00.22.16:573][147]LogModuleManager: Shutting down and abandoning module MaterialBaking (167)
+[2019.04.30-00.22.16:573][147]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (163)
+[2019.04.30-00.22.16:575][147]LogModuleManager: Shutting down and abandoning module DerivedDataCache (160)
+[2019.04.30-00.22.16:653][147]LogDerivedDataCache: Shutdown
+[2019.04.30-00.22.16:653][147]LogModuleManager: Shutting down and abandoning module XGEController (158)
+[2019.04.30-00.22.16:654][147]LogModuleManager: Shutting down and abandoning module TargetPlatform (156)
+[2019.04.30-00.22.16:654][147]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (155)
+[2019.04.30-00.22.16:654][147]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (153)
+[2019.04.30-00.22.16:654][147]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (151)
+[2019.04.30-00.22.16:654][147]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (149)
+[2019.04.30-00.22.16:654][147]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (147)
+[2019.04.30-00.22.16:654][147]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (145)
+[2019.04.30-00.22.16:654][147]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (143)
+[2019.04.30-00.22.16:654][147]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (141)
+[2019.04.30-00.22.16:654][147]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (139)
+[2019.04.30-00.22.16:654][147]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (137)
+[2019.04.30-00.22.16:654][147]LogModuleManager: Shutting down and abandoning module ImageWrapper (136)
+[2019.04.30-00.22.16:654][147]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (133)
+[2019.04.30-00.22.16:654][147]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (131)
+[2019.04.30-00.22.16:654][147]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (129)
+[2019.04.30-00.22.16:654][147]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (127)
+[2019.04.30-00.22.16:654][147]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (125)
+[2019.04.30-00.22.16:655][147]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (123)
+[2019.04.30-00.22.16:655][147]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (121)
+[2019.04.30-00.22.16:655][147]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (119)
+[2019.04.30-00.22.16:655][147]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (117)
+[2019.04.30-00.22.16:655][147]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (115)
+[2019.04.30-00.22.16:656][147]LogModuleManager: Shutting down and abandoning module Messaging (113)
+[2019.04.30-00.22.16:656][147]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (111)
+[2019.04.30-00.22.16:657][147]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (109)
+[2019.04.30-00.22.16:657][147]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (107)
+[2019.04.30-00.22.16:664][147]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (105)
+[2019.04.30-00.22.16:664][147]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (103)
+[2019.04.30-00.22.16:664][147]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (101)
+[2019.04.30-00.22.16:664][147]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (99)
+[2019.04.30-00.22.16:664][147]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (97)
+[2019.04.30-00.22.16:664][147]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (95)
+[2019.04.30-00.22.16:664][147]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (93)
+[2019.04.30-00.22.16:664][147]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (91)
+[2019.04.30-00.22.16:665][147]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (89)
+[2019.04.30-00.22.16:665][147]LogModuleManager: Shutting down and abandoning module InputCore (86)
+[2019.04.30-00.22.16:665][147]LogModuleManager: Shutting down and abandoning module Settings (84)
+[2019.04.30-00.22.16:665][147]LogModuleManager: Shutting down and abandoning module PhysXCooking (82)
+[2019.04.30-00.22.16:665][147]LogModuleManager: Shutting down and abandoning module SteamVR (80)
+[2019.04.30-00.22.16:665][147]LogHMD: Freeing OpenVRDLLHandle.
+[2019.04.30-00.22.16:665][147]LogModuleManager: Shutting down and abandoning module OculusHMD (78)
+[2019.04.30-00.22.16:665][147]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (76)
+[2019.04.30-00.22.16:665][147]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (74)
+[2019.04.30-00.22.16:665][147]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (72)
+[2019.04.30-00.22.16:665][147]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (68)
+[2019.04.30-00.22.16:666][147]LogModuleManager: Shutting down and abandoning module XMPP (63)
+[2019.04.30-00.22.16:666][147]LogModuleManager: Shutting down and abandoning module WebSockets (62)
+[2019.04.30-00.22.16:691][147]LogModuleManager: Shutting down and abandoning module HTTP (59)
+[2019.04.30-00.22.16:691][147]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.04.30-00.22.16:691][147]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B70477726-43A1-23E6-B81F-749A5BC18A90%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.1-4613538%2B%2B%2BUE4%2BRelease-4.21&UserID=02c34f8c4fc8c296c42575b6f7c20bf3%7C934f8c9d0f054b03a9de808ca0b59c2e%7C341c3786-bd0c-4e82-bc7b-043ebadb5662&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.04.30-00.22.16:723][147]LogModuleManager: Shutting down and abandoning module SSL (58)
+[2019.04.30-00.22.16:725][147]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (54)
+[2019.04.30-00.22.16:725][147]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (52)
+[2019.04.30-00.22.16:725][147]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (50)
+[2019.04.30-00.22.16:725][147]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (48)
+[2019.04.30-00.22.16:725][147]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (46)
+[2019.04.30-00.22.16:725][147]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (44)
+[2019.04.30-00.22.16:725][147]LogModuleManager: Shutting down and abandoning module MagicLeapController (42)
+[2019.04.30-00.22.16:725][147]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.04.30-00.22.16:725][147]LogModuleManager: Shutting down and abandoning module MagicLeap (40)
+[2019.04.30-00.22.16:725][147]LogModuleManager: Shutting down and abandoning module DatasmithContent (38)
+[2019.04.30-00.22.16:726][147]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.04.30-00.22.16:726][147]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.04.30-00.22.16:726][147]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.04.30-00.22.16:726][147]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.04.30-00.22.16:726][147]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.04.30-00.22.16:726][147]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.04.30-00.22.16:726][147]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.04.30-00.22.16:727][147]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.04.30-00.22.16:727][147]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.04.30-00.22.16:727][147]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.04.30-00.22.16:727][147]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.04.30-00.22.16:727][147]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.04.30-00.22.16:727][147]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.04.30-00.22.16:727][147]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.04.30-00.22.16:727][147]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.04.30-00.22.16:727][147]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.04.30-00.22.16:727][147]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.04.30-00.22.16:727][147]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.04.30-00.22.16:746][147]LogExit: Exiting.
+[2019.04.30-00.22.16:756][147]Log file closed, 04/29/19 19:22:16
